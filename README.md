@@ -10,6 +10,6 @@ Pour installer la traduction, il faut que vous telechargiez ces fichiers puis al
 
 ## Remarques
 
-Il est extremment problale qu'il exite des fautes de frappes, de conjugaison, de texte non traduit etc.
+Il est extrêmement probable qu'il exite des fautes de frappe, de conjugaison, de texte non traduit etc.
 
 Vous pouvez m'aider en répertoriant ces anomalies en créant une nouvelle issue à ce projet github.
