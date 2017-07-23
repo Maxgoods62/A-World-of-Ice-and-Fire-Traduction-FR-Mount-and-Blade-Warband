@@ -1,33 +1,33 @@
-﻿dlga_event_triggered:upgrade_talk|Oui, {s65}?
-dlga_upgrade_talk:upgrade_talk_1|J'ai vu que vous battez bien dans les combats, le soldat.
-dlga_upgrade_talk_1:upgrade_talk_2|Je ne fais que mon devoir de {s65}, {ser / madam}.
+dlga_event_triggered:upgrade_talk|Oui, {s65}?
+dlga_upgrade_talk:upgrade_talk_1|J'ai vu que vous battez bien dans les combats, soldat.
+dlga_upgrade_talk_1:upgrade_talk_2|Je ne fais que mon devoir de {s65}, {monsieur / madame}.
 dlga_upgrade_talk_2:upgrade_talk_3a|Et bien, aussi. La seule fois où j'ai entendu quelqu'un avec de telles compétences dans la bataille était dans les sagas. Vous êtes un héros!
 dlga_upgrade_talk_2:upgrade_talk_3b|Je voulais juste que vous sachiez que je prends note de ces compétences dans le combat. Maintenant, revenez en ligne!
-dlga_upgrade_talk_3a:upgrade_talk_4a|Vous me respectez avec vos mots. Je ferai de mon mieux pour les honorer.
-dlga_upgrade_talk_4a:upgrade_talk_5|À partir de maintenant, vous serez rappelé comme un {s21}.
-dlga_upgrade_talk_5:close_window|Je défendrai mon nouveau titre à ma mort, et je ne te laisserai pas tomber, {ser / madam}. Je vous promets ceci:le sang sur mon acier ne sera jamais sec!
+dlga_upgrade_talk_3a:upgrade_talk_4a|Vous m'honorez avec ces mots. Je ferai de mon mieux pour les honorer.
+dlga_upgrade_talk_4a:upgrade_talk_5|À partir de maintenant, on se souviendra de vous comme un {s21}.
+dlga_upgrade_talk_5:close_window|Je défendrai mon nouveau titre jusqu'à ma mort, et je ne vous ne laisserai pas tomber, {monseigneur / madame}. Je vous promets ceci : le sang sur mon acier ne sera jamais sec !
 dlga_upgrade_talk_3b:close_window|Oui, {s65}.
 dlga_start:port_chief_travel|Vous cherchez à voyager dans une autre ville?
 dlga_start:port_chief2|{s1}
 dlga_port_chief2:port_chief3|De quoi avez-vous besoin?
 dlga_port_chief3:port_chief_buy_ship|Je souhaite acheter un bateau.
-dlga_port_chief_buy_ship:close_window|Suivez-moi!
+dlga_port_chief_buy_ship:close_window|Suivez-moi !
 dlga_port_chief3:port_chief_info_main|J'ai des questions sur les navires et les voyages en mer.
-dlga_port_chief_info_main:port_chief_info_main_1|Que voulez-vous savoir?
-dlga_port_chief_info_main_1:port_chief_info_a_1|Pourquoi les gens vont-ils en mer?
-dlga_port_chief_info_main_1:port_chief_info_b_1|Comment puis-je trouver mon chemin en mer?
-dlga_port_chief_info_main_1:port_chief_info_c_1|Que dois-je savoir si je veux acheter un navire?
-dlga_port_chief_info_main_1:port_chief_info_d_1|Qu'est-ce qui rend un navire rapide?
-dlga_port_chief_info_main_1:port_chief2|C'est tout ce que je voulais savoir. Merci!
-dlga_port_chief_info_a_1:port_chief_info_main|Vous pouvez gagner beaucoup d'argent si vous échangez des biens ou des esclaves à travers la mer. D'autres l'utilisent pour les règlements de raid. Enfin, aucun Ironborn ne vous respectera en tant que leader si vous ne possédez pas un bon navire.
-dlga_port_chief_info_a_1:port_chief_info_main.1|Vous pouvez gagner beaucoup d'argent si vous échangez des biens ou des esclaves à travers la mer. D'autres l'utilisent pour les règlements de raid.
-dlga_port_chief_info_b_1:port_chief_info_main|Regardez le soleil à la journée. Reste la nuit. Plus vous recherchez votre chemin, plus vous voyagez vite.
-dlga_port_chief_info_c_1:port_chief_info_c_2|Tout d'abord, vous devez savoir quel type de navire vous souhaitez. Si vous souhaitez échanger, un navire marchand peut être un bon choix. Ils ont beaucoup de place pour la cargaison, mais ils ne sont pas très rapides. Le navire de guerre, l'office et la roue dentée sont des navires de guerre rapides et peuvent transporter de nombreuses troupes. Le longship est quelque chose d'intermédiaire. Si vous avez seulement quelques hommes et peu de pièces de monnaie, alors un petit bateau en rangée pourrait vous convenir mieux.
+dlga_port_chief_info_main:port_chief_info_main_1|Que voulez-vous savoir ?
+dlga_port_chief_info_main_1:port_chief_info_a_1|Pourquoi les gens vont-ils en mer ?
+dlga_port_chief_info_main_1:port_chief_info_b_1|Comment puis-je trouver mon chemin en mer ?
+dlga_port_chief_info_main_1:port_chief_info_c_1|Que dois-je savoir si je veux acheter un navire ?
+dlga_port_chief_info_main_1:port_chief_info_d_1|Qu'est-ce qui rend un navire rapide? 
+dlga_port_chief_info_main_1:port_chief2|C'est tout ce que je voulais savoir. Merci !
+dlga_port_chief_info_a_1:port_chief_info_main|Vous pouvez gagner beaucoup d'argent si vous échangez des biens ou des esclaves à travers la mer. D'autres l'utilisent pour faire des pillages. Enfin, aucun Ironborn ne vous respectera en tant que leader si vous ne possédez pas un bon navire.
+dlga_port_chief_info_a_1:port_chief_info_main.1|Vous pouvez gagner beaucoup d'argent si vous échangez des biens ou des esclaves à travers la mer. D'autres l'utilisent pour faire des pillages.
+dlga_port_chief_info_b_1:port_chief_info_main|Regardez le soleil à la journée. Arretez-vous la nuit. Plus vous êtes fort pour recherchez votre chemin, plus vite vous voyagerai.
+dlga_port_chief_info_c_1:port_chief_info_c_2|Tout d'abord, vous devez savoir quel type de navire vous souhaitez. Si vous souhaitez échanger, un navire marchand peut être un bon choix. Ils ont beaucoup de place pour la cargaison, mais ils ne sont pas très rapides. Le Navire de Guerre, la Galère et le Cogue sont des navires de guerre rapides et peuvent transporter de nombreuses troupes. Le longship est quelque chose d'intermédiaire. Si vous avez seulement quelques hommes et peu de pièces de monnaie, alors un petit bateau en rangée pourrait vous convenir mieux.
 dlga_port_chief_info_c_2:port_chief_info_main|Le deuxième facteur important est le type de bois à partir duquel le navire est fabriqué. Les navires en bois de chêne sont les meilleurs navires, mais sont également chers. Le hêtre est moins cher, mais il pousse plus vite.
-dlga_port_chief_info_d_1:port_chief_info_main|Le vent - si vous placez vos voiles dans une position pour l'attraper le mieux. S'il n'y a pas de vent du tout, votre équipage doit disputer. Plus de rameurs rendront le navire plus rapide. Si vous avez plus d'un navire dans votre flotte, votre flotte sera seulement aussi rapide que votre bateau le plus lent. Un Navigateur qualifié peut également rendre votre flotte plus rapide.
+dlga_port_chief_info_d_1:port_chief_info_main|Le vent - si vous placez vos voiles dans une position pour l'attraper le mieux. S'il n'y a pas de vent du tout, votre équipage doit ramer. Plus il y a de rameurs, plus le navire sera rapide. Si vous avez plus d'un navire dans votre flotte, votre flotte sera seulement aussi rapide que votre bateau le plus lent. Un navigateur qualifié peut également rendre votre flotte plus rapide.
 dlga_port_chief3:port_chief_travel|Je souhaite voyager dans un autre port.
 dlga_port_chief_travel:close_window|Je suis désolé. Il n'y a actuellement aucun navire à passagers dans ce port qui peut transporter un maréchal et toute son armée.
-dlga_port_chief_travel:close_window.1|Je suis désolé. Il n'y a actuellement aucun navire à passagers dans ce port qui peut transporter votre parti et le commerçant avec son chargement entier.
+dlga_port_chief_travel:close_window.1|Je suis désolé. Il n'y a actuellement aucun navire à passagers dans ce port qui peut transporter votre groupe et le commerçant avec son chargement entier.
 dlga_port_chief_travel:port_chief_travel_2|Où voulez-vous partir?
 dlga_port_chief_travel:close_window.2|Je suis désolé. Il n'y a actuellement aucun navire à passagers dans ce port.
 dlga_port_chief_travel_2:port_chief_travel_3|{s1}
@@ -51,29 +51,29 @@ dlga_port_chief_build_ship_main:port_chief_build_ship_main_1|Quel type de navire
 dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2|J'ai juste besoin d'un petit bateau en rangée.
 dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.1|Je souhaite un navire marchand pour le commerce.
 dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.2|Je veux un grand navire d'attaque.
-dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.3|Une bonne attaque Galley!
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.3|Une galère!
 dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.4|Je suis intéressé par un navire de guerre. Une grande galère, s'il vous plaît.
-dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.5|J'ai beaucoup de guerriers. Pouvez-vous construire un Cog pour moi?
+dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.5|J'ai beaucoup de guerriers. Pouvez-vous construire un Cogue pour moi?
 dlga_port_chief_build_ship_main_1:port_chief_build_ship_main_2.6|J'ai besoin d'un bon navire complet. Un Longship devrait le faire.
 dlga_port_chief_build_ship_main_1:port_chief2|J'ai changé d'avis.
 dlga_port_chief_build_ship_main_2:port_chief_build_ship_main|Désolé, nous n'avons pas les compétences ou les ressources nécessaires pour créer un {s11}.
 dlga_port_chief_build_ship_main_2:port_chief_info_main_3|Quel type de bois aimeriez-vous utiliser?
 dlga_port_chief_info_main_3:port_chief_build_ship_main_4|Bois de chêne. Je veux de la qualité.
-dlga_port_chief_info_main_3:port_chief_build_ship_main_4.1|Pine serait bien.
+dlga_port_chief_info_main_3:port_chief_build_ship_main_4.1|Pin serait bien.
 dlga_port_chief_info_main_3:port_chief_build_ship_main_4.2|Je ne veux pas dépenser trop. Le bois de frêne le fera.
 dlga_port_chief_info_main_3:port_chief2|J'ai changé d'avis.
-dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|Pour construire votre {s11} hors du bois {s12}, je demande à {reg11} des cerfs pour mon travail. {S2} Il faudra {reg12} jours pour construire ce navire.
+dlga_port_chief_build_ship_main_4:port_chief_build_ship_main_5|Pour construire votre {s11} avec du {s12}, je demande à {reg11} cerfs d'argent pour mon travail. {S2} Il faudra {reg12} jours pour construire ce navire.
 dlga_port_chief_build_ship_main_5:port_chief_build_ship_main_6|Créez ce navire pour moi!
-dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_1|Err, est-ce que je ressemble à un marchand? Je n'ai pas ces choses avec moi.
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_1|Err, est-ce que je ressemble à un marchand ? Je n'ai pas ces choses avec moi.
 dlga_port_chief_build_ship_missing_1:port_chief2|Désolé, mais je ne peux pas terminer votre bateau sans ces matériaux. Achetez-les et revenez une fois que vous avez tout prêt.
-dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_2|Je n'ai pas assez de cerfs en ce moment.
-dlga_port_chief_build_ship_missing_2:port_chief2|Désolé, mais je dois nourrir ma famille et payer les travailleurs. Lorsque vous avez la pièce, revenez me voir.
+dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_2|Je n'ai pas assez de cerfs d'argent en ce moment.
+dlga_port_chief_build_ship_missing_2:port_chief2|Désolé, mais je dois nourrir ma famille et payer les travailleurs. Lorsque vous avez assez d'argent, revenez me voir.
 dlga_port_chief_build_ship_main_5:port_chief_build_ship_missing_3|Je considérerai cela et je reviendrai plus tard.
-dlga_port_chief_build_ship_missing_3:port_chief2|Prenez votre temps, mais croyez-moi. Mes navires valent tous les cerfs.
+dlga_port_chief_build_ship_missing_3:port_chief2|Prenez votre temps, mais croyez-moi. Mes navires valent tous ces cerfs d'argent.
 dlga_port_chief_build_ship_main_6:port_chief2|Très bien! Revenez dans {reg12} jours.
 dlga_port_chief3:close_window|Rien, pour l'instant. Adieu.
 dlga_start:port_prisoners|Qui êtes-vous?
-dlga_port_prisoners:port_prisoners_2|Vous recherchez un commerçant d'esclaves? {S9} ne prospérerait pas sans mes esclaves, donc si vous avez des prisonniers de guerre, je serais disposé à les acheter.
+dlga_port_prisoners:port_prisoners_2|Vous recherchez un marchand d'esclaves? {S9} ne serai pas prospère sans mes esclaves, donc si vous avez des prisonniers de guerre, je serais disposé à les acheter.
 dlga_port_prisoners_2:port_prisoners_3|J'ai apporté des prisonniers.
 dlga_port_prisoners_2:close_window|Adieu.
 dlga_port_prisoners_3:port_prisoners_4|Bon d'entendre. Allons-y.
@@ -81,19 +81,19 @@ dlga_port_prisoners_4:close_window|Un plaisir de faire des affaires avec vous.
 dlga_start:port_r_2|Salutations. Je suis un capitaine vétéran qui surveille l'activité au port de {s9}. Si vous êtes intéressé à embaucher des marins sans emploi, faites-le moi savoir.
 dlga_port_crew_talk:port_r_2|Y at-il autre chose que je peux faire pour vous?
 dlga_port_r_2:port_recruitsl|Je souhaite recruter des marins.
-dlga_port_recruitsl:port_crew_talk|Il n'y a pas de marins disponibles dans le port pour le moment. Reviens plus tard, {reg59?Madam:ser}.
-dlga_port_recruitsl:port_crew_talk.1|Je ne pense pas que personne ne serait intéressé, {reg59?Madam:ser}. Vous devez avoir plus de place dans votre fête.
-dlga_port_recruitsl:port_recruits2|Je peux penser à {reg5} qui, je pense, sauterait à l'occasion si vous pouviez payer 40 cerfs {reg7?Chacun pour son équipement:pour son équipement}. Cela vous convient-il?
-dlga_port_recruits2:port_crew_talk|Dites-lui {reg7?Eux:lui pour se préparer.
+dlga_port_recruitsl:port_crew_talk|Il n'y a pas de marins disponibles dans le port pour le moment. Revenez plus tard, {reg59?Madame:Monsieur}.
+dlga_port_recruitsl:port_crew_talk.1|Je pense que personne n'est intéressé, {reg59?Madame:Monsieur}. Vous devriez avoir plus de place dans votre groupe.
+dlga_port_recruitsl:port_recruits2|Je peux penser à {reg5} qui, je pense, sauterai{reg7?en:}t à l'occasion si vous pouviez payer 40 cerfs d'argent {reg7?Chacun pour son équipement:pour son équipement}. Cela vous convient-il?
+dlga_port_recruits2:port_crew_talk|Dites{reg7? leur:-lui} de se préparer.
 dlga_port_recruits2:port_crew_talk.1|Non, pas maintenant.
 dlga_port_r_2:close_window|Je veux partir. Adieu.
 dlga_start:close_window.1|Cette personne a l'air assez occupée. Je pense que je ne devrais pas interrompre.
 dlga_event_triggered:award_fief_to_vassal2|Victoire!
-dlga_award_fief_to_vassal2:victory_conquista|Victory. Je veux conquérir cet endroit.
-dlga_award_fief_to_vassal2:close_window|Je ne veux pas être propriétaire de cet endroit. Pillage de l'endroit et vend la population comme esclave.
-dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Je souhaite différer le rendez-vous d'un seigneur jusqu'à ce que j'ai pris les conseils de mes sujets.
-dlga_award_fief_to_vassal_defer:close_window|Comme vous le souhaitez, mon {ser / lady}. Vous pouvez décider cette question à une date ultérieure.
-dlga_award_fief_to_vassal_2:close_window|Comme vous le souhaitez, mon {ser / lady}. {Reg6?I:{reg7?Vous:{s11}}} sera le nouveau {reg3?Lady:lord} de {s1}.
+dlga_award_fief_to_vassal2:victory_conquista|Victoire. Je veux conquérir cet endroit.
+dlga_award_fief_to_vassal2:close_window|Je ne veux pas être propriétaire de cet endroit. Piller cey endroit et vendre la population comme esclave.
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Je souhaite différer la nomination d'un seigneur jusqu'à ce que j'aurai pris les conseils auprès de mes sujets.
+dlga_award_fief_to_vassal_defer:close_window|Comme vous le souhaitez, {mon Seigneur/Madame}. Vous pouvez décider de cette question à une date ultérieure.
+dlga_award_fief_to_vassal_2:close_window|Comme vous le souhaitez, mon {Seigneur/Madame}. {Reg6?I:{reg7?Vous:{s11}}} serait {reg3?la nouvelle Madame:le nouveau Seigneur} de {s1}.
 dlga_event_triggered:center_captured_rebellion|{s1} n'est géré par personne. A qui dois-je mettre en charge?
 dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {S1}
 dlga_center_captured_rebellion:center_captured_rebellion_2.1|S'il vous plaît, {s65}, je souhaite avoir {s1} pour moi-même. (Fiefs:{s0})
@@ -779,8 +779,8 @@ dlga_celidon_beric6:celidon_beric7|Nous avons entendu des rumeurs d'une fête d'
 dlga_celidon_beric7:celidon_beric8|Je n'ai jamais aimé cet écume de Lannister de toute façon:je le verrai terminé!
 dlga_celidon_beric7:close_window|Non, merci. Ces hommes et ces femmes peuvent brûler pour tout ce qui me préoccupe.
 dlga_celidon_beric8:close_window|J'espère que oui, {playername}.
-dlga_start:lr_party1|Je cède! S'il vous plaît, ne me tuez pas! Je ne faisais que suivre les commandes!
-dlga_lr_party1:close_window|Commandes ou non, un Lannister paie toujours ses dettes, et vous paierez le vôtre avec votre vie.
+dlga_start:lr_groupe1|Je cède! S'il vous plaît, ne me tuez pas! Je ne faisais que suivre les commandes!
+dlga_lr_groupe1:close_window|Commandes ou non, un Lannister paie toujours ses dettes, et vous paierez le vôtre avec votre vie.
 dlga_start:order2|Alors, qui avons-nous ici, hein?
 dlga_order2:order3|Je suis ici pour vous amener à vous et à vos hommes en justice pour les crimes que vous avez commis sur les petits.
 dlga_order3:close_window|Haha, vous avez entendu les garçons? Cette écume veut nous punir. C'est la guerre, {son / gal}, et vous allez découvrir les sévères réalités!
@@ -888,13 +888,13 @@ dlga_member_castellan_talk:member_castellan_join|Je veux que vous abandonnez le 
 dlga_member_castellan_join:close_window|J'ai beaucoup aimé cet endroit ... mais si c'est votre souhait, mon (seigneur / femme), je viendrai avec vous.
 dlga_member_castellan_join:member_castellan_pretalk|Et où dormirions-nous? Vous traitez une armée entière avec vous, mon (seigneur / dame). Il n'y a plus de place pour nous tous.
 dlga_member_castellan_talk:close_window|[Quitter]
-dlga_start:returned_party_player|Quelles sont vos commandes, my {lord / lady}?
-dlga_start:returned_party_player.1|Avez-vous d'autres commandes pour moi, mon {lord / lady}?
-dlga_returned_party_player:close_window|Revenez aux rangs et soumettez votre rapport.
-dlga_returned_party_player:returned_party_reply|Mon armée est trop grande pour vous accueillir maintenant. Vous devrez camper ici et vous défendre pour vous-même jusqu'à ce que je retourne.
-dlga_returned_party_player:returned_party_reply.1|Allez espionner quelqu'un. Mes forces sont trop grandes en ce moment.
-dlga_returned_party_reply:close_window|Vous devez vraiment apprendre à compter correctement, my {lord / lady}.
-dlga_returned_party_reply:close_window.1|Donc, vous nous abandonnez? Très bien, mais ne vous attendez pas à attendre ici pour toujours.
+dlga_start:returned_groupe_player|Quelles sont vos commandes, my {lord / lady}?
+dlga_start:returned_groupe_player.1|Avez-vous d'autres commandes pour moi, mon {lord / lady}?
+dlga_returned_groupe_player:close_window|Revenez aux rangs et soumettez votre rapport.
+dlga_returned_groupe_player:returned_groupe_reply|Mon armée est trop grande pour vous accueillir maintenant. Vous devrez camper ici et vous défendre pour vous-même jusqu'à ce que je retourne.
+dlga_returned_groupe_player:returned_groupe_reply.1|Allez espionner quelqu'un. Mes forces sont trop grandes en ce moment.
+dlga_returned_groupe_reply:close_window|Vous devez vraiment apprendre à compter correctement, my {lord / lady}.
+dlga_returned_groupe_reply:close_window.1|Donc, vous nous abandonnez? Très bien, mais ne vous attendez pas à attendre ici pour toujours.
 dlga_start:wilderness_escape|(s21), pardonne-moi. Les troupes que vous m'avez confiées au commandement ont été attaquées et abattues! J'ai été subjugué et fait prisonnier mais j'ai par la suite réussi à m'échapper pour vous apporter cette nouvelle. {S2}
 dlga_start:wilderness_escape.1|{S21}, pardonne-moi. Les troupes que vous m'avez confiées au commandement ont été attaquées et abattues! Je suis resté mort mais j'ai réussi à invoquer la force pour vous apporter cette nouvelle. {S2}
 dlga_wilderness_escape:wilderness_escape_answer|Bien, les bonnes nouvelles sont que vous avez réussi à survivre.
@@ -1884,20 +1884,20 @@ dlga_duel_challenger_player_answer:duel_challenger_answer|Veuillez me pardonner.
 dlga_duel_challenger_player_answer:duel_challenger_answer_2|Vous avez oublié l'option où mes hommes et moi vous écrasons dans la poussière. Charge!
 dlga_duel_challenger_answer:close_window|Haha! Comme je le pensais, un lâche. Pourtant, vous devez apprendre une leçon, {knave / wench}.
 dlga_duel_challenger_answer_2:close_window|Die, votre batard traître!
-dlga_start:party_encounter_lord_hostile_attacker|{playername}!
-dlga_start:party_encounter_lord_hostile_attacker.1|Halt!
-dlga_party_encounter_lord_hostile_attacker:party_encounter_lord_hostile_attacker|{s42}
-dlga_party_encounter_lord_hostile_attacker:party_encounter_lord_hostile_attacker_2|{s43}
-dlga_party_encounter_lord_hostile_attacker_2:close_window|Nous allons vous battre jusqu'à la fin!
-dlga_party_encounter_lord_hostile_attacker_2:lord_recruit_1_relation|Restez à la main! Je dois vous dire en privé.
-dlga_party_encounter_lord_hostile_attacker_2:party_encounter_offer_dont_fight|N'y a-t-il aucun moyen d'éviter cette bataille? Je ne veux pas te battre avec toi.
-dlga_party_encounter_lord_hostile_attacker_2:close_window.1|N'attaquez pas! Nous nous rendons.
-dlga_party_encounter_offer_dont_fight:close_window|Je vous dois une faveur, n'est-ce pas? Eh bien ... tout de suite. Je vais vous laisser passer une seule fois.
-dlga_party_encounter_offer_dont_fight:party_encounter_offer_money|Si vous me payez {reg0} cerfs d'argent, je vous laisserai partir, embarrassant.
-dlga_party_encounter_offer_money:close_window|N'attaquez pas! Je paye.
-dlga_party_encounter_offer_money:party_encounter_offer_money_no|Let's fight!
-dlga_party_encounter_offer_money_no:close_window|(s43)
-dlga_party_encounter_offer_dont_fight:close_window.1|(s43)
+dlga_start:groupe_encounter_lord_hostile_attacker|{playername}!
+dlga_start:groupe_encounter_lord_hostile_attacker.1|Halt!
+dlga_groupe_encounter_lord_hostile_attacker:groupe_encounter_lord_hostile_attacker|{s42}
+dlga_groupe_encounter_lord_hostile_attacker:groupe_encounter_lord_hostile_attacker_2|{s43}
+dlga_groupe_encounter_lord_hostile_attacker_2:close_window|Nous allons vous battre jusqu'à la fin!
+dlga_groupe_encounter_lord_hostile_attacker_2:lord_recruit_1_relation|Restez à la main! Je dois vous dire en privé.
+dlga_groupe_encounter_lord_hostile_attacker_2:groupe_encounter_offer_dont_fight|N'y a-t-il aucun moyen d'éviter cette bataille? Je ne veux pas te battre avec toi.
+dlga_groupe_encounter_lord_hostile_attacker_2:close_window.1|N'attaquez pas! Nous nous rendons.
+dlga_groupe_encounter_offer_dont_fight:close_window|Je vous dois une faveur, n'est-ce pas? Eh bien ... tout de suite. Je vais vous laisser passer une seule fois.
+dlga_groupe_encounter_offer_dont_fight:groupe_encounter_offer_money|Si vous me payez {reg0} cerfs d'argent, je vous laisserai partir, embarrassant.
+dlga_groupe_encounter_offer_money:close_window|N'attaquez pas! Je paye.
+dlga_groupe_encounter_offer_money:groupe_encounter_offer_money_no|Let's fight!
+dlga_groupe_encounter_offer_money_no:close_window|(s43)
+dlga_groupe_encounter_offer_dont_fight:close_window.1|(s43)
 dlga_start:lord_requests_recruitment|{s9}
 dlga_lord_requests_recruitment:close_window|{s9}
 dlga_lord_requests_recruitment:lord_requests_recruitment_refuse|{s9}
@@ -2017,9 +2017,9 @@ dlga_druid_refugee2:close_window.1|Psst ... (Tu murmures dans son oreille). Ne t
 dlga_start:quarry_refugee2|Je suis occupé, parlez au contremaître.
 dlga_quarry_refugee2:close_window|Très bien, bon homme. Adieu.
 dlga_start:close_window.59|Que les dieux soient avec vous.
-dlga_regular_member_talk:sacparty_action|Nous avons besoin des Sept pour nous purifier de nos péchés. Je vais faire don de 200 cerfs d'argent aux familles de mes hommes déchus pour votre aide.
+dlga_regular_member_talk:sacgroupe_action|Nous avons besoin des Sept pour nous purifier de nos péchés. Je vais faire don de 200 cerfs d'argent aux familles de mes hommes déchus pour votre aide.
 dlga_regular_member_talk:regular_member_talk|- Vous n'adorez pas les Sept, probablement mieux les ignorer. -
-dlga_sacparty_action:regular_member_talk|- Il prie le Guerrier pour la force. - Amen. Vos hommes se sentiront mieux maintenant.
+dlga_sacgroupe_action:regular_member_talk|- Il prie le Guerrier pour la force. - Amen. Vos hommes se sentiront mieux maintenant.
 dlga_regular_member_talk:briton_action|Nous avons besoin du Seigneur de la Lumière pour nous purifier de nos péchés. Je vais faire don de 200 cerfs d'argent aux familles de mes hommes déchus pour votre aide.
 dlga_regular_member_talk:regular_member_talk.1|- Vous n'adorez pas le Seigneur de la Lumière, probablement mieux de ne pas parler. -
 dlga_briton_action:regular_member_talk|- Le prêtre rouge prie le Seigneur de la lumière - La nuit est sombre et pleine de terreurs ... vos hommes vont se sentir mieux maintenant.
@@ -2065,26 +2065,26 @@ dlga_regular_member_talk:porta1_presentacion|Hey, que pouvez-vous faire pour mes
 dlga_porta1_presentacion:regular_member_talk|Moi? - La femme s'approche de vous et murmure dans l'oreille. - Je suis très utile, m '{lord / lady}.  Je suis la femme de l'un de tes soldats. Si vous avez des épouses (30) dans votre groupe, vos hommes gagneront le moral (toutes les 48 heures).
 dlga_regular_member_talk:follower_woman_action|J'ai besoin de toi pour aider à relever le moral de mes hommes. Je suis prêt à payer 500 cerfs d'argent pour vos efforts.
 dlga_follower_woman_action:regular_member_talk|Hommes? Oh ... eh bien, il est important d'aider.
-dlga_start:sacerdotes_party_talk|Ma {seigneur / dame}, nous ne sommes que des pauvres septons essayant d'éclairer les gens de cette terre.
-dlga_sacerdotes_party_talk:close_window|La foi des sept, hein? Il est temps de vous réunir avec votre créateur!
-dlga_sacerdotes_party_talk:priestote_pary_action|Nous avons besoin des nouveaux dieux pour nous purifier de nos péchés. Je vais faire don de 200 cerfs d'argent aux familles de mes hommes déchus pour votre aide.
-dlga_sacerdote_pary_action:sacerdotes_party_talk|- Ils prient le guerrier. - Amen. Vos hommes se sentiront mieux maintenant.
-dlga_sacerdotes_party_talk:close_window.1|Très bien, continuez.
-dlga_start:paganos_party_talk|Nous adorons les Anciens Dieux de la Forêt. De quoi avez-vous besoin?
-dlga_paganos_party_talk:close_window|Vous adorez les faux dieux que vous écumez. Pour cela, vous devez mourir!
-dlga_paganos_party_talk:paganos_party_action|Mes hommes ont besoin des Anciens dieux. Je vais faire don de 200 cerfs d'argent pour votre aide dans cette affaire.
-dlga_paganos_party_action:paganos_party_talk|Je vais parler à vos hommes des anciens dieux de la forêt, mon {dieu / dame}. Cela les encouragera à se battre avec fierté à vos côtés.
-dlga_paganos_party_talk:close_window.1|Rien, continuez.
-dlga_start:rhllor_party_talk|Nous adorons le seul vrai Dieu, le Seigneur de la Lumière. Avez-vous besoin de quelque chose?
-dlga_rhllor_party_talk:close_window|Vous écume épouvantable adorer le démon rouge! Maintenant, vous devez mourir!
-dlga_rhllor_party_talk:rhllor_party_action|Mes hommes ont besoin de R'hllor. Je vais faire don de 200 cerfs d'argent pour votre aide dans cette affaire.
-dlga_rhllor_party_action:rhllor_party_talk|Je prierai notre seigneur pour vous et vos hommes. Cela les encouragera à se battre avec fierté à vos côtés.
-dlga_rhllor_party_talk:close_window.1|Non, continuez.
-dlga_start:ahogé_men_party_talk|Nous sommes les adeptes du dieu noyé. Qu'est-ce que tu veux!?
-dlga_drowned_men_party_talk:close_window|Ha, aujourd'hui, nous adorons le Dieu Tempête! Mourrez, l'écume ironborn!
-dlga_drowned_men_party_talk:ahogé_men_party_action|Mes hommes ont besoin du dieu noyé. Je vais faire don de 200 cerfs d'argent pour votre aide dans cette affaire.
-dlga_drowned_men_party_action:drowned_men_party_talk|Nous allons faire un sacrifice en votre nom. Cela encouragera vos hommes à se battre avec fierté à vos côtés.
-dlga_drowned_men_party_talk:close_window.1|Rien, continuez.
+dlga_start:sacerdotes_groupe_talk|Ma {seigneur / dame}, nous ne sommes que des pauvres septons essayant d'éclairer les gens de cette terre.
+dlga_sacerdotes_groupe_talk:close_window|La foi des sept, hein? Il est temps de vous réunir avec votre créateur!
+dlga_sacerdotes_groupe_talk:priestote_pary_action|Nous avons besoin des nouveaux dieux pour nous purifier de nos péchés. Je vais faire don de 200 cerfs d'argent aux familles de mes hommes déchus pour votre aide.
+dlga_sacerdote_pary_action:sacerdotes_groupe_talk|- Ils prient le guerrier. - Amen. Vos hommes se sentiront mieux maintenant.
+dlga_sacerdotes_groupe_talk:close_window.1|Très bien, continuez.
+dlga_start:paganos_groupe_talk|Nous adorons les Anciens Dieux de la Forêt. De quoi avez-vous besoin?
+dlga_paganos_groupe_talk:close_window|Vous adorez les faux dieux que vous écumez. Pour cela, vous devez mourir!
+dlga_paganos_groupe_talk:paganos_groupe_action|Mes hommes ont besoin des Anciens dieux. Je vais faire don de 200 cerfs d'argent pour votre aide dans cette affaire.
+dlga_paganos_groupe_action:paganos_groupe_talk|Je vais parler à vos hommes des anciens dieux de la forêt, mon {dieu / dame}. Cela les encouragera à se battre avec fierté à vos côtés.
+dlga_paganos_groupe_talk:close_window.1|Rien, continuez.
+dlga_start:rhllor_groupe_talk|Nous adorons le seul vrai Dieu, le Seigneur de la Lumière. Avez-vous besoin de quelque chose?
+dlga_rhllor_groupe_talk:close_window|Vous écume épouvantable adorer le démon rouge! Maintenant, vous devez mourir!
+dlga_rhllor_groupe_talk:rhllor_groupe_action|Mes hommes ont besoin de R'hllor. Je vais faire don de 200 cerfs d'argent pour votre aide dans cette affaire.
+dlga_rhllor_groupe_action:rhllor_groupe_talk|Je prierai notre seigneur pour vous et vos hommes. Cela les encouragera à se battre avec fierté à vos côtés.
+dlga_rhllor_groupe_talk:close_window.1|Non, continuez.
+dlga_start:ahogé_men_groupe_talk|Nous sommes les adeptes du dieu noyé. Qu'est-ce que tu veux!?
+dlga_drowned_men_groupe_talk:close_window|Ha, aujourd'hui, nous adorons le Dieu Tempête! Mourrez, l'écume ironborn!
+dlga_drowned_men_groupe_talk:ahogé_men_groupe_action|Mes hommes ont besoin du dieu noyé. Je vais faire don de 200 cerfs d'argent pour votre aide dans cette affaire.
+dlga_drowned_men_groupe_action:drowned_men_groupe_talk|Nous allons faire un sacrifice en votre nom. Cela encouragera vos hommes à se battre avec fierté à vos côtés.
+dlga_drowned_men_groupe_talk:close_window.1|Rien, continuez.
 dlga_lord_talk:Eormenred_creditos|Hmm, votre visage semble familier. Nous sommes-nous déjà rencontrés?
 dlga_Eormenred_creditos:lord_pretalk|Sure, {playername}. Je suis Lyonel Corbray, chef de la maison Corbray.
 dlga_lord_talk:brustwarzenLenny_creditos|Hmm, votre visage semble familier. Nous sommes-nous déjà rencontrés?
@@ -2203,7 +2203,7 @@ dlga_lord_denounce_4:lord_respond_to_insult_challenge_duel_confirm|Ce serait un 
 dlga_lord_denounce_4:lord_denounce_retract|J'ai parlé de façon imprudente. Je retire mes mots.
 dlga_lord_denounce_retract:lord_pretalk|J'ai pensé autant. Maintenant, partez d'ici.
 dlga_lord_talk:lord_respond_to_insult|{s9}
-dlga_lord_pretalk:party_encounter_lord_hostile_attacker_2|Mais assez de conversation - rendez-vous ou combattez-vous!
+dlga_lord_pretalk:groupe_encounter_lord_hostile_attacker_2|Mais assez de conversation - rendez-vous ou combattez-vous!
 dlga_lord_pretalk:lord_talk|Autre chose?
 dlga_hero_pretalk:lord_talk|Autre chose?
 dlga_lord_talk:lord_quarrel_intervention_1|Je souhaite aborder votre querelle avec {s11}
@@ -2661,8 +2661,8 @@ dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_
 dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_female_pc_confirm_engagement_no|En fait, j'aimerais reconsidérer.
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_yes:close_window|Très bien. J'espère que, un peu plus d'un mois, nous serons mariés. {S12}
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_no:close_window|Prenez le temps que vous avez besoin, ma dame.
-dlga_lord_talk:party_encounter_lord_hostile_ultimatum_surrender|Je dis cela une seule fois, {s4}! Rendez-vous ou mourez!
-dlga_party_encounter_lord_hostile_ultimatum_surrender:close_window|{s43}
+dlga_lord_talk:groupe_encounter_lord_hostile_ultimatum_surrender|Je dis cela une seule fois, {s4}! Rendez-vous ou mourez!
+dlga_groupe_encounter_lord_hostile_ultimatum_surrender:close_window|{s43}
 dlga_lord_talk:lord_predemand|Je suis là pour vous livrer mes demandes!
 dlga_lord_predemand:lord_demand|Eh? Qu'est-ce que tu veux?
 dlga_lord_demand:lord_ultimatum_surrender|Je vous offre une chance de me rendre ou de mourir.
@@ -2716,15 +2716,15 @@ dlga_knight_offer_join_2:knight_offer_join_accept|Ici, prenez-le, tous les cerse
 dlga_knight_offer_join_2:knight_offer_join_accept.1|Ensuite, voyons ensemble, mon ami.
 dlga_knight_offer_join_2:close_window|C'est bon à savoir. Je vais y penser.
 dlga_knight_offer_join_2:hero_pretalk|C'est bon à savoir. Je vais y penser.
-dlga_knight_offer_join_accept:knight_offer_join_accept_party|J'ai des hommes de confiance dans mon groupe qui pourraient vous être utiles. Que voulez-vous faire avec eux?
+dlga_knight_offer_join_accept:knight_offer_join_accept_groupe|J'ai des hommes de confiance dans mon groupe qui pourraient vous être utiles. Que voulez-vous faire avec eux?
 dlga_knight_offer_join_accept:close_window|Ah, certainement, ça pourrait être amusant!
-dlga_knight_offer_join_accept_party:knight_join_party_disband|Vous pouvez dissiper vos hommes. Je n'ai pas besoin d'autres troupes.
-dlga_knight_offer_join_accept_party:knight_join_party_join|Vos hommes peuvent également se joindre. Nous avons besoin de tous les soldats que nous pouvons rassembler.
-dlga_knight_offer_join_accept_party:knight_join_party_lead_out|Lancez vos hommes hors de la ville. Je vais te rattraper sur la route.
-dlga_knight_offer_join_accept_party:knight_join_party_lead_out.1|Continuez à faire ce que vous aviez fait. Je vais vous rattraper plus tard.
-dlga_knight_join_party_disband:close_window|Ah ... très bien, {playername}. Bien que je n'aime pas perdre de bons hommes, la décision est à vous. Je vais dissoudre mes troupes et vous rejoindre.
-dlga_knight_join_party_join:close_window|Excellent, {ser / madame}. Moi et mes gars monteront avec vous.
-dlga_knight_join_party_lead_out:close_window|Très bien alors. Je vais maintenir une patrouille de cette région. Retournez si vous avez d'autres commandes pour moi.
+dlga_knight_offer_join_accept_groupe:knight_join_groupe_disband|Vous pouvez dissiper vos hommes. Je n'ai pas besoin d'autres troupes.
+dlga_knight_offer_join_accept_groupe:knight_join_groupe_join|Vos hommes peuvent également se joindre. Nous avons besoin de tous les soldats que nous pouvons rassembler.
+dlga_knight_offer_join_accept_groupe:knight_join_groupe_lead_out|Lancez vos hommes hors de la ville. Je vais te rattraper sur la route.
+dlga_knight_offer_join_accept_groupe:knight_join_groupe_lead_out.1|Continuez à faire ce que vous aviez fait. Je vais vous rattraper plus tard.
+dlga_knight_join_groupe_disband:close_window|Ah ... très bien, {playername}. Bien que je n'aime pas perdre de bons hommes, la décision est à vous. Je vais dissoudre mes troupes et vous rejoindre.
+dlga_knight_join_groupe_join:close_window|Excellent, {ser / madame}. Moi et mes gars monteront avec vous.
+dlga_knight_join_groupe_lead_out:close_window|Très bien alors. Je vais maintenir une patrouille de cette région. Retournez si vous avez d'autres commandes pour moi.
 dlga_lord_enter_service_reject:close_window|En effet ... avez-vous offert vassalage juste pour acheter du temps? Très bien, {playername}. Vous aurez le temps de le réexaminer, mais si vous jouez avec moi, cela fera de votre réputation aucun crédit.
 dlga_lord_give_oath_give_up:close_window|En effet ... avez-vous offert vassalage juste pour acheter du temps? Très bien, {playername}. Vous aurez le temps de le réexaminer, mais si vous jouez avec moi, cela fera de votre réputation aucun crédit.
 dlga_lord_enter_service_reject:close_window.1|Qu'est-ce que le cochon malin est celui-ci, vous {mâchoire / mignon} ?! Et pour penser que je vous offrirais une place parmi mes nobles. Bah! Allez-vous, mendiant, avant de perdre mon sang-froid!
@@ -4797,11 +4797,11 @@ dlga_disbanded_troop_join:close_window.1|Nous sommes à votre entière dispositi
 dlga_start:enemy_talk_1|Vous ne me capturerez plus. Pas cette fois.
 dlga_enemy_talk_1:enemy_talk_2|Vous n'avez pas une chance contre moi. Abandonner.
 dlga_enemy_talk_2:close_window|Je vais abandonner quand vous êtes mort!
-dlga_start:party_encounter_routed_agents_are_caught|Je vous en prie, laissez-nous tranquille.
-dlga_party_encounter_routed_agents_are_caught:party_encounter_routed_agents_are_caught2|Pensez-vous pouvoir fuir de moi? Vous allez être prisonnier ou mourir!
-dlga_party_encounter_routed_agents_are_caught:close_window|OK. Nous vous laisserons en paix cette fois, vous feriez bien de ne pas parcourir notre chemin.
-dlga_party_encounter_routed_agents_are_caught2:close_window|Vous n'avez pas de la pitié? OK, nous allons vous battre contre le dernier homme!
-dlga_party_encounter_routed_agents_are_caught2:close_window.1|{s1}
+dlga_start:groupe_encounter_routed_agents_are_caught|Je vous en prie, laissez-nous tranquille.
+dlga_groupe_encounter_routed_agents_are_caught:groupe_encounter_routed_agents_are_caught2|Pensez-vous pouvoir fuir de moi? Vous allez être prisonnier ou mourir!
+dlga_groupe_encounter_routed_agents_are_caught:close_window|OK. Nous vous laisserons en paix cette fois, vous feriez bien de ne pas parcourir notre chemin.
+dlga_groupe_encounter_routed_agents_are_caught2:close_window|Vous n'avez pas de la pitié? OK, nous allons vous battre contre le dernier homme!
+dlga_groupe_encounter_routed_agents_are_caught2:close_window.1|{s1}
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws|Hmmm. 10 cerfs d'argent pour chaque débiteur font des cerseaux d'argent {reg1} pour tous {reg0} d'entre eux.
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.1|Laissez-moi voir. Vous avez apporté des bandits {reg0}, donc 20 cerfs d'argent pour chacun viennent à des chevaux argentés.
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.2|Eh bien, vous avez capturé les brigands {reg0}. Chacun vaut 30 cerfs d'argent, donc je vais vous donner {reg1} pour eux au total.
@@ -4886,9 +4886,9 @@ dlga_kingsguard:close_window.1|Je n'ai aucune commande pour vous maintenant.
 dlga_start:kingsguard_noone|Nous servons et protégeons {s1}. Ne pas distraire aucun de nous de remplir notre devoir.
 dlga_kingsguard_noone:close_window|Pardonnez-moi, Ser.
 dlga_kingsguard_noone:close_window.1|Je vais y aller.
-dlga_start:kingsguard_inparty|Je suis à votre service, Your Grace.
-dlga_kingsguard_inparty:close_window|Je n'ai pas de commande pour vous maintenant.
-dlga_kingsguard_inparty:close_window.1|C'est bon de vous avoir à mes côtés.
+dlga_start:kingsguard_ingroupe|Je suis à votre service, Your Grace.
+dlga_kingsguard_ingroupe:close_window|Je n'ai pas de commande pour vous maintenant.
+dlga_kingsguard_ingroupe:close_window.1|C'est bon de vous avoir à mes côtés.
 dlga_start:town_dweller_talk|My {lord / lady}?
 dlga_start:town_dweller_talk.1|Bonne journée, {ser / madam}.
 dlga_town_dweller_talk:town_dweller_ask_fugitive|Je cherche un homme avec le nom de {s4}. On m'a dit qu'il pourrait se cacher ici.
@@ -4957,7 +4957,7 @@ dlga_hall_guard_arrest:hall_guard_arrest_2|Qui voulez-vous arrêter {ser / madam
 dlga_hall_guard_arrest_2:close_window|Ah, n'informez pas mes gars des grands esprits.
 dlga_hall_guard_arrest_2:close_window.1|Oubliez-le. Je trouverai une autre façon de faire face à cela.
 dlga_enemy_defeated:close_window|Arggh! Je déteste ça.
-dlga_party_relieved:close_window|Merci de nous aider contre ces bâtards.
+dlga_groupe_relieved:close_window|Merci de nous aider contre ces bâtards.
 dlga_start:battle_reason_stated|Je vais boire de votre crâne!
 dlga_start:battle_reason_stated.1|Aujourd'hui, nous faisons le paiement au prix du fer!
 dlga_start:battle_reason_stated.2|Êtes-vous prêt à mourir pour vos hommes?
@@ -5034,7 +5034,7 @@ dlga_lair_captain_add_port_1:lair_captain_add_port_2|Faites-le. Voici l'argent.
 dlga_lair_captain_add_port_1:lair_captain_pretalk|J'ai changé d'avis.
 dlga_lair_captain_add_port_1:lair_captain_pretalk.1|Je n'ai pas assez d'argent.
 dlga_lair_captain_add_port_2:lair_captain_pretalk|Très bien. Il ne faudra pas longtemps pour construire les jetées. Vous pourrez débarquer ici bientôt.
-dlga_lair_captain:lairparty_action|Je ferai don de 500 cerfs aux familles de mes hommes.
+dlga_lair_captain:lairgroupe_action|Je ferai don de 500 cerfs aux familles de mes hommes.
 dlga_lair_captain:close_window|Ce sera tout.
 dlga_lair_captain_improve:lair_captain_improve2|Actuellement, nous avons un camp permanent simple et mal défendu avec peu de services et capacité pour cinquante hommes. Je suggère de construire des maisons pour les hommes stationnés ici, pour qu'ils amènent leurs familles, une taverne pour les aider à se détendre et à améliorer leur moral et à un camp d'entraînement pour que nos hommes améliorent leurs compétences. Il serait important d'améliorer davantage les défenses. Enfin, vous aurez besoin de plus d'espace. Je devine que vous aimeriez avoir une maison grande et confortable.^^ J'estime qu'il faudra beaucoup d'argent, environ 5 000 cerf, payer le personnel et acheter du matériel. De plus, nous avons besoin de nous acheter cinq kits d'outils et cinq palettes de bois.
 dlga_lair_captain_improve2:lair_captain_improve3|Eh bien, continuez. Le règlement doit être amélioré, et j'ai les ressources et l'argent nécessaires.
@@ -5050,7 +5050,7 @@ dlga_lair_captain_improve_torefuge2:lair_captain_pretalk|Je vais obtenir ce que 
 dlga_lair_captain_improve_torefuge2:lair_captain_pretalk.1|Je vais y penser.
 dlga_lair_captain_improve_torefuge3:lair_captain_pretalk|Je vais mettre les hommes à travailler maintenant, {reg59?Ma dame:ser}. Si tout va bien, le travail sera terminé dans deux semaines.
 dlga_lair_captain_improve_torefuge3:lair_captain_pretalk.1|{reg59?Ma femme:Ser. Comment puis-je dire cela? Vous n'avez pas assez d'argent. Nous avons besoin de 10 000 cerfs communs.
-dlga_lairparty_action:lair_captain_pretalk|Merci, {reg59?Ma dame:ser}. Cela augmentera le moral et la loyauté des hommes.
+dlga_lairgroupe_action:lair_captain_pretalk|Merci, {reg59?Ma dame:ser}. Cela augmentera le moral et la loyauté des hommes.
 dlga_start:fort_member_talk|Bonne journée {ser / madam}. Tout ce dont tu as besoin?
 dlga_fort_member_talk:close_window|Rien, merci.
 dlga_fort_member_talk:fort_septon_action|Nous avons besoin du Dieu face à Dieu pour nous purifier de nos péchés. Je donnerai 400 bêtes d'argent aux familles de mes hommes déchus pour votre aide.
@@ -5083,7 +5083,7 @@ dlga_start:fort_guard_talk|Oui {ser / madam}?
 dlga_fort_guard_talk:fort_guard_talk_2|Comment va la montre, le soldat?
 dlga_fort_guard_talk_2:fort_guard_talk_3|Tout est calme {ser / madam}. Rien à signaler.
 dlga_fort_guard_talk_3:close_window|Bon. Garde tes yeux ouverts.
-dlga_fortparty_action:fort_captain_pretalk|Merci {ser / madam}. Cela augmentera le moral et la loyauté des hommes.
+dlga_fortgroupe_action:fort_captain_pretalk|Merci {ser / madam}. Cela augmentera le moral et la loyauté des hommes.
 dlga_arena_master_spar_teams2:arena_master_spar_teams_choose2|Certainement. Nous profiterons d'un ancien camp d'entraînement dans un village voisin. Bien sûr, vous devrez fournir votre propre équipement, ce qui signifie qu'il n'y aura pas d'uniformes d'équipe.  Mais de côté, combien d'équipes souhaiteriez-vous?
 dlga_arena_master_spar_teams_choose2:arena_master_spar_team_one2|Deux.
 dlga_arena_master_spar_teams_choose2:arena_master_spar_team_one2.1|Trois.
@@ -5150,13 +5150,13 @@ dlga_mate_chat_rejoin:close_window|Très bien.
 dlga_mate_chat_rejoin:mate_chat_talk|Il n'y a pas assez de place pour nous tous!
 dlga_mate_chat_talk:close_window|Nevermind. Continuer.
 dlga_regular_member_talk:close_window|Nothing. Continuez à vous déplacer.
-dlga_start:party_encounter_hostile_attacker|Vous n'avez aucune chance contre nous. Rendez-vous maintenant ou nous allons vous tuer tous ...
-dlga_party_encounter_hostile_attacker:close_window|Bastards! Nous allons vous battre jusqu'à la fin!
-dlga_party_encounter_hostile_attacker:close_window.1|N'attaquez pas! Nous nous rendons.
-dlga_start:party_encounter_hostile_defender|Que voulez-vous?
-dlga_party_encounter_hostile_defender:party_encounter_hostile_ultimatum_surrender|Rendez-vous ou mourez!
-dlga_party_encounter_hostile_ultimatum_surrender:close_window|{s43}
-dlga_party_encounter_hostile_defender:close_window|Nothing. Nous vous laisserons en paix.
+dlga_start:groupe_encounter_hostile_attacker|Vous n'avez aucune chance contre nous. Rendez-vous maintenant ou nous allons vous tuer tous ...
+dlga_groupe_encounter_hostile_attacker:close_window|Bastards! Nous allons vous battre jusqu'à la fin!
+dlga_groupe_encounter_hostile_attacker:close_window.1|N'attaquez pas! Nous nous rendons.
+dlga_start:groupe_encounter_hostile_defender|Que voulez-vous?
+dlga_groupe_encounter_hostile_defender:groupe_encounter_hostile_ultimatum_surrender|Rendez-vous ou mourez!
+dlga_groupe_encounter_hostile_ultimatum_surrender:close_window|{s43}
+dlga_groupe_encounter_hostile_defender:close_window|Nothing. Nous vous laisserons en paix.
 dlga_merchant_end:close_window|Heh! Je dois vraiment être dans un endroit serré, pour placer mes espoirs dans un étranger passager. Cependant, quelque chose à propos de vous me dit que ma confiance n'est pas déplacée. Maintenant, allez voir si vous pouvez rassembler des bénévoles.
 dlga_start:merchant_quest_4e|Vous êtes en vie! Votre un des chanceux. Pas beaucoup d'autres en vie Je peux vous le dire beaucoup! Un bain de sang! Il semble que notre Seigneur Ned Stark ait été prisonnier, vous devez vous avertir Lord Robb Stark, ces deux soldats sont fidèles à Ned et vous accompagneront à Winterfell.
 dlga_start:close_window.89|Votre chance de vous avoir trouvé lorsque nous l'avons fait. Nous devons faire notre chemin à Winterfell et avertir Robb Stark. Il n'y a rien d'autre que nous puissions faire ici.
