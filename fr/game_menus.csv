@@ -1,21 +1,21 @@
-﻿menu_start_game_0|Vous vous préparez à vous aventurer dans un monde de tromperie et de trahison.
+menu_start_game_0|Vous vous préparez à vous aventurer dans un monde de tromperie et de trahison.
 mno_introduccion|Introduction
 mno_continue|Continuer
 mno_go_back|Retour
 menu_start_phase_2|^^C'est le début de la matinée lorsque vous arrivez à Port-Réal, une ville animée sur la côte est de Westeros dans les terres de la Couronne. Vous avez fait votre chemin ici après avoir entendu des nouvelles du roi Robert Baratheon. ^ Le climat est chaud et l'atmosphère détendue. Outre le silence solennel autour de la capitale, tout semble être un jour normal. ^ Vous parcourez la rue des soeurs et regardez le Grand Septuaire de Baelor au loin.
 mno_town_1|Continue.
-menu_start_game_3|Choisissez votre scénario:
-menu_tutorial|Vous approchez d'un domaine où les habitants s'entrainent avec des armes. Vous pouvez pratiquer ici pour améliorer vos compétences de combat.
-mno_go_back_dot|Retour.
+menu_start_game_3|Choisissez un scénario
+menu_tutorial|Vous approchez d'un terrain où des guerriers s'entraînent au combat. Vous pouvez vous exercer ici.
+mno_go_back_dot|Retour
 menu_reports|menu Rapports^^^^{s1}^
-mno_dplmc_show_economic_report|Voir le rapport sur la prospérité.
+mno_dplmc_show_economic_report|Rapport économique
 mno_spy_report|Voir le rapport d'espionnage.
-mno_lord_relations|Liste des seigneurs connus par les relations
-mno_courtship_relations|Relations avec les fréquentations amoureuses
+mno_lord_relations|Relations avec les seigneurs
+mno_courtship_relations|Relations de séduction
 mno_Companions_overview|Vue d'ensemble des compagnons
-mno_view_faction_relations_report|Rapports de relations avec les factions
+mno_view_faction_relations_report|Relations avec les factions
 mno_view_player_companion_report|Rapport entre le héros et les compagnons
-mno_resume_travelling|Reprendre voyage.
+mno_resume_travelling|Reprendre l'aventure
 menu_custom_battle_scene|(Non transcrit)
 menu_custom_battle_end|La bataille est terminée. {reg5} ennemis ont été vaincus. ^Vos pertes s'élèvent à {reg6}. ^Vous avez personnellement vaincu {reg7} ennemis.
 mno_restart|Recommencer.
@@ -28,27 +28,27 @@ mno_normal_wars|Normal
 menu_start_game_1|Bienvenue, aventurier de A World of Ice and Fire. Avant d'être jeté dans un monde de torture et de trahison, vous devez créer votre personnage.
 mno_start|Créer un personnage
 mno_quit|Annuler
-menu_start_character_1|Vous êtes né il y a quelque temps. Votre père était...
-mno_start_noble|Un noble désargenté.
-mno_start_merchant|Un marchand itinérant.
-mno_start_guard|Un guerrier vétéran.
+menu_start_character_1|Vous avez vu le jour il y a bien des années dans un pays lointain. Votre père était...
+mno_start_noble|Un noble désargenté
+mno_start_merchant|Un marchand itinérant
+mno_start_guard|Un guerrier vétéran
 mno_start_forester|Un Dothraki.
 mno_start_nomad|Un sauvageon.
-mno_start_thief|Un voleur.
+mno_start_thief|Un voleur
 menu_start_character_2|{s10}^^ Vous avez commencé à découvrir le monde dès que vous avez su marcher et parler. Lors de vos premières années, vous étiez...
 mno_page|Page à la cour d'un noble
 mno_apprentice|Apprenti{reg3?e:} chez un artisan
 mno_stockboy|Assistant{reg3?e:} chez un marchand
 mno_urchin|Un{reg3?e:} gamin{reg3?e:} des rues
-mno_nomad|Un{reg3?e:} chasseu{reg3?se:r}
-menu_start_character_3|{s11}^^ Then, as a young adult, life changed as it always does. You became...
-mno_squire|A squire.
-mno_lady|A lady-in-waiting.
-mno_troubadour|A troubadour.
-mno_student|A university student.
-mno_peddler|A goods peddler.
-mno_craftsman|A smith.
-mno_poacher|A game poacher.
+mno_nomad|Un{reg3?e:} adolescent{reg3?e:} des steppes
+menu_start_character_3|{s11}^^ Puis, encore jeune adulte, votre vie a pris un autre chemin pour devenir...
+mno_squire|Écuyer
+mno_lady|Dame d'honneur
+mno_troubadour|Troubadour
+mno_student|Étudiant{reg3?e:}
+mno_peddler|Colport{reg3?euse:eur}
+mno_craftsman|Forgeron{reg3?ne:}
+mno_poacher|Braconni{reg3?ère:er}
 menu_start_character_4|{s12}^^Mais vous avez décidé de partir à l'aventure. Ce qui vous a incité à prendre cette décision fut...
 mno_revenge|Une vengeance à assouvir
 mno_death|La perte d'une personne chère
@@ -67,25 +67,25 @@ menu_character_report|{s9}
 menu_party_size_report|{s1}
 menu_faction_relations_report|{s1}
 menu_camp|Vous avez établi un campement. Que souhaitez-vous faire ?
-mno_camp_action|Faire une action.
-mno_camp_wait_here|Rester ici jusqu'à nouvel ordre.
+mno_camp_action|Prendre une décision
+mno_camp_wait_here|Rester ici jusqu'à nouvel ordre
 menu_camp_action_rest|Camping allows your men to rest for a while and recover from the hard life of travels. It also allows you to forage, increasing your food supplies. This is particularly helpful when campaigning in enemy territory, where it is difficult to buy supplies.
 menu_build_refuge_new|Your men await your orders to start building your settlement. There is enough materials collected so far, and what may be missing can be purchased in nearby villages.^^Total Cost: 5000 cerfs d'argent.^Time need: 6 hours.
 mno_refuge_here|Ok go ahead.
-menu_camp_cheat|Select a cheat:
-mno_camp_cheat_find_item|Find an item...
-menu_camp_action|Choose an action:
-mno_camp_recruit_prisoners|Recruit some of your prisoners to your party.
-mno_action_prebattle_custom_divisions|Manage Split Troop Assignments.
-mno_action_export_import|Export/import NPCs.
-mno_jump_to_scene|debug: test scene menu
+menu_camp_cheat|Choisir une triche :
+mno_camp_cheat_find_item|Obtenir un objet.
+menu_camp_action|Choisir une action :
+mno_camp_recruit_prisoners|Recruter des soldats parmi vos prisonniers
+mno_action_prebattle_custom_divisions|Organiser ses divisions
+mno_action_export_import|Exporter ou importer personnage
+mno_jump_to_scene|debug : test menu scène
 mno_camp_smoke_food|Smoke some raw food in your inventory.
-mno_camp_action_4|Back to camp menu.
-menu_camp_recruit_prisoners|You offer your prisoners freedom if they agree to join your ranks as soldiers. {s18}
-mno_camp_recruit_prisoners_accept|Take them.
-mno_camp_recruit_prisoners_reject|Reject them.
-menu_camp_no_prisoners|You have no prisoners to recruit from.
-menu_camp_action_read_book|Choose a book to read:
+mno_camp_action_4|Retourner au campement
+menu_camp_recruit_prisoners|Recruter des soldats parmi vos prisonniers. {s18}
+mno_camp_recruit_prisoners_accept|Accepter
+mno_camp_recruit_prisoners_reject|Refuser
+menu_camp_no_prisoners|Vous n'avez pas de prisonnier
+menu_camp_action_read_book|Choisissez un livre à lire :
 mno_action_read_book_1|{s1}.
 mno_action_read_book_2|{s1}.
 mno_action_read_book_3|{s1}.
@@ -110,7 +110,7 @@ mno_export_import_npc11|{s0}
 mno_export_import_npc12|{s0}
 mno_export_import_npc13|{s0}
 mno_export_import_next|Page suivante
-menu_export_import_npcs_2|Choisissez un personnage, puis presser la touche C pour le voir et l'exporter ou l'importer.^^Vous avez choisi {reg0?{s0}:personne}.
+menu_export_import_npcs_2|Choisissez un personnage, puis pressez la touche C pour le voir et l'exporter ou l'importer.^^Vous avez choisi {reg0?{s0}:personne}.
 mno_export_import_prev|Page précédente
 mno_export_import_npc14|{s0}
 mno_export_import_npc15|{s0}
@@ -129,24 +129,24 @@ menu_retirement_verify|Cela fait {reg0} jours qu'a débuté votre aventure. Votr
 mno_retire_yes|Oui.
 mno_retire_no|Non.
 menu_end_game|Vous avez pris votre décision et vous avez décidez de vous ranger de la vie d'aventurier. ^Vous vendez vos armes et votre armure, rassemblez vos économies et chevauchez tranquillement vers le soleil couchant...
-mno_end_game_bye|Adieu.
+mno_end_game_bye|Adieu
 menu_cattle_herd|Vous croisez un troupeau de bovins.
 mno_cattle_drive_away|Faire avancer le troupeau
 mno_cattle_stop|Arrêter le troupeau
 mno_cattle_kill|Abattre des bêtes
-mno_leave|Partir.
+mno_leave|Partir
 menu_cattle_herd_kill|Combien de bêtes souhaitez-vous abattre ?
-mno_cattle_kill_1|Un.
-mno_cattle_kill_2|Deux.
-mno_cattle_kill_3|Trois.
-mno_cattle_kill_4|Quatre.
-mno_cattle_kill_5|Cinq.
+mno_cattle_kill_1|Une
+mno_cattle_kill_2|Deux
+mno_cattle_kill_3|Trois
+mno_cattle_kill_4|Quatre
+mno_cattle_kill_5|Cinq
 mno_cattle_kill_20|Vingt.
 menu_arena_duel_fight|Vous vous préparez tous deux à vous battre en duel.
 menu_duel_menu|{s1}{s2}
 mno_start_fight|Demarrer le duel.
-menu_simple_encounter|{s2}^^ Vous êtes {reg10} en état de se battre contre l'ennemi au nombre de {reg11}. {s4}^{s15}
-mno_change_commander_simple_encounter|Changer le commandant(Commandant actuel: {s7})
+menu_simple_encounter|{s2} Vous êtes {reg10} en état de se battre contre l'ennemi au nombre de {reg11}.
+mno_change_commander_simple_encounter|Changer de commandant (Commandant actuel: {s7})
 mno_encounter_attack_deployment|Choisir qui vous rejoindra au combat
 mno_encounter_attack_plan|Planifier la bataille
 mno_encounter_attack_do_plan|Assez de planification. À la bataille !
@@ -155,24 +155,24 @@ mno_encounter_attack_hold|Monter sur le terrain.
 mno_encounter_attack_follow|Mener vos troupes.
 mno_ambush_attack|Lancer l'embuscade.
 mno_sneaking_attack|Lancer l'attaque furtive.
-mno_encounter_attack|{s7} l'ennemi.
-mno_encounter_order_attack|Ordonner à vos troupes d'engager le combat sans vous.
+mno_encounter_attack|- Attaquer l'ennemi -
+mno_encounter_order_attack|Ordonner à vos troupes d'engager le combat sans vous
 mno_tactical_nuevo|Options du commandant.
-mno_encounter_leave|Partir.
-mno_encounter_retreat|Se replier et laisser des soldats pour couvrir la retraite
-mno_encounter_surrender|Capituler.
+mno_encounter_leave|Quitter
+mno_encounter_retreat|Se replier (laisser des soldats pour couvrir la retraite)
+mno_encounter_surrender|Capituler
 mno_force_presentation|Évaluer les forces à proximité.
 mno_begin_duel|Commencer le duel
 menu_encounter_retreat_confirm|En tant que meilleur tacticien de votre troupe, ({reg2}), {reg3?vous planifiez:{s3} planifie} une manœuvre de repli, mais qui implique la diversion et le sacrifice de {reg4} soldats.
-mno_leave_behind|Battre en retraite, le sacrifice de ces soldats sauvera leurs frères d'armes.
-mno_dont_leave_behind|Non, nous ne laisserons personne derrière.
+mno_leave_behind|Battre en retraite, le sacrifice de ces soldats sauvera leurs frères d'armes
+mno_dont_leave_behind|Non, nous ne laisserons personne derrière
 menu_encounter_retreat|Vous ordonnez à {reg4} de vos soldats de couvrir votre fuite.
 menu_order_attack_begin|Vos troupes se préparent à attaquer l'ennemi.
-mno_order_attack_begin|Sonner la charge.
-mno_call_back|Rappeler vos hommes.
+mno_order_attack_begin|Sonner la charge
+mno_call_back|Rappeler vos hommes
 menu_order_attack_2|{s4}^^Vos pertes: {s8}^^Pertes ennemies: {s9}
-mno_order_attack_continue|Ordonner à vos troupes de lancer un nouvel assaut.
-mno_order_retreat|Rappeler vos hommes.
+mno_order_attack_continue|Ordonner à vos troupes de lancer un nouvel assaut
+mno_order_retreat|Rappeler vos hommes
 menu_battle_debrief|{s11}^^Vos pertes : {s8}{s10}^^Pertes ennemies : {s9}
 menu_total_victory|Vous ne devriez pas lire cela... {s9}
 menu_enemy_slipped_away|{s17}
@@ -182,28 +182,28 @@ menu_pre_join|Vous vous entremettez dans un affrontement entre les {s2} et les {
 mno_pre_join_help_attackers|Vous battre aux côtés des {s2} ({s21})
 mno_pre_join_help_defenders|Venir en aide aux {s1}. ({s21})
 mno_pre_join_leave|Rester en dehors de ça.
-menu_join_battle|Vous aidez les {s2} à affronter les {s1}. Vous disposez de {reg10} hommes, prêts à affronter les {reg11} ennemis. {s4}
-mno_change_commander_join_battle|Changer le commandant(Commandant actuel: {s7})
+menu_join_battle|Vous aidez les {s2} à affronter les {s1}. Vous disposez de {reg10} hommes, prêts à affronter les {reg11} ennemis.
+mno_change_commander_join_battle|Changer de commandant (Commandant actuel: {s7})
 mno_join_attack_deployment|Choisir qui vous rejoindra au combat.
 mno_join_attack_plan|Planifier la bataille.
 mno_join_attack_do_plan|Assez de planification. À la bataille !
 mno_join_attack_clear_plan|Réévaluer la situation.
 mno_join_attack_hold|Monter sur le terrain.
 mno_join_attack_follow|Mener vos troupes.
-mno_join_attack|{s7} l'ennemi.
-mno_join_order_attack|Ordonner à vos troupes d'engager le combat sans vous.
-mno_join_leave|Partir.
-mno_join_wounded|Vous êtes trop blessé pour vous battre.
-menu_join_order_attack|{s4}^^Vos pertes: {s8}^^Pertes alliés: {s9}^^Pertes ennemies: {s10}
+mno_join_attack|- Attaquer l'ennemi -
+mno_join_order_attack|Ordonner à vos troupes d'engager le combat sans vous
+mno_join_leave|Fuir le champ de bataille
+mno_join_wounded|Vous êtes trop blessé pour vous battre
+menu_join_order_attack|{s4}^^Vos pertes: {s8}^^Pertes alliées : {s9}^^Pertes ennemies : {s10}
 menu_zendar|Vous entrez dans la ville de Zendar.
 mno_zendar_enter| 
-mno_zendar_enter_door|Centre-ville.
+mno_zendar_enter_door|Centre-ville
 mno_zendar_tavern| 
-mno_zendar_tavern_door|Taverne.
+mno_zendar_tavern_door|Taverne
 mno_zendar_merchant| 
-mno_zendar_merchant_door|Boutique.
+mno_zendar_merchant_door|Boutique
 mno_zendar_arena| 
-mno_zendar_arena_door|Arènes.
+mno_zendar_arena_door|Arènes
 mno_town_1_leave| 
 menu_banquete_moral_refuge|Demander à vos hommes de laisser leurs armes à l'extérieur et les inviter dans votre grande salle, à s'asseoir à votre table par rang. Le plus proche et le plus intime s'assiéra à cote de vous. Quelques filles servent de la viande et de l'hydromel en grandes quantités. ^^Vous avez dépensé une petite fortune pour cette fête en l'honneur de vos hommes méritants. Ce sont eux qui saignent pour vous, ce sont eux qui vous ont aidé à conquérir vos domaines. Ils sont vos fidèles. ^^La soirée avance. Beaucoup d'hommes sont ivres. Ils crient et chantent. Certains ruissellement de vomi et d'autres se battent comme des coqs de combat pour attirer l'attention d'une jeune fille. Derrière vous, un barde chante votre gloire, votre pouvoir et vos actes. ^^Vous agissez comme un chef de guerre. Vous êtes un chef de guerre... ""le berger des hommes."
 mno_banquete_okr|Vous buvez, riez et criez alors qu'elles arrivent.
@@ -231,8 +231,8 @@ mno_lair_leave_door|Quitter les lieux.
 menu_demoler_lairm|Êtes-vous sûr de vouloir démolir votre refuge?
 mno_demoler_yes|Oui (1000 cerfs d'argent).
 mno_demoler_no|Retour.
-menu_salt_mine|Vous entrez dans la mine de sel. The Westerlands are not the largest, most populous, or most fertile part of the realm, but they are the richest. Full of hills and crags, the land is dotted with mines from which pour gold and silver in astonishing quantities.
-mno_enter|Entrer.
+menu_salt_mine|Vous entrez dans la mine de sel.
+mno_enter|Entrer
 mno_enter_door|Quitter.
 mno_work_mines|Se porter volontaire pour travailler dans les mines{s1}.
 mno_add_prisoners|Laisser quelques prisonniers pour travailler dans les mines{s1}.
@@ -240,7 +240,7 @@ mno_add_guards|Stationner des gardes pour surveiller les prisonniers{s1}.
 menu_slave_labor|{s1}
 menu_iron_mine|Vous arrivez à un petite mine de fer.
 menu_slave_labor2|{s1}
-menu_four_ways_inn|Vous arrivez à the Four Ways Inn.
+menu_four_ways_inn|Vous arrivez à l'auberge de la Croisée.
 menu_celidon_forest|Vous arrivez à Hollow Hill.
 mno_service_recruit|Ask if anyone is willing to join you and your men.
 menu_wildling_farm|Vous arrivez dans une ferme.
@@ -275,58 +275,58 @@ mno_monasterio_recruit|Demandez si quelqu'un ici vous rejoindra.
 mno_pray|Priez et donnez un hommage de 150 cerfs d'argent à la Septie. 
 mno_donate|Priez et faites un don généreux de 500 cerfs au Septry. 
 mno_convertir|Convertir à La Foi des Sept. Cela nécessitera plusieurs jours et 4 000 cerfs. 
-mno_pillage_monastery|Pillage le septry. 
+mno_pillage_monastery|Pillage le monastère.
 menu_Crossroads_visit|Vous arrivez à Crossroads Inn, également appelé parfois Old Inn. 
 menu_test_scene|Vous entrez dans la scène de test. 
-mno_jump|Aller à la scène 
-menu_dhorak_keep|Vous entrez le Dhorak Keep 
-menu_join_siege_outside|{s1} a été assiégé par {s2}. 
-mno_approach_besiegers|Approche du camp de siège. 
-mno_pass_through_siege|Passez les lignes de siège et entrez {s1}. 
+mno_jump|Aller sur la scène
+menu_dhorak_keep|Vous entrez dans le donjon de Dhorak.
+menu_join_siege_outside|{s2} assiège {s1}.
+mno_approach_besiegers|Approcher du camp des assiégeants
+mno_pass_through_siege|Franchir les lignes du siège et entrer dans {s1}
 menu_cut_siege_withoutffight|Les assiégeants vous permettent d'approcher les portes sans défi. 
-menu_besiegers_camp_with_allies|{s1} reste assiégé. Les bannières de {s2} voient au-dessus du camp des assiégeants, où vous et vos hommes sont les bienvenus. ^^ {s4} 
-mno_talk_to_siege_commander|Demander une réunion avec le commandant. 
-mno_change_commander_besiegers_camp_with_allies|Change command (Commandant actuel: {s7}). 
+menu_besiegers_camp_with_allies|{s1} est toujours en état de siège, les bannières du {s2} flottent au-dessus du camp des assiégeants, où vos hommes et vous êtes les bienvenus.
+mno_talk_to_siege_commander|Demander une audience avec le commandant
+mno_change_commander_besiegers_camp_with_allies|Changer de commandant (Commandant actuel: {s7})
 mno_siege_attack_deployment|Choisissez qui vous rejoindra dans la bataille. 
 mno_siege_attack_plan|Planifiez votre assaut. 
-mno_join_siege_with_allies|Rejoignez la prochaine attaque. 
-mno_join_siege_stay_back|Commandez à vos soldats de rejoindre la prochaine attaque sans vous. 
-menu_castle_outside|Vous êtes en dehors de {s2}. {S11} {s3} {s4} 
-mno_approach_gates|Approchez les portes et saluez la garde. 
-mno_town_sneak|Déguisiez-vous et essayez de se faufiler dans {s7} 
-mno_dplmc_riot_start_siege|Besiege {reg6?Ville: château} pour contrer l'insurrection. 
-mno_dplmc_riot_negotiate|Commencer les négociations. 
-mno_castle_start_siege|Besiege {reg6?Ville: château}. 
-mno_castle_leave|Laissez. 
-menu_castle_guard|Vous approchez de la porte. Les hommes sur les murs vous regardent prudemment. ^^ {s10} 
-mno_request_shelter|Demande d'entrée au château. 
+mno_join_siege_with_allies|Rejoindre le prochain assaut
+mno_join_siege_stay_back|Ordonner à vos soldats de se joindre au prochain assaut sans vous
+menu_castle_outside|Vous êtes à l'extérieur de {s2}.{s11} {s3} {s4}
+mno_approach_gates|Approcher des portes et appeler les gardes
+mno_town_sneak|Se déguiser pour essayer de franchir les portes
+mno_dplmc_riot_start_siege|Assiéger {reg6?la ville:le château} pour contrer l'insurrection
+mno_dplmc_riot_negotiate|Entamer des négociations
+mno_castle_start_siege|Assiéger {reg6?la ville:le château}
+mno_castle_leave|Quitter
+menu_castle_guard|Vous vous approchez des portes. Les gardes sur les remparts vous observent attentivement.
+mno_request_shelter|Demander à entrer au château
 mno_persuade_center_surrender_with_town_lord|Vous et {s11} les convaincre de se rendre. 
 mno_take_lord_as_hostage|Vous proposez un échange pour la remise de {s12} pour le retour en toute sécurité de {s11}. 
-mno_request_meeting_commander|Demander une rencontre avec quelqu'un. 
-mno_guard_leave|Laissez. 
-menu_castle_entry_granted|Après une brève attente, les gardes ouvrent les portes et permettent à votre fête à l'intérieur. 
-menu_castle_entry_denied|Le seigneur de ce château vous a interdit de venir à l'intérieur de ces murs, le sergent-garde vous informe que ses hommes vont tirer si vous tentez de vous rapprocher. 
-menu_castle_meeting|Avec qui souhaitez-vous rencontrer? 
+mno_request_meeting_commander|Solliciter une audience
+mno_guard_leave|Partir
+menu_castle_entry_granted|Après quelques instants, les gardes ouvrent les portes et vous permettent d'entrer.
+menu_castle_entry_denied|L'entrée de ce château vous a été interdite par le seigneur des lieux, et le chef des gardes vous informe qu'il ordonnera à ses hommes de tirer si vous vous approchez davantage.
+menu_castle_meeting|Qui souhaitez-vous rencontrer ?
 mno_guard_meet_s5|{s5}. 
-mno_forget_it|Oubliez. 
-menu_castle_meeting_selected|Votre demande de réunion est relayée à l'intérieur et enfin {s6} apparaît dans la cour pour vous parler. 
+mno_forget_it|Laissez tombez
+menu_castle_meeting_selected|Votre requête a été transmise, et finalement {s6} apparaît dans la cour afin de discuter avec vous.
 menu_port_attack|Vous attaquez le port de {s1}. Vous avez des troupes {reg10} pour la bataille contre les ennemis {reg11}. 
 mno_lead_attack|Dirigez vos soldats dans une attaque côtière. 
-mno_attack_stay_back|Commandez à vos soldats d'attaquer lorsque vous restez en arrière ... 
-mno_lift_siege|Abandon de l'attaque. 
+mno_attack_stay_back|Ordonner à vos troupes d'engager le combat sans vous
+mno_lift_siege|Lever le siège
 menu_persuade_center_surrender|{reg30?Vous et {s11} ont réussi. Le commandant de {s12} s'est livré sans effusion de sang!: Vos tentatives de faire pression sur le commandant de {s12} pour se rendre sont devenues infructueuses. Il semble que {s11} n'a pas coopéré avec vous. ({Reg13}).} 
 menu_persuade_center_surrender_2|{s20} ^^ {reg30? {S12} a accepté de se rendre en échange du retour en toute sécurité de {s11}: Le commandant à {s12} a rejeté votre offre d'un commerce.} 
-menu_castle_besiege|Vous êtes assiégé sur {s1}. {S2} ^^ {s3} ^^ {s15} ^^ {s16} ^^ {s17} 
-mno_siege_request_meeting|Appelez pour une réunion avec le commandant du chateau. 
-mno_wait_24_hours|Attendez jusqu'à demain. 
+menu_castle_besiege|Vous assiégez {s1}. {s2} {s3} {s4} ^{s15}
+mno_siege_request_meeting|Demander une entrevue avec le chef des assiégés
+mno_wait_24_hours|Attendre jusqu'à demain
 mno_siege_warfare|Planifiez votre siège. 
 mno_siege_assault|Faites des préparatifs pour votre assaut. 
-mno_siege_camp|Entrer votre position. 
-mno_siege_camp_interupted|Continuez à retranscrire votre position 
-mno_siege_camp_inspect|Inspectez le camp de siège. 
-mno_castle_lead_attack|Lancez vos soldats dans un attentat. 
-mno_build_ladders|Préparer des échelles pour attaquer les murs. 
-mno_build_siege_tower|Construire une tour de siège. 
+mno_siege_camp|Position retranchée
+mno_siege_camp_interupted|Continuer la position retranchée
+mno_siege_camp_inspect|Inspecter le campement du siège
+mno_castle_lead_attack|Mener l'assaut contre les murailles
+mno_build_ladders|Se préparer à l'assaut
+mno_build_siege_tower|Construire une tour de siège
 mno_build_battering_ram|Construire un battering ram. 
 menu_deer_herd|Vous rencontrez un troupeau de cerf. 
 mno_deer_kill|Chassez quelques animaux. 
@@ -360,19 +360,19 @@ mno_scout_investigar|Commandez à vos scouts de fournir des informations sur les
 mno_build_mantlet|Construire des mantelets. 
 mno_poniendo_elementos Préparez-vous à charger avec l'armée principale sous votre commande. 
 mno_poniendo_elementos_mantles|Commandez l'avant-garde pour utiliser des mantelets et préparez-vous à charger avec l'armée principale sous votre commande. 
-mno_change_commander_castle_besiege|Change command (Commandant actuel: {s7}). 
-menu_siege_attack_meets_sally|Les défenseurs sally out to meet your assault. 
+mno_change_commander_castle_besiege|Changer de commandant (Commandant actuel: {s7})
+menu_siege_attack_meets_sally|Des défenseurs tentent une sortie afin de vous surprendre et de contrer votre assaut.
 menu_siege_defenders_running_low_food_sally_drive_off_siege|Sous peu de nourriture, les défenseurs sortent dans une tentative désespérée de casser le siège. 
 menu_siege_defenders_starved_give_up|Au bord de la famine, les défenseurs affaiblis se rendent plutôt que de faire face à une mort lente et agonisante. 
 menu_castle_besiege_inner_battle|{s1} 
-menu_construct_ladders|En tant que membre du parti avec la compétence Ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estimations} qu'il faudra {reg4} heures pour construire suffisamment d'équipement pour l'agression. 
-mno_build_ladders_cont|Laisse le faire. 
-menu_construct_siege_tower|En tant que membre du parti ayant la compétence ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estimations} que la construction d'une tour de siège et d'autres équipements pour l'assaut prendra {reg4} heures. 
-mno_build_siege_tower_cont|Commencez le bâtiment. 
+menu_construct_ladders|En tant que membre du parti avec la compétence Ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estime} qu'il faudra {reg4} heures pour construire suffisamment d'équipement pour le siège.
+mno_build_ladders_cont|Commencer
+menu_construct_siege_tower|En tant que membre du parti ayant la compétence Ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estime} que la construction d'une tour de siège et d'autres équipements pour l'assaut prendra {reg4} heures.
+mno_build_siege_tower_cont|Commencer la construction
 menu_battering_ram|En tant que membre du parti ayant la compétence ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estimations} que la construction d'un bélier et d'autres équipements pour l'assaut prendra {reg4} heures. 
 mno_build_battering_ram_cont|Commencez à construire le frappeur. 
 menu_build_mantles2|En tant que membre du parti ayant le plus haut niveau d'ingénieur ({reg2}), {reg3?Vous estimez: {s3} estimations} qu'il faudra {reg4} heures pour construire des mantelets prêts pour l'assaut. 
-menu_castle_attack_walls_simulate|{s4} ^^ Vos pertes: {s8} ^^ Les pertes ennemies étaient: {s9} 
+menu_castle_attack_walls_simulate|{s4}^^Vos pertes:{s8}^^Pertes ennemies: {s9}
 menu_castle_attack_walls_simulate2|{s4} ^^ Vos victimes: {s8} ^^ Les pertes ennemies étaient: {s9} 
 menu_sneak_into_considéré2|Déguisé et sous la couverture de l'obscurité, vous infiltre {s4}. Il est temps de considérer leurs défenses. 
 menu_construct_saneamiento|L'assainissement est important pour prévenir les rats et les maladies. Il est possible de construire des latrines et des pipelines pour empêcher l'accumulation de boue et de la saleté flottant avec la pluie et creuser une fosse pour assurer l'approvisionnement en eau. ^^ En tant que membre du parti ayant la compétence ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estimations} qu'il faudra {reg4} heures. 
@@ -423,93 +423,93 @@ mno_back_behind_esc1|Vos hommes ont été satisfaits, c'est votre temps.
 menu_poner_escaleras_mantlets|Vos progrès d'avant-garde apportent des échelles, des mantelets, des pelles, des bras à main et d'autres équipements utiles de siège. Un affichage d'hommes armés d'armes à distance s'arrange, gardé par des mantelets, attirant les missiles de l'ennemi.^ Vous regardez vos hommes avancer vers les murs.^^ Vos pertes: {s8} ^^ Les pertes ennemies étaient: {s9} 
 mno_back_behind_esc2|Vos hommes ont été rencontrés, c'est votre temps ... 
 menu_informacion_ciudad|Le Seigneur ici est {s21} ^^ Je pense que {s4} a {reg6} défenseurs {s3} {s5} ^^ {s17} 
-menu_castle_attack_walls_with_allies_simulate|{s4} ^^ Vos victimes: {s8} ^^ Victimes des alliés: {s9} ^^ Victimes ennemies: {s10} 
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Vos pertes: {s8}^^Pertes alliées: {s9}^^Pertes ennemies: {s10}
 menu_castle_taken_without_bloodshed|Rien à voir ici. 
 menu_castle_taken_by_friends|Rien à voir ici. 
-menu_castle_taken|{s3} est tombé dans vos troupes, et vous avez maintenant le contrôle total de {reg2?Ville: château}. Vous pouvez pilonner des vaisseaux de guerre valant {reg3} cerfs d'argent. {Reg1? Vous pouvez stationner des troupes ici pour la défendre contre les ennemis qui tenteront de la récupérer. De plus, vous devriez maintenant choisir si vous maintenez la {reg2?Ville: château} vous-même ou donnez-le à un vassal fidèle ...:} 
-mno_dplmc_spoils_yourself|Pensez-le et gardez le butin pour vous-même. 
-mno_dplmc_spoils_accompanying_vassals|Pensez-le et partagez le butin également entre les vassaux qui vous accompagnent et vous-même. 
-mno_dplmc_spoils_all_vassals|Pensez-le et partagez le butin également entre vos vassaux et vous-même. 
-menu_castle_taken_2|(s3} est tombé dans vos troupes, et vous avez maintenant le contrôle total du château. Il est temps d'envoyer un mot à {s9} au sujet de votre victoire. {S5} 
-mno_castle_taken_claim|Demande que {s3} vous soit attribué. 
-mno_castle_taken_claim_2|Demander que {s3} soit attribué à votre {femme / mari}. 
-mno_castle_taken_no_claim|Demander aucune récompense. 
+menu_castle_taken|Grâce à votre victoire sur les défenseurs de {s3}, vous détenez désormais {reg2?la ville:le château}.^{reg1? Vous pouvez déployer des troupes en garnison pour défendre ce fief. Vous devez aussi indiquer si vous souhaitez conserver {reg2?la ville:le château} pour vous-même ou le confier à un fidèle vassal...:}
+mno_dplmc_spoils_yourself|Piller et garder tout le butin
+mno_dplmc_spoils_accompanying_vassals|Piller et partager équitablement le butin entre les vassaux qui vous accompagnent et vous-même
+mno_dplmc_spoils_all_vassals|Piller et partager équitablement le butin entre tous les vassaux et vous-même
+menu_castle_taken_2|Vous avez pris le contrôle de {s3}. ^Il est temps d'envoyer un message pour informer {s9} de votre victoire. {s5}
+mno_castle_taken_claim|Demander à ce qu'on vous attribue {s3}
+mno_castle_taken_claim_2|Demander à ce que votre {épouse/époux} reçoive {s3}
+mno_castle_taken_no_claim|Ne rien demander
 menu_saquear_centro|s3} est tombé dans vos troupes. Vous avez maintenant le contrôle total de {reg2?Ville: château}. Vous n'êtes que là pour le butin. Vous pouvez pilonner des vaisseaux de guerre valant {reg3} cerfs d'argent. 
 mno_spoils_yourself|Pilotez ce lieu et vendez la population en tant qu'esclaves en gardant tous les gages pour vous. 
 mno_spoils_accompanying_vassals|Pilotez ce lieu et vendez la population comme esclave. Partagez le butin également entre les vassaux qui vous accompagnent et vous-même. 
 mno_spoils_all_vassals|Pilotez ce lieu et vendez la population comme esclave. Partagez le butin également entre vos vassaux et vous-même. 
 menu_saqueo_loot_continue|Ce règlement a été pillé. 
-menu_requested_castle_granted_to_player|Vous recevez un message de votre liege, {s3}. ^^ {reg4?Elle: Il} a décidé d'accorder {s2} {reg3? Et le village voisin de {s4}:} à vous, avec tous les revenus et les titres voulus, dans {reg4?Elle: son} nom tant que vous maintenez votre serment d'hommage ... 
-menu_requested_castle_granted_to_player_husband|Vous recevez un message de votre liege, {s3}. ^^ {reg4?Elle: Il} a décidé d'accorder {s2} {reg3? Et le village voisin de {s4}:} à votre mari, {s7}. 
-menu_requested_castle_granted_to_another|Vous recevez un message de votre monarque, {s3}.^^ 'J'ai été très heureux d'entendre vos efforts courageux dans la capture de {s2}. Votre victoire a réjoui tous nos cœurs. Vous m'avez également demandé de vous donner la propriété du château, mais c'est une faveur que je crains que je ne puisse pas accorder, puisque vous possédez déjà des domaines importants dans mon domaine. Au lieu de cela, je vous ai envoyé {reg6} cerfs d'argent pour couvrir les dépenses de votre campagne, mais {s2} je donne à {s5}.'
-mno_accept_decision|Acceptez la décision. 
-mno_leave_faction|Vous avez été lésé! Renoncez à votre serment à votre liege! 
-menu_requested_castle_granted_to_another_female|Vous recevez un message de votre monarque, {s3}.^^ 'J'ai été très heureux d'entendre vos efforts courageux dans la capture de {s2}. Votre victoire a réjoui tous nos cœurs. Vous m'avez également demandé de donner la propriété du château à votre mari, mais c'est une faveur que je crains que je ne puisse pas accorder, car il possède déjà des domaines importants dans mon domaine. Au lieu de cela, je vous ai envoyé {reg6} cerfs d'argent pour couvrir les dépenses de votre campagne, mais {s2} je donne à {s5}.'
-menu_leave_faction|Renoncer à votre serment est un acte grave. Votre seigneur peut vous condamner et confisquer vos terres et vos avoirs. Cependant, si vous les renvoyez de votre propre volonté, il peut laisser la trahison sans combat. 
-mno_leave_faction_give_back|Renoncez à votre serment et renoncez à vos participations. 
-mno_leave_faction_hold|Renoncez à votre serment et réglez vos terres, y compris {s2}, en votre nom. 
-mno_leave_faction_cancel|Restez fidèle et acceptez la décision. 
-menu_give_center_to_player|Votre seigneur offre d'étendre vos fiefs! {S1} envoie un mot qu'il est prêt à vous accorder {s2} en paiement de votre service fidèle, en l'ajoutant à vos participations. Quelle est ta réponse?
-mno_give_center_to_player_accept|Acceptez l'offre. 
-mno_give_center_to_player_reject|Rejeter. Vous n'avez aucun intérêt à retenir {s2}. 
-menu_give_center_to_player_2|Avec une brève cérémonie, vous êtes officiellement confirmé comme le nouveau seigneur de {s2} {reg3? Et son village lié {s4}:}. {Reg3?Ils: cela fera une belle partie de votre fief. Vous pouvez maintenant réclamer les loyers et les revenus de vos biens personnels, ébaucher des soldats de la population et gérer les terres comme bon vous semble. Cependant, vous devez également défendre votre fief et votre peuple de tout dommage, tout en maintenant la règle de l'ordre.***}
-menu_oath_fulfilled|Vous avez eu un contrat avec {s1} pour le servir pendant une certaine durée. Votre contrat est maintenant expiré. Que vas-tu faire?
-mno_renew_oath|Renouvelez votre contrat avec {s1} pour un autre mois. 
-mno_dont_renew_oath|Tenez-vous libre de votre lien. 
-menu_siege_started_defender|{s1} lance un assaut contre les murs de {s2}. Vous avez des troupes {reg10} pour combattre contre l'ennemi {reg11}. Vous décidez ... {s4} 
-mno_dplmc_negotiate_with_besieger|Négocier avec l'assiégeant. 
-mno_change_commander_siege_defender|Change command (Commandant actuel: {s7}). 
+menu_requested_castle_granted_to_player|Vous recevez un message de votre suzerain, {s3}.^^ Il a décidé de vous confier {s2}{reg3? ainsi que le proche village de {s4}:}, et tous les titres et revenus qui en découlent, aussi longtemps que vous lui resterez fidèle.
+menu_requested_castle_granted_to_player_husband|Vous recevez un message de votre monarque, {s3}.^^ {reg4?Elle:Il} a décidé d'accorder {s2}{reg3? et le village voisin de {s4}:} à votre mari, {s7}.
+menu_requested_castle_granted_to_another|Vous recevez un message de votre monarque, {s3}.^^ Félicitations pour vos faits d'armes et pour la capture de {s2}. C'est une réjouissante victoire ! ^Vous avez aussi réclamé la propriété du château, mais hélas c'est une faveur à laquelle je ne peux répondre favorablement, car vous jouissez déjà de seigneuries dans mon royaume. Pour m'amender, je vous ai envoyé {reg6} cerfs d'argent pour couvrir vos dépenses de campagne. ^Quant à {s2}, j'ai saisi droit pour l'attribuer au {s5}.
+mno_accept_decision|Accepter la décision.
+mno_leave_faction|Vous estimez avoir été {trompé/trompée}, rompre le serment d'allégeance !
+menu_requested_castle_granted_to_another_female|Vous recevez un message de votre monarque, {s3}.^^ Félicitations pour vos faits d'armes et pour la capture de {s2}. C'est une réjouissante victoire ! ^Vous avez quéri la clameur de la conquète à votre mari, hélas j'ai regret à la lui bailler, car votre époux conjouit déjà d'ample seigneurie dans mon royaume. Pour m'amender, recevez à gré ces {reg6} cerfs d'argent. ^Quant à {s2}, j'ai saisi droit pour l'attribuer au {s5}.
+menu_leave_faction|Rompre votre serment ne sera pas sans conséquence. Votre monarque vous condamnera et confisquera probablement vos fiefs et vos terres. ^Cependant, si vous les lui cédez de bon gré, il vous déchargera de vos obligations sans vous causer de tort.
+mno_leave_faction_give_back|Je renonce à mes terres, et je romps mon serment d'allégeance
+mno_leave_faction_hold|Je renonce à mon serment d'allégeance, mais je garde mes terres
+mno_leave_faction_cancel|J'ai changé d'avis, je vais continuer à le servir
+menu_give_center_to_player|{s1} veut vous confier un nouveau fief, {s2}. Quelle est votre réponse ?
+mno_give_center_to_player_accept|Accepter son offre
+mno_give_center_to_player_reject|Refuser de prendre en charge {s2}
+menu_give_center_to_player_2|Un nouveau fief vous a été accordé. Vous êtes à présent le seigneur de {s2}{reg3? et de {s4}:}. ^Vous percevrez automatiquement ses rentes et revenus. Vous pouvez recruter des troupes parmi la populace, et gérer les terres à votre convenance. En contrepartie, il vous incombe de défendre votre fief, et d'y faire régner l'ordre.
+menu_oath_fulfilled|Vous aviez pris l'engagement de servir {s1} pendant un certain temps, votre contrat touche à son terme. ^Que comptez-vous faire ?
+mno_renew_oath|Prolonger votre engagement auprès du {s1} d'un mois supplémentaire
+mno_dont_renew_oath|Mettre fin à votre contrat
+menu_siege_started_defender|{s1} lance un assaut contre {s2}. Vous disposez de {reg10} soldats face aux {reg11} soldats ennemis. ^Vous décidez de...
+mno_dplmc_negotiate_with_besieger|Négocier avec les assiégeants
+mno_change_commander_siege_defender|Changer de commandant (Commandant actuel: {s7})
 mno_siege_defender_deployment|Choisissez qui vous rejoindra dans le combat. 
 mno_siege_defender_plan|Planifiez votre défense. 
-mno_siege_defender_join_battle|Rejoignez la bataille. 
-mno_siege_defender_troops_join_battle|Ordre à vos hommes de se joindre à la bataille sans vous. 
-menu_siege_join_defense|{s4} ^^ Vos pertes: {s8} ^^ Victimes des alliés: {s9} ^^ Victimes ennemies: {s10} 
+mno_siege_defender_join_battle|Rejoindre la bataille
+mno_siege_defender_troops_join_battle|Donner l'ordre à vos troupes d'engager le combat sans vous
+menu_siege_join_defense|{s4}^^Vos pertes : {s8}^^Pertes alliées : {s9}^^Pertes ennemies : {s10}
 menu_enter_your_own_castle|{s10} 
 menu_village|{s10} {s12} ^ {s11} ^ {s6} {s7} {s15} 
-mno_village_manage|Gérer ce village. 
+mno_village_manage|Gérer ce village
 mno_village_station_troops|Placez une garnison ici ... 
-mno_dplmc_village_elder_meeting|Meet the Village Elder. 
-mno_dplmc_village_elder_meeting_denied|Vous n'avez pas encore rencontré l'ancien village. 
-mno_recruit_volunteers|Recruter des bénévoles. 
-mno_recruit_forzosamente|Le recrutement forcé. 
-mno_village_center|Allez au centre du village. 
-mno_village_center_door|Porte au centre du village. 
-mno_village_buy_food|Achetez des fournitures des paysans. 
+mno_dplmc_village_elder_meeting|Parler à l'ancien
+mno_dplmc_village_elder_meeting_denied|Vous n'avez pas encore rencontré l'ancien
+mno_recruit_volunteers|Recruter des volontaires
+mno_recruit_forzosamente|Recrutement forcé.
+mno_village_center|Aller au village
+mno_village_center_door|Village
+mno_village_buy_food|Commercer avec les villageois
 mno_comprar_cattle|Je veux acheter du bétail. 
-mno_village_attack_bandits|Attaque les bandits. 
-mno_village_wait|Restez ici pendant un certain temps. 
+mno_village_attack_bandits|Attaquer les bandits
+mno_village_wait|Attendre ici jusqu'à nouvel ordre
 mno_village_guest_wait|Les villageois vous invitent à se reposer ici comme invités honorés. 
-mno_dplmc_village_counter_insurgency|Counter the insurgency. 
-mno_dplmc_village_negotiate|Commencer les négociations. 
-mno_collect_taxes_qst|{reg5?Continuez à collecter les taxes: Recouvrez les taxes} en raison de {s1}. 
-mno_train_peasants_against_bandits_qst|Former les paysans. 
-mno_village_hostile_action|Prenez une action hostile. 
+mno_dplmc_village_counter_insurgency|Contrer l'insurrection
+mno_dplmc_village_negotiate|Entamer des négociations
+mno_collect_taxes_qst|{reg5?Continuer à collecter les taxes:Collectez les taxes} au nom du {s1}
+mno_train_peasants_against_bandits_qst|Entraîner les paysans
+mno_village_hostile_action|Attenter une action hostile
 mno_village_perform_basic_work|Effectuez un travail très basique pour le village (soit agriculteur). 
-mno_village_leave|Quitter ... 
+mno_village_leave|Partir
 menu_village_basic_work|{s3} 
-menu_village_hostile_action|Quelles mesures avez-vous en tête? 
-mno_village_take_food|Forcer les paysans à vous fournir des fournitures. 
-mno_village_steal_cattle|Steal cattle. 
+menu_village_hostile_action|Quelle action avez-vous en tête ?
+mno_village_take_food|Forcer les paysans à vous donner des vivres
+mno_village_steal_cattle|Voler du bétail
 mno_forcerecruit_volunteers|Enslave les villageois. 
-mno_village_loot|Pillage et brûle ce village. 
+mno_village_loot|Mettre le village à sac
 menu_recruit_volunteers|{s18} 
-mno_continue_not_enough_gold|Je n'ai pas assez de cerf ... 
-mno_recruit_them|Recrutez-les pour ({reg6} cerfs d'argent). 
+mno_continue_not_enough_gold|Je n'ai pas assez d'argent...
+mno_recruit_them|Les recruter ({reg6} cerfs d'argent)
 menu_recruit_volunteers1|Vos hommes prennent les villageois par la force. 
-mno_let_them_keep_it|Continuez 
+mno_let_them_keep_it|Qu'ils les gardent !
 menu_recruit_volunteers2|{s18} 
-menu_village_hunt_down_fugitive_defeated|Un coup lourd du fugitif vous envoie au sol, et votre vision tourne et devient sombre. Le temps passe. Lorsque vous ouvrez de nouveau vos yeux, vous vous trouvez battu et ensanglanté, mais heureusement aucune des blessures ne semble être mortelle.
+menu_village_hunt_down_fugitive_defeated|Soudain, vous perdez connaissance, et vous vous écroulez à terre. ^Quand vous ouvrez les yeux, vous réalisez que vous baignez dans votre propre sang mais, fort heureusement, vos blessures sont bénignes.
 menu_village_infest_bandits_result|{s9}
-menu_village_infestation_removed|Dans une bataille digne de chanson, vous et vos hommes menaient les bandits hors du village, le mettant en sécurité une fois de plus. Les villageois vous offrent tout ce qu'ils peuvent trouver.
-mno_village_bandits_defeated_accept|Prenez-le commev otre due.
-mno_village_bandits_defeated_cont|Refusé, en indiquant qu'ils en ont plus besoin que vous.
-menu_center_manage|{s19} ^ {reg6?^^ Vous créez actuellement {s7}. Le bâtiment sera complété après {reg8} jour {reg9?S:}
-mno_center_build_manor|Construire un manoir.
-mno_center_build_fish_pond|Construire un moulin.
-mno_center_build_watch_tower|Construire une tour de surveillance.
-mno_center_build_school|Construire un école.
-mno_center_build_messenger_post|Construire un poste de messager.
-mno_center_build_prisoner_tower|Construire une tour de prisonniers.
+menu_village_infestation_removed|Combattant avec ardeur, avec vos hommes vous mettez les bandits en déroute. Le village est à nouveau sûr. ^Les villageois n'ont plus grand chose après ce qu'il s'est passé, mais ils vous offrent de bon cœur le peu qu'il leur reste. Vous décidez de...
+mno_village_bandits_defeated_accept|Prendre ce qui vous revient de droit
+mno_village_bandits_defeated_cont|Refuser, ils en ont plus besoin que vous
+menu_center_manage|{s19}^{reg6?^^Vous construisez actuellement {s7}. La construction sera achevée dans {reg8} jour{reg9?s:}.:}
+mno_center_build_manor|Construire un manoir
+mno_center_build_fish_pond|Construire un moulin
+mno_center_build_watch_tower|Construire une tour de guet
+mno_center_build_school|Construire une école
+mno_center_build_messenger_post|Construire un poste de messager
+mno_center_build_prisoner_tower|Construire une tour de prison
 mno_center_build_sod1|Incite les gens à adorer le Dieu Noyé.
 mno_center_build_sod2|Plantez un weirwood.
 mno_center_build_sod3|Construire un temple pour adorer R'hllor.
@@ -521,71 +521,71 @@ mno_center_build_sod18|Construire un sanctuaire à R'hllor.
 mno_center_build_sod41|Construire une forge.
 mno_center_build_sod42|Construire une salle de guilde.
 mno_center_build_sod43|Construire une bibliothèque.
-menu_center_improve|{s19} En tant que membre du groupe ayant le plus haut niveau d'ingénieur ({reg2}), {reg3?Vous comptez: {s3} compte} que la création de {s4} vous coûtera {reg5} cerfs d'argent et prendra {reg6} jours.
-mno_dplmc_improve_cont|Continuez. ( (Paiement par trésorerie)
-mno_improve_cont|Continuez.
-mno_improve_not_enough_gold|Je n'ai pas assez d'argent pour cela.
+menu_center_improve|{s19} En tant que meilleur ingénieur du groupe ({reg2}), {reg3?vous estimez:{s3} estime} que construire {s4} coûtera {reg5} cerfs d'argent et prendra {reg6} jours.
+mno_dplmc_improve_cont|Allons-y (Payer avec la trésorerie)
+mno_improve_cont|Lancer la construction
+mno_improve_not_enough_gold|Je n'ai pas assez d'argent pour ça
 menu_town_bandits_failed|{s4} {s5}
-menu_town_bandits_succeeded|Les bandits tombent devant vous comme un grain à une faux! Bientôt, vous vous tenez seul dans la rue alors que la plupart de vos attaquants sont inconscients, morts ou mourants. En recherchant les corps, vous trouvez un sac à main qui doit appartenir à une victime précédente de ces brutes. Ou peut-être, il leur a été donné par quelqu'un qui voulait organiser une fin appropriée pour votre vie.
-menu_village_steal_cattle_confirm|En tant que pilferer le plus qualifié de votre entreprise, ({reg2}), {reg3?Vous comptez: {s1} compte} que vous pouvez voler autant que {reg4} les têtes du bétail du village.
-mno_village_steal_cattle_confirm|Continuez.
+menu_town_bandits_succeeded|Les malfrats tombent sous vos coups. Vous vous retrouvez rapidement seul dans les rues désertes, avec les dépouilles de ceux qui ont eu l'impudence de vous tendre ce traquenard. ^^En fouillant les corps, vous trouvez une bourse pleine de cerfs d'argent. Probablement le fruit de leurs forfaits crapuleux. ^À moins bien sûr qu'elle ne leur fût donnée par un commanditaire souhaitant votre mort...
+menu_village_steal_cattle_confirm|En tant que membre le plus roublard du groupe ({reg2} en pillage), {reg3?vous estimez:{s1} estime} que vous pouvez voler {reg4} têtes de bétail au village.
+mno_village_steal_cattle_confirm|Parfait, tentons le coup !
 menu_village_steal_cattle|{s1}
 menu_forced_prisoners|{s18}
 mno_no_prisoners_capacity|Vous n'avez pas d'espace disponible pour plus de prisonniers.
 mno_continue_no_prisoners_captured|Vous n'avez pas réussi à capturer des prisonniers ...
 mno_capture_prisoners|Capture Prisoners.
-menu_village_take_food_confirm|Il sera difficile de forcer et de menacer les paysans à donner leurs précieux approvisionnements. Vous pensez avoir besoin d'au moins une heure.
-mno_village_take_food_confirm|Allez-y.
-menu_village_take_food|Les villageois soulèvent à contrecœur ce qu'ils ont pour vous.
-mno_take_supplies|Prenez les fournitures.
+menu_village_take_food_confirm|Il ne sera guère aisé de contraindre les villageois à vous céder leurs provisions. Vous pensez que vous aurez besoin d'au moins une heure pour tout ratisser.
+mno_village_take_food_confirm|Presser les villageois, et perquisitionner
+menu_village_take_food|Les villageois sont obligés de vous apporter ce que vous leur avez demandé.
+mno_take_supplies|Prélevez des vivres
 mno_let_them_keep_it_2|Laissez-les le garder.
-menu_village_start_attack|Certains des villageois en colère prennent leurs outils et se préparent à vous résister. Il semble que vous aurez un combat sur vos mains si vous continuez.
-mno_village_raid_attack|Chargez-les.
-mno_village_raid_leave|Laissez ce village seul.
+menu_village_start_attack|Des villageois s'arment d'outils et s'apprêtent à vous résister !
+mno_village_raid_attack|Les massacrer
+mno_village_raid_leave|Laisser le village en paix
 menu_village_raid_make_villagers_prisoners|
-mno_make_villagers_prisoners|Faites les villageois des prisonniers
-menu_village_loot_no_resist|Les villageois ici sont peu nombreux et effrayés, ils se dispersent et courent rapidement devant vous. Le village est à votre disposition.
-menu_village_loot_complete|Sur vos commandes, vos troupes sactent le village, pillent tout de toute valeur, puis mettent les bâtiments dans la torche. À partir des pièces de monnaie et des objets de valeur trouvés, vous obtenez votre part de {reg1} cerfs d'argent.
-menu_village_loot_defeat|Combattre avec courage et détermination, les villageois parviennent à se tenir ensemble et à quitter vos forces.
-menu_village_loot_continue|Vous souhaitez continuer à pilonner ce village?
+mno_make_villagers_prisoners|Faire prisonnier les villageois
+menu_village_loot_no_resist|Les villageois terrifiés se dispersent rapidement à la seule vue de vos troupes. ^Le village est à votre merci.
+menu_village_loot_complete|Vos hommes ont ravagé le village sur votre ordre, pillant tout ce qu'ils pouvaient avant de mettre le feu. ^Les cerfs d'argent et les objets de valeurs trouvés vous rapportent au total {reg1} cerfs d'argent
+menu_village_loot_defeat|Combattant avec l'énergie du désespoir, les villageois parviennent à vous repousser.
+menu_village_loot_continue|Voulez-vous continuer à piller ce village ?
 mno_yosi_yes|Oui.
 mno_yono_no|No.
-menu_close|Nothing.
+menu_close|Rien
 menu_town|{s30}
-mno_castle_castle|Visiter la salle du seigneur.
-mno_castle_castle_door|À la salle du seigneur.
-mno_join_tournament|Rejoignez le concours.
-mno_town_castle|Visiter la salle du seigneur.
-mno_town_castle_door|À la salle du seigneur.
-mno_town_center|Promenez-vous dans la ville.
-mno_town_center_door|Au centre de la ville.
-mno_town_tavern|Visiter l'auberge.
-mno_town_tavern_door|À la salle des mégapois.
-mno_town_merchant|Parlez avec le marchand.
-mno_town_merchant_door|Au marchand.
-mno_town_arena|Visiter les terrains d'entrainement.
-mno_town_arena_door|Aux terrains d'entrainement.
-mno_town_dungeon|Jamais: Entrez dans la prison.
-mno_town_dungeon_door|À la prison.
-mno_castle_inspect|Tournez les terrains.
-mno_castle_inspect_door|Leave.
-mno_town_enterprise|Visiter votre ferme.
-mno_town_enterprise_door|À votre entreprise.
-mno_visit_lady|Tentative de visite d'une femme.
-mno_visit_lady_door|Au jardin.
-mno_trade_with_merchants|Commerce avec les locaux.
+mno_castle_castle|Se rendre à la grande salle{s1}.
+mno_castle_castle_door|Château
+mno_join_tournament|Rejoindre le tournoi
+mno_town_castle|Château{s1}
+mno_town_castle_door|Château
+mno_town_center|Rues de la ville
+mno_town_center_door|Rues de la ville
+mno_town_tavern|Taverne
+mno_town_tavern_door|Taverne
+mno_town_merchant|Marchand
+mno_town_merchant_door|Boutique
+mno_town_arena|Arène
+mno_town_arena_door|Arène
+mno_town_dungeon|TRICHER : entrer dans les geôles
+mno_town_dungeon_door|Geôles
+mno_castle_inspect|Visiter les lieux
+mno_castle_inspect_door|Cour du château
+mno_town_enterprise|Se rendre dans votre {s3}
+mno_town_enterprise_door|Votre {s3}
+mno_visit_lady|Rendre visite à une dame
+mno_visit_lady_door|Jardin
+mno_trade_with_merchants|Place du marché
 mno_travel|Voyage à un autre port.
 mno_travel_door|Offrez votre parti.
-mno_walled_center_manage|Gérer ce {reg0?Ville: château}.
-mno_walled_center_move_court|Déplacez votre tribunal ici.
-mno_castle_station_troops|Gérer la garnison.
-mno_castle_wait|Attendez ici pendant un certain temps.
+mno_walled_center_manage|Gérer {reg0?la ville:le château}
+mno_walled_center_move_court|Déplacer votre cour ici
+mno_castle_station_troops|Gérer la garnison {s10}
+mno_castle_wait|Rester ici jusqu'à nouvel ordre {s1}
 mno_castle_wait_door|Bed.
 mno_town_alley|Effectuer des activités
 mno_town_visit_port|Voir les navires.
 mno_banquete_mead|Mes hommes méritent une fête. Achetez de l'hydromel et de la nourriture.
 mno_banquete_mead_door|Set sail.
-mno_whore_house|Visiter la putain de maison
+mno_whore_house|Visiter la maison close
 mno_whore_house_door|Set sail.
 mno_citadel|Visiter la citadelle.
 mno_citadel_door|Set sail.
@@ -599,10 +599,10 @@ mno_bank|Visiter la Banque de Braavos.
 mno_bank_door|Set sail.
 mno_set_sail|Navigation depuis le port.
 mno_set_sail_door|Set sail.
-mno_town_leave|Quitter ...
-mno_town_leave_door|Leave Area.
+mno_town_leave|Partir
+mno_town_leave_door|Partir
 menu_town1|{s10} {s14} ^ {s11} {s12} {s13}
-mno_town_brothel_braavos|Visiter le port heureux.
+mno_town_brothel_braavos|Visiter le port.
 mno_town_brothel_winterfell|Visiter le bordel.
 mno_town_brothel_kings_landing|Monastère de Visiter Chataya.
 mno_town_brothel_stoney_sept|Visiter the Peach.
@@ -610,220 +610,221 @@ mno_oldtown_citadel|Visiter la citadelle.
 mno_alchemists_guild|Visiter the Alchemists Guildhall.
 mno_boar_king|Présenter le sanglier abattu au petit conseil.
 mno_masopciones|Louez des hommes ou organisez des spectacles.
-mno_town_bank|Visiter les propriétaires et les prêteurs.
+mno_town_bank|Banque
 mno_town_ports|Visiter port de la ville.
-menu_cannot_enter_court|Il y a une fête en cours dans la salle du seigneur, mais vous n'avez pas le statut suffisant pour être invité à l'intérieur. Peut-être que votre renommée augmenterait votre admission - ou vous pourriez également essayer de vous distinguer lors d'un tournoi alors que la fête est en cours ...
-menu_lady_visit|Qui souhaitez-vous visiter?
-mno_visit_lady_1|Visiter {s12}
-mno_visit_lady_2|Visiter {s12}
-mno_visit_lady_3|Visiter {s12}
-mno_visit_lady_3_door|Porte sur le jardin.
-mno_visit_lady_4|Visiter {s12}
-mno_visit_lady_5|Visiter {s12}
-mno_visit_lady_6|Visiter {s12}
-mno_visit_lady_7|Visiter {s12}
-mno_visit_lady_8|Visiter {s12}
-menu_town_tournament_lost|Vous avez été éliminé du tournoi. {S8}
+menu_cannot_enter_court|On donne actuellement un banquet dans la grande salle, mais votre statut ne vous permet pas d'y assister. ^Pour vous faire admettre, vous devez acquérir une certaine renommée, ou tenter de vous distinguer lors d'un tournoi.
+menu_lady_visit|À qui voulez-vous rendre visite ?
+mno_visit_lady_1|Rendre visite à {s12}
+mno_visit_lady_2|Rendre visite à {s12}
+mno_visit_lady_3|Rendre visite à {s12}
+mno_visit_lady_3_door|Jardin.
+mno_visit_lady_4|Rendre visite à {s12}
+mno_visit_lady_5|Rendre visite à {s12}
+mno_visit_lady_6|Rendre visite à {s12}
+mno_visit_lady_7|Rendre visite à {s12}
+mno_visit_lady_8|Rendre visite à {s12}
+menu_town_tournament_lost|Vous avez été {éliminé/éliminée} du tournoi.{s8}
 menu_town_masopciones|La ville est une ruche d'activité. Vous souhaitez ...
 mno_town_recruit|Demandez si quelqu'un veut vous rejoindre.
 mno_entertaiment|Essayer une performance musicale ou un discours.
-mno_dplmc_guild_master_meeting|Rencontrez le Maître de guilde.
-mno_dplmc_guild_master_meeting_denied|Vous n'avez pas encore rencontré le Maîtrise de la guilde.
-menu_town_tournament_won|Vous avez gagné le tournoi de {s3}! Vous êtes remplis de fierté alors que la foule fait l'éloge de votre nom. En plus de l'honneur, de la gloire et de la gloire, vous gagnez un prix de {reg9} cerfs d'argent. {S8}
-menu_town_tournament_won_by_another|En tant que seul {reg3?Combattant: man} pour rester invaincu ce jour, {s1} gagne les listes et la gloire de ce tournoi.
-menu_town_tournament|{s1} Vous êtes au niveau {reg0} du tournoi, avec {reg1} participants restants. Au prochain tour, il y aura {reg2} équipes avec {reg3} {reg4?Combattants: combattant} chacun.
-mno_tournament_view_participants|Voir les participants.
-mno_tournament_bet|Placez un pari sur vous-même.
-mno_tournament_join_next_fight|Combattez au prochain tour.
+mno_dplmc_guild_master_meeting|Maître de guilde
+mno_dplmc_guild_master_meeting_denied|Maître de guilde (pas encore parlé)
+menu_town_tournament_won|Vous avez gagné le tournoi de {s3} ! Vous êtes le champion ! Une certaine fierté monte en vous lorsque la foule scande votre nom. ^En plus de l'honneur, de la célébrité et de la gloire, vous recevez un prix de {reg9} cerfs d'argent. {s8}
+menu_town_tournament_won_by_another|Étant {reg3?la seule femme invaincue:le seul homme invaincu} ce jour, {s1} gagne les prix et la gloire de ce tournoi.
+menu_town_tournament|{s1}Vous êtes au tour {reg0} du tournoi. Il reste {reg1} participants. ^Il y a {reg2} équipes avec {reg3} {reg4?combattants:combattant} dans chacune.
+mno_tournament_view_participants|Voir les participants
+mno_tournament_bet|Parier sur vous-même
+mno_tournament_join_next_fight|Combattre
 mno_tournament_opciones|Options de tournoi
-mno_leave_tournament|Retirer le tournoi.
-menu_tournament_withdraw_verify|Êtes-vous sûr de vouloir vous retirer du tournoi?
-mno_tournament_withdraw_yes|Oui. C'est une affectation inutile.
-mno_tournament_withdraw_no|Non, pas tant qu'il y a une chance de victoire!
-menu_tournament_bet|Les chances contre vous sont {reg5} à {reg6}. {Reg1? Vous avez déjà parié {reg1} cerfs d'argent sur vous-même, et si vous gagnez, vous gagnerez {reg2} cerfs d'argent .:} Combien voulez-vous parier?
+mno_leave_tournament|Se retirer du tournoi
+menu_tournament_withdraw_verify|Êtes-vous certain de vouloir vous retirer du tournoi ?
+mno_tournament_withdraw_yes|Oui, c'est peine perdue
+mno_tournament_withdraw_no|Non, pas tant qu'il reste une chance de victoire !
+menu_tournament_bet|Votre cote est de {reg5} contre {reg6}. {reg1?Vous avez déjà parié {reg1} cerfs d'argent sur vous-même et si vous gagnez, vous remporterez {reg2} cerfs d'argent.:} ^Combien souhaitez-vous miser ?
 mno_bet_100_denars|500 cerfs d'argent.
 mno_bet_50_denars|100 cerfs d'argent.
 mno_bet_20_denars|50 cerfs d'argent.
 mno_bet_10_denars|25 cerfs d'argent.
 mno_bet_5_denars|10 cerfs d'argent.
-menu_tournament_bet_confirm|Si vous pariez {reg1} cerfs d'argent, vous gagnerez {reg2} cerfs d'argent si vous gagnez le tournoi. Est-ce que tout va bien?
-mno_tournament_bet_accept|Allez-y.
-mno_tournament_bet_cancel|Oubliez-le.
-menu_tournament_participants|Vous demandez à l'un des créateurs le nom des participants au tournoi. Ils sont: ^ {s11}
-menu_collect_taxes|En tant que membre du groupe ayant la compétence commerciale la plus élevée ({reg2}), {reg3?Vous attendez: {s1} s'attend à ce que la perception des taxes à partir de là prendra {reg4} jours ...
-mno_start_collecting|Commencer à collecter.
-mno_collect_later|Mettez-le jusqu'à plus tard.
-menu_collect_taxes_complete|Vous avez collecté {reg3} cerfs d'argent en taxes de {s3}. {S19} vous attendra pour lui prendre l'argent.
-menu_collect_taxes_rebels_killed|Votre action rapide et votre bras fort ont réussi à faire tomber la révolte. Sûrement, toute personne ayant l'esprit de se rebeller contre vous pensera mieux après cela.
-menu_collect_taxes_failed|Vous ne pouvez collecter que {reg3} cerfs d'argent en tant que taxe de {s3} avant l'éclatement de la révolte. {S1} ne sera pas heureux, mais de l'argent l'apaisera mieux que rien du tout ...
+menu_tournament_bet_confirm|Si vous misez {reg1} cerfs d'argent, vous remporterez {reg2} cerfs d'argent, à condition de gagner le tournoi. ^Cela vous convient-il ?
+mno_tournament_bet_accept|Oui, je confirme ma mise
+mno_tournament_bet_cancel|Non, je rétracte ma mise
+menu_tournament_participants|Vous demandez au maître de l'arène les noms des participants du tournoi. Il y a : ^{s11}
+menu_collect_taxes|En tant que membre du groupe ayant la compétence commerciale la plus élevée ({reg2}), {reg3?Vous vous attendez: {s1} s'attend} à ce que la collecte les impôts prendra {reg4} jours ...
+mno_start_collecting|Commencer la collecte
+mno_collect_later|La remettre à plus tard
+menu_collect_taxes_complete|Les impôts que vous avez perçus à {s3} s'élèvent à {reg3} cerfs d'argent. {s19} s'attend certainement à ce que vous les lui ameniez dès que possible.
+menu_collect_taxes_rebels_killed|Sous votre commandement, vos troupes ont maté la jacquerie jusque dans les chaumières. ^Voilà qui devrait durablement soumettre même les plus rétifs de ces gueux.
+menu_collect_taxes_failed|Vous n'aviez collecté que {reg3} cerfs d'argent d'impôts à {s3} avant que la jacquerie n'éclate. ^{s1} sera contrarié... mais un peu d'argent le satisfera quand même plus que pas d'argent du tout...
 menu_monasterio_saqueado|Le terreau de septons trempé et leurs corps sont nourris aux corbeaux. Une victoire facile, une excellente récompense ... mais vous avez créé de nouveaux ennemis parmi la Foi.
-menu_collect_taxes_revolt_warning|Les personnes de {s3} sont outragées à vos demandes et décrivent-en comme rien de plus que l'extorsion. Ils deviennent très agités, et ils peuvent réagir mal si vous continuez à les presser.
-mno_continue_collecting_taxes|Ignorer et continuer.
-mno_halve_taxes|D'accord pour réduire votre collecte à la moitié. ({S1} peut être contrarié)
-menu_collect_taxes_revolt|Vous êtes interrompu lors de la collecte des taxes à {s3}. Un grand groupe de colère {reg9?Les paysans: les habitants de la ville se rapprochent, crient les impôts exorbitants et les torches et les armes qui agitent. Il semble qu'ils visent à vous battre!
-menu_train_peasants_against_bandits|En tant que membre du parti ayant la compétence de formation la plus élevée ({reg2}), {reg3?Vous vous attendez: {s1} s'attend à ce que certains paysans prêts à pratiquer prendront {reg4} heures.
-mno_make_preparation|Former les.
-mno_train_later|Mettez-le hors tension jusqu'à plus tard.
-menu_train_peasants_against_bandits_ready|Vous mettez les paysans à travers les bases du soldat, de la discipline et de l'obéissance. Vous pensez {reg0} d'entre eux {reg1?Ont: a compris pleinement la formation et {reg1?Sont: est prêt pour une certaine pratique.
-mno_peasant_start_practice|Commencez le combat d'entraînement.
+menu_collect_taxes_revolt_warning|La populace de {s3} est scandalisée par vos exigences, et crie à l'extorsion ! ^L'agitation qui règne ici indique que la situation pourrait dégénérer, si vous continuez à les oppresser.
+mno_continue_collecting_taxes|Payer l'impôt est un devoir ! Poursuivons cette collecte normalement.
+mno_halve_taxes|Vox populi, vox dei. Réduire de moitié l'impôt ({s1} risque de ne pas apprécier)
+menu_collect_taxes_revolt|Alors que vous collectiez les impôts de {s3}, vous êtes interrompu par de nombreux {reg9?paysans:citadins} furieux s'approchant de vous, qui réprouvent le montant exorbitant des taxes en brandissant torches et armes. ^Il semble qu'ils veuillent en découdre avec vous !
+menu_train_peasants_against_bandits|Selon {reg3?vous:{s1}} ({reg2} en Mentor), il faudrait à ces paysans au moins {reg4} heures d'entraînement.
+mno_make_preparation|Les entraîner
+mno_train_later|Remettre cela à plus tard
+menu_train_peasants_against_bandits_ready|Vous enseignez aux paysans les bases du combat, de la discipline et des valeurs militaires. ^Vous pensez que {reg0} d'entre eux {reg1?sont prêts:est prêt} à passer à la pratique.
+mno_peasant_start_practice|Entamer les exercices de combat
 menu_train_peasants_against_bandits_training_result|{s0}
-menu_train_peasants_against_bandits_attack|Alors que vous vous préparez à poursuivre la formation, une sentinelle du village est à votre compte en criant. Les bandits ont été repérés à l'horizon, car ils ont duré pour {s3}. L'aîné demande que vous organisiez votre milice nouvellement formée et que vous les affrontez.
-mno_peasants_against_bandits_attack_resist|Préparez-vous à un combat!
+menu_train_peasants_against_bandits_attack|Tandis que vous vous apprêtiez à poursuivre l'entraînement, une sentinelle du village court vers vous en criant. Des bandits ont été aperçus se dirigeant droit sur {s3}. ^L'ancien vous conjure d'organiser la défense à l'aide de la milice fraîchement formée.
+mno_peasants_against_bandits_attack_resist|Se préparer au combat !
 menu_train_peasants_against_bandits_attack_result|{s9}
-menu_train_peasants_against_bandits_success|Les bandits sont cassés! Ces quelques-uns qui restent à coups de queue entre leurs jambes, terrifiés aux paysans et à leur nouveau champion. Les villageois ont peu laissé la richesse après leur épreuve, mais ils vous offrent tout ce qu'ils peuvent trouver pour montrer leur gratitude.
+menu_train_peasants_against_bandits_success|Les bandits sont vaincus ! Quelques uns parviennent à s'enfuir, abasourdis par l'audace de leurs anciennes victimes et leur nouveau champion. ^Les villageois n'ont plus beaucoup à vous offrir après leur long calvaire, mais ils vous offrent tout ce qu'ils trouvent pour vous témoigner de leur gratitude.
 menu_landing_point_encounter|Désirez-vous débarquer?
-mno_disembark_no|No.
+mno_disembark_no|Non
 menu_landet_ships_encounter|Vous souhaitez vous embarquer?
-mno_reembark_no|No.
+mno_reembark_no|Non
 menu_ferry_encounter|Le capitaine du ferry vous portera de l'autre côté pour les cerfs [reg7}.
 mno_back|Retour.
 menu_port_encounter|Vous rencontrez le port de {s2}. {S3}
 mno_attack|Attack.
 mno_merge|Fusionner les flottes.
-menu_center_reports|Nom de la ville: {s1} ^ Revenu de loyer: {reg1} cerfs d'argent ^ Revenu tarifaire: {reg2} cerfs d'argent ^ Stock alimentaire: pour {reg3} jours
-mno_to_price_and_productions|Afficher les prix et les productions.
-menu_price_and_production|Les productions sont: ^ (Note: base / modifiée par les matières premières / modifiées par les matériaux plus la prospérité) ^ {s1} ^^ Les facteurs de prix sont: ^ {s2}
-menu_town_trade|Vous vous dirigez vers le marché.
-mno_assess_prices|Évaluez les prix locaux.
+menu_center_reports|{s1}^Revenus : {reg1} cerfs d'argent^Rentrée des taxes : {reg2} cerfs d'argent^Réserves de nourriture suffisantes pour {reg3} jours.
+mno_to_price_and_productions|Afficher les prix et les productions
+menu_price_and_production|Biens produits :^{s1}^^Facteurs de prix :^{s2}
+menu_town_trade|Place du marché
+mno_assess_prices|Évaluer les opportunités commerciales
 mno_trophies: échangez vos trophées de combat.
-mno_trade_with_arms_merchant|Commerce avec le marchand d'armes.
-mno_trade_with_armor_merchant|Commerce avec le marchand d'armures.
-mno_trade_with_horse_merchant|Commerce avec le marchand de chevaux.
-mno_trade_with_goods_merchant|Commerce avec le marchand de marchandises.
-mno_back_to_town_menu|Retour arrière.
+mno_trade_with_arms_merchant|- Marchand d'armes -
+mno_trade_with_armor_merchant|- Marchand d'armures -
+mno_trade_with_horse_merchant|- Marchand de chevaux -
+mno_trade_with_goods_merchant|- Marchand de biens -
+mno_back_to_town_menu|Retour
 menu_trophy_trade|Vous échangez vos trophées de combat.
 mno_trade_trophy_a|Trade in your battle trophy.
 mno_trade_trophy_b|Trade in your war trophy.
 mno_trade_trophy_c|Trade in your épic trophy
-menu_town_trade_assessment_begin|Vous écoutez plusieurs discussions sur le prix des marchandises commerciales dans la zone locale.^ Vous écoutez attentivement, en essayant de trouver les meilleures offres.
-menu_town_trade_assessment|En tant que membre du parti ayant la compétence commerciale la plus élevée ({reg2}), {reg3?Vous essayez de comprendre: {s1} tente de comprendre} les meilleurs produits à échanger. {S2}
+menu_town_trade_assessment_begin|Vous surprenez plusieurs discussions au sujet du prix des marchandises dans la région. Vous écoutez attentivement afin de pouvoir réaliser les meilleures affaires.
+menu_town_trade_assessment|Étant le membre du groupe le plus au fait des négoces ({reg2} en Marchandage), {reg3?vous essayez d'estimer:{s1} essaie d'estimer} les biens les plus rentables. {s2}
 menu_sneak_ dans_town_suceeded|Déguisé dans les vêtements d'un pèlerin pauvre, vous tromper les gardes et faire votre chemin dans la ville.
-menu_sneak_into_town_caught|Comme vous essayez de vous insérer, l'un des gardiens vous reconnaît et augmente l'alarme! Vous devez fuir par les portes avant que tous les gardes de la ville ne tombent sur vous!
-mno_sneak_caught_fight|Essayez de combattre votre sortie!
-mno_sneak_caught_surrender|Surrender.
+menu_sneak_into_town_caught|Tandis que vous essayez de vous infiltrer, un des gardes vous reconnaît et lance l'alarme. ^Vous devez passez les portes pour vous enfuir avant que toute la garnison ne vous tombe dessus !
+mno_sneak_caught_fight|Essayer de fuir
+mno_sneak_caught_surrender|Se rendre
 menu_sneak_into_city_caught_dispersed_guards|Vous débranchez les gardes et couvrez votre parcours avant de fuir, perdant facilement vos poursuivants dans le labyrinthe des rues.
 menu_sneak_to_town_caught_ran_away|Vous reculez dans les portes et reculez rapidement vers la sécurité de la campagne. {S11}
-menu_enemy_offer_ransom_for_prisoner|{s2} vous offre une somme de {reg12} cerfs d'argent si vous souhaitez les vendre {s1} ({s3}).
-mno_ransom_accept|Acceptez l'offre.
-mno_ransom_reject|Rejeter l'offre.
-menu_training_ground|Vous approchez d'un champ de formation où vous pouvez exercer vos compétences martiales. Quel type de formation voulez-vous faire?
-mno_camp_trainer|Parlez avec le formateur.
-mno_camp_train_melee|Sparring practice.
-mno_camp_train_archery|Compétition d'armes à distance.
-mno_camp_train_mounted|Horseback practice.
-menu_training_ground_selection_details_melee_1|Combien d'adversaires contreviendriez-vous?
-mno_camp_train_melee_num_men_1|One.
-mno_camp_train_melee_num_men_2|Deux.
-mno_camp_train_melee_num_men_3|Trois.
-mno_camp_train_melee_num_men_4|Quatre.
+menu_enemy_offer_ransom_for_prisoner|{s2} vous offre la somme de {reg12} cerfs d'argent si vous acceptez de lui vendre {s1}.
+mno_ransom_accept|Accepter l'offre
+mno_ransom_reject|Refuser l'offre
+menu_training_ground|Vous approchez un terrain où les gens du coin s'entraînent aux armes. ^Quel type d'entraînement désirez-vous pratiquer ?
+mno_camp_trainer|Parler avec le maître d'armes
+mno_camp_train_melee|Entraînement au corps à corps
+mno_camp_train_archery|Entraînement aux armes à distance
+mno_camp_train_mounted|Entraînement à l'équitation
+menu_training_ground_selection_details_melee_1|Combien d'adversaires désirez-vous affronter ?
+mno_camp_train_melee_num_men_1|Un
+mno_camp_train_melee_num_men_2|Deux
+mno_camp_train_melee_num_men_3|Trois
+mno_camp_train_melee_num_men_4|Quatre
 menu_training_ground_selection_details_melee_2|Choisissez votre adversaire # {reg1}:
-mno_training_ground_selection_details_melee_random|Choisissez au hasard.
-menu_training_ground_selection_details_mounted|Quelle sorte d'arme voulez-vous entraîner?
-mno_camp_train_mounted_details_1|Arme à une main.
-mno_camp_train_mounted_details_2|Polearm.
-mno_camp_train_mounted_details_3|Bow.
-mno_camp_train_mounted_details_4|Arme jetée.
-menu_training_ground_selection_details_ranged_1|Quel genre d'arme à distance voulez-vous entraîner?
-mno_camp_train_ranged_weapon_bow|Arc et flèches.
-mno_camp_train_ranged_weapon_crossbow|Crossbow.
-mno_camp_train_ranged_weapon_thrown|Lancer des couteaux.
-menu_training_ground_selection_details_ranged_2|À quelle plage souhaitez-vous pratiquer?
-mno_camp_train_ranged_details_1|10 yards.
-mno_camp_train_ranged_details_2|20 yards.
-mno_camp_train_ranged_details_3|30 yards.
-mno_camp_train_ranged_details_4|40 yards.
-mno_camp_train_ranged_details_5|50 yards.
-mno_camp_train_ranged_details_6|60 yards.
-mno_camp_train_ranged_details_7|70 yards.
+mno_training_ground_selection_details_melee_random|Aléatoire
+menu_training_ground_selection_details_mounted|Avec quel type d'arme souhaitez-vous vous entraîner ?
+mno_camp_train_mounted_details_1|Arme à une main
+mno_camp_train_mounted_details_2|Arme d'hast
+mno_camp_train_mounted_details_3|Arc
+mno_camp_train_mounted_details_4|Arme de jet
+menu_training_ground_selection_details_ranged_1|Avec quel type d'arme à distance souhaitez-vous vous entraîner ?
+mno_camp_train_ranged_weapon_bow|Arc
+mno_camp_train_ranged_weapon_crossbow|Arbalète
+mno_camp_train_ranged_weapon_thrown|Couteaux de lancer
+menu_training_ground_selection_details_ranged_2|Sur quelle distance voulez-vous vous entraîner ?
+mno_camp_train_ranged_details_1|10 mètres
+mno_camp_train_ranged_details_2|20 mètres
+mno_camp_train_ranged_details_3|30 mètres
+mno_camp_train_ranged_details_4|40 mètres
+mno_camp_train_ranged_details_5|50 mètres
+mno_camp_train_ranged_details_6|60 mètres
+mno_camp_train_ranged_details_7|70 mètres
 menu_training_ground_description|{s0}
 menu_training_ground_training_result|{s7} {s2}
-menu_marshall_selection_candidate_ask|{s15} sélectionnera bientôt un nouveau maréchal pour le {s23}. Certains des seigneurs ont suggéré votre nom comme candidat probable.
+menu_marshall_selection_candidate_ask|{s15} désignera bientôt un nouveau maréchal pour le {s23}. Certains seigneurs ont évoqué votre nom comme candidat potentiel.
 mno_marshal_candidate_accept|Let {s15} sait que vous êtes prêt à servir de marshal.
 mno_marshal_candidate_reject|Dites à tous que vous êtes trop occupé ces jours-ci.
-menu_captivity_avoid_wilderness|Soudain, tout le monde est noir autour de vous. Beaucoup d'heures plus tard, vous retrouvez votre conscience et vous retrouvez à l'endroit où vous êtes tombé. Vos ennemis doivent vous avoir pris pour mort et vous ont laissé là. Cependant, il semble qu'aucune de vos blessures n'ait été mortelle, et même si vous vous sentez horribles, vous comprenez que vous pouvez encore marcher. Vous vous lève et essayez de chercher d'autres survivants de votre parti.
-menu_captivity_start_wilderness|Stub
-menu_captivity_start_wilderness_surrender|Stub
-menu_captivity_start_wilderness_defeat|Vos ennemis vous emmenent prisonniers.
-menu_captivity_start_castle_surrender|Stub
-menu_captivity_start_castle_defeat|Stub
-menu_captivity_start_under_siege_defeat|Vos ennemis vous emmenent prisonniers.
-menu_captivity_wilderness_taken_prisoner|{s2}
+menu_captivity_avoid_wilderness|Subitement le monde vacille et s'assombrit tout autour de vous. ^Après plusieurs heures, vous reprenez vos esprits à l'endroit même où vous aviez perdu connaissance. Vos ennemis vous ont sûrement laissé pour mort. ^Grâce à la providence, vos blessures ne laisseront pas de séquelle, si bien que vous pouvez encore marcher malgré votre état de santé critique. ^Vous vous relevez et cherchez autour de vous d'autres survivants.
+menu_captivity_start_wilderness|poursuivre
+menu_captivity_start_wilderness_surrender|poursuivre
+menu_captivity_start_wilderness_defeat|Vous êtes {fait prisonnier/faite prisonniére} par l'ennemi.
+menu_captivity_start_castle_surrender|poursuivre
+menu_captivity_start_castle_defeat|poursuivre
+menu_captivity_start_under_siege_defeat|Vous êtes {fait prisonnier/faite prisonniére} par l'ennemi.
+menu_captivity_wilderness_taken_prisoner|Vous êtes {fait prisonnier/faite prisonniére} par l'ennemi.
 mno_continue1|Continuer ...
-menu_captivity_wilderness_check|stub
-menu_captivity_end_wilderness_escape|Après des jours douloureux d'être traîné en tant que prisonnier, vous avez une chance et échappez à vos ravisseurs!
-menu_captivity_castle_taken_prisoner|Vous êtes rapidement entouré de gardes qui enlèvent vos armes. Avec des malédictions et des insultes, ils vous jettent dans le cachot où vous devez cesser les jours misérables de votre captivité.
-menu_captivity_rescue_lord_taken_prisoner|Vous restez dissimulé le plus longtemps possible avant de vous révéler. Les gardes sont outragés et vous battent sauvagement avant de vous renvoyer dans la cellule pour que Dieu sache combien de temps ...
-menu_captivity_castle_check|stub
-menu_captivity_end_exchanged_with_prisoner|Après des jours d'emprisonnement, vous êtes enfin libéré lorsque vos capteurs vous échangent avec un autre prisonnier.
-menu_captivity_end_propose_ransom|Vous passez de longues heures dans l'espace sans soleil du donjon, plus que vous ne pouvez compter. Soudainement, un de vos capteurs entre dans votre cellule avec une offre; Il propose de vous libérer en échange de {reg5} cerfs d'argent de votre richesse cachée. Vous décidez ...
-mno_captivity_end_ransom_accept|Acceptez l'offre.
-mno_captivity_end_ransom_deny|Refusez-le, attendez quelque chose de mieux.
-menu_captivity_castle_remain|Plus de jours passent dans l'obscurité de votre cellule. Vous les traversez le mieux possible, endurant les coups de pied et les malédictions des gardes, en surveillant de plus en plus votre corps sous le corps ...
-menu_kingdom_army_quest_report_to_army|{s8} envoie un mot qu'il souhaite que vous rejoigniez {reg4?Sa: sa nouvelle campagne militaire. Vous devez apporter au moins des troupes à l'armée, et vous êtes chargé d'élever plus d'hommes avec toute la hâte si vous n'en avez pas assez.
-menu_kingdom_army_quest_messenger|{s8} envoie un mot qu'il souhaite parler avec vous au sujet d'une tâche dont il a besoin. Il vous demande de venir le voir le plus tôt possible.
-menu_kingdom_army_quest_join_siege_order|{s8} envoie un mot que vous devez rejoindre le siège de {s9} en prévision d'un assaut complet. Vos troupes doivent prendre {s9} à tout prix.
-menu_kingdom_army_follow_failed|Vous n'avez pas suivi {s8}. Le maréchal suppose que vous étiez autrement engagé, mais vous auriez apprécié votre soutien.
-menu_invite_player_to_faction_without_center|Vous recevez une offre de vassalage!^^ {s8} de {s9} a envoyé un héraut royal pour vous apporter une invitation de sa main. Vous obtiendrez l'honneur de devenir un vassal {dieu / dame} de {s9}, et en retour {s8} vous demande de lui faire un serment d'hommage et de vous battre dans ses campagnes militaires, bien qu'il ne vous offre aucune terre ou Titres. Il sera certainement offensé si vous ne prenez pas l'offre ...
-mno_faction_accept|Acceptez!
-mno_faction_reject|Réduire l'invitation.
-menu_invite_player_to_faction|Vous recevez une offre de vassalage!^^ {s8} de {s9} a envoyé un héraut royal pour vous apporter une invitation de sa main. Vous obtiendrez l'honneur de devenir un vassal {dieu / dame} de {s9}, et en retour {s8} vous demande de jurer un serment d'hommage à {reg4?Elle: se battre dans ses campagnes militaires, vous offrant le fief de {s2} pour votre service fidèle. {Reg4?Elle: Il sera certainement offensé si vous ne prenez pas l'offre ...
-menu_invite_player_to_faction_accepted|Pour devenir vassal, vous devez jurer un serment d'hommage à {s3}. Vous devrez le trouver et lui donner son serment en personne. {S5}
-menu_question_peace_offer|Vous recevez une offre pour la paix ^^ Le {s1} vous offre un accord de paix. Quelle est ta réponse?
-mno_peace_offer_accept|Accept
-mno_dplmc_peace_offer_terms|Donner les termes de paix
-mno_peace_offer_reject|Rejeter
+menu_captivity_wilderness_check|poursuivre
+menu_captivity_end_wilderness_escape|Après plusieurs jours pénibles en captivité, vous parvenez à tromper la vigilance de vos ennemis et à prendre la fuite !
+menu_captivity_castle_taken_prisoner|Les gardes vous encerclent rapidement et ils vous font rendre les armes. ^Sous les quolibets et les insultes, ils vous jettent au cachot où vous passerez tous les jours de votre misérable captivité.
+menu_captivity_rescue_lord_taken_prisoner|Vous gardez votre déguisement aussi longtemps que possible avant de dévoiler qui vous êtes. ^Les gardes, furieux d'avoir été dupés, vous rossent violemment avant de vous remettre au cachot pour Dieu sait combien de temps...
+menu_captivity_castle_check|poursuivre
+menu_captivity_end_exchanged_with_prisoner|Après des jours d'emprisonnement, on vous libère lors d'un échange de prisonniers.
+menu_captivity_end_propose_ransom|Vous passez de longues heures dans la sombre moiteur du cachot, tant que vous ne pouvez plus les compter. Soudain l'un de vos geoliers entre dans votre cellule avec une offre : il se propose de vous libérer contre {reg5} cerfs d'argent. Vous décidez...
+mno_captivity_end_ransom_accept|D'accepter l'offre.
+mno_captivity_end_ransom_deny|D'attendre une meilleure opportunité.
+menu_captivity_castle_remain|Les jours passent dans l'insalubrité de votre cellule, où vous dépérissez sous les maltraitances des gardes.
+menu_kingdom_army_quest_report_to_army|{s8} souhaite que vous vous joigniez à sa nouvelle campagne militaire. ^Pour être utile à cette campagne, vous devez avoir sous votre bannière au moins {reg13} soldats, ou bien en recruter rapidement si vous n'en avez pas assez.
+menu_kingdom_army_quest_messenger|{s8} vous fait savoir qu'il souhaite vous parler au sujet d'une mission importante. Il demande que vous veniez le voir le plus rapidement possible.
+menu_kingdom_army_quest_join_siege_order|{s8} vous charge de la mission de rejoindre le siège de {s9} afin de préparer l'assaut final. Vos hommes doivent prendre {s9} à n'importe quel prix.
+menu_kingdom_army_follow_failed|Vous n'avez pas suivi {s8}. Le maréchal présume que vous étiez engagé ailleurs, mais aurait apprécié votre support.
+menu_invite_player_to_faction_without_center|Vous recevez une offre de vassalité !^^ {s8} du {s9} a dépêché un messager royal pour vous transmettre une proposition signée de sa propre main. ^Vous aurez l'honneur de devenir {un vassal/une vassale} du {s9}, et en retour {s8} vous demande de lui prêter serment d'allégeance et de combattre en son nom, malgré qu'aucun fief ne vous soit confié. ^Un refus de votre part serait considéré comme une offense.
+mno_faction_accept|Accepter !
+mno_faction_reject|Décliner l'invitation.
+menu_invite_player_to_faction|Vous recevez une offre de vassalité !^^ {s8} du {s9} a dépêché un messager royal pour vous transmettre une proposition signée de sa propre main. ^Vous aurez l'honneur de devenir {un vassal/une vassale} du {s9}, et en retour {s8} vous demande de lui prêter serment d'allégeance et de combattre en son nom, de surcroît le fief de {s2} vous sera confié pour vos loyaux services. ^Un refus de votre part serait considéré comme une offense.
+menu_invite_player_to_faction_accepted|{s3} attend que vous veniez lui prêter serment d'allégeance et lui jurer de servir sa cause afin de devenir son vassal. {s5}.
+menu_question_peace_offer|Vous propose un traité d'armistice^^{s1} vous offre de conclure un armistice. Quelle est votre réponse ?
+mno_peace_offer_accept|Accepter et faire la paix
+mno_dplmc_peace_offer_terms|Dicter les termes de la paix
+mno_peace_offer_reject|Poursuivre les hostilités
 menu_notification_truce_expiré|La trêve a expiré ^^ La trêve entre {s1} et {s2} a expiré.
 menu_notification_feast_quest_expiré|{s10}
-menu_notification_sortie_possible|Enemy Sighted: Les ennemis ont été aperçus à l'extérieur des murs de {s4}, et {s5} et d'autres se préparent à une sortie. Vous pouvez les rejoindre si vous le souhaitez.
+menu_notification_sortie_possible|Ennemis repérés à l'extérieur des remparts de {s4}. {s5} et d'autres préparent une sortie à laquelle vous pouvez vous joindre si le cœur vous en dit.
 menu_notification_casus_belli_expiré|Kingdom Fails to Responder ^^ Le {s1} n'a pas répondu aux provocations du {s2}, et {s3} souffre d'une perte de visage parmi {reg4?Elle: ses plus de sujets belliqueux ...^
-menu_notification_lord_defects|Défection: {s4} a abandonné le {s5} et a rejoint {s7}, prenant {reg4?Elle: ses fiefs avec eux
-menu_notification_treason_indictment|Trahison Indictment ^^ {s9}
-menu_notification_border_incident|incident de bordure ^^ Le mot vous arrive que {s9}. Bien que vous ne sachiez pas si les rumeurs sont vraies, vous savez une chose - cet incident apparemment mineur a suscité des passions parmi les gens de {s4}, ce qui les rend plus faciles à faire en guerre contre {s3}. ..
-menu_notification_player_faction_active|Vous possédez maintenant un terrain en votre nom, sans être lié à aucun royaume. Cela vous rend un monarque à part entière, votre cour étant temporairement situé à {s12}. Cependant, les autres rois dans les Sept Royaumes vous considéreront d'abord comme une menace, car si un seigneur de la guerre peut saisir un trône, sa propre légitimité est remise en cause.^^ Vous pourriez trouver à ce moment-ci souhaitable de vous engager dans un royaume existant. Si vous voulez continuer en tant que monarque souverain, votre première priorité devrait être d'établir un droit indépendant à la règle. Vous pouvez établir votre droit à la domination par plusieurs moyens: vous marier dans une famille haute, recruter de nouveaux seigneurs, gouverner vos terres, traiter avec d'autres rois, ou répartir vos compagnons en mission.^^ En tout cas, votre première étape devrait être de nommer un ministre en chef parmi vos compagnons, pour gérer les affaires d'état. Différents compagnons ont des capacités différentes.^ Vous pouvez nommer de nouveaux ministres de temps à autre. Vous pouvez également modifier l'emplacement de votre tribunal en s'adressant au ministre.
-mno_appoint_spouse|Nommez votre femme, {s10} ...
-mno_appoint_npc1|Appoint {s10}
-mno_appoint_npc2|Appoint {s10}
-mno_appoint_npc3|Appoint {s10}
-mno_appoint_npc4|Appoint {s10}
-mno_appoint_npc5|Appoint {s10}
-mno_appoint_npc6|Appoint {s10}
-mno_appoint_npc7|Appoint {s10}
-mno_appoint_npc8|Appoint {s10}
-mno_appoint_npc9|Appoint {s10}
-mno_appoint_npc10|Appoint {s10}
-mno_appoint_npc11|Appoint {s10}
+menu_notification_lord_defects|Défection, {s4} a abandonné le {s5} et rejoint le {s7} en emportant ses fiefs.
+menu_notification_treason_indictment|Inculpation pour trahison^^{s9}
+menu_notification_border_incident|Incident frontalier^^Vous apprenez que {s9}. Vous ignorez si ces rumeurs sont fondées, mais vous savez que cet insignifiant incident a attisé les anciennes rancoeurs au sein du {s4} qui risque d'en profiter pour déclarer la guerre au {s3}, s'il le désire.
+menu_notification_player_faction_active|Vous possédez à présent vos propres terres, sans dépendre d'aucun royaume. Cela fait de vous un monarque de plein droit dont la cour se trouve provisoirement à {s12}. Mais les autres rois dans les Sept Royaumes ne vont pas tarder à vous considérer comme une menace car, à leurs yeux, un seigneur de la guerre qui parvient à s'emparer d'un trône peut également remettre en question leur légitimité.^^À ce stade, vous préférerez peut-être vous engager avec un royaume existant. Si vous choisissez de poursuivre votre voie en tant que monarque indépendant, votre priorité sera de faire reconnaitre votre droit à régner. Pour ce faire, plusieurs moyens s'offrent à vous, faire un mariage dans une famille de haut rang, recruter de nouveaux seigneurs, diriger vos terres, traiter avec d'autres rois ou envoyer vos compagnons en missions.^^Quel que soit votre choix, la première étape consiste à nommer un ministre parmi vos compagnons afin de gérer les affaires d'état. Les compagnons n'ont pas tous les mêmes capacités.^Vous pouvez nommer de nouveaux ministres de temps en temps. Vous pouvez également ordonner le déménagement de votre cour en vous adressant au ministre.
+mno_appoint_spouse|Nommer votre épouse, {s10}.
+mno_appoint_npc1|Nommer {s10}
+mno_appoint_npc2|Nommer {s10}
+mno_appoint_npc3|Nommer {s10}
+mno_appoint_npc4|Nommer {s10}
+mno_appoint_npc5|Nommer {s10}
+mno_appoint_npc6|Nommer {s10}
+mno_appoint_npc7|Nommer {s10}
+mno_appoint_npc8|Nommer {s10}
+mno_appoint_npc9|Nommer {s10}
+mno_appoint_npc10|Nommer {s10}
+mno_appoint_npc11|Nommer {s10}
 mno_appoint_kurleket|Appoint {s10}
 mno_appoint_jorah|Appoint {s10}
 mno_appoint_son|Appoint {s10}
 mno_appoint_daughter|Appoint {s10}
-mno_appoint_default|Nommez un citoyen éminent de la région ...
-menu_minister_confirm|{s9} peut être trouvé à votre cour dans {s12}. Vous devriez consulter périodiquement, pour éviter l'accumulation de problèmes non résolus qui pourraient entraver votre autorité ...
+mno_appoint_default|Nommer un éminent citoyen de la région.
+menu_minister_confirm|Vous trouverez {s9} à la cour de {s12}. Une consultation régulière évitera l'accumulation des problèmes en suspens, à terme ils risqueraient de saper votre autorité.
 menu_notification_court_lost|{s12}
-menu_notification_player_faction_deactive|Votre royaume ne détient plus de terrain.
-menu_notification_player_wedding_day|{s8} souhaite vous informer que les préparatifs de votre mariage à {s10} ont été complets et que votre présence est attendue imminente.
+menu_notification_player_faction_deactive|Vous ne possédez désormais plus aucune terre.
+menu_notification_player_wedding_day|{s8} vous informe que les préparatifs de votre mariage à {s10} sont terminés et que votre présence y est expressément attendue.
 menu_notification_player_kingdom_holds_feast|{s11}
-menu_notification_center_under_siege|{s1} a été assiégé par {s2} de {s3}!^^ Le colonel est entouré et assiégé. Ses guerriers doivent se fléchir derrière les murs plutôt que faire face à l'ennemi avec des lames entre les mains!
-menu_notification_village_raided|Les ennemis ont déposé Waste to a Fief ^^ {s1} ont été envoyés par {s2} de {s3}!
-menu_notification_village_raid_started|Votre village est sous attaque!^^ {s2} de {s3} pose des déchets à {s1}.
-menu_notification_one_faction_left|Les sept royaumes et Essos ont été conquis par One Ruler ^^ {s1} a vaincu tous les rivaux. Vous êtes maintenant le roi à l'ensemble du monde connu!
-menu_notification_oath_renounced_faction_defeated|Votre ancienne faction a été renversée ^^ Vous avez gagné la bataille contre {s1}! Cela met fin à votre lutte qui a commencé après que vous avez renoncé à votre serment.
-menu_notification_center_lost|Un domaine a été perdu ^^ Vous avez perdu {s1} à {s2}.
-menu_notification_troop_left_players_faction|Trahison!^^ {s1} a quitté {s2} et a rejoint {s3}.
-menu_notification_troop_joined_players_faction|Bonne nouvelle!^^ {s1} a quitté {s2} et a rejoint {s3}.
-menu_notification_war_declared|Déclaration de guerre ^^ {s1} a déclaré la guerre contre {s2}!^ {S57} ^ L'épée a été tirée de la gaine et le bouclier a été retiré du mur. La guerre a été déclarée!
+menu_notification_center_under_siege|{s2} du {s3} assiège {s1} !
+menu_notification_village_raided|Les ennemis ravagent un fief^^{s1} a été pillé par {s2} du {s3} !
+menu_notification_village_raid_started|Votre village est attaqué !^^{s2} du {s3} pille {s1}.
+menu_notification_one_faction_left|"Les Sept Royaumes et Essos ont été conquis par un dirigeant ^^ {s1} a vaincu tous ses rivaux et s'est assuré l'hégémonie sur l'ensemble du monde connu !
+"
+menu_notification_oath_renounced_faction_defeated|Votre ancienne faction a été vaincue.^^Vous avez triomphé et brillamment défait le {s1} ! Cela met un terme aux hostilités qui avaient débuté après que vous ayez rompu votre serment d'allégeance.
+menu_notification_center_lost|Un fief est perdu^^Vous perdez {s1}, c'est maintenant le {s2} qui le possède.
+menu_notification_troop_left_players_faction|Trahison !^^{s1} a quitté le {s2} et rejoint le {s3}.
+menu_notification_troop_joined_players_faction|Bonne nouvelle !^^ {s1} a quitté le {s2} et rejoint le {s3}.
+menu_notification_war_declared|Déclaration de guerre^^{s1} a déclaré la guerre contre le {s2} !
 L'accord de paix ^^ {s1} et {s2} ont fait la paix!^ {S57} ^ Ces deux peuples ont cessé de se battre - pour l'instant. Peut-être une nation utilisera-t-elle le temps d'affûter un couteau frais pour plonger dans le cœur de son ennemi ...
 menu_notification_faction_destallé|Faction Eliminée ^^ {s1} n'est plus!
-menu_notification_rebels_switched_to_faction|Rebellion Success ^^ Votre rébellion est victorieuse! Votre faction a maintenant la seule revendication du titre de {s11}, avec {s12} comme règle unique.
-menu_notification_player_should_consult|| reg0?Votre ministre: {s11}} envoie des mots qu'il y a des problèmes de brassage dans le domaine qui, s'il n'est pas traité, pourrait nuire à votre autorité. Vous devriez consulter {reg4?Elle: lui} le plus tôt possible
-menu_notification_player_feast_in_progress|Fête en préparation ^^ Votre femme a commencé les préparatifs d'une fête dans votre salle dans {s11}
-menu_notification_lady_requests_visit|Une femme âgée s'approche de votre parti et passe une de ses lettres par lettre, scellée en cire légère. Il vous est adressé. Lorsque vous brisez le sceau, vous voyez que c'est à partir de {s15}. Il se lit: «J'ai vraiment apprécié votre dernière visite. {S14} Je suis actuellement dans {s10}. {S12} '
+menu_notification_rebels_switched_to_faction|Triomphe de la rébellion !^^ Votre rebellion est victorieuse ! Votre faction est désormais la seule à pouvoir réclamer le titre de {s11}, avec {s12} comme seul souverain.
+menu_notification_player_should_consult|Votre ministre vous fait savoir que des problèmes couvent dans le royaume, à défaut d'être résolus, ceux-ci risquent de saper votre autorité. Vous devriez le consulter au plus vite.| reg0?Votre ministre: {s11}} envoie des mots qu'il y a des problèmes de brassage dans le domaine qui, s'il n'est pas traité, pourrait nuire à votre autorité. Vous devriez consulter {reg4?Elle: lui} le plus tôt possible
+menu_notification_player_feast_in_progress|Banquet en préparation^^Votre épouse a entamé les préparatifs d'un banquet dans la salle d'honneur de {s11}.
+menu_notification_lady_requests_visit|Une vieille femme s'approche de votre groupe et remet à l'un de vos hommes un petit pli cacheté à la cire. Il vous est adressé. ^Lorsque vous rompez le sceau, vous constatez qu'il vient de {s15}. ^"J'eus doux délice de notre dernière accointance, {s14}. Si vous avez cœur à me donner rencontre, je me languis à {s10}. {s12}
 mno_continue_woman1|​​Dites à la femme d'informer sa maîtresse que vous viendrez bientôt
 mno_continue_woman2|Dites à la femme d'informer sa maîtresse que vous êtes indisposé
 menu_garden|{s12}
 mno_nurse|Allez avec l'infirmière
-mno_nurse_1|Attendre au printemps
-menu_kill_local_merchant_begin|Vous trouvez votre victime et suivez-le, en observant qu'il tourne un coin dans une allée sombre. Ce sera certainement votre meilleure opportunité pour l'attaquer.
-menu_debug_alert_from_s65|DEBUG ALERT: {s65}
+mno_nurse_1|Suivre la dame de compagnie
+menu_kill_local_merchant_begin|Vous apercevez votre cible et la suivez jusqu'à ce qu'elle s'engage dans une ruelle sombre. ^C'est le moment ou jamais !
+menu_debug_alert_from_s65|ALERTE DEBUG : {s65}
 menu_skirmish_party|Les tirailleurs ont repris leur mission. ^ Le leader du parti rapporte que {reg5} hommes ont été perdus lors de l'engagement.
 menu_spy_party|Un de vos espions est revenu.
 menu_spy_report|{s1}
@@ -847,20 +848,20 @@ mno_cattle_ok2|Five
 mno_cattle_ok3|Oubliez-le.
 menu_auto_return_to_map|stub
 menu_bandit_lair|{s3}
-mno_continue_1|Attaque le camp ...
-mno_leave_no_attack|Quitter ...
-mno_leave_victory|Continuer ...
-mno_leave_defeat|Continuer ...
-menu_notification_player_faction_political_issue_resolved|Après avoir consulté les pairs du domaine, {s10} a décidé de conférer {s11} sur {s12}.
-menu_notification_player_faction_political_issue_resolved_for_player|Après avoir consulté les pairs du domaine, {s10} a décidé de vous confier {s11}. Vous pouvez refuser l'honneur, mais cela signifie probablement que vous ne recevrez pas d'autres récompenses pendant un certain temps. {S12}
-mno_accept|Acceptez l'honneur
-mno_decline|Décliner l'honneur
+mno_continue_1|Attaquer le repaire
+mno_leave_no_attack|Partir
+mno_leave_victory|Continuer
+mno_leave_defeat|Continuer
+menu_notification_player_faction_political_issue_resolved|Après avoir consulté les autres seigneurs du royaume, {s10} a décidé de donner {s11} au {s12}.
+menu_notification_player_faction_political_issue_resolved_for_player|Après avoir consulté les autres seigneurs du royaume, {s10} a décidé de vous donner {s11}. ^Vous pouvez refuser, mais cela voudra probablement dire que vous ne recevrez pas d'autre fief avant un moment.{s12}
+mno_accept|Accepter.
+mno_decline|Décliner cet honneur.
 menu_start_phase_3|{s16} ^ La nuit douce et l'atmosphère calme passent bientôt quand vous entendez des cris et le conflit d'épées! Les gens crient, d'autres crient de la douleur. Vous n'avez aucune idée de ce qui se passe, mais vous décidez de regarder de plus près ...
 menu_start_phase_4|{s11}
 menu_lost_tavern_duel|{s11}
-menu_establish_court|Pour établir {s4} car votre cour aura besoin d'une petite rénovation. En particulier, vous aurez besoin d'un ensemble d'outils et d'un chiffon fin. Il est également possible que certains de vos adeptes prennent un certain temps pour déménager ici. Voulez-vous continuer?
-mno_establish|Établissez {s4} comme votre cour
-menu_notification_relieved_as_marshal|{s4} souhaite vous informer que vos services en tant que maréchal ne sont plus nécessaires. En l'honneur d'efforts courageux au nom du royaume au cours des derniers {reg4} jours, cependant, {reg8?Elle: il vous offre une bourse de {reg5} cerfs d'argent.
+menu_establish_court|Pour établir votre cour à {s4}, une petite rénovation est nécessaire. Vous avez besoin d'outils et de velours. ^Cela peut prendre du temps pour certains de vos partisans à se reloger ici. ^Êtes-vous prêt ?
+mno_establish|Établir votre cour à {s4}
+menu_notification_relieved_as_marshal|{s4} désire vous informer que votre service en tant que maréchal touche à sa fin. ^En l'honneur de votre loyal dévouement envers le royaume au cours des {reg4} derniers jours, une récompense de {reg5} cerfs d'argent vous est offerte.
 menu_introduccion_1|Si vous souhaitez survivre dans ce monde, je vous recommande d'écouter attentivement ...^^ Westeros, les temps sombres ont fait une fois de bonnes terres, poussant le continent à nouveau dans la tourmente. Rempli de l'odeur de la mort pourri, avec des rivières qui coulent du sang des ennemis tombés et des victimes torturées. ^^ Au nord de ce vaste continent se trouve le roi Robb Stark. Lord of Winterfell et le chef de House Stark. Appelé par son Bannerman, il statue et déclare Roi du Nord et Trident. En guerre avec les Lannisters et le Roi Joffrey, il cherche Kings Landing au sud.Bien que les Lannisters soient gouvernés par Tywin Lannister, Kings Landing est gouverné par le roi Joffrey Baratheon, actuellement le Roi des Sept Royaumes, le Roi des Andals, le Rhoynar, le Premier homme et le Protecteur du Royaume. Le roi Joffrey est considéré comme arrogant et sadique, décrit par Tyrion Lannister comme un imbécile vicieux d'un Roi.
 mno_introduccion_yes|Continuer ...
 menu_introduccion_1_1|Situé dans le Vale, une partie montagneuse isolée de Westeros est assise Lord Robin, défenseur du Vale et gardien de l'est. Lord Robin est un petit garçon et le seul enfant survivant et héritier de Lord Jon Arryn. À cette époque, la Maison Arryn est neutre dans la guerre.^^ En direction du roi du midi, Renly Baratheon, Gardien du Sud, Haut-maréchal du Reach et Lord of Storms, finit par prendre le Trône pour lui-même.^^ Le Roi du Sel et du Rocher, le Vent du Fils de la Mer et le Seigneur Reaper de Pyke est le roi Balon Greyjoy qui statue sur les îles de la terre prêtes à envahir le Nord.Le roi Stannis Baratheon, le premier de son prénom. Le roi dans la mer étroite, Seigneur de Dragonstone, Lord Paramount of the Stormlands et King of Westeros règne à l'est. Le roi Stannis a récemment envoyé des corbeaux au royaume en affirmant que le roi Joffrey Baratheon n'est pas l'héritier légitime de Robert Baratheon, mais le fils de Ser Jaime Lannister ..
@@ -871,17 +872,17 @@ mno_introduccion_yes4|Retour.
 menu_introduccion_3|Cette agitation se poursuit après les rives de Westeros et à travers la mer étroite dans Essos, un continent en proie aux guerriers nomades, les Dothraki Hordes connus sous le nom de Khalasars! ...^^ Les Dothraki prennent ce dont ils ont besoin par pillage et pillage et disent qu'ils ont confiance en les océans parce que leurs chevaux ne boiraient pas.^^ Le viol et la mort sont répandus dans ces parties et on ferait bien de rester loin ...^ Bienvenue dans Game of Thrones et espérons que vos aventures mèneront à de meilleures fins que celle de la plupart des gens sur les continents de Westeros et Essos!
 menu_dplmc_economic_report|{s0}
 mno_dplmc_backec|Continuer ...
-menu_port|Vous visitez le port de {s1}. Pendant que vous regardez autour de vous, vous sentez le fort vent de l'océan qui tire de vos vêtements. De nombreux navires sont ancrés ici et vous remarquez que les équipages les chargent déjà avec des produits indigènes, alors qu'un groupe d'hommes décharge encore leur cargaison. L'un d'entre eux semble être en charge du port, alors vous vous dirigez vers eux et demandez-lui de l'aide. Il te regarde et dit: ^ Que veux-tu un garçon? Ne vois-tu pas que je suis occupé?
+menu_port|Vous visitez le port de {s1}. En vous balladant, vous sentez le puissant vent de l'océan poussant vos vêtements. De nombreux navires sont ancrés ici et vous remarquer que certains équipages emplissent leur bateau de cargaisons locales tandis que d'autres déchargent leur cargo. L'un d'eux semble être le responsable du port et vous vous dirigez vers lui et lui demandez de l'aide. Il vous regarde et rétorque d'un air bougon:^Que voulez-vous? Je n'ai pas toute la journée!
 mno_buy_ships|Achat d'un bateau (25000 cerfs d'argent)
-mno_sail_from_port|Faites naviguer avec votre navire. (Min. Équipage 30, Max 90)
-mno_manage_ships|Gérer les navires.
-mno_View_notes|Voir le registre du navire.
+mno_sail_from_port|Naviguer avec votre navire. (Min. Équipage 30, Max 90)
+mno_manage_ships|Gérer les bateaux
+mno_View_notes|Consulter le registre des bateaux
 mno_dummy_1|{s10}
 mno_dummy_2|{s10}
 mno_dummy_3|{s10}
 mno_dummy_4|{s10}
 menu_ship_notes|La guilde commerciale royale surveille tous les navires dans les villes portuaires. La visualisation de leur registre vous indiquera où sont vos navires. ^ {S3}
-menu_choose_ship|La liste suivante contient tous les navires ancrés dans cette ville. Sélectionnez un pour naviguer, mais assurez-vous que votre équipe répond aux exigences.
+menu_choose_ship|La liste suivante contient tous les bateaux amarrés à cette ville. Choisissez-en un à embarquer, mais soyez surs que vos troupes correspondes aux exigeances
 mno_ship_1|{s1}
 mno_ship_2|{s1}
 mno_ship_3|{s1}
@@ -897,49 +898,49 @@ mno_smoke_cattle_meat|Je vais fumer mon boeuf.
 mno_smoke_venison|Je vais fumer mon venin.
 mno_smoke_pork|Je vais fumer mon porc.
 mno_smoke_pollo|Je fumerai mon poulet.
-menu_world_map_soldier|Que devez-vous faire soldat?
-mno_join_commander_battle|Suivez le commandant dans la bataille.
-mno_enter_town|Entrez dans la ville stationnée.
-mno_commander|Demander un public avec votre commandant.
-mno_revolt|Révolte contre le commandant!
+menu_world_map_soldier|Qu'avez-vous besoin de faire soldat?
+mno_join_commander_battle|Suivre le commandant dans la bataille
+mno_enter_town|Entrer dans la ville actuelle
+mno_commander|Demander à parler à votre commandant
+mno_revolt|Vous révolter contre votre commandant!
 mno_revolt_disabled|Vous ne pouvez pas vous révolter maintenant. Passez votre temps.
 mno_report|Rapport du commandant
-mno_return_to_duty|Retour au service.
-menu_commander_aud|Votre demande de réunion est transmise au camp de votre commandant et enfin {s6} apparaît de sa tente pour parler avec vous.
-mno_reject_talk_lord|Non, je ne sais rien.
-menu_ask_revolt|Êtes-vous sûr de vouloir vous révolter?
-mno_confirm_revolt|Oui, {s6} sera la mort de nous tous, il est temps d'agir!
-mno_reject_revolt|Non, je suis fidèle à {s6}.
+mno_return_to_duty|Retourner au service
+menu_commander_aud|Votre demande est transmise au campement de votre commandant, et enfin {s6} apparaît de sa tente pour vous parler
+mno_reject_talk_lord|Non, rien
+menu_ask_revolt|Vous êtes sûr de vouloir vous révolter?
+mno_confirm_revolt|Oui, {s6} court à notre perte, c'est le moment d'agir!
+mno_reject_revolt|Non, je suis loyal à {s6}
 menu_revolt|Voulez-vous libérer les prisonniers pour aider vos hommes?
-mno_revolt_prisoners|Oui, je vais prendre le risque pour un plus grand avantage.
-mno_revolt_no_prisoners|Non, je ne fais pas confiance aux prisonniers.
+mno_revolt_prisoners|Oui, je prends le risque
+mno_revolt_no_prisoners|Non, je ne peux pas me fier à eux
 menu_ask_desert|Voulez-vous déserter?
-mno_confirm_desert|Oui, c'est inutile.
-mno_reject_desert|Non, je suis fidèle à mon commandant.
-menu_desert|Pendant l'armée, vous avez fait de bons amis. Certains pourraient vous suivre.
-mno_desert_party|Essayez de les convaincre de vous suivre.
-mno_desert_alone|Non, j'ai une meilleure chance que seule.
-menu_upgrade_path|En reconnaissance de votre excellent service, vous avez été promu.
+mno_confirm_desert|Oui, tout ceci est absurde
+mno_reject_desert|Non, je suis loyal à mon commandant
+menu_desert|Dans le service, vous vous êtes fait de francs camarades, dont certains pouraient vous suivre
+mno_desert_party|Essayer de les convaincre de vous rejoindre
+mno_desert_alone|Non, je serai mieux seul
+menu_upgrade_path|En reconnaissance de vos excellents services, vous avez été promu.
 mno_upgrade_path_1|{s66}
 mno_upgrade_path_2|{s67}
 menu_encontrar_guarida|menu de gestion de fortification.
-mno_camp_build_watchtower|Construire unn Outpost. Il coûte 25000 Silver Stags pour construire un Outpost.
+mno_camp_build_watchtower|Construire unn Outpost. Il coûte 25000 cerfs d'argent pour construire un Outpost.
 mno_fort_rename|Renommez votre Outpost.
-mno_camp_demolish_watchtower|Supprimez votre Outpost. Cela coûtera 5000 Silver Stags.
+mno_camp_demolish_watchtower|Supprimez votre Outpost. Cela coûtera 5000 cerfs d'argent.
 mno_camp_end_watchtower|Retournez à votre camp.
 menu_contratar_personnel|menu de recrutement du personnel de fortification.
-mno_contratar_hoar|Louez une putain. Cela vous coûtera 1500 Silver Stags.
-mno_despedir_hoar|Demandez à la prostituée de partir. Vous devrez payer 500 Silver Stags.
-mno_hire_maester|Louez un maester. Cela vous coûtera 2000 Silver Stags.
-mno_sack_maester|Déposez votre maester. Vous devez payer 500 Silver Stags.
-mno_contratar_sacerdote|Louez un Septon. Cela vous coûtera 1200 Silver Stags.
-mno_despedir_sacerdote|Rejeter le Septon. Vous devrez payer 500 Silver Stags.
-mno_contratar_pagano|Louez un adepte des Anciens Dieux. Cela vous coûtera 1200 Silver Stags.
-mno_dismiss_pagano|Dispenser le suiveur des Anciens dieux. Vous devrez lui payer 500 Silver Stags.
-mno_hire_drowned_man|Louez un adepte des Anciens Dieux. Cela vous coûtera 1200 Silver Stags.
-mno_dismiss_drowned_man|Dismiss the Drowned Man. Vous devrez lui payer 500 Silver Stags.
-mno_hire_lol|Louez un prêtre rouge. Cela vous coûtera 1200 Silver Stags.
-mno_dismiss_lol|Discutez du prêtre rouge. Vous devrez lui payer 500 Silver Stags.
+mno_contratar_hoar|Louez une putain. Cela vous coûtera 1500 cerfs d'argent.
+mno_despedir_hoar|Demandez à la prostituée de partir. Vous devrez payer 500 cerfs d'argent.
+mno_hire_maester|Louez un maester. Cela vous coûtera 2000 cerfs d'argent.
+mno_sack_maester|Déposez votre maester. Vous devez payer 500 cerfs d'argent.
+mno_contratar_sacerdote|Louez un Septon. Cela vous coûtera 1200 cerfs d'argent.
+mno_despedir_sacerdote|Rejeter le Septon. Vous devrez payer 500 cerfs d'argent.
+mno_contratar_pagano|Louez un adepte des Anciens Dieux. Cela vous coûtera 1200 cerfs d'argent.
+mno_dismiss_pagano|Dispenser le suiveur des Anciens dieux. Vous devrez lui payer 500 cerfs d'argent.
+mno_hire_drowned_man|Louez un adepte des Anciens Dieux. Cela vous coûtera 1200 cerfs d'argent.
+mno_dismiss_drowned_man|Dismiss the Drowned Man. Vous devrez lui payer 500 cerfs d'argent.
+mno_hire_lol|Louez un prêtre rouge. Cela vous coûtera 1200 cerfs d'argent.
+mno_dismiss_lol|Discutez du prêtre rouge. Vous devrez lui payer 500 cerfs d'argent.
 mno_return_principal|Retour.
 menu_choose_music|Que souhaitez-vous faire?
 mno_simple|Je souhaite effectuer une simple musique. (Cela vous prendra 1 heure)
@@ -1007,58 +1008,58 @@ menu_crossroads_recruit_troops12|Un Lord local et son séquestre sont disponible
 menu_crossroads_recruit_troops22|Il semble que personne ne souhaite vous rejoindre.
 menu_crossroads_recruit_troops32|Il y a des bergers et des agriculteurs intéressés à rejoindre votre armée. Ils coûteront 60 cerfs.
 menu_crossroads_recruit_troops42|Un seigneur local et son corté sont disponibles à la location. Vous comptez 16 hommes montés dans le coût total de 7000 cerfs.
-menu_notification_kingdom_restoration|Rebellion !!!^^ Les gens du royaume vaincu de S13} ont pris leurs armes et {s14} obtient un fief de {s12}, {s13} est restauré! Longue vie au roi!
-menu_dplmc_notification_alliance_declared|Alliance Agreement ^^ {s1} et {s2} ont formé une alliance!^ {S57}
-mno_dplmc_continue|Continuer ...
-menu_dplmc_notification_defensive_declared|Pact défensif ^^ {s1} et {s2} ont accepté un pacte défensif!^ {S57}
-menu_dplmc_notification_trade_declared|Trade Agreement ^^ {s1} et {s2} ont signé un accord commercial!^ {S57}
-menu_dplmc_notification_nonaggression_declared|Non-agression Traité ^^ {s1} et {s2} ont conclu un traité de non-agression!^ {S57}
-menu_dplmc_question_alliance_offer|Vous recevez une offre de l'Alliance ^^ Le {s1} veut former une alliance avec vous. Quelle est ta réponse?
+menu_notification_kingdom_restoration|Rebellion !!!^^ Les gens du royaume vaincu de {S13} ont pris leurs armes et {s14} obtient un fief de {s12}, {s13} est restauré! Longue vie au roi!
+menu_dplmc_notification_alliance_declared|Accord d'alliance !^^{s1} et {s2} ont conclu une alliance.^{s57}
+mno_dplmc_continue|Continuer
+menu_dplmc_notification_defensive_declared|Pacte de défense !^^{s1} et {s2} ont convenu d'un pacte de défence.^{s57}
+menu_dplmc_notification_trade_declared|Accord commercial !^^{s1} et {s2} ont signé un accord commercial.^{s57}
+menu_dplmc_notification_nonaggression_declared|Traité de non-agression !^^{s1} et {s2} ont conclu un traité de non-agression.^{s57}
+menu_dplmc_question_alliance_offer|Vous recevez une offre d'alliance !^^{s1} veut conclure une alliance avec vous. Quelle est votre réponse ?
 mno_dplmc_alliance_offer_accept|Accepter
 mno_dplmc_alliance_offer_reject|Rejeter
-menu_dplmc_question_defensive_offer|Vous recevez une offre de pacte ^^ Le {s1} vous offre un pacte défensif. Quelle est ta réponse?
+menu_dplmc_question_defensive_offer|Vous recevez une offre de pacte !^^{s1} vous propose un pacte de défence. Quelle est votre réponse ?
 mno_dplmc_defensive_offer_accept|Accepter
 mno_dplmc_defensive_offer_reject|Rejeter
-menu_dplmc_question_trade_offer|Vous recevez une offre de pacte ^^ Le {s1} vous offre un pacte commercial. Quelle est ta réponse?
-mno_dplmc_trade_offer_accept|Accept
+menu_dplmc_question_trade_offer|Vous recevez une offre de pacte !^^{s1} vous propose un pacte commercial. Quelle est votre réponse ?
+mno_dplmc_trade_offer_accept|Accepter
 mno_dplmc_trade_offer_reject|Rejeter
-menu_dplmc_question_nonaggression_offer|Vous recevez une offre de pacte ^^ Le {s1} vous offre un traité de non-agression. Quelle est ta réponse?
+menu_dplmc_question_nonaggression_offer|Vous recevez une offre de pacte !^^{s1} vous propose un traité de non-agression. Quelle est votre réponse ?
 mno_dplmc_nonaggression_offer_accept|Accepter
 mno_dplmc_nonaggression_offer_reject|Rejeter
 menu_dplmc_notification_alliance_expiré|Alliance a expiré ^^ L'alliance entre {s1} et {s2} a expiré et a été dégradée dans un pacte défensif.
 menu_dplmc_notification_defensive_expiré|Le pacte défensif a expiré ^^ Le pacte défensif entre {s1} et {s2} a expiré et a été dégradé à un accord commercial.
 menu_dplmc_notification_trade_expiré|L'accord commercial a expiré ^^ L'accord commercial entre {s1} et {s2} a expiré et a été dégradé à un traité de non-agression.
-menu_dplmc_dictate_terms|Dictez vos termes de paix.
-mno_dplmc_demand_4000|Demand 4000 cerfs d'argent
-mno_dplmc_demand_8000|Demand 8000 cerfs d'argent
-mno_dplmc_demand_castle|Demand {s2}.
+menu_dplmc_dictate_terms|Dicter vos conditions de paix.
+mno_dplmc_demand_4000|Demander 4000 cerfs d'argent
+mno_dplmc_demand_8000|Demander 8000 cerfs d'argent
+mno_dplmc_demand_castle|Demander {s2}
 mno_dplmc_go_back|Retour
-menu_dplmc_deny_terms|Le {s1} refuse vos termes et interrompt les négociations.
+menu_dplmc_deny_terms|{s1} refuse vos conditions et met fin aux négociations.
 menu_dplmc_village_riot_result|{s9}
-menu_dplmc_village_riot_removed|Dans une bataille sanglante, vous et vos hommes abattent les rebelles et reprennent le contrôle du village. Mais il ne reste plus que vous pouvez contrôler.
-menu_dplmc_town_riot_removed|Dans une bataille sanglante, vous et vos hommes abattent les rebelles et reprennent le contrôle de la ville.
-menu_dplmc_riot_negotiate|Vous approchez de la foule en colère et commencez les négociations. Le leader de l'émeute exige {reg0} cerfs d'argent. Il accepte de déposer des armes si vous êtes prêt à payer.
-mno_dplmc_pay_riot_treasury|Induisez votre Master of Coin pour payer l'argent du Trésor.
-mno_dplmc_pay_riot_cash|Payer en espèces.
-mno_dplmc_back|Retour ...
-menu_dplmc_notification_riot|Les paysans de {s1} ont lancé une émeute contre vous! Dans une attaque surprise, les hommes fidèles à vous ont été tués. Le reste a rejoint la foule en colère.
-menu_dplmc_notification_appoint_chamberlain|En tant que seigneur d'un fief, vous pouvez maintenant nommer un Master of Coin qui réside à votre cour pour un salaire hebdomadaire de 15 cerfs d'argent. Il s'occupera de toutes les affaires financières comme la collecte et la détermination des impôts, le paiement des salaires et la gestion de votre succession. En outre, il surveille les transferts d'argent entre les royaumes vous donnant plus d'options diplomatiques.
-mno_dplmc_appoint_default|Nommez un noble éminent de la région.
-menu_dplmc_chamberlain_confirm|Le Master of Coin peut être trouvé à votre cour. Vous devriez le consulter si vous souhaitez lui donner des conseils financiers ou si vous avez besoin de plus d'argent. Vous devriez toujours vous assurer qu'il y a suffisamment d'argent dans le trésor pour payer les affaires politiques.
-menu_dplmc_notification_appoint_constable|En tant que seigneur d'un fief, vous pouvez maintenant nommer un Master of Laws qui réside à votre cour pour un salaire hebdomadaire de 15 cerfs d'argent. Il recrutera de nouvelles troupes et fournira des informations sur votre armée et vous conseillera en matière légale.
-menu_dplmc_constable_confirm|Votre Maître de lois peut être trouvé à votre cour. Vous devriez le consulter si vous souhaitez recruter de nouvelles troupes ou obtenir des informations détaillées sur votre armée permanente.
-menu_dplmc_notification_appoint_chancellor|En tant que seigneur d'un fief, vous pouvez maintenant nommer un Maître de Whisperers qui réside à votre cour pour un salaire hebdomadaire de 20 cerfs d'argent. Il sera le gardien de votre sceau et conduira la correspondance entre vous et d'autres personnes importantes.
-menu_dplmc_chancellor_confirm|Le Maître des Whisperers peut être trouvé à votre cour. Vous devriez le consulter si vous souhaitez envoyer des messages ou des cadeaux.
-menu_dplmc_deserters|Certains de vos hommes ne croient pas que vous payerez leur salaire et leur désert. Dans l'ensemble, vous perdez: {s11} hommes.
-menu_dplmc_negotiate_besieger|Vous apparaissez avec un drapeau blanc en haut du mur. Après un certain temps, un négociateur de {s11} vous approche. Il demande {s6} et tous les villages associés ainsi que {reg0} cerfs d'argent pour une conduite sûre.
-mno_dplmc_comply_treasury|Respectez et demandez à votre Master of Coin de payer l'argent du Trésor.
-mno_dplmc_comply|Respectez et payez l'argent comptant.
-mno_dplmc_break_off|Rompre les négociations.
-menu_dplmc_messenger|Sire, j'ai trouvé {s10} et envoyé votre message. {Reg4?Elle: Sa} réponse était {s11}.
-menu_dplmc_scout|Votre espion est retourné de {s10} ^^ {s11} {s12}
-menu_dplmc_domestic_policy|Vous pouvez maintenant définir la politique intérieure de votre royaume. Voulez-vous modifier votre politique maintenant?
-mno_dplmc_yes|Oui, je souhaite changer la politique intérieure.
-mno_dplmc_no|Non, je ne veux pas modifier la politique intérieure.
+menu_dplmc_village_riot_removed|Dans une bataille sanglante vos hommes et vous égorgez les rebelles et vous reprenez le contrôle du village. Mais il n'y a plus grand-chose à contrôler.
+menu_dplmc_town_riot_removed|Dans une bataille sanglante vos hommes et vous abattez les rebelles et vous reprenez le contrôle de la ville.
+menu_dplmc_riot_negotiate|Vous vous approchez de la foule en colère et entamez des négociations. Le chef des émeutiers demande {reg0} cerfs d'argent. Il accepte de déposer les armes si vous acceptez de payer.
+mno_dplmc_pay_riot_treasury|Demander au chambellan de verser l'argent provenant de la trésorerie.
+mno_dplmc_pay_riot_cash|Payer immédiatement.
+mno_dplmc_back|Retour
+menu_dplmc_notification_riot|Les paysans de {s1} ont provoqué une émeute contre vous ! Dans une attaque surprise vos fidèles ont été tués. Les autres ont rejoint la foule en colère.
+menu_dplmc_notification_appoint_chamberlain|En tant que seigneur d'un fief, vous pouvez maintenant nommer un chambellan qui résidera à votre siège pour un salaire hebdomadaire de 15 cerfs d'argent. Il se chargera de toutes les questions financières et fixera les taxes, s'occupera des salaires et de la gestion de vos biens. En outre, il supervisera les transferts d'argent entre factions ce qui vous donnera plus d'options diplomatiques.
+mno_dplmc_appoint_default|Nommer un éminent noble local.
+menu_dplmc_chamberlain_confirm|Votre chambellan se trouve à votre cour. Vous devrez le consulter si vous voulez lui parler des questions financières ou si vous avez besoin de plus d'argent. Vous devriez toujours vous assurer qu'il y a assez d'argent dans la trésorerie pour les affaires politiques.
+menu_dplmc_notification_appoint_constable|En tant que seigneur d'un fief, vous pouvez maintenant nommer un connétable, responsable militaire qui résidera à votre cour pour un salaire hebdomadaire de 15 cerfs d'argent. Il recrutera de nouvelles troupes et fournira des informations sur votre armée.
+menu_dplmc_constable_confirm|Votre connétable se trouve à votre cour. Vous devrez le consulter si vous voulez recruter de nouvelles troupes ou avoir des informations détaillées sur votre armée.
+menu_dplmc_notification_appoint_chancellor|En tant que seigneur d'un fief, vous pouvez maintenant nommer un chancelier qui résidera à votre cour pour un salaire hebdomadaire de 20 cerfs d'argent. Il sera le garant de votre cachet, et sera responsable de la correspondance entre vous et les personnages importants.
+menu_dplmc_chancellor_confirm|Votre chancelier se trouve à votre cour. Vous devrez le consulter si vous voulez envoyer des messages ou des cadeaux.
+menu_dplmc_deserters|Certains de vos hommes désertent parce qu'ils croient que vous n'allez pas payer leurs soldes. Vous en perdez {s11}.
+menu_dplmc_negotiate_besieger|Vous agitez un drapeau blanc au sommet des murs. Après un moment, un négociateur envoyé par {s11} s'approche de vous. Il demande {s6} et tous les villages associés ainsi que {reg0} cerfs d'argent pour une escorte de sécurité.
+mno_dplmc_comply_treasury|Accepter et demander à votre chambellan de verser l'argent provenant de la trésorerie.
+mno_dplmc_comply|Accepter et payer immédiatement.
+mno_dplmc_break_off|Mettre fin aux négociations.
+menu_dplmc_messenger|Seigneur, j'ai trouvé {s10} et je lui ai délivré votre message. Voilà la réponse, {s11}.
+menu_dplmc_scout|Votre espion revient de {s10}^^{s11}{s12}
+menu_dplmc_domestic_policy|Vous pouvez maintenant décider de la politique intérieure de votre faction. Voulez-vous changer de politique maintenant ?
+mno_dplmc_yes|Oui, je veux changer la politique intérieure.
+mno_dplmc_no|Non, je ne veux pas changer la politique intérieure.
 menu_torneo_opciones|Préférences
 mno_disable_avdificultad|Cliquez pour désactiver la difficulté de l'expert.
 mno_enable_avdificultad|Cliquez pour activer la difficulté Expert.
@@ -1158,7 +1159,7 @@ mno_choice_20_1|Vous donnez le porte-monnaie à la montre Nights.
 mno_choice_20_2|Vous gardez la bourse pour vous-même.
 menu_event_21|Vous rencontrez une prostituée et son enfant bâtard.
 mno_choice_21_1|C'est juste une pute et son bâtard, les tuez!
-mno_choice_21_2|Donnez-leur 150 Silver Stags pour les aider sur leur chemin.
+mno_choice_21_2|Donnez-leur 150 cerfs d'argent pour les aider sur leur chemin.
 mno_choice_21_3|Laissez-les être.
 menu_event_22|Vous rencontrez un bandit attaquant un marchand.
 mno_choice_22_1|Chase the Bandit away.
@@ -1484,8 +1485,8 @@ menu_event_24_juicio|Un cas apparemment simple est présenté devant vous. Hier,
 mno_choice_24_1n|En ignorant la preuve, vous vous installez à la faveur de votre homme, en disant qu'il agissait selon vos commandes.
 mno_choice_24_2n|La preuve est claire, le jury est d'accord, et l'accusé est reconnu coupable et a coupé ses mains pour voler.
 mno_choice_24_3n|Vous réclamez que les deux parties sont fausses, les exilent et confisquent tout le matériel relatif à l'affaire.
-menu_entrenched_camp|Vos fortifications sont complètes.   
-mno_camp_inspect|Inspectez votre camp.
+menu_entrenched_camp|Vos fortifications sont achevées.
+mno_camp_inspect|Inspecter le campement
 menu_troop_camp|Un petit camp est établi pour les troupes que vous voulez partir dans ce lieu pour le moment.^^ (Sélectionnez les troupes que vous souhaitez laisser dans ce camp et appuyez sur le bouton Give pour les transférer.)
 mno_station_troops|Regardez les troupes.
 menu_landing_point_encounter_as_marshal|Vous êtes actuellement le maréchal. Vous essayez de débarquer. {S1} {s2} ^^ Voulez-vous débarquer maintenant ou attendre?
@@ -1521,7 +1522,7 @@ menu_westerlands_start_war_riverlands|Les Westerlands ont envahi Riverlands en r
 menu_westerlands_start_peace_reach|Lord Petyr Baelish a négocié une nouvelle alliance entre Westerlands et Reach.
 menu_dragonstone_start_war_westerlands|Lord Stannis Baratheon a décidé de retarder les Westerlands et de reprendre la couronne qu'il croit être à juste titre.
 menu_choose_scenes_0|Choose a scene: (Page 1 of 110)
-mno_next|Next...
+mno_next|aller aux lignes suivantes
 mno_choose_scene_0|alchemists guild: indoors
 mno_choose_scene_1|ambush desert: generate|auto entry points
 mno_choose_scene_2|ambush plains: generate|auto entry points
@@ -1536,7 +1537,7 @@ mno_choose_scene_10|bridge 1: generate
 mno_choose_scene_11|bridge 10: generate
 mno_choose_scene_12|bridge 11: generate
 menu_choose_scenes_13|Choose a scene: (Page 2 of 110)
-mno_previous|Previous...
+mno_previous|Précédent
 mno_choose_scene_13|bridge 12: generate
 mno_choose_scene_14|bridge 13: generate
 mno_choose_scene_15|bridge 14: generate
