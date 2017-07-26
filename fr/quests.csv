@@ -1,10 +1,10 @@
-qst_deliver_message|Deliver Message to {s13}{***}
-qst_deliver_message_to_enemy_lord|Deliver Message to {s13}{***}
-qst_raise_troops|Raise {reg1} {s14}{***}
-qst_escort_lady|Escort {s13} to {s14}{***}
-qst_deal_with_bandits_at_lords_village|Save the Village of {s15} from Marauding Bandits{***}
-qst_collect_taxes|Collect Taxes from {s3}{***}
-qst_hunt_down_fugitive|Hunt Down {s4}{***}
+qst_deliver_message|Porter un message à {s13}
+qst_deliver_message_to_enemy_lord|Porter un message à {s13}
+qst_raise_troops|Former {reg1} {s14}
+qst_escort_lady|Escorter {s13} jusqu'à {s14}
+qst_deal_with_bandits_at_lords_village|Sauver le village de {s15} des bandits maraudeurs.
+qst_collect_taxes|Collecter les impôts de {s3}
+qst_hunt_down_fugitive|Pourchasser {s4}
 qst_bounty_1|Hunt down {s4}{***}
 qst_bounty_1_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
 qst_bounty_2|Hunt down {s4}{***}
@@ -17,59 +17,59 @@ qst_bounty_5|Hunt down {s4}{***}
 qst_bounty_5_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
 qst_bounty_6|Hunt down {s4}{***}
 qst_bounty_6_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
-qst_kill_local_merchant|Assassinate Local Merchant at {s3}{***}
-qst_bring_back_runaway_serfs|Bring Back Runaway Serfs{***}
-qst_follow_spy|Follow the Spy to Meeting{***}
-qst_capture_enemy_hero|Capture a Lord from {s13}{***}
-qst_lend_companion|Lend Your Companion {s3} to {s9}{***}
-qst_collect_debt|Collect the Debt {s3} Owes to {s9}{***}
-qst_incriminate_loyal_commander|Incriminate the Loyal Commander of {s13}, {s16}{***}
-qst_meet_spy_in_enemy_town|Meet Spy in {s13}{***}
-qst_capture_prisoners|Bring {reg1} {s3} Prisoners{***}
-qst_lend_surgeon|Lend Your Surgeon {s3} to {s1}{***}
-qst_follow_army|Follow {s9}'s Army{***}
-qst_report_to_army|Report to {s13}, the Marshall{***}
-qst_deliver_cattle_to_army|Deliver {reg3} Heads of Cattle to {s13}{***}
-qst_join_siege_with_army|Join the Siege of {s14}{***}
-qst_screen_army|Screen the Advance of {s13}'s Army{***}
-qst_scout_waypoints|Scout {s13}, {s14} and {s15}{***}
-qst_rescue_lord_by_replace|Rescue {s13} from {s14}{***}
-qst_deliver_message_to_prisoner_lord|Deliver Message to {s13} at {s14}{***}
-qst_duel_for_lady|Challenge {s13} to a Trial of Arms{***}
-qst_duel_courtship_rival|Challenge {s13} to a Trial of Arms (optional){***}
-qst_duel_avenge_insult|Challenge {s13} to a Trial of Arms{***}
-qst_move_cattle_herd|Move Cattle Herd to {s13}{***}
-qst_escort_merchant_caravan|Escort Merchant Caravan to {s8}{***}
-qst_deliver_wine|Deliver {reg5} Units of {s6} to {s4}{***}
-qst_troublesome_bandits|Hunt Down Troublesome Bandits{***}
-qst_kidnapped_girl|Ransom Girl from Bandits{***}
-qst_persuade_lords_to_make_peace|Make Sure Two Lords Do Not Object to Peace{***}
-qst_deal_with_looters|Deal with Bandits{***}
-qst_deal_with_night_bandits|Deal with Night Bandits{***}
-qst_deliver_grain|Bring wheat to {s3}{***}
-qst_deliver_cattle|Deliver {reg5} Heads of Cattle to {s3}{***}
-qst_train_peasants_against_bandits|Train the Peasants of {s13} Against Bandits.{***}
-qst_eliminate_bandits_infesting_village|Save the Village of {s7} from Marauding Bandits{***}
-qst_visit_lady|Visit Lady{***}
-qst_formal_marriage_proposal|Formal Marriage Proposal{***}
-qst_obtain_liege_blessing|Formal Marriage Proposal{***}
-qst_wed_betrothed|Wed Your Betrothed{***}
-qst_wed_betrothed_female|Wed Your Betrothed{***}
-qst_join_faction|Give Oath of Homage to {s1}{***}
-qst_rebel_against_kingdom|Help {s13} Claim the Throne of {s14}{***}
-qst_consult_with_minister|Consult With Minister{***}
-qst_organize_feast|Organize Feast{***}
-qst_resolve_dispute|Resolve Dispute{***}
-qst_offer_gift|Procure Gift{***}
-qst_denounce_lord|Denounce Lord{***}
-qst_intrigue_against_lord|Intrigue against Lord{***}
-qst_track_down_bandits|Track Down Bandits{***}
-qst_track_down_provocateurs|Track Down Provocateurs{***}
-qst_retaliate_for_border_incident|Retaliate for a Border Incident{***}
-qst_raid_caravan_to_start_war|Attack a Neutral Caravan to Provoke War{***}
-qst_cause_provocation|Give a Kingdom Provocation to Attack Another{***}
-qst_rescue_prisoner|Rescue or Ransom a Prisoner{***}
-qst_destroy_bandit_lair|Destroy Bandit Lair{***}
+qst_kill_local_merchant|Assassiner un marchand local à {s3}
+qst_bring_back_runaway_serfs|Ramener les serfs en fuite.
+qst_follow_spy|Suivre l'espion jusqu'au lieu de rencontre.
+qst_capture_enemy_hero|Capturer un seigneur du {s13}
+qst_lend_companion|Prêter votre compagnon {s3} à {s9}
+qst_collect_debt|Récupérer l'argent que doit {s3} à {s9}
+qst_incriminate_loyal_commander|Accuser {s16}, le loyal commandant de {s13}.
+qst_meet_spy_in_enemy_town|Rencontrer un espion à {s13}
+qst_capture_prisoners|Amener {reg1} {s3} prisonniers.
+qst_lend_surgeon|Accorder à {s1} l'aide de {s3}, votre guérisseur.
+qst_follow_army|Suivre l'armée de {s9}
+qst_report_to_army|Faire un compte rendu au maréchal, {s13}
+qst_deliver_cattle_to_army|Ramener {reg3} têtes de bétail à {s13}
+qst_join_siege_with_army|Rejoindre le siège de {s14}
+qst_screen_army|Espionner l'avancée de l'armée de {s13}
+qst_scout_waypoints|Mener une reconnaissance autour de {s13}, {s14} et {s15}
+qst_rescue_lord_by_replace|Délivrer {s13} du {s14}
+qst_deliver_message_to_prisoner_lord|Porter un message de {s13} à {s14}
+qst_duel_for_lady|Défier {s13} dans une épreuve par les armes.
+qst_duel_courtship_rival|Défier {s13} dans une épreuve par les armes (facultatif)
+qst_duel_avenge_insult|Défier {s13} dans une épreuve par les armes.
+qst_move_cattle_herd|Mener le bétail à {s13}
+qst_escort_merchant_caravan|Escorter la caravane marchande vers {s8}.
+qst_deliver_wine|Livrer {reg5} unités de {s6} à {s4}
+qst_troublesome_bandits|Pourchasser les bandits gênants.
+qst_kidnapped_girl|Payer la rançon de la fille aux Bandits
+qst_persuade_lords_to_make_peace|Assurez-vous que les deux seigneurs ne s'opposent pas à la paix.
+qst_deal_with_looters|S'occuper des pillards
+qst_deal_with_night_bandits|S'occuper des bandits nocturnes
+qst_deliver_grain|Apporter du blé à {s3}
+qst_deliver_cattle|Conduire {reg5} têtes de bétail à {s3}
+qst_train_peasants_against_bandits|Entraîner les paysans de {s13} à combattre les bandits.
+qst_eliminate_bandits_infesting_village|Sauver le village de {s7} des bandits maraudeurs.
+qst_visit_lady|Rendre visite à une dame.
+qst_formal_marriage_proposal|Faire une proposition de mariage.
+qst_obtain_liege_blessing|Faire une demande solennelle en mariage.
+qst_wed_betrothed|Épouser votre fiancée.
+qst_wed_betrothed_female|Épouser votre fiancé.
+qst_join_faction|Prêter serment d'allégeance à {s1}
+qst_rebel_against_kingdom|Aider {s13} à réclamer le trône du {s14}
+qst_consult_with_minister|Consulter le ministre
+qst_organize_feast|Organiser un banquet
+qst_resolve_dispute|Résoudre un différend
+qst_offer_gift|Offrir un présent
+qst_denounce_lord|Dénoncer un seigneur
+qst_intrigue_against_lord|Intriguer contre un seigneur
+qst_track_down_bandits|Traquer les bandits
+qst_track_down_provocateurs|Traquer les provocateurs
+qst_retaliate_for_border_incident|Riposter à un incident frontalier
+qst_raid_caravan_to_start_war|Attaquer une caravane pour provoquer une guerre
+qst_cause_provocation|Pousser un royaume à en attaquer un autre
+qst_rescue_prisoner|Secourir ou payer la rançon du prisonnier
+qst_destroy_bandit_lair|Détruire le repaire des bandits
 qst_espada_beowulf|Find the Lyre of Taliesion and the Horn of Arthur{***}
 qst_espada_falcata|The return of the Roman Empire: Londinium (Lundenwic){***}
 qst_relic|A Lannister always pays his debts{***}
@@ -86,7 +86,7 @@ qst_bridge_of_skulls_fail|Bridges and Bones - Part 2{***}
 qst_bridge_of_skulls_success|Bridges and Bones - Part 2{***}
 qst_bolster_the_black|Bolster the Black{***}
 qst_kill_boar_king|You Win or You Die{***}
-qst_floris_active_tournament|Attend Tournament in {s13}{***}
+qst_floris_active_tournament|Participer au tournoi de {s13}
 qst_escort_bishop|Escort the bishop to {s8}{***}
 qst_iniau_the_banished|Iniau the Banished{***}
 qst_iniau_the_banished_text|None{***}
@@ -103,20 +103,20 @@ qst_oim_trakay_icon_text|Elusive Priest{***}
 qst_oim_getman_tampliers_archives|The Archive{***}
 qst_oim_getman_tampliers_archives_text|The Archive{***}
 qst_oim_dmitriy_gerasim|Veracius Evangelic{***}
-qst_freelancer_enlisted|Enlisted in the Party of {s13}{***}
-qst_freelancer_vacation|Enlisted: On Leave{***}
-qst_freelancer_captured|Enlisted: Captured{***}
-qst_freelancer_revolt|Enlisted: Revolting{***}
-qst_freelancer_end|Freelancer Quests End{***}
-qst_vc_menu|Viking Conquest menu system.{***}
-qst_vc_wounds|Viking Conquest wound system.{***}
-qst_sea_battle_spawn|a spawning system.{***}
-qst_team_0_ships|a spawning system.{***}
-qst_team_1_ships|a spawning system.{***}
-qst_collect_men|Collect Five Men{***}
-qst_learn_where_merchant_brother_is|Learn Where the Hostages are Held.{***}
-qst_save_relative_of_merchant|Attack the Bandit Lair{***}
-qst_save_town_from_bandits|The Purge{***}
+qst_freelancer_enlisted|Enrôlé dans l'armée de {s13}
+qst_freelancer_vacation|Enrôlé: En congé
+qst_freelancer_captured|Enrôlé: Capturé
+qst_freelancer_revolt|Enrôlé: En révolte
+qst_freelancer_end|Fin des quêtes de Freelance
+qst_vc_menu|système de menu de Viking Conquest.
+qst_vc_wounds|système de blessure de Viking Conquest.
+qst_sea_battle_spawn|un système de spawning.
+qst_team_0_ships|un système de spawning.
+qst_team_1_ships|un système de spawning.
+qst_collect_men|Recruter cinq hommes
+qst_learn_where_merchant_brother_is|Livrer {reg3} têtes de bétail à { s13}
+qst_save_relative_of_merchant|Attaquer le repaire des bandits
+qst_save_town_from_bandits|Sauver la ville des bandits
 qst_varys_inv_1|The Messenger{***}
 qst_varys_inv_1_text|Lord Varys requires you to gather a report from his agent in Sunspear in Dorne. You are to deliver this report back to Lord Varys.{***}
 qst_varys_inv_2|The Spy Hunter{***}
@@ -132,7 +132,7 @@ qst_ff_join_text|In order to prove your loyalty to the Free Folk, you are requir
 qst_old_valyria|Old Valyria{***}
 qst_old_valyria_text|Ser Janis Lyren has asked you to help find his ancestral home in Essos. He says you will need some tools, at least 50 men and 10,000 silver stags to rebuild it.{***}
 qst_bastards_and_broken_things|Bastards and Broken Things.{***}
-qst_bastards_and_broken_things_text|You must make sure the letter you have found makes it to King Stannis Baratheon.{***}
+qst_bastards_and_broken_things_text|Vous devez vous assurer de remettre au Roi Stannis Baratheon la lettre que vous avez trouvée.
 qst_bastards_and_broken_things_alt|Bastards and Broken Things.{***}
-qst_bastards_and_broken_things_alt_text|You have decided to take the news of the letter to King Joffrey Baratheon.{***}
-qst_quests_end|Quests End{***}
+qst_bastards_and_broken_things_alt_text|Vous avez décidé de prendre la nouvelle de la lettre au Roi Joffrey Baratheon
+qst_quests_end|Fin des quêtes

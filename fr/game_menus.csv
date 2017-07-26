@@ -1,4 +1,4 @@
-menu_start_game_0|Vous vous préparez à vous aventurer dans un monde de tromperie et de trahison.
+﻿menu_start_game_0|Vous vous préparez à vous aventurer dans un monde de tromperie et de trahison.
 mno_introduccion|Introduction
 mno_continue|Continuer
 mno_go_back|Retour
@@ -866,7 +866,7 @@ menu_introduccion_1|Si vous souhaitez survivre dans ce monde, je vous recommande
 mno_introduccion_yes|Continuer ...
 menu_introduccion_1_1|Situé dans le Vale, une partie montagneuse isolée de Westeros est assise Lord Robin, défenseur du Vale et gardien de l'est. Lord Robin est un petit garçon et le seul enfant survivant et héritier de Lord Jon Arryn. À cette époque, la Maison Arryn est neutre dans la guerre.^^ En direction du roi du midi, Renly Baratheon, Gardien du Sud, Haut-maréchal du Reach et Lord of Storms, finit par prendre le Trône pour lui-même.^^ Le Roi du Sel et du Rocher, le Vent du Fils de la Mer et le Seigneur Reaper de Pyke est le roi Balon Greyjoy qui statue sur les îles de la terre prêtes à envahir le Nord.Le roi Stannis Baratheon, le premier de son prénom. Le roi dans la mer étroite, Seigneur de Dragonstone, Lord Paramount of the Stormlands et King of Westeros règne à l'est. Le roi Stannis a récemment envoyé des corbeaux au royaume en affirmant que le roi Joffrey Baratheon n'est pas l'héritier légitime de Robert Baratheon, mais le fils de Ser Jaime Lannister ..
 mno_introduccion_yes2|Continuer ...
-menu_introduccion_2|UN JEU DE THONES PRESENTE:
+menu_introduccion_2|A World of Ice and Fire PRESENTE:
 mno_introduccion_yes3|Continuer ...
 mno_introduccion_yes4|Retour.
 menu_introduccion_3|Cette agitation se poursuit après les rives de Westeros et à travers la mer étroite dans Essos, un continent en proie aux guerriers nomades, les Dothraki Hordes connus sous le nom de Khalasars! ...^^ Les Dothraki prennent ce dont ils ont besoin par pillage et pillage et disent qu'ils ont confiance en les océans parce que leurs chevaux ne boiraient pas.^^ Le viol et la mort sont répandus dans ces parties et on ferait bien de rester loin ...^ Bienvenue dans Game of Thrones et espérons que vos aventures mèneront à de meilleures fins que celle de la plupart des gens sur les continents de Westeros et Essos!
@@ -995,7 +995,7 @@ menu_discurso_12|Vous observez les troupes et vous déplacez entre elles. En par
 menu_town_recruit_troops|Il y a un groupe de nobles réunis sur la place principale. {S18} Vous avez {reg15} cerfs d'argent pour essayer de les embaucher.
 menu_town_recruit_troops2|Personne n'est disponible à la location.
 menu_town_recruit_troops3|Un seigneur local et son séquestre sont disponibles à la location. Vous comptez 11 hommes dans le coût total de 7000 cerfs.
-mno_acept_them|Contraignez-les.
+mno_acept_them|Les recruter.
 menu_refugee_recruit_troops1|Il y a des veufs et des orphelins intéressés à se joindre pour essayer de trouver une nouvelle vie avec vos soldats.
 menu_refugee_recruit_troops2|Personne ne veut se joindre à vous.
 menu_refugee_recruit_troops3|Il y a des bergers et des agriculteurs intéressés à rejoindre votre armée. Ils coûteront 60 cerfs.

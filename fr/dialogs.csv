@@ -1,4 +1,4 @@
-dlga_event_triggered:upgrade_talk|Oui, {s65}?
+﻿dlga_event_triggered:upgrade_talk|Oui, {s65}?
 dlga_upgrade_talk:upgrade_talk_1|J'ai vu que vous vous battiez brillamment, soldat.
 dlga_upgrade_talk_1:upgrade_talk_2|J'accomplis simplement mon devoir envers {s65}, sire.
 dlga_upgrade_talk_2:upgrade_talk_3a|Et bien. La dernière fois que j'ai entendu parler d'un héros avec de telles capacités, c'était dans les histoires!
@@ -24,7 +24,7 @@ dlga_port_chief_info_a_1:port_chief_info_main.1|Vous pouvez gagner beaucoup d'ar
 dlga_port_chief_info_b_1:port_chief_info_main|Regardez le soleil à la journée. Arretez-vous la nuit. Plus vous êtes fort pour recherchez votre chemin, plus vite vous voyagerai.
 dlga_port_chief_info_c_1:port_chief_info_c_2|Tout d'abord, vous devez savoir quel type de navire vous souhaitez. Si vous souhaitez échanger, un navire marchand peut être un bon choix. Ils ont beaucoup de place pour la cargaison, mais ils ne sont pas très rapides. Le Navire de Guerre, la Galère et le Cogue sont des navires de guerre rapides et peuvent transporter de nombreuses troupes. Le longship est quelque chose d'intermédiaire. Si vous avez seulement quelques hommes et peu de pièces de monnaie, alors un petit bateau en rangée pourrait vous convenir mieux.
 dlga_port_chief_info_c_2:port_chief_info_main|Le deuxième facteur important est le type de bois à partir duquel le navire est fabriqué. Les navires en bois de chêne sont les meilleurs navires, mais sont également chers. Le hêtre est moins cher, mais il pousse plus vite.
-dlga_port_chief_info_d_1:port_chief_info_main|Le vent - si vous placez vos voiles dans une position pour l'attraper le mieux. S'il n'y a pas de vent du tout, votre équipage doit ramer. Plus il y a de rameurs, plus le navire sera rapide. Si vous avez plus d'un navire dans votre flotte, votre flotte sera seulement aussi rapide que votre bateau le plus lent. Un navigateur expérimenté peut également rendre votre flotte plus rapide.
+dlga_port_chief_info_d_1:port_chief_info_main|Le vent - si vous placez vos voiles dans une position pour l'attraper le mieux. S'il n'y a pas de vent du tout, votre équipage doit ramer. Plus il y a de rameurs, plus le navire sera rapide. Si vous avez plus d'un navire dans votre flotte, votre flotte sera seulement aussi rapide que votre bateau le plus lent. Un navigateur qualifié peut également rendre votre flotte plus rapide.
 dlga_port_chief3:port_chief_travel|Je souhaite voyager dans un autre port.
 dlga_port_chief_travel:close_window|Je suis désolé. Il n'y a actuellement aucun navire à passagers dans ce port qui peut transporter un maréchal et toute son armée.
 dlga_port_chief_travel:close_window.1|Je suis désolé. Il n'y a actuellement aucun navire à passagers dans ce port qui peut transporter votre groupe et le commerçant avec son chargement entier.
