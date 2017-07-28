@@ -94,26 +94,26 @@ trp_local_lord|Seigneur
 trp_local_lord_pl|Seigneurs
 trp_local_lord_mounted|Seigneur
 trp_local_lord_mounted_pl|Seigneurs
-trp_dornish_peasant|Paysan de Dorne 
-trp_dornish_peasant_pl|Paysans de Dorne
-trp_dornish_recruit|Recrue de Dorne
-trp_dornish_recruit_pl|Recrue de Dorne
-trp_dornish_archer|Archer de Dorne 
-trp_dornish_archer_pl|Archers de Dorne 
-trp_dornish_spearman|Lancier de Dorne 
-trp_dornish_spearman_pl|Lanciers de Dorne 
-trp_dornish_skirmisher|Skirmisher de Dorne 
-trp_dornish_skirmisher_pl|Skirmishers de Dorne 
-trp_dornish_sand_scout|Éclaireur de Dorne 
-trp_dornish_sand_scout_pl|Éclaireurs de Dorne 
-trp_dornish_spearman_vet|Lancier expérimenté de Dorne 
-trp_dornish_spearman_vet_pl|Lanciers expérimenté de Dorne 
-trp_dornish_sand_warrior|Guerrier du Désert
-trp_dornish_sand_warrior_pl|Guerriers du Désert
-trp_dornish_sand_cavalry|Cavalier de Dorne 
-trp_dornish_sand_cavalry_pl|Cavalier de Dorne 
-trp_dornish_spearman_heavy|Lancier lourd de Dorne 
-trp_dornish_spearman_heavy_pl|Lanciers lourd de Dorne 
+trp_dornish_peasant|I1 Paysan de Dorne 
+trp_dornish_peasant_pl|I1 Paysans de Dorne
+trp_dornish_recruit|I2 Recrue de Dorne
+trp_dornish_recruit_pl|I2 Recrue de Dorne
+trp_dornish_archer|A3 Archer de Dorne 
+trp_dornish_archer_pl|A3 Archers de Dorne 
+trp_dornish_spearman|I3 Lancier de Dorne 
+trp_dornish_spearman_pl|I3 Lanciers de Dorne 
+trp_dornish_skirmisher|I3 Tirailleur de Dorne 
+trp_dornish_skirmisher_pl|I3 Tirailleurs de Dorne 
+trp_dornish_sand_scout|C4 Éclaireur de Dorne 
+trp_dornish_sand_scout_pl|C4 Éclaireurs de Dorne 
+trp_dornish_spearman_vet|I4 Lancier expérimenté de Dorne 
+trp_dornish_spearman_vet_pl|I4 Lanciers expérimenté de Dorne 
+trp_dornish_sand_warrior|I5 Guerrier du Désert
+trp_dornish_sand_warrior_pl|I5 Guerriers du Désert
+trp_dornish_sand_cavalry|C5 Cavalier de Dorne 
+trp_dornish_sand_cavalry_pl|C5 Cavalier de Dorne 
+trp_dornish_spearman_heavy|I5 Lancier lourd de Dorne 
+trp_dornish_spearman_heavy_pl|I5 Lanciers lourd de Dorne 
 trp_dornish_hornman|Trompettiste de Dorne
 trp_dornish_hornman_pl|Trompettistes de Dorne
 trp_dorne_standard_bearer|de Dorne Standard Bearer
@@ -152,29 +152,29 @@ trp_lord_of_light|Prêtre rouge
 trp_lord_of_light_pl|Prêtres rouge
 trp_drowned_man_troops|Prêtre du Dieu Noyé
 trp_drowned_man_troops_pl|Prêtres du Dieu Noyé
-trp_faceless_man|Faceless Man
-trp_faceless_man_pl|Faceless Men
+trp_faceless_man|Sans-Visage
+trp_faceless_man_pl|Sans-Visages
 trp_hornman|Trompettiste
 trp_hornman_pl|Trompettistes
 trp_free_city_hornman|Trompettiste
 trp_free_city_hornman_pl|Trompettistes
-trp_stormlands_peasant|Paysan des Terres de l'Orage
-trp_stormlands_peasant_pl|Paysans des Terres de l'Orage
-trp_stormlands_recruit|Recrue des Terres de l'Orage
-trp_stormlands_recruit_pl|Recrue des Terres de l'Orage
-trp_stormlands_forester|Forestier des Terres de l'Orage
-trp_stormlands_forester_pl|Forestiers des Terres de l'Orage
-trp_stormlands_militia|Milicien des Terres de l'Orage
-trp_stormlands_militia_pl|Miliciens des Terres de l'Orage
-trp_stormlands_bowman|des Terres de l'Orage Bowman
-trp_stormlands_bowman_pl|des Terres de l'Orage Bowmen
-trp_stormlands_man_at_arms|Homme d'arme des Terres de l'Orage
-trp_stormlands_man_at_arms_pl|Hommes d'armes des Terres de l'Orage
-trp_stormlands_knight|Chevalier des Terres de l'Orage
-trp_stormlands_knight_pl|Chevaliers des Terres de l'Orage
-trp_stormlands_mounted_knight|Chevalier Monté des Terres de l'Orage
-trp_stormlands_mounted_knight_pl|Chevaliers Monté des Terres de l'Orage
-trp_stormlands_hornman|des Terres de l'Orage Trompettiste des Terres de l'Orage
+trp_stormlands_peasant|I1 Paysan des Terres de l'Orage
+trp_stormlands_peasant_pl|I1 Paysans des Terres de l'Orage
+trp_stormlands_recruit|I2 Recrue des Terres de l'Orage
+trp_stormlands_recruit_pl|I2 Recrue des Terres de l'Orage
+trp_stormlands_forester|A3 Forestier des Terres de l'Orage
+trp_stormlands_forester_pl|A3 Forestiers des Terres de l'Orage
+trp_stormlands_militia|I3 Milicien des Terres de l'Orage
+trp_stormlands_militia_pl|I3 Miliciens des Terres de l'Orage
+trp_stormlands_bowman|A4 Archer des Terres de l'Orage
+trp_stormlands_bowman_pl|A4 Archers des Terres de l'Orage
+trp_stormlands_man_at_arms|I4 Homme d'arme des Terres de l'Orage
+trp_stormlands_man_at_arms_pl|I4 Hommes d'armes des Terres de l'Orage
+trp_stormlands_knight|I5 Chevalier des Terres de l'Orage
+trp_stormlands_knight_pl|I5 Chevaliers des Terres de l'Orage
+trp_stormlands_mounted_knight|C5 Chevalier monté des Terres de l'Orage
+trp_stormlands_mounted_knight_pl|C5 Chevaliers montés des Terres de l'Orage
+trp_stormlands_hornman|Trompettiste des Terres de l'Orage
 trp_stormlands_hornman_pl|Trompettistes des Terres de l'Orage
 trp_stormlands_standard_bearer|des Terres de l'Orage Standard Bearer
 trp_stormlands_standard_bearer_pl|des Terres de l'Orage Standard Bearers
@@ -188,58 +188,58 @@ trp_stormlands_castle_guard|Garde des Terres de l'Orage
 trp_stormlands_castle_guard_pl|Gardes des Terres de l'Orage
 trp_stormlands_local_lord|Seigneur des Terres de l'Orage
 trp_stormlands_local_lord_pl|Seigneurs des Terres de l'Orage
-trp_dragonstone_peasant|Paysan de Dragonstone
-trp_dragonstone_peasant_pl|Paysans de Dragonstone 
-trp_dragonstone_recruit|Recrue de Dragonstone
-trp_dragonstone_recruit_pl|Recrues de Dragonstone
-trp_dragonstone_forester|Archer de Dragonstone 
-trp_dragonstone_forester_pl|Archers de Dragonstone 
-trp_dragonstone_militia|Milicien de Dragonstone 
-trp_dragonstone_militia_pl|Miliciens de Dragonstone 
-trp_dragonstone_bowman|Archer de Dragonstone 
-trp_dragonstone_bowman_pl|Archers de Dragonstone 
-trp_dragonstone_man_at_arms|Homme d'arme de Dragonstone 
-trp_dragonstone_man_at_arms_pl|Hommes d'armes de Dragonstone 
-trp_dragonstone_knight|Chevalier de Dragonstone
-trp_dragonstone_knight_pl|Chevaliers de Dragonstone
-trp_dragonstone_mounted_knight|Chevalier Monté de Dragonstone 
-trp_dragonstone_mounted_knight_pl|Chevaliers Monté de Dragonstone 
+trp_dragonstone_peasant|I1 Paysan de Peyredragon
+trp_dragonstone_peasant_pl|I1 Paysans de Peyredragon 
+trp_dragonstone_recruit|I2 Recrue de Peyredragon
+trp_dragonstone_recruit_pl|I2 Recrues de Peyredragon
+trp_dragonstone_forester|A3 Archer de Peyredragon 
+trp_dragonstone_forester_pl|A3 Archers de Peyredragon 
+trp_dragonstone_militia|I3 Milicien de Peyredragon 
+trp_dragonstone_militia_pl|I3 Miliciens de Peyredragon 
+trp_dragonstone_bowman|A4 Archer de Peyredragon 
+trp_dragonstone_bowman_pl|A4 Archers de Peyredragon 
+trp_dragonstone_man_at_arms|I4 Homme d'arme de Peyredragon 
+trp_dragonstone_man_at_arms_pl|I4 Hommes d'armes de Peyredragon 
+trp_dragonstone_knight|I5 Chevalier de Peyredragon
+trp_dragonstone_knight_pl|I5 Chevaliers de Peyredragon
+trp_dragonstone_mounted_knight|C5 Chevalier monté de Peyredragon 
+trp_dragonstone_mounted_knight_pl|C5 Chevaliers montés de Peyredragon 
 trp_dragonstone_queensmen|Queen's Man
 trp_dragonstone_queensmen_pl| Queen's Men
-trp_dragonstone_hornman|Trompettiste de Dragonstone 
-trp_dragonstone_hornman_pl|Trompettistes de Dragonstone 
-trp_dragonstone_standard_bearer|Dragonstone Standard Bearer
-trp_dragonstone_standard_bearer_pl|Dragonstone Standard Bearers
-trp_dragonstone_messenger|Messager de Dragonstone 
-trp_dragonstone_messenger_pl|Messagers de Dragonstone 
-trp_dragonstone_deserter|Déserteur de Dragonstone 
-trp_dragonstone_deserter_pl|Déserteurs de Dragonstone 
-trp_dragonstone_prison_guard|Garde de Prison de Dragonstone 
-trp_dragonstone_prison_guard_pl|Garde de Prisons de Dragonstone 
-trp_dragonstone_castle_guard|Garde de Dragonstone 
-trp_dragonstone_castle_guard_pl|Gardes de Dragonstone 
-trp_dragonstone_local_lord|Noble de Dragonstone 
-trp_dragonstone_local_lord_pl|Noble de Dragonstone 
-trp_westerlands_peasant|Paysan des Terres de l'Ouest
-trp_westerlands_peasant_pl|Paysans des Terres de l'Ouest
-trp_westerlands_recruit|Recrue des Terres de l'Ouest
-trp_westerlands_recruit_pl|Recrue des Terres de l'Ouest
-trp_westerlands_foot_soldier|Fantassin des Terres de l'Ouest
-trp_westerlands_foot_soldier_pl|Fantassins des Terres de l'Ouest
-trp_westerlands_crossbowman|Archer des Terres de l'Ouest
-trp_westerlands_crossbowman_pl|Archers des Terres de l'Ouest
-trp_westerlands_infantry|Infanterie des Terres de l'Ouest
-trp_westerlands_infantry_pl|Infanterie des Terres de l'Ouest
-trp_westerlands_scout|Éclaireur des Terres de l'Ouest
-trp_westerlands_scout_pl|Éclaireur des Terres de l'Ouest
-trp_westerlands_arbelester|Arbalétriers des Terres de l'Ouest
-trp_westerlands_arbelester_pl|Arbalétriers des Terres de l'Ouest
-trp_westerlands_freerider|Cavalier des Terres de l'Ouest
-trp_westerlands_freerider_pl|Cavalier des Terres de l'Ouest
-trp_westerlands_lannisguard|Chevalier des Terres de l'Ouest
-trp_westerlands_lannisguard_pl|Chevalier des Terres de l'Ouest
-trp_westerlands_red_cloak_knight|Chevalier des Terres de l'Ouest
-trp_westerlands_red_cloak_knight_pl|Chevaliers des Terres de l'Ouest
+trp_dragonstone_hornman|Trompettiste de Peyredragon 
+trp_dragonstone_hornman_pl|Trompettistes de Peyredragon 
+trp_dragonstone_standard_bearer|Peyredragon Standard Bearer
+trp_dragonstone_standard_bearer_pl|Peyredragon Standard Bearers
+trp_dragonstone_messenger|Messager de Peyredragon 
+trp_dragonstone_messenger_pl|Messagers de Peyredragon 
+trp_dragonstone_deserter|Déserteur de Peyredragon 
+trp_dragonstone_deserter_pl|Déserteurs de Peyredragon 
+trp_dragonstone_prison_guard|Garde de Prison de Peyredragon 
+trp_dragonstone_prison_guard_pl|Garde de Prisons de Peyredragon 
+trp_dragonstone_castle_guard|Garde de Peyredragon 
+trp_dragonstone_castle_guard_pl|Gardes de Peyredragon 
+trp_dragonstone_local_lord|Noble de Peyredragon 
+trp_dragonstone_local_lord_pl|Noble de Peyredragon 
+trp_westerlands_peasant|I1 Paysan des Terres de l'Ouest
+trp_westerlands_peasant_pl|I1 Paysans des Terres de l'Ouest
+trp_westerlands_recruit|I2 Recrue des Terres de l'Ouest
+trp_westerlands_recruit_pl|I2 Recrue des Terres de l'Ouest
+trp_westerlands_foot_soldier|I3 Fantassin des Terres de l'Ouest
+trp_westerlands_foot_soldier_pl|I3 Fantassins des Terres de l'Ouest
+trp_westerlands_crossbowman|A3 Archer des Terres de l'Ouest
+trp_westerlands_crossbowman_pl|A3 Archers des Terres de l'Ouest
+trp_westerlands_infantry|I4 Infanterie des Terres de l'Ouest
+trp_westerlands_infantry_pl|I4 Infanterie des Terres de l'Ouest
+trp_westerlands_scout|C4 Éclaireur des Terres de l'Ouest
+trp_westerlands_scout_pl|C4 Éclaireur des Terres de l'Ouest
+trp_westerlands_arbelester|A4 Arbalétriers des Terres de l'Ouest
+trp_westerlands_arbelester_pl|A4 Arbalétriers des Terres de l'Ouest
+trp_westerlands_freerider|C5 Cavalier des Terres de l'Ouest
+trp_westerlands_freerider_pl|C5 Cavalier des Terres de l'Ouest
+trp_westerlands_lannisguard|I5 Chevalier des Terres de l'Ouest
+trp_westerlands_lannisguard_pl|I5 Chevalier des Terres de l'Ouest
+trp_westerlands_red_cloak_knight|C6 Chevalier monté des Terres de l'Ouest
+trp_westerlands_red_cloak_knight_pl|C6 Chevaliers montés des Terres de l'Ouest
 trp_westerland_hornman|Trompettiste des Terres de l'Ouest
 trp_westerland_hornman_pl|Trompettistes des Terres de l'Ouest
 trp_westerland_standard_bearer|des Terres de l'Ouest Standard Bearer
@@ -255,7 +255,7 @@ trp_westerlands_castle_guard_pl|Gardes des Terres de l'Ouest
 trp_westerlands_local_lord|Seigneur des Terres de l'Ouest
 trp_westerlands_local_lord_pl|Seigneurs des Terres de l'Ouest
 trp_westerlands_lannister_recruit|Recrue Lannister
-trp_westerlands_lannister_recruit_pl|Recrue Lannister
+trp_westerlands_lannister_recruit_pl|Recrues Lannister
 trp_westerlands_lannister_foot_soldier|Fantassin Lannister
 trp_westerlands_lannister_foot_soldier_pl|Fantassins Lannister
 trp_westerlands_lannister_crossbowman|Archer Lannister
@@ -286,26 +286,26 @@ trp_westerlands_lannister_castle_guard|Garde Lannister
 trp_westerlands_lannister_castle_guard_pl|Gardes Lannister
 trp_westerlands_lannister_local_lord|Seigneur Lannister
 trp_westerlands_lannister_local_lord_pl|Seigneurs Lannister
-trp_reach_peasant|Paysan du Bief
-trp_reach_peasant_pl|Paysans du Bief
-trp_reach_recruit|Recrue du Bief 
-trp_reach_recruit_pl|du Bief Recrue du Bief
-trp_reach_rider|du Bief Rider
-trp_reach_rider_pl|du Bief Riders
-trp_reach_footman|Fantassin du Bief
-trp_reach_footman_pl|Fantassin du Bief
-trp_reach_man_at_arms|Homme d'arme du Bief
-trp_reach_man_at_arms_pl|Hommes d'armes du Bief
-trp_reach_archer|Archer du Bief
-trp_reach_archer_pl|Archers du Bief
-trp_reach_mounted_man_at_arms|dHomme d'arme monté du Bief
-trp_reach_mounted_man_at_arms_pl|Hommes d'armes monté du Bief
-trp_reach_knight|Chevalier du Bief
-trp_reach_knight_pl|Chevaliers du Bief
-trp_reach_mounted_knight|Chevalier Monté du Bief
-trp_reach_mounted_knight_pl|Chevaliers Monté du Bief
-trp_reach_swornsword|du Bief Sworn Sword
-trp_reach_swornsword_pl|du Bief Sworn Swords
+trp_reach_peasant|I1 Paysan du Bief
+trp_reach_peasant_pl|I1 Paysans du Bief
+trp_reach_recruit|I2 Recrue du Bief 
+trp_reach_recruit_pl|I2 Recrue du Bief
+trp_reach_rider|C3 Cavalier du Bief
+trp_reach_rider_pl|C3 Cavaliers du Bief 
+trp_reach_footman|I3 Fantassin du Bief
+trp_reach_footman_pl|I3 Fantassin du Bief
+trp_reach_man_at_arms|I4 Homme d'arme du Bief
+trp_reach_man_at_arms_pl|I4 Hommes d'armes du Bief
+trp_reach_archer|A4 Archer du Bief
+trp_reach_archer_pl|A4 Archers du Bief
+trp_reach_mounted_man_at_arms|C4 Homme d'arme monté du Bief
+trp_reach_mounted_man_at_arms_pl|C4 Hommes d'armes montés du Bief
+trp_reach_knight|I5 Chevalier du Bief
+trp_reach_knight_pl|I5 Chevaliers du Bief
+trp_reach_mounted_knight|C5 Chevalier monté du Bief
+trp_reach_mounted_knight_pl|C5 Chevaliers montés du Bief
+trp_reach_swornsword|C6 Grand Chevalier du Bief 
+trp_reach_swornsword_pl|C6 Grand Chevalier du Bief 
 trp_reach_hornman|Trompettiste du Bief
 trp_reach_hornman_pl|Trompettistes du Bief
 trp_reach_standard_bearer|du Bief Standard Bearer
@@ -320,28 +320,28 @@ trp_reach_castle_guard|Garde du Bief
 trp_reach_castle_guard_pl|Gardes du Bief
 trp_reach_local_lord|Seigneur du Bief
 trp_reach_local_lord_pl|Seigneurs du Bief
-trp_north_peasant|Paysan Nordique
-trp_north_peasant_pl|Paysans Nordique
-trp_north_recruit|Recrue Nordique
-trp_north_recruit_pl|Recrue Nordique
-trp_north_footman|Fantassin Nordique
-trp_north_footman_pl|Fantassins Nordique
-trp_north_archer|Archer Nordique
-trp_north_archer_pl| Archers Nordique
-trp_north_man_at_arms|Homme d'arme Nordique
-trp_north_man_at_arms_pl|Hommes d'armes Nordique
-trp_north_hunting_archers|Archer Nordique
-trp_north_hunting_archers_pl| Archers Nordique
-trp_north_horseman|Cavalier Nordique
-trp_north_horseman_pl|Cavaliers Nordique
-trp_north_cavalry|Cavalier Nordique
-trp_north_cavalry_pl|Cavalier Nordique
-trp_north_guardsman|Nordique Guardsman
-trp_north_guardsman_pl|Nordique Guardsmen
-trp_north_pikeman|Nordique Pikeman
-trp_north_pikeman_pl|Nordique Pikemen
-trp_north_house_guard|Garde Nordique
-trp_north_house_guard_pl|Gardes Nordique
+trp_north_peasant|I1 Paysan Nordique
+trp_north_peasant_pl|I1 Paysans Nordique
+trp_north_recruit|I2 Recrue Nordique
+trp_north_recruit_pl|I2 Recrue Nordique
+trp_north_footman|I3 Fantassin Nordique
+trp_north_footman_pl|I3 Fantassins Nordique
+trp_north_archer|A3 Archer Nordique
+trp_north_archer_pl|A3 Archers Nordique
+trp_north_man_at_arms|I4 Homme d'arme Nordique
+trp_north_man_at_arms_pl|I4 Hommes d'armes Nordique
+trp_north_hunting_archers|A4 Archer Nordique
+trp_north_hunting_archers_pl|A4 Archers Nordique
+trp_north_horseman|C4 Cavalier Nordique
+trp_north_horseman_pl|C4 Cavaliers Nordique
+trp_north_cavalry|C5 Cavalier Nordique
+trp_north_cavalry_pl|C5 Cavalier Nordique
+trp_north_guardsman|I5 Guardsman Nordique 
+trp_north_guardsman_pl|I5 Guardsmen Nordique 
+trp_north_pikeman|I5 Lancier Nordique 
+trp_north_pikeman_pl|I5 Lanciers Nordique
+trp_north_house_guard|I6 Garde Nordique
+trp_north_house_guard_pl|I6 Gardes Nordique
 trp_white_harbour_knights|White Harbour Chevalier
 trp_white_harbour_knights_pl|White Harbour Chevaliers
 trp_wild_hare|Wild Hare
@@ -380,8 +380,8 @@ trp_north_karstark_cavalry|Karstark Cavalier
 trp_north_karstark_cavalry_pl|Karstark Cavalier
 trp_north_karstark_guard|Karstark Garde
 trp_north_karstark_guard_pl|Karstark Gardes
-trp_north_karstark_pikeman|Karstark Pikeman
-trp_north_karstark_pikeman_pl|Karstark Pikemen
+trp_north_karstark_pikeman|Karstark Lancier
+trp_north_karstark_pikeman_pl|Karstark Lanciers
 trp_north_karstark_household_guard|Karstark Household Garde
 trp_north_karstark_household_guard_pl|Karstark Household Garde
 trp_north_karstark_hornman|Karstark Trompettiste
@@ -408,14 +408,14 @@ trp_north_stark_guardsman|Homme d'arme Stark
 trp_north_stark_guardsman_pl|Hommes d'armes Stark
 trp_north_stark_hunting_archers|Archer Stark
 trp_north_stark_hunting_archers_pl|Archers Stark
-trp_north_stark_horseman|Stark Horseman
-trp_north_stark_horseman_pl|Cavalier Stark
-trp_north_stark_cavalry|Cavalier Stark
-trp_north_stark_cavalry_pl|Cavalier Stark
+trp_north_stark_horseman|Cavalier Stark 
+trp_north_stark_horseman_pl|Cavaliers Stark
+trp_north_stark_cavalry|Grand Cavalier Stark
+trp_north_stark_cavalry_pl|Grand Cavalier Stark
 trp_north_stark_guard|Garde Stark
 trp_north_stark_guard_pl|Gardes Stark
-trp_north_stark_pikeman|Stark Pikeman
-trp_north_stark_pikeman_pl|Stark Pikemen
+trp_north_stark_pikeman|Lancier Stark 
+trp_north_stark_pikeman_pl|Stark Lanciers
 trp_north_stark_household_guard|Garde Stark
 trp_north_stark_household_guard_pl|Garde Stark
 trp_north_stark_hornman|Trompettiste Stark
@@ -448,8 +448,8 @@ trp_north_bolton_cavalry|Cavalier Bolton
 trp_north_bolton_cavalry_pl|Cavalier Bolton
 trp_north_bolton_guard|Garde Bolton
 trp_north_bolton_guard_pl|Gardes Bolton
-trp_north_bolton_pikeman|Bolton Pikeman
-trp_north_bolton_pikeman_pl|Bolton Pikemen
+trp_north_bolton_pikeman|Lancier Bolton 
+trp_north_bolton_pikeman_pl|Lanciers Bolton 
 trp_north_bolton_household_guard|Garde Bolton
 trp_north_bolton_household_guard_pl|Garde Bolton
 trp_north_bolton_hornman|Trompettiste Bolton
@@ -468,24 +468,24 @@ trp_north_bolton_local_lord|Seigneur Bolton
 trp_north_bolton_local_lord_pl|Seigneurs Bolton
 trp_wildling_female_peasant|Sauvageons
 trp_wildling_female_peasant_pl|Paysannes Sauvageons
-trp_wildling_peasant|Sauvageons
-trp_wildling_peasant_pl|Paysans Sauvageons
-trp_wildling_warrior|Guerrier Sauvageons
-trp_wildling_warrior_pl|Guerriers Sauvageons
-trp_wildling_hunter|Chasseur Sauvageons
-trp_wildling_hunter_pl|Chasseurs Sauvageons
-trp_wildling_huntress|Chasseuse Sauvageons
-trp_wildling_huntress_pl|Chasseuses Sauvageons
-trp_wildling_champion|Champion Sauvageons
-trp_wildling_champion_pl|Champions Sauvageons
-trp_wildling_stalker|Sauvageons Stalker
-trp_wildling_stalker_pl|Sauvageons Stalkers
-trp_wildling_spearwives|Sauvageons Spearwife
-trp_wildling_spearwives_pl|Sauvageons Spearwives
-trp_wildling_horseman|Cavaliers Sauvageons
-trp_wildling_horseman_pl|Cavaliers Sauvageons
-trp_wildling_raider|Raider Sauvageons
-trp_wildling_raider_pl|Raiders Sauvageons
+trp_wildling_peasant|I1 Paysan Sauvageons
+trp_wildling_peasant_pl|I1 Paysans Sauvageons
+trp_wildling_warrior|I2 Guerrier Sauvageons
+trp_wildling_warrior_pl|I2 Guerriers Sauvageons
+trp_wildling_hunter|A2 Chasseur Sauvageons
+trp_wildling_hunter_pl|A2 Chasseurs Sauvageons
+trp_wildling_huntress|A2 Chasseuse Sauvageons
+trp_wildling_huntress_pl|A2 Chasseuses Sauvageons
+trp_wildling_champion|I3 Champion Sauvageons
+trp_wildling_champion_pl|I3 Champions Sauvageons
+trp_wildling_stalker|I3 Stalker Sauvageons 
+trp_wildling_stalker_pl|I3 Stalkers Sauvageons 
+trp_wildling_spearwives|Spearwife Sauvageons 
+trp_wildling_spearwives_pl|Spearwives Sauvageons 
+trp_wildling_horseman|C3 Cavaliers Sauvageons
+trp_wildling_horseman_pl|C3 Cavaliers Sauvageons
+trp_wildling_raider|A4 Raider Sauvageons
+trp_wildling_raider_pl|A4 Raiders Sauvageons
 trp_wildling_hornman|Trompettiste Sauvageons
 trp_wildling_hornman_pl|Trompettistes Sauvageons
 trp_wildling_standard_bearer|Sauvageons Standard Bearer
@@ -524,24 +524,24 @@ trp_thenn_prison_guard|Gardien de Prison Thenn
 trp_thenn_prison_guard_pl|Gardien de Prisons Thenn
 trp_thenn_castle_guard|Garde Thenn
 trp_thenn_castle_guard_pl|Gardes Thenn
-trp_ironborn_peasant|Paysan Fer-nés
-trp_ironborn_peasant_pl|Paysans Fer-nés
-trp_ironborn_sailor|Marin Fer-nés
-trp_ironborn_sailor_pl|Marins Fer-nés
-trp_ironborn_seafarer|Marin Fer-nés
-trp_ironborn_seafarer_pl|Marins Fer-nés
-trp_ironborn_raider|Raider Fer-nés
-trp_ironborn_raider_pl|Raiders Fer-nés
-trp_ironborn_skirmisher|Fer-nés Skirmisher
-trp_ironborn_skirmisher_pl|Fer-nés Skirmishers
-trp_ironborn_warrior|Guerrier Fer-nés
-trp_ironborn_warrior_pl|Guerriers Fer-nés
-trp_ironborn_scout|Éclaireur Fer-nés
-trp_ironborn_scout_pl|Éclaireurs Fer-nés
-trp_ironborn_finger_dancer|Finger Dancer
-trp_ironborn_finger_dancer_pl|Finger Dancers
-trp_ironborn_marauder|Maraudeur Fer-nés
-trp_ironborn_marauder_pl|Maraudeurs Fer-nés
+trp_ironborn_peasant|I1 Paysan Fer-nés
+trp_ironborn_peasant_pl|I1 Paysans Fer-nés
+trp_ironborn_sailor|I2 Marin Fer-nés
+trp_ironborn_sailor_pl|I2 Marins Fer-nés
+trp_ironborn_seafarer|I3 Marin expérimenté Fer-nés
+trp_ironborn_seafarer_pl|I3 Marins expérimentés Fer-nés
+trp_ironborn_raider|I3 Raider Fer-nés
+trp_ironborn_raider_pl|I3 Raiders Fer-nés
+trp_ironborn_skirmisher|I4 Tirailleur Fer-nés 
+trp_ironborn_skirmisher_pl|I4 Tirailleurs Fer-nés 
+trp_ironborn_warrior|I4 Guerrier Fer-nés
+trp_ironborn_warrior_pl|I4 Guerriers Fer-nés
+trp_ironborn_scout|I4 Éclaireur Fer-nés
+trp_ironborn_scout_pl|I4 Éclaireurs Fer-nés
+trp_ironborn_finger_dancer|I5 Finger Dancer
+trp_ironborn_finger_dancer_pl|I5 Finger Dancers
+trp_ironborn_marauder|I5 Maraudeur Fer-nés
+trp_ironborn_marauder_pl|I5 Maraudeurs Fer-nés
 trp_ironborn_hornman|Trompettiste Fer-nés
 trp_ironborn_hornman_pl|Trompettistes Fer-nés
 trp_ironborn_standard_bearer|Fer-nés Standard Bearer
@@ -562,22 +562,22 @@ trp_ironborn_kraken_guard|Kraken Garde
 trp_ironborn_kraken_guard_pl|Kraken Gardes
 trp_ironborn_local_lord|Seigneur Fer-nés
 trp_ironborn_local_lord_pl|Seigneurs Fer-nés
-trp_dothraki_tribesman|Tribesman
-trp_dothraki_tribesman_pl|Tribesmen
-trp_dothraki_warrior|Guerrier Dothraki
-trp_dothraki_warrior_pl|Guerriers Dothraki
-trp_dothraki_horseman|Cavalier Dothraki
-trp_dothraki_horseman_pl|Cavaliers Dothraki
-trp_dothraki_scout|Éclaireur Dothraki
-trp_dothraki_scout_pl|Éclaireurs Dothraki
-trp_dothraki_outrider|Dothraki Outrider
-trp_dothraki_outrider_pl|Dothraki Outriders
+trp_dothraki_tribesman|I1 Dothraki
+trp_dothraki_tribesman_pl|I1 Dothraki
+trp_dothraki_warrior|I2 Guerrier Dothraki
+trp_dothraki_warrior_pl|I2 Guerriers Dothraki
+trp_dothraki_horseman|C3 Cavalier Dothraki
+trp_dothraki_horseman_pl|C3 Cavaliers Dothraki
+trp_dothraki_scout|I3 Éclaireur Dothraki
+trp_dothraki_scout_pl|I3 Éclaireurs Dothraki
+trp_dothraki_outrider|C4 Éclaireur monté Dothraki
+trp_dothraki_outrider_pl|C4 Éclaireurs montés Dothraki
 trp_dothraki_jr|Jaqqa Rhan
 trp_dothraki_jr_pl|Jaqqa Rhan's
-trp_dothraki_raider|Raider Dothraki
-trp_dothraki_raider_pl|Raiders Dothraki
-trp_dothraki_horselord|Dothraki Horselord
-trp_dothraki_horselord_pl|Dothraki Horselords
+trp_dothraki_raider|C4 Raider Dothraki
+trp_dothraki_raider_pl|C4 Raiders Dothraki
+trp_dothraki_horselord|C5 Grand Cavalier Dothraki 
+trp_dothraki_horselord_pl|C5 Grands Cavaliers Dothraki
 trp_dothraki_hornman|Trompettiste Dothraki
 trp_dothraki_hornman_pl|Trompettistes Dothraki
 trp_dothraki_standard_bearer|Standard
@@ -590,28 +590,28 @@ trp_dothraki_prison_guard|Gardien de Prison Dothraki
 trp_dothraki_prison_guard_pl|Gardiens de Prisons Dothraki
 trp_dothraki_castle_guard|Garde Dothraki
 trp_dothraki_castle_guard_pl|Gardes Dothraki
-trp_merc_peasant|Essosi Paysan
-trp_merc_peasant_pl|Essosi Paysans
-trp_fc_merc_militia_recruit|Recrue Mercenaire
-trp_fc_merc_militia_recruit_pl|Recrues Mercenaire
-trp_fc_merc_militia|Mercenaire 
-trp_fc_merc_militia_pl|Mercenaire
-trp_fc_merc_archer|Archer Mercenaire
-trp_fc_merc_archer_pl|Archers Mercenaire
-trp_fc_merc_swordsman|Mercenaire Swordsman
-trp_fc_merc_swordsman_pl|Mercenaire Swordsmen
-trp_fc_merc_billmen|Mercenaire Billman
-trp_fc_merc_billmen_pl|Mercenaire Billmen
-trp_fc_merc_light_cavalry|Cavalier Mercenaire
-trp_fc_merc_light_cavalry_pl|Cavalier Mercenaire
-trp_fc_merc_vet_archer|Archer Véteran Mercenaire
-trp_fc_merc_vet_archer_pl|Archers Véteran Mercenaire
-trp_fc_merc_sellsword|Mercenaire
-trp_fc_merc_sellsword_pl|Mercenaire
-trp_fc_merc_heavy_cavalry|Cavalier Lourd Mercenaire
-trp_fc_merc_heavy_cavalry_pl| Cavalier Lourd Mercenaire
-trp_fc_merc_veteran_bowman|Archer Véteran Mercenaire
-trp_fc_merc_veteran_bowman_pl|Archers Véteran Mercenaire
+trp_merc_peasant|I1 Paysan mercenaire
+trp_merc_peasant_pl|I1 Paysans mercenaire
+trp_fc_merc_militia_recruit|I2 Recrue Mercenaire
+trp_fc_merc_militia_recruit_pl|I2 Recrues Mercenaire
+trp_fc_merc_militia|I3 Mercenaire
+trp_fc_merc_militia_pl|I3 Mercenaire
+trp_fc_merc_archer|A3 Archer Mercenaire
+trp_fc_merc_archer_pl|A3 Archers Mercenaire
+trp_fc_merc_swordsman|I4 Mercenaire Swordsman
+trp_fc_merc_swordsman_pl|I4 Mercenaire Swordsmen
+trp_fc_merc_billmen|I4 Lancier Mercenaire
+trp_fc_merc_billmen_pl|I4 Lancier Mercenaire
+trp_fc_merc_light_cavalry|C4 Cavalier Mercenaire
+trp_fc_merc_light_cavalry_pl|C4 Cavalier Mercenaire
+trp_fc_merc_vet_archer|A5 Archer Véteran Mercenaire
+trp_fc_merc_vet_archer_pl|A5 Archers Véteran Mercenaire
+trp_fc_merc_sellsword|I5 Mercenaire d'élite
+trp_fc_merc_sellsword_pl|I5 Mercenaire d'élite
+trp_fc_merc_heavy_cavalry|C5 Cavalier Lourd Mercenaire
+trp_fc_merc_heavy_cavalry_pl|C5 Cavalier Lourd Mercenaire
+trp_fc_merc_veteran_bowman|A5 Archer Véteran Mercenaire
+trp_fc_merc_veteran_bowman_pl|A5 Archers Véteran Mercenaire
 trp_fc_merc_standard_bearer|Standard Bearers
 trp_fc_merc_standard_bearer_pl|Standard Bearers
 trp_free_messenger|Messager
@@ -622,24 +622,24 @@ trp_free_prison_guard|Gardien de Prison
 trp_free_prison_guard_pl|Gardiens de Prisons
 trp_free_castle_guard|Garde
 trp_free_castle_guard_pl|Gardes
-trp_vale_peasant|Paysan du Val
-trp_vale_peasant_pl|Paysans du Val 
-trp_vale_recruit|Recrue du Val
-trp_vale_recruit_pl|Recrue du Val
-trp_vale_archer|Archer du Val
-trp_vale_archer_pl|Archers du Val
-trp_vale_footman|Fantassin du Val
-trp_vale_footman_pl|Fantassins du Val
-trp_vale_man_at_arms|Homme d'arme du Val
-trp_vale_man_at_arms_pl|Hommes d'armes du Val
-trp_vale_rider|Rider du Val
-trp_vale_rider_pl|Riders du Val
-trp_vale_foot_knight|Chevalier du Val
-trp_vale_foot_knight_pl|Chevaliers du Val
-trp_vale_mounted_knight|Chevalier Monté du Val
-trp_vale_mounted_knight_pl|Chevaliers Monté du Val
-trp_vale_knight_of_the_gate|Chevalier de la porte du Val
-trp_vale_knight_of_the_gate_pl|Chevaliers de la porte du Val
+trp_vale_peasant|I1 Paysan du Val
+trp_vale_peasant_pl|I1 Paysans du Val 
+trp_vale_recruit|I2 Recrue du Val
+trp_vale_recruit_pl|I2 Recrue du Val
+trp_vale_archer|A3 Archer du Val
+trp_vale_archer_pl|A3 Archers du Val
+trp_vale_footman|I3 Fantassin du Val
+trp_vale_footman_pl|I3 Fantassins du Val
+trp_vale_man_at_arms|I4 Homme d'arme du Val
+trp_vale_man_at_arms_pl|I4 Hommes d'armes du Val
+trp_vale_rider|C4 Cavalier du Val
+trp_vale_rider_pl|C4 Cavaliers du Val
+trp_vale_foot_knight|I5 Chevalier du Val
+trp_vale_foot_knight_pl|I5 Chevaliers du Val
+trp_vale_mounted_knight|C5 Chevalier monté du Val
+trp_vale_mounted_knight_pl|C5 Chevaliers montés du Val
+trp_vale_knight_of_the_gate|C6 Chevalier de la porte du Val
+trp_vale_knight_of_the_gate_pl|C6 Chevaliers de la porte du Val
 trp_vale_hornman|Trompettiste du Val
 trp_vale_hornman_pl|Trompettistes du Val
 trp_vale_standard_bearer|du Val Standard Bearer
@@ -654,28 +654,28 @@ trp_vale_castle_guard|Garde du Val
 trp_vale_castle_guard_pl|Gardes du Val
 trp_vale_local_lord|Seigneur du Val
 trp_vale_local_lord_pl|Seigneurs du Val
-trp_riverlands_peasant|Paysan du Conflans
-trp_riverlands_peasant_pl|Paysans du Conflans
-trp_riverlands_recruit|Recrue du Conflans
-trp_riverlands_recruit_pl|Recrue du Conflans
-trp_riverlands_tracker|Tracker du Conflans
-trp_riverlands_tracker_pl|Trackers du Conflans
-trp_riverlands_footman|Fantassin du Conflans
-trp_riverlands_footman_pl|Fantassins du Conflans
-trp_riverlands_archer|Archer du Conflans
-trp_riverlands_archer_pl|Archers du Conflans
-trp_riverlands_man_at_arms|Homme d'arme du Conflans
-trp_riverlands_man_at_arms_pl|Hommes d'armes du Conflans
-trp_riverlands_rider|OutRider du Conflans
-trp_riverlands_rider_pl|OutRiders du Conflans
-trp_riverlands_knight|Chevalier du Conflans
-trp_riverlands_knight_pl|Chevaliers du Conflans
-trp_riverlands_cavalry| Cavalier du Conflans
-trp_riverlands_cavalry_pl|Cavalier du Conflans
-trp_riverlands_ranger|Ranger du Conflans
-trp_riverlands_ranger_pl|Rangers du Conflans
-trp_riverlands_mounted_knight|Chevalier Monté du Conflans
-trp_riverlands_mounted_knight_pl| Chevaliers Monté du Conflans
+trp_riverlands_peasant|I1 Paysan du Conflans
+trp_riverlands_peasant_pl|I1 Paysans du Conflans
+trp_riverlands_recruit|I2 Recrue du Conflans
+trp_riverlands_recruit_pl|I2 Recrue du Conflans
+trp_riverlands_tracker|A3 Traqueur du Conflans
+trp_riverlands_tracker_pl|A3 Traqueurs du Conflans
+trp_riverlands_footman|I3 Fantassin du Conflans
+trp_riverlands_footman_pl|I3 Fantassins du Conflans
+trp_riverlands_archer|A4 Archer du Conflans
+trp_riverlands_archer_pl|A4 Archers du Conflans
+trp_riverlands_man_at_arms|I4 Homme d'arme du Conflans
+trp_riverlands_man_at_arms_pl|I4 Hommes d'armes du Conflans
+trp_riverlands_rider|C4 Éclaireur du Conflans
+trp_riverlands_rider_pl|C4 Éclaireurs du Conflans
+trp_riverlands_knight|I5 Chevalier du Conflans
+trp_riverlands_knight_pl|I5 Chevaliers du Conflans
+trp_riverlands_cavalry|C5 Cavalier du Conflans
+trp_riverlands_cavalry_pl|C5 Cavalier du Conflans
+trp_riverlands_ranger|A5 Ranger du Conflans
+trp_riverlands_ranger_pl|A5 Rangers du Conflans
+trp_riverlands_mounted_knight|C6 Chevalier monté du Conflans
+trp_riverlands_mounted_knight_pl|C6 Chevaliers montés du Conflans
 trp_riverlands_hornman|Trompettiste du Conflans
 trp_riverlands_hornman_pl|Trompettistes du Conflans
 trp_riverlands_standard_bearer|Standard Bearer
@@ -692,24 +692,24 @@ trp_riverlands_local_lord|Seigneur du Conflans
 trp_riverlands_local_lord_pl|Seigneurs du Conflans
 trp_riverlands_frey_recruit|Recrue Frey
 trp_riverlands_frey_recruit_pl|Recrue Frey
-trp_riverlands_frey_tracker|Tracker Frey
-trp_riverlands_frey_tracker_pl|Trackers Frey
+trp_riverlands_frey_tracker|Traqueur Frey
+trp_riverlands_frey_tracker_pl|Traqueurs Frey
 trp_riverlands_frey_footman|Fantassin Frey
 trp_riverlands_frey_footman_pl|Fantassins Frey
 trp_riverlands_frey_archer|Archer Frey
 trp_riverlands_frey_archer_pl|Archers Frey
 trp_riverlands_frey_man_at_arms|Homme d'arme Frey
 trp_riverlands_frey_man_at_arms_pl|Hommes d'armes Frey
-trp_riverlands_frey_rider|OutRider Frey
-trp_riverlands_frey_rider_pl|OutRiders Frey
+trp_riverlands_frey_rider|OutCavalier Frey
+trp_riverlands_frey_rider_pl|OutCavaliers Frey
 trp_riverlands_frey_knight|Chevalier Frey
 trp_riverlands_frey_knight_pl|Chevaliers Frey
 trp_riverlands_frey_cavalry|Cavalier Frey
 trp_riverlands_frey_cavalry_pl|Cavalier Frey
 trp_riverlands_frey_ranger|Ranger Frey
 trp_riverlands_frey_ranger_pl|Rangers Frey
-trp_riverlands_frey_mounted_knight|Chevalier Monté Frey
-trp_riverlands_frey_mounted_knight_pl|Chevaliers Monté Frey
+trp_riverlands_frey_mounted_knight|Chevalier monté Frey
+trp_riverlands_frey_mounted_knight_pl|Chevaliers montés Frey
 trp_riverlands_frey_hornman|Trompettiste Frey
 trp_riverlands_frey_hornman_pl|Trompettistes Frey
 trp_riverlands_frey_standard_bearer|Standard Bearer Frey
@@ -724,28 +724,28 @@ trp_riverlands_frey_castle_guard|Garde Frey
 trp_riverlands_frey_castle_guard_pl|Gardes Frey
 trp_riverlands_frey_local_lord|Seigneur Frey
 trp_riverlands_frey_local_lord_pl|Seigneurs Frey
-trp_crownlands_peasant|Paysan des Terres de la Couronne
-trp_crownlands_peasant_pl|Paysans des Terres de la Couronne
-trp_crownlands_recruit|Recrue des Terres de la Couronne
-trp_crownlands_recruit_pl|Recrue des Terres de la Couronne
-trp_crownlands_tracker|Archer des Terres de la Couronne
-trp_crownlands_tracker_pl|Archers des Terres de la Couronne
-trp_crownlands_footman|Fantassin des Terres de la Couronne
-trp_crownlands_footman_pl|Fantassins des Terres de la Couronne
-trp_crownlands_archer|Archer des Terres de la Couronne
-trp_crownlands_archer_pl|Archers des Terres de la Couronne
-trp_crownlands_man_at_arms|Homme d'arme des Terres de la Couronne
-trp_crownlands_man_at_arms_pl|Hommes d'armes des Terres de la Couronne
-trp_crownlands_rider|Horseman des Terres de la Couronne
-trp_crownlands_rider_pl|Cavalier des Terres de la Couronne
-trp_crownlands_knight|Chevalier des Terres de la Couronne
-trp_crownlands_knight_pl|Chevaliers des Terres de la Couronne
-trp_crownlands_cavalry|Lancier des Terres de la Couronne
-trp_crownlands_cavalry_pl|Lanciers des Terres de la Couronne
-trp_crownlands_ranger|Marksman des Terres de la Couronne
-trp_crownlands_ranger_pl|Marksmen des Terres de la Couronne
-trp_dragonguards|Dragon Gardes
-trp_dragonguards_pl|Dragon Gardes
+trp_crownlands_peasant|I1 Paysan des Terres de la Couronne
+trp_crownlands_peasant_pl|I1 Paysans des Terres de la Couronne
+trp_crownlands_recruit|I2 Recrue des Terres de la Couronne
+trp_crownlands_recruit_pl|I2 Recrue des Terres de la Couronne
+trp_crownlands_tracker|A3 Tirailleur des Terres de la Couronne
+trp_crownlands_tracker_pl|A3 Tirailleurs des Terres de la Couronne
+trp_crownlands_footman|I3 Fantassin des Terres de la Couronne
+trp_crownlands_footman_pl|I3 Fantassins des Terres de la Couronne
+trp_crownlands_archer|A4 Archer des Terres de la Couronne
+trp_crownlands_archer_pl|A4 Archers des Terres de la Couronne
+trp_crownlands_man_at_arms|I4 Homme d'arme des Terres de la Couronne
+trp_crownlands_man_at_arms_pl|I4 Hommes d'armes des Terres de la Couronne
+trp_crownlands_rider|C4 Cavalier des Terres de la Couronne
+trp_crownlands_rider_pl|C4 Cavaliers des Terres de la Couronne
+trp_crownlands_knight|I5 Chevalier des Terres de la Couronne
+trp_crownlands_knight_pl|I5 Chevaliers des Terres de la Couronne
+trp_crownlands_cavalry|C5 Lancier des Terres de la Couronne
+trp_crownlands_cavalry_pl|C5 Lanciers des Terres de la Couronne
+trp_crownlands_ranger|A5 Grand Archer des Terres de la Couronne
+trp_crownlands_ranger_pl|A5 Grand Archer des Terres de la Couronne
+trp_dragonguards|C6 Dragon Gardes
+trp_dragonguards_pl|C6 Dragon Gardes
 trp_crownlands_hornman|Trompettiste des Terres de la Couronne
 trp_crownlands_hornman_pl|Trompettistes des Terres de la Couronne
 trp_crownlands_messenger|Messager des Terres de la Couronne
@@ -768,70 +768,70 @@ trp_golden_company_heavy_infantry|Infanterie Lourde de la Compagnie Dorée
 trp_golden_company_heavy_infantry_pl|Infanterie Lourde de la Compagnie Dorée
 trp_golden_company_swordsman|Swordsman de la Compagnie Dorée
 trp_golden_company_swordsman_pl|Swordsmen de la Compagnie Dorée
-trp_golden_company_pikeman|Pikeman de la Compagnie Dorée
-trp_golden_company_pikeman_pl|Pikemen de la Compagnie Dorée
-trp_golden_company_heavy_pikeman|Heavy Pikeman de la Compagnie Dorée
-trp_golden_company_heavy_pikeman_pl|Pikemen
+trp_golden_company_pikeman|Lancier de la Compagnie Dorée
+trp_golden_company_pikeman_pl|Lanciers de la Compagnie Dorée
+trp_golden_company_heavy_pikeman|Heavy Lancier de la Compagnie Dorée
+trp_golden_company_heavy_pikeman_pl|Lanciers
 trp_golden_company_archer|Dorée Archer de la Compagnie Dorée
 trp_golden_company_archer_pl|Archers de la Compagnie Dorée
 trp_golden_company_longbowman|Compagnie Dorée Longbowman de la Compagnie Dorée
 trp_golden_company_longbowman_pl|Longbowmen de la Compagnie Dorée
 trp_golden_company_elite_longbowman|Archer d'élite de la Compagnie Dorée
 trp_golden_company_elite_longbowman_pl|Archers d'élite de la Compagnie Dorée
-trp_golden_company_rider|Rider de la Compagnie Dorée
-trp_golden_company_rider_pl| Riders de la Compagnie Dorée
+trp_golden_company_rider|Cavalier de la Compagnie Dorée
+trp_golden_company_rider_pl| Cavaliers de la Compagnie Dorée
 trp_golden_company_horseman|Cavalier de la Compagnie Dorée
 trp_golden_company_horseman_pl|Cavaliers de la Compagnie Dorée
 trp_golden_company_heavy_horseman|Cavalier Lourd de la Compagnie Dorée
 trp_golden_company_heavy_horseman_pl|Cavaliers Lourds de la Compagnie Dorée
-trp_nw_peasant|Rogue
-trp_nw_peasant_pl|Rogues
-trp_nw_recruit|Recrue de la Garde de Nuit 
-trp_nw_recruit_pl|Recrues de la Garde de Nuit 
-trp_nw_trainee_ranger|Ranger recrue de la Garde de Nuit 
-trp_nw_trainee_ranger_pl|Rangers recrue de la Garde de Nuit 
-trp_nw_trainee_footranger|Infanterie recrue de la Garde de Nuit
-trp_nw_trainee_footranger_pl|Infanterie recrue de la Garde de Nuit
-trp_nw_ranger|Ranger de la Garde de Nuit
-trp_nw_ranger_pl|Rangers de la Garde de Nuit
-trp_nw_footranger|Infanterie de la Garde de Nuit
-trp_nw_footranger_pl|Infanterie de la Garde de Nuit
-trp_nw_rider|Rider de la Garde de Nuit
-trp_nw_rider_pl|Riders de la Garde de Nuit
-trp_nw_vet_ranger|Véteran de la Garde de Nuit
-trp_nw_vet_ranger_pl|Véteran de la Garde de Nuit
-trp_nw_vet_rider|Rider Véteran de la Garde de Nuit
-trp_nw_vet_rider_pl|Riders Véteran de la Garde de Nuit
-trp_nw_vet_ranged_ranger|Ranger Véteran de la Garde de Nuit
-trp_nw_vet_ranged_ranger_pl|Rangers Véteran de la Garde de Nuit
-trp_nw_elite_ranger|Ranger d'élite de la Garde de Nuit
-trp_nw_elite_ranger_pl|Rangers d'élite de la Garde de Nuit
-trp_nw_hornman|Trompettiste de la Garde de Nuit
-trp_nw_hornman_pl|Trompettistes de la Garde de Nuit
-trp_nw_standard_bearer|Standard Bearer de la Garde de Nuit
-trp_nw_standard_bearer_pl|Standard Bearers de la Garde de Nuit
-trp_nw_messenger|Messager de la Garde de Nuit
-trp_nw_messenger_pl|Messagers de la Garde de Nuit
-trp_nw_deserter|Déserteur de la Garde de Nuit
-trp_nw_deserter_pl|Déserteurs de la Garde de Nuit
-trp_nw_prison_guard|Gardien de Prison de la Garde de Nuit
-trp_nw_prison_guard_pl|Gardiens de Prisons de la Garde de Nuit
-trp_nw_castle_guard|Garde de la Garde de Nuit
-trp_nw_castle_guard_pl|Gardes de la Garde de Nuit
+trp_nw_peasant|I1 Voyou
+trp_nw_peasant_pl|I1 Voyous
+trp_nw_recruit|I2 Recrue de la Garde 
+trp_nw_recruit_pl|I2 Recrues de la Garde 
+trp_nw_trainee_ranger|A3 Ranger recrue de la Garde 
+trp_nw_trainee_ranger_pl|A3 Rangers recrue de la Garde 
+trp_nw_trainee_footranger|I3 Infanterie recrue de la Garde
+trp_nw_trainee_footranger_pl|I3 Infanterie recrue de la Garde
+trp_nw_ranger|A4 Ranger de la Garde
+trp_nw_ranger_pl|A4 Rangers de la Garde
+trp_nw_footranger|I4 Infanterie de la Garde
+trp_nw_footranger_pl|I4 Infanterie de la Garde
+trp_nw_rider|C4 Cavalier de la Garde
+trp_nw_rider_pl|C4 Cavaliers de la Garde
+trp_nw_vet_ranger|I5 Véteran de la Garde
+trp_nw_vet_ranger_pl|I5 Véteran de la Garde
+trp_nw_vet_rider|C5 Cavalier Véteran de la Garde
+trp_nw_vet_rider_pl|C5 Cavaliers Véteran de la Garde
+trp_nw_vet_ranged_ranger|A5 Ranger Véteran de la Garde
+trp_nw_vet_ranged_ranger_pl|A5 Rangers Véteran de la Garde
+trp_nw_elite_ranger|A6 Ranger d'élite de la Garde
+trp_nw_elite_ranger_pl|A6 Rangers d'élite de la Garde
+trp_nw_hornman|Trompettiste de la Garde
+trp_nw_hornman_pl|Trompettistes de la Garde
+trp_nw_standard_bearer|Standard Bearer de la Garde
+trp_nw_standard_bearer_pl|Standard Bearers de la Garde
+trp_nw_messenger|Messager de la Garde
+trp_nw_messenger_pl|Messagers de la Garde
+trp_nw_deserter|Déserteur de la Garde
+trp_nw_deserter_pl|Déserteurs de la Garde
+trp_nw_prison_guard|Gardien de Prison de la Garde
+trp_nw_prison_guard_pl|Gardiens de Prisons de la Garde
+trp_nw_castle_guard|Garde de la Garde
+trp_nw_castle_guard_pl|Gardes de la Garde
 trp_nightswatch_armsman|Wandering Crow
 trp_nightswatch_armsman_pl|Wander Crows
-trp_braavosi_peasant|Paysan de Braavos
-trp_braavosi_peasant_pl|Paysans de Braavos
-trp_braavosi_trainee|Recrue de Braavos
-trp_braavosi_trainee_pl|Recrues de Braavos
-trp_bravos|Bravo
-trp_bravos_pl|Bravos
-trp_skilled_bravos|Skilled Bravos
-trp_skilled_bravos_pl|Skilled Bravos
-trp_water_dancer|Water Dancer
-trp_water_dancer_pl|Water Dancers
-trp_master_water_dancer|Master Water Dancer
-trp_master_water_dancer_pl|Master Water Dancers
+trp_braavosi_peasant|I1 Paysan de Braavos
+trp_braavosi_peasant_pl|I1 Paysans de Braavos
+trp_braavosi_trainee|I2 Recrue de Braavos
+trp_braavosi_trainee_pl|I2 Recrues de Braavos
+trp_bravos|I3 Bravo
+trp_bravos_pl|I3 Bravos
+trp_skilled_bravos|I4 Skilled Bravos
+trp_skilled_bravos_pl|I4 Skilled Bravos
+trp_water_dancer|I5 Water Dancer
+trp_water_dancer_pl|I5 Water Dancers
+trp_master_water_dancer|I6 Master Water Dancer
+trp_master_water_dancer_pl|I6 Master Water Dancers
 trp_braavosi_hornman|Trompettiste de Braavos
 trp_braavosi_hornman_pl|Trompettistes de Braavos
 trp_braavosi_standard_bearer|Standard Bearer de Braavos
@@ -844,22 +844,22 @@ trp_braavosi_prison_guard|Gardien de Prison de Braavos
 trp_braavosi_prison_guard_pl|Gardiens de Prisons de Braavos
 trp_braavosi_castle_guard|Garde de Braavos
 trp_braavosi_castle_guard_pl|Gardes de Braavos
-trp_norvoshi_initiate|Paysan de Norvos
-trp_norvoshi_initiate_pl|Paysan de Norvos
-trp_norvoshi_monk|Initiate de Norvos
-trp_norvoshi_monk_pl|Initiate de Norvos
-trp_norvoshi_militia|Milicien de Norvos
-trp_norvoshi_militia_pl|Milicien de Norvos
-trp_norvoshi_guardsman|Guardsman de Norvos
-trp_norvoshi_guardsman_pl|Guardsmen de Norvos
-trp_norvoshi_horseman|Cavalier de Norvos
-trp_norvoshi_horseman_pl|Cavaliers de Norvos
-trp_surgeon|Monk de Norvos
-trp_surgeon_pl|Monks de Norvos
-trp_bearded_priest|Bearded Priest
-trp_bearded_priest_pl|Bearded Priests
-trp_bearded_bishop|Bearded Bishop
-trp_bearded_bishop_pl|Bearded Bishops
+trp_norvoshi_initiate|I1 Paysan de Norvos
+trp_norvoshi_initiate_pl|I1 Paysan de Norvos
+trp_norvoshi_monk|I2 Initiate de Norvos
+trp_norvoshi_monk_pl|I2 Initiate de Norvos
+trp_norvoshi_militia|I2 Milicien de Norvos
+trp_norvoshi_militia_pl|I2 Milicien de Norvos
+trp_norvoshi_guardsman|I3 Guardsman de Norvos
+trp_norvoshi_guardsman_pl|I3 Guardsmen de Norvos
+trp_norvoshi_horseman|C3 Cavalier de Norvos
+trp_norvoshi_horseman_pl|C3 Cavaliers de Norvos
+trp_surgeon|I3 Monk de Norvos
+trp_surgeon_pl|I3 Monks de Norvos
+trp_bearded_priest|I3 Bearded Priest
+trp_bearded_priest_pl|I3 Bearded Priests
+trp_bearded_bishop|A4 Bearded Bishop
+trp_bearded_bishop_pl|A4 Bearded Bishops
 trp_norvos_standard_bearer|Standard Bearer de Norvos
 trp_norvos_standard_bearer_pl|Standard Bearers de Norvos
 trp_norvos_messenger|Messager de Norvos
@@ -886,8 +886,8 @@ trp_qohor_prison_guard|Gardien de Prison Qohoric
 trp_qohor_prison_guard_pl|Gardiens de Prisons Qohoric
 trp_qohor_castle_guard|Garde Qohoric
 trp_qohor_castle_guard_pl|Gardes Qohoric
-trp_volantine_peasant|Paysan de Volantis
-trp_volantine_peasant_pl|Paysan de Volantis
+trp_volantine_peasant|I1 Paysan de Volantis
+trp_volantine_peasant_pl|I1 Paysan de Volantis
 trp_volantine_standard_bearer|Standard Bearer de Volantis
 trp_volantine_standard_bearer_pl|Standard Bearers de Volantis
 trp_volantine_messenger|Messager de Volantis
@@ -898,26 +898,26 @@ trp_volantine_prison_guard|Gardien de Prison de Volantis
 trp_volantine_prison_guard_pl|Gardiens de Prisons de Volantis
 trp_volantine_castle_guard|Garde de Volantis
 trp_volantine_castle_guard_pl|Gardes de Volantis
-trp_lys_peasant|Paysan de Lys
-trp_lys_peasant_pl|Paysans de Lys
-trp_lys_recruit|Recrue de Lys
-trp_lys_recruit_pl|Recrues de Lys
-trp_lys_militia|Milicien de Lys
-trp_lys_militia_pl|Miliciens de Lys
-trp_lys_archer|Archer de Lys
-trp_lys_archer_pl|Archers de Lys
-trp_lys_swordsman|Swordsman de Lys
-trp_lys_swordsman_pl|Swordsmen de Lys
-trp_lys_light_cavalry|Cavalier léger de Lys
-trp_lys_light_cavalry_pl|Cavalier léger de Lys
-trp_lys_vet_archer|Archer Véteran de Lys
-trp_lys_vet_archer_pl|Archer de Lys
-trp_lys_sellsword|Mercenaire de Lys
-trp_lys_sellsword_pl|Mercenaires de Lys
-trp_lys_heavy_cavalry|Cavalier de Lys
-trp_lys_heavy_cavalry_pl|Cavaliers de Lys
-trp_lys_veteran_bowman|Archer Véteran de Lys
-trp_lys_veteran_bowman_pl|Archers Véteran de Lys
+trp_lys_peasant|I1 Paysan de Lys
+trp_lys_peasant_pl|I1 Paysans de Lys
+trp_lys_recruit|I2 Recrue de Lys
+trp_lys_recruit_pl|I2 Recrues de Lys
+trp_lys_militia|I3 Milicien de Lys
+trp_lys_militia_pl|I3 Miliciens de Lys
+trp_lys_archer|A3 Archer de Lys
+trp_lys_archer_pl|A3 Archers de Lys
+trp_lys_swordsman|I4 Swordsman de Lys
+trp_lys_swordsman_pl|I4 Swordsmen de Lys
+trp_lys_light_cavalry|C4 Cavalier léger de Lys
+trp_lys_light_cavalry_pl|C4 Cavalier léger de Lys
+trp_lys_vet_archer|A4 Archer Véteran de Lys
+trp_lys_vet_archer_pl|A4 Archer Véteran de Lys
+trp_lys_sellsword|I5 Mercenaire de Lys
+trp_lys_sellsword_pl|I5 Mercenaires de Lys
+trp_lys_heavy_cavalry|C5 Cavalier de Lys
+trp_lys_heavy_cavalry_pl|C5 Cavaliers de Lys
+trp_lys_veteran_bowman|A5 Grand Archer de Lys
+trp_lys_veteran_bowman_pl|A5 Grands Archers de Lys
 trp_lys_standard_bearer|Standard Bearer de Lys
 trp_lys_standard_bearer_pl|Standard Bearers de Lys
 trp_lys_messenger|Messager de Lys
@@ -940,28 +940,28 @@ trp_myr_prison_guard|Gardien de Prison de Myr
 trp_myr_prison_guard_pl|Gardiens de Prisons de Myr
 trp_myr_castle_guard|Garde de Myr
 trp_myr_castle_guard_pl|Gardes de Myr
-trp_pentoshi_peasant|Paysan de Pentos
-trp_pentoshi_peasant_pl|Paysans de Pentos
-trp_pentoshi_novice|Novice de Pentos
-trp_pentoshi_novice_pl|Novice de Pentos
-trp_pentoshi_civil_guard|Garde Civile de Pentos
-trp_pentoshi_civil_guard_pl|Gardes Civile de Pentos
-trp_pentoshi_footman|Fantassin de Pentos
-trp_pentoshi_footman_pl|Fantassins de Pentos
-trp_pentoshi_archer|Archer de Pentos
-trp_pentoshi_archer_pl|Archers de Pentos
-trp_pentoshi_warrior|Guerrier de Pentos
-trp_pentoshi_warrior_pl|Guerriers de Pentos
-trp_pentoshi_mounted_warrior|Guerrier Monté de Pentos
-trp_pentoshi_mounted_warrior_pl|Guerriers Monté de Pentos
-trp_pentoshi_marksman|Marksman de Pentos
-trp_pentoshi_marksman_pl|Marksmen de Pentos
-trp_pentoshi_veteran|Véteran de Pentos
-trp_pentoshi_veteran_pl|Véterans de Pentos
-trp_pentoshi_mounted_veteran|Véteran Monté de Pentos
-trp_pentoshi_mounted_veteran_pl|Véteran Monté de Pentos
-trp_pentoshi_veteran_marksman|Marksman Véteran de Pentos
-trp_pentoshi_veteran_marksman_pl|Marksmen Véteran de Pentos
+trp_pentoshi_peasant|I1 Paysan de Pentos
+trp_pentoshi_peasant_pl|I1 Paysans de Pentos
+trp_pentoshi_novice|I2 Novice de Pentos
+trp_pentoshi_novice_pl|I2 Novice de Pentos
+trp_pentoshi_civil_guard|I3 Garde Civile de Pentos
+trp_pentoshi_civil_guard_pl|I3 Gardes Civile de Pentos
+trp_pentoshi_footman|I4 Fantassin de Pentos
+trp_pentoshi_footman_pl|I4 Fantassins de Pentos
+trp_pentoshi_archer|A4 Archer de Pentos
+trp_pentoshi_archer_pl|A1 Archers de Pentos
+trp_pentoshi_warrior|I5 Guerrier de Pentos
+trp_pentoshi_warrior_pl|I5 Guerriers de Pentos
+trp_pentoshi_mounted_warrior|C5 Guerrier monté de Pentos
+trp_pentoshi_mounted_warrior_pl|C5 Guerriers montés de Pentos
+trp_pentoshi_marksman|A5 Marksman de Pentos
+trp_pentoshi_marksman_pl|A5 Marksmen de Pentos
+trp_pentoshi_veteran|I6 Véteran de Pentos
+trp_pentoshi_veteran_pl|I6 Véterans de Pentos
+trp_pentoshi_mounted_veteran|C6 Véteran monté de Pentos
+trp_pentoshi_mounted_veteran_pl|C6 Véteran monté de Pentos
+trp_pentoshi_veteran_marksman|A6 Marksman Véteran de Pentos
+trp_pentoshi_veteran_marksman_pl|A6 Marksmen Véteran de Pentos
 trp_pentos_standard_bearer|Standard Bearer de Pentos
 trp_pentos_standard_bearer_pl|Standard Bearers de Pentos
 trp_pentos_messenger|Messager de Pentos
@@ -1170,8 +1170,8 @@ trp_town_walker_15|Ironman
 trp_town_walker_15_pl|Ironmen
 trp_town_walker_16|Paysan
 trp_town_walker_16_pl|Paysans
-trp_town_walker_17|de la Garde de Nuitman
-trp_town_walker_17_pl|de la Garde de Nuitmen
+trp_town_walker_17|de la Gardeman
+trp_town_walker_17_pl|de la Gardemen
 trp_nino_varon|Child
 trp_nino_varon_pl|Children
 trp_nina_chica|Child
@@ -1244,8 +1244,8 @@ trp_spy_walker_15|Ironman
 trp_spy_walker_15_pl|Ironmen
 trp_spy_walker_16|Paysan
 trp_spy_walker_16_pl|Paysans
-trp_spy_walker_17|de la Garde de Nuitman
-trp_spy_walker_17_pl|de la Garde de Nuitmen
+trp_spy_walker_17|de la Gardeman
+trp_spy_walker_17_pl|de la Gardemen
 trp_spy_walker_18|Paysan
 trp_spy_walker_18_pl|Paysans
 trp_tournament_master|Maître de tournoi
@@ -3806,8 +3806,8 @@ trp_ironborn_warrior_multiplayer2|Irish Lancier
 trp_ironborn_warrior_multiplayer2_pl|Irish Lancier
 trp_rhodok_horseman_multiplayer2|Irish Horseman
 trp_rhodok_horseman_multiplayer2_pl|Irish Cavalier
-trp_reach_footman_multiplayer|Skirmisher Pict
-trp_reach_footman_multiplayer_pl|Skirmishers Picts
+trp_reach_footman_multiplayer|Tirailleur Pict
+trp_reach_footman_multiplayer_pl|Tirailleurs Picts
 trp_reach_archer_multiplayer|Lancier
 trp_reach_archer_multiplayer_pl|Lancier
 trp_khergit_horse_multiplayer|Horseman

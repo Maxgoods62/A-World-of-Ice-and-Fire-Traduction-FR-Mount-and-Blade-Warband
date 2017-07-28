@@ -1,15 +1,15 @@
 ﻿dlga_event_triggered:upgrade_talk|Oui, {s65}?
 dlga_upgrade_talk:upgrade_talk_1|J'ai vu que vous vous battiez brillamment, soldat.
 dlga_upgrade_talk_1:upgrade_talk_2|J'accomplis simplement mon devoir envers {s65}, sire.
-dlga_upgrade_talk_2:upgrade_talk_3a|Et bien. La dernière fois que j'ai entendu parler d'un héros avec de telles capacités, c'était dans les histoires!
+dlga_upgrade_talk_2:upgrade_talk_3a|Et bien. La dernière fois que j'ai entendu parler d'un héros avec de telles capacités, c'était dans les histoires !
 dlga_upgrade_talk_2:upgrade_talk_3b|Je voulais juste vous le faire remarquer, maintenant en rang, soldat!
 dlga_upgrade_talk_3a:upgrade_talk_4a|Vous m'honorez de trop de bons mots. Je tenterai d'en être digne.
 dlga_upgrade_talk_4a:upgrade_talk_5|A compter de maintenant, on se souviendra de vous tel un {s21}
-dlga_upgrade_talk_5:close_window|Je défendrai mon nouveau titre à jusqu'à ma mort, et je ne vous laisserai pas tomber. Je vous promets que la pointe de ma lame ne sera jamais sèche!
+dlga_upgrade_talk_5:close_window|Je défendrai mon nouveau titre à jusqu'à ma mort, et je ne vous laisserai pas tomber. Je vous promets que la pointe de ma lame ne sera jamais sèche !
 dlga_upgrade_talk_3b:close_window|Oui, {s65}
 dlga_start:port_chief_travel|Vous cherchez à voyager dans une autre ville?
 dlga_start:port_chief2|{s1}
-dlga_port_chief2:port_chief3|De quoi avez-vous besoin?
+dlga_port_chief2:port_chief3|De quoi avez-vous besoin ?
 dlga_port_chief3:port_chief_buy_ship|Je souhaite acheter un bateau.
 dlga_port_chief_buy_ship:close_window|Suivez-moi !
 dlga_port_chief3:port_chief_info_main|J'ai des questions sur les navires et les voyages en mer.
@@ -134,7 +134,7 @@ dlga_start:fighter_combat_try_again.1|Hé, joli combat ! Vous m'avez battu, mais
 dlga_start:fighter_talk.2|Très bien, vous avez appris l'attaque dans toutes les directions. Si vous voulez on peut recommencer ou passer à autre chose.
 dlga_start:archer_challenge_2|Pas mal. Pas mal du tout ! Visiblement, vous avez compris les principes de base de l'archerie. À présent, essayez d'en faire de même avec une arbalète. Prenez l'arbalète et les carreaux situés là-bas et visez ces trois cibles. L'arbalète est plus facile à manier que l'arc, mais il faut la recharger après chaque tir.
 dlga_start:archer_challenge_2.1|Bien, vous semblez tout aussi {adroit/adroite} avec l'arbalète. Maintenant vous allez apprendre à manier les armes de jet. Prenez les javelots situés là-bas et essayez d'atteindre ces trois cibles.
-dlga_start:rangeed_end|Eh bien, avec vous, vous avez reçu les compétences de base pour utiliser les trois types d'armes à distance. Le reste viendra avec la pratique. Formez tous les jours, et à temps, vous serez aussi bons que les meilleurs tireurs de Westeros et Essos.
+dlga_start:ranged_end|Eh bien, avec vous, vous avez reçu les compétences de base pour utiliser les trois types d'armes à distance. Le reste viendra avec la pratique. Formez tous les jours, et à temps, vous serez aussi bons que les meilleurs tireurs de Westeros et Essos.
 dlga_ranged_end:close_window|Maintenant vous pourriez aller voir les combattants au corps à corps, ou le maître d'équitation, si ce n'est déjà fait. Ils peuvent eux aussi vous apprendre de nombreuses compétences importantes.
 dlga_start:archer_talk|Salutations {jeune ami/jeune amie}. Je passe mon temps à enseigner le maniement des armes à distance à tous ceux qui s'y intéressent. Si vous avez besoin de mes services, faites-le-moi savoir et je vous montrerai comment utiliser l'arc, l'arbalète et le javelot.
 dlga_archer_talk:archer_challenge|Oui, montrez moi comment utiliser les armes à distance.
@@ -354,27 +354,27 @@ dlga_hallyne_do5:hallyne3|Bien, mon {friend / lady}, en raison de son ... erm ..
 dlga_hallyne3:hallyne_proverb|Je me souviens de lire un proverbe de vieux marins:'Piss on Wildfire et votre coq brûle'.
 dlga_hallyne_proverb:hallyne3|Oh! Umm, oh, je n'ai pas mené cette expérience. Cela pourrait très bien être vrai. La substance brûle tellement qu'elle brûle du bois, de la pierre, même de l'acier, et, bien sûr, de la chair.
 dlga_hallyne3:close_window|Néanmoins, je dois partir maintenant.
-dlga_start:white_harbour_trainer_lord|Bonne salutation, {votre seigneurie / ma dame}. Avez-vous besoin que je vous entraîne des Chevaliers White Harbour? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 10 hommes. Je peux les préparer pour une semaine.
+dlga_start:white_harbour_trainer_lord|Bonne salutation, {mon Seigneur / ma dame}. Avez-vous besoin que je vous entraîne des Chevaliers White Harbour? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 10 hommes. Je peux les préparer pour une semaine.
 dlga_white_harbour_trainer_lord:white_harbour_trainer_lord_no|Pas en ce moment.
 dlga_white_harbour_trainer_lord:white_harbour_trainer_lord_no.1|On dirait que les coffres sont nus. Je vais devoir revenir plus tard.
-dlga_white_harbour_trainer_lord_no:close_window|Comme vous le souhaitez, {votre seigneurie / ma dame}. J'attendrai ici si vous le faites.
-dlga_start:close_window.10|Salut et bien rencontré, {votre seigneurie / ma dame}. Malheureusement, les chevaliers actuels sont encore en formation.
+dlga_white_harbour_trainer_lord_no:close_window|Comme vous le souhaitez, {mon Seigneur / ma dame}. J'attendrai ici si vous le faites.
+dlga_start:close_window.10|Salut et bien rencontré, {mon Seigneur / ma dame}. Malheureusement, les chevaliers actuels sont encore en formation.
 dlga_white_harbour_trainer_lord:white_harbour_trainer_lord_yes1|Je vous suggère de revenir au travail, Ser Bartimus. J'espère que vous les formerez bien.
-dlga_white_harbour_trainer_lord_yes1:close_window|Oui, bien sûr, {votre seigneurie / ma dame}. Reviens me voir dans une semaine, et je vais te préparer tes troupes.
-dlga_start:white_harbour_trainer_lord.1|Salutations, {votre seigneurie / ma dame}. Vos chevaliers sont prêts maintenant. Avez-vous besoin que je vous entraîne plus?
+dlga_white_harbour_trainer_lord_yes1:close_window|Oui, bien sûr, {mon Seigneur / ma dame}. Reviens me voir dans une semaine, et je vais te préparer tes troupes.
+dlga_start:white_harbour_trainer_lord.1|Salutations, {mon Seigneur / ma dame}. Vos chevaliers sont prêts maintenant. Avez-vous besoin que je vous entraîne plus?
 dlga_start:white_harbour_trainer_talk|Bonne salutation, {ser / madam}. Je suis le Maître aux armes ici à White Harbour. Je forme les troupes requises par le seigneur actuel.
 dlga_white_harbour_trainer_talk:white_harbour_trainer_talk1|Quelle sorte de troupes pouvez-vous former ici?
 dlga_white_harbour_trainer_talk1:white_harbour_trainer_talk2|Je forme White Harbour Knights. Les seuls chevaliers du Nord, vous savez.
 dlga_white_harbour_trainer_talk2:white_harbour_trainer_talk3|Alors, comment puis-je acquérir ces Knights of White Harbour?
 dlga_white_harbour_trainer_talk3:close_window|Seul le seigneur de cette ville peut demander la formation de ces chevaliers. Parlant de quoi, j'ai un travail à faire. Bonne journée, {playername}.
-dlga_start:dragonstone_trainer_lord|Salutations, {votre seigneurie / ma dame}. Avez-vous besoin de moi pour vous former des hommes de la Reine? Cela vous coûtera 6 000 cerfs pour la formation et l'équipement de 9 hommes. Je peux les préparer pour une semaine.
+dlga_start:dragonstone_trainer_lord|Salutations, {mon Seigneur / ma dame}. Avez-vous besoin de moi pour vous former des hommes de la Reine? Cela vous coûtera 6 000 cerfs pour la formation et l'équipement de 9 hommes. Je peux les préparer pour une semaine.
 dlga_dragonstone_trainer_lord:dragonstone_trainer_lord_no|Pas en ce moment.
 dlga_dragonstone_trainer_lord:dragonstone_trainer_lord_no.1|On dirait que les coffres sont nus. Je vais devoir revenir plus tard.
-dlga_dragonstone_trainer_lord_no:close_window|Comme vous le souhaitez, {votre Seigneurie / ma Dame}. Je serai là pour votre retour.
-dlga_start:close_window.11|Bonne salutation, {votre seigneurie / ma dame}. Malheureusement, les troupes actuelles sont toujours en formation.
+dlga_dragonstone_trainer_lord_no:close_window|Comme vous le souhaitez, {mon Seigneur / ma Dame}. Je serai là pour votre retour.
+dlga_start:close_window.11|Bonne salutation, {mon Seigneur / ma dame}. Malheureusement, les troupes actuelles sont toujours en formation.
 dlga_dragonstone_trainer_lord:dragonstone_trainer_lord_yes1|Je vous suggère de revenir au travail. J'espère que vous les formerez bien.
-dlga_dragonstone_trainer_lord_yes1:close_window|Oui, bien sûr, {votre seigneurie / ma dame}. Reviens moi et reviennent dans une semaine, et j'aurai tes troupes prêts.
-dlga_start:dragonstone_trainer_lord.1|Salutations, {votre seigneurie / ma dame}. Les Queen's Men sont maintenant prêts. Avez-vous besoin que je vous entraîne plus?
+dlga_dragonstone_trainer_lord_yes1:close_window|Oui, bien sûr, {mon Seigneur / ma dame}. Reviens moi et reviennent dans une semaine, et j'aurai tes troupes prêts.
+dlga_start:dragonstone_trainer_lord.1|Salutations, {mon Seigneur / ma dame}. Les Queen's Men sont maintenant prêts. Avez-vous besoin que je vous entraîne plus?
 dlga_start:dragonstone_trainer_talk|Salutations, {m'lord / m'lady}. Je suis le Maître aux armes ici à Dragonstone. Je forme les troupes requises par le seigneur actuel.
 dlga_dragonstone_trainer_talk:dragonstone_trainer_talk1|Quelle sorte de troupes pouvez-vous former ici?
 dlga_dragonstone_trainer_talk1:dragonstone_trainer_talk2|Je forme le Queensguard, les chevaliers hautement qualifiés ont juré de protéger le Seigneur de Dragonstone ... quel que soit le cas à l'époque.
@@ -383,24 +383,24 @@ dlga_dragonstone_trainer_talk3:close_window|Eh bien, vous devriez être Lord of 
 dlga_start:braavos_trainer_lord|Salutations, Sealord {playername}. Avez-vous besoin de l'utilisation d'un homme sans visage? Cela vous coûtera 10 000 cerfs d'argent, et il restera avec vous aussi longtemps que vous le payerez. Ce n'est pas la manière ordinaire des Hommes sans visage, mais si le dieu à grande faction le veut ...
 dlga_braavos_trainer_lord:braavos_trainer_lord_no|Pas encore pour le moment.
 dlga_braavos_trainer_lord:braavos_trainer_lord_no.1|Je crains que je n'ai pas assez de cerfs en ce moment.
-dlga_braavos_trainer_lord_no:close_window|Bien, {votre seigneurie / ma dame}.
+dlga_braavos_trainer_lord_no:close_window|Bien, {mon Seigneur / ma dame}.
 dlga_start:close_window.12|Bonne salutation, Sealord {playername}. Je dois m'excuser, mais l'homme sans visage n'est pas encore arrivé.
 dlga_braavos_trainer_lord:braavos_trainer_lord_yes1|Oui, je pourrais utiliser l'utilisation d'un assassin. Envoyez-le immédiatement.
 dlga_braavos_trainer_lord_yes1:close_window|Bien sûr, Sealord {playername}. Reviens me voir dans quelques jours. J'espère qu'il sera arrivé à ce moment-là.
 dlga_start:braavos_trainer_lord.1|Salutations, Sealord {playername}. L'homme sans visage est arrivé. Voulez-vous que j'envoie plus?
 dlga_start:braavos_trainer_talk|Salutations, {ser / madam}. Ils m'appellent l'homme aimable, bien que les assassins sous mon contrôle soient tout sauf gentils.
 dlga_braavos_trainer_talk:braavos_trainer_talk1|Assassins que vous dites?
-dlga_braavos_trainer_talk1:braavos_trainer_talk2|Vous n'avez jamais entendu parler des Faceless Men ?!
-dlga_braavos_trainer_talk2:braavos_trainer_talk3|Hmm, les Faceless Men? Et je pourrais vous faire tuer quelqu'un que je veux?
+dlga_braavos_trainer_talk1:braavos_trainer_talk2|Vous n'avez jamais entendu parler des Sans-Visages ?!
+dlga_braavos_trainer_talk2:braavos_trainer_talk3|Hmm, les Sans-Visages? Et je pourrais vous faire tuer quelqu'un que je veux?
 dlga_braavos_trainer_talk3:close_window|Vous devez savoir:nous ne tuons pas pour servir un seigneur, pour engraisser nos bourses, ou simplement pour caresser notre vanité. Nous ne donnons jamais le cadeau pour nous faire plaisir. Nous ne choisissons pas ceux que nous tuerons. Nous ne sommes que des serviteurs du Dieu à plusieurs facettes. Bonne journée, {playername}.
-dlga_start:pyke_trainer_lord|Salutations, {votre seigneurie / ma dame}. Avez-vous besoin que je vous forme des gardes Kraken? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de dix hommes. Je peux les préparer pour une semaine.
+dlga_start:pyke_trainer_lord|Salutations, {mon Seigneur / ma dame}. Avez-vous besoin que je vous forme des gardes Kraken? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de dix hommes. Je peux les préparer pour une semaine.
 dlga_pyke_trainer_lord:pyke_trainer_lord_no|Pas pour le moment.
 dlga_pyke_trainer_lord:pyke_trainer_lord_no.1|On dirait que les coffres sont nus. Je vais devoir revenir plus tard.
-dlga_pyke_trainer_lord_no:close_window|Comme vous le souhaitez, {votre seigneurie / ma dame}. J'attends votre retour.
-dlga_start:close_window.13|Bonne salutation, {votre seigneurie / ma dame}. Autant que je voudrais vous informer du contraire, mais les gardes Kraken sont encore en formation.
+dlga_pyke_trainer_lord_no:close_window|Comme vous le souhaitez, {mon Seigneur / ma dame}. J'attends votre retour.
+dlga_start:close_window.13|Bonne salutation, {mon Seigneur / ma dame}. Autant que je voudrais vous informer du contraire, mais les gardes Kraken sont encore en formation.
 dlga_pyke_trainer_lord:pyke_trainer_lord_yes1|Oui, me former de bons hommes.
-dlga_pyke_trainer_lord_yes1:close_window|Comme vous le souhaitez, {votre Seigneurie / ma Dame}. Reviens me voir dans une semaine, et je vais te préparer tes troupes.
-dlga_start:pyke_trainer_lord.1|Les Gardes Kraken sont maintenant prêts, {votre Seigneurie / Ma Dame}. Avez-vous besoin que je vous entraîne plus?
+dlga_pyke_trainer_lord_yes1:close_window|Comme vous le souhaitez, {mon Seigneur / ma Dame}. Reviens me voir dans une semaine, et je vais te préparer tes troupes.
+dlga_start:pyke_trainer_lord.1|Les Gardes Kraken sont maintenant prêts, {mon Seigneur / Ma Dame}. Avez-vous besoin que je vous entraîne plus?
 dlga_start:pyke_trainer_talk|Je suis le Maître aux armes ici à Pyke. Je forme les troupes requises par le seigneur actuel.
 dlga_pyke_trainer_talk:pyke_trainer_talk1|Quelle sorte de troupes pouvez-vous former ici?
 dlga_pyke_trainer_talk1:pyke_trainer_talk2|Je forme les gardes Kraken. Le meilleur de tous les Ironborn Je vais vous faire savoir!
@@ -417,63 +417,63 @@ dlga_start:kings_landing_trainer_lord.1|Bonne salutation, {mon roi / ma reine}. 
 dlga_start:close_window.15|Je suis Janos Slynt, le commandant de la City Guard ici dans King's Landing. Ne vous causez aucun problème, {lad / lass}.
 dlga_start:bolton_trainer_lord|{Your Lordship / My Lady}, est-ce que vous demandez-moi de commencer à former certains prélèvements de Bolton? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 40 hommes. Je peux les préparer à vous dans quelques semaines.
 dlga_bolton_trainer_lord:bolton_trainer_lord_no|Pas en ce moment.
-dlga_bolton_trainer_lord:bolton_trainer_lord_no.1|On dirait que les coffres sont nus. Je vais devoir revenir plus tard.
-dlga_bolton_trainer_lord_no:close_window|Comme vous le souhaitez, {votre seigneurie / ma dame}. J'attendrai ici si vous le faites.
-dlga_start:close_window.16|Salut et bien rencontré, {votre seigneurie / ma dame}. Malheureusement, les troupes actuelles sont toujours en formation.
+dlga_bolton_trainer_lord:bolton_trainer_lord_no.1|On dirait que les coffres sont vides. Je vais devoir revenir plus tard.
+dlga_bolton_trainer_lord_no:close_window|Comme vous le souhaitez, {mon Seigneur / ma dame}. J'attendrai ici si vous le faites.
+dlga_start:close_window.16|Salut et bien rencontré, {mon Seigneur / ma dame}. Malheureusement, les troupes actuelles sont toujours en formation.
 dlga_bolton_trainer_lord:bolton_trainer_lord_yes1|Je vous suggère de revenir au travail ensuite. J'espère que vous les formerez bien.
-dlga_bolton_trainer_lord_yes1:close_window|Oui, bien sûr, {votre seigneurie / ma dame}. Reviens me voir dans quelques semaines, et je vais te préparer tes troupes.
-dlga_start:bolton_trainer_lord.1|Salutations, {votre seigneurie / ma dame}. Vos troupes sont prêtes maintenant. Avez-vous besoin que je vous entraîne plus?
+dlga_bolton_trainer_lord_yes1:close_window|Oui, bien sûr, {mon Seigneur / ma dame}. Reviens me voir dans quelques semaines, et je vais te préparer tes troupes.
+dlga_start:bolton_trainer_lord.1|Salutations, {mon Seigneur / ma dame}. Vos troupes sont prêtes maintenant. Avez-vous besoin que je vous entraîne plus?
 dlga_start:bolton_trainer_talk|Bonne salutation, {ser / madam}. Je suis le Maître aux armes ici au Dreadfort. Je forme les troupes requises par le seigneur actuel.
 dlga_bolton_trainer_talk:bolton_trainer_talk1|Quelle sorte de troupes pouvez-vous former ici?
 dlga_bolton_trainer_talk1:bolton_trainer_talk2|Je forme des troupes spécifiques à la maison Bolton.
 dlga_bolton_trainer_talk2:bolton_trainer_talk3|Alors, comment puis-je acquérir ces troupes de Bolton?
 dlga_bolton_trainer_talk3:close_window|Seul le seigneur de ce château peut demander l'entraînement de ces troupes. Parlant de quoi, j'ai un travail à faire. Bonne journée, {playername}.
-dlga_start:stark_trainer_lord|Bonne salutation, {votre seigneurie / ma dame}. Avez-vous besoin que je vous entraîne des prélèvements Stark? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 40 hommes. Je peux les préparer à vous dans quelques semaines.
+dlga_start:stark_trainer_lord|Bonne salutation, {mon Seigneur / ma dame}. Avez-vous besoin que je vous entraîne des prélèvements Stark? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 40 hommes. Je peux les préparer à vous dans quelques semaines.
 dlga_stark_trainer_lord:stark_trainer_lord_no|Pas pour le moment.
 dlga_stark_trainer_lord:stark_trainer_lord_no.1|On dirait que les coffres sont nus. Je vais devoir revenir plus tard.
-dlga_stark_trainer_lord_no:close_window|Comme vous le souhaitez, {votre seigneurie / ma dame}. J'attendrai ici si vous le faites.
+dlga_stark_trainer_lord_no:close_window|Comme vous le souhaitez, {mon Seigneur / ma dame}. J'attendrai ici si vous le faites.
 dlga_stark_trainer_lord:stark_trainer_lord_yes1|Je vous suggère de revenir au travail ensuite. J'espère que vous les formerez bien.
-dlga_stark_trainer_lord_yes1:close_window|Oui, bien sûr, {votre seigneurie / ma dame}. Revenez et me voir dans une semaine ou deux, et je vais vous préparer vos troupes.
-dlga_start:stark_trainer_lord.1|Salutations, {votre seigneurie / ma dame}. Vos troupes sont prêtes maintenant. Avez-vous besoin que je vous entraîne plus?
+dlga_stark_trainer_lord_yes1:close_window|Oui, bien sûr, {mon Seigneur / ma dame}. Revenez et me voir dans une semaine ou deux, et je vais vous préparer vos troupes.
+dlga_start:stark_trainer_lord.1|Salutations, {mon Seigneur / ma dame}. Vos troupes sont prêtes maintenant. Avez-vous besoin que je vous entraîne plus?
 dlga_start:stark_trainer_talk|Bonne salutation, {ser / madam}. Je suis le maître aux armes ici à Winterfell. Je forme les troupes requises par le seigneur actuel.
 dlga_stark_trainer_talk:stark_trainer_talk1|Quelle sorte de troupes pouvez-vous former ici?
-dlga_stark_trainer_talk1:stark_trainer_talk2|Je forme des troupes spécifiques à House Stark.
+dlga_stark_trainer_talk1:stark_trainer_talk2|Je forme des troupes spécifiques à la Maison Stark.
 dlga_stark_trainer_talk2:stark_trainer_talk3|Alors, comment puis-je acquérir ces troupes?
 dlga_stark_trainer_talk3:close_window|Seul le seigneur de cette ville peut demander la formation de ces troupes. Parlant de quoi, j'ai un travail à faire. Bonne journée, {playername}.
-dlga_start:karstark_trainer_lord|Bonne salutation, {votre seigneurie / ma dame}. Avez-vous besoin que je vous entraîne des prélèvements Karstark? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 40 hommes. Je peux les préparer à vous dans quelques semaines.
+dlga_start:karstark_trainer_lord|Bonne salutation, {mon Seigneur / ma dame}. Avez-vous besoin que je vous entraîne des prélèvements Karstark? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 40 hommes. Je peux les préparer à vous dans quelques semaines.
 dlga_karstark_trainer_lord:karstark_trainer_lord_no|Pas pour le moment.
 dlga_karstark_trainer_lord:karstark_trainer_lord_no.1|On dirait que les coffres sont nus. Je vais devoir revenir plus tard.
-dlga_karstark_trainer_lord_no:close_window|Comme vous le souhaitez, {votre seigneurie / ma dame}. J'attendrai ici si vous le faites.
+dlga_karstark_trainer_lord_no:close_window|Comme vous le souhaitez, {mon Seigneur / ma dame}. J'attendrai ici si vous le faites.
 dlga_karstark_trainer_lord:karstark_trainer_lord_yes1|Je vous suggère de revenir au travail. J'espère que vous les formerez bien.
-dlga_karstark_trainer_lord_yes1:close_window|Oui, bien sûr, {votre seigneurie / ma dame}. Revenez et me voir dans une semaine ou deux, et je vais vous préparer vos troupes.
-dlga_start:karstark_trainer_lord.1|Salutations, {votre seigneurie / ma dame}. Les troupes sont prêtes maintenant. Avez-vous besoin que je vous entraîne plus?
+dlga_karstark_trainer_lord_yes1:close_window|Oui, bien sûr, {mon Seigneur / ma dame}. Revenez et me voir dans une semaine ou deux, et je vais vous préparer vos troupes.
+dlga_start:karstark_trainer_lord.1|Salutations, {mon Seigneur / ma dame}. Les troupes sont prêtes maintenant. Avez-vous besoin que je vous entraîne plus?
 dlga_start:karstark_trainer_talk|Bonne salutation, {ser / madam}. Je suis le Maître aux armes ici au château de Karhold. Je forme les troupes requises par le seigneur actuel.
 dlga_karstark_trainer_talk:karstark_trainer_talk1|Quelle sorte de troupes pouvez-vous former ici?
 dlga_karstark_trainer_talk1:karstark_trainer_talk2|Je forme des troupes spécifiques à la Maison Karstark.
 dlga_karstark_trainer_talk2:karstark_trainer_talk3|Alors, comment puis-je acquérir ces troupes?
 dlga_karstark_trainer_talk3:close_window|Seul le seigneur de cette ville peut demander la formation de ces troupes. Parlant de quoi, j'ai un travail à faire. Bonne journée, {playername}.
-dlga_start:frey_trainer_lord|Bonne salutation, {votre seigneurie / ma dame}. Avez-vous besoin que je vous entraîne des prélèvements Frey? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 40 hommes. Je peux les préparer à vous dans quelques semaines.
+dlga_start:frey_trainer_lord|Bonne salutation, {mon Seigneur / ma dame}. Avez-vous besoin que je vous entraîne des prélèvements Frey? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 40 hommes. Je peux les préparer à vous dans quelques semaines.
 dlga_frey_trainer_lord:frey_trainer_lord_no|Pas pour le moment.
 dlga_frey_trainer_lord:frey_trainer_lord_no.1|On dirait que les coffres sont nus. Je vais devoir revenir plus tard.
-dlga_frey_trainer_lord_no:close_window|Comme vous le souhaitez, {votre seigneurie / ma dame}. J'attendrai ici si vous le faites.
+dlga_frey_trainer_lord_no:close_window|Comme vous le souhaitez, {mon Seigneur / ma dame}. J'attendrai ici si vous le faites.
 dlga_frey_trainer_lord:frey_trainer_lord_yes1|Je vous suggère de revenir au travail. J'espère que vous les formerez bien.
-dlga_frey_trainer_lord_yes1:close_window|Oui, bien sûr, {votre Seigneurie / ma Dame}. Revenez et me voir dans une semaine ou deux, et je vais vous préparer vos troupes.
-dlga_start:frey_trainer_lord.1|Salutations, {votre seigneurie / ma dame}. Les troupes sont prêtes maintenant. Avez-vous besoin que je vous entraîne plus?
+dlga_frey_trainer_lord_yes1:close_window|Oui, bien sûr, {mon Seigneur / ma Dame}. Revenez et me voir dans une semaine ou deux, et je vais vous préparer vos troupes.
+dlga_start:frey_trainer_lord.1|Salutations, {mon Seigneur / ma dame}. Les troupes sont prêtes maintenant. Avez-vous besoin que je vous entraîne plus?
 dlga_start:frey_trainer_talk|Bonne salutation, {ser / madam}. Je suis le Maître aux armes ici chez les jumeaux. Je forme les troupes requises par le seigneur actuel.
 dlga_frey_trainer_talk:frey_trainer_talk1|Quelle sorte de troupes pouvez-vous former ici?
-dlga_frey_trainer_talk1:frey_trainer_talk2|Je forme des troupes spécifiques à House Frey.
+dlga_frey_trainer_talk1:frey_trainer_talk2|Je forme des troupes spécifiques à la Maison Frey.
 dlga_frey_trainer_talk2:frey_trainer_talk3|Alors, comment puis-je acquérir ces troupes?
 dlga_frey_trainer_talk3:close_window|Seul le seigneur de cette ville peut demander la formation de ces troupes. Parlant de quoi, j'ai un travail à faire. Bonne journée, {playername}.
-dlga_start:lannister_trainer_lord|Bonne salutation, {votre seigneurie / ma dame}. Avez-vous besoin que je vous entraîne des prélèvements Lannister? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 40 hommes. Je peux les préparer à vous dans quelques semaines.
+dlga_start:lannister_trainer_lord|Bonne salutation, {mon Seigneur / ma dame}. Avez-vous besoin que je vous entraîne des prélèvements Lannister? Cela vous coûtera 5 000 cerfs pour la formation et l'équipement de 40 hommes. Je peux les préparer à vous dans quelques semaines.
 dlga_lannister_trainer_lord:lannister_trainer_lord_no|Pas pour le moment.
 dlga_lannister_trainer_lord:lannister_trainer_lord_no.1|Il semble que les coffres soient nus. Je vais devoir revenir plus tard.
-dlga_lannister_trainer_lord_no:close_window|Comme vous le souhaitez, {votre Seigneurie / ma Dame}. J'attendrai ici si vous le faites.
+dlga_lannister_trainer_lord_no:close_window|Comme vous le souhaitez, {mon Seigneur / ma Dame}. J'attendrai ici si vous le faites.
 dlga_lannister_trainer_lord:lannister_trainer_lord_yes1|Je vous suggère de revenir au travail ensuite. J'espère que vous les formerez bien.
-dlga_lannister_trainer_lord_yes1:close_window|Oui, bien sûr, {votre seigneurie / ma dame}. Revenez et me voir dans une semaine ou deux, et je vais vous préparer vos troupes.
-dlga_start:white_harbour_trainer_lord.2|Salutations, {votre seigneurie / ma dame}. Les troupes sont prêtes maintenant. Avez-vous besoin que je vous entraîne plus?
+dlga_lannister_trainer_lord_yes1:close_window|Oui, bien sûr, {mon Seigneur / ma dame}. Revenez et me voir dans une semaine ou deux, et je vais vous préparer vos troupes.
+dlga_start:white_harbour_trainer_lord.2|Salutations, {mon Seigneur / ma dame}. Les troupes sont prêtes maintenant. Avez-vous besoin que je vous entraîne plus?
 dlga_start:lannister_trainer_talk|Bonne salutation, {ser / madam}. Je suis le Maître aux armes ici à Casterly Rock. Je forme les troupes requises par le seigneur actuel.
 dlga_lannister_trainer_talk:lannister_trainer_talk1|Quelle sorte de troupes pouvez-vous former ici?
-dlga_lannister_trainer_talk1:lannister_trainer_talk2|Je forme des troupes spécifiques à House Lannister.
+dlga_lannister_trainer_talk1:lannister_trainer_talk2|Je forme des troupes spécifiques à la Maison Lannister.
 dlga_lannister_trainer_talk2:lannister_trainer_talk3|Alors, comment puis-je acquérir ces troupes?
 dlga_lannister_trainer_talk3:close_window|Seul le seigneur de cette ville peut demander la formation de ces troupes. Parlant de quoi, j'ai un travail à faire. Bonne journée, {playername}.
 dlga_start:innkeeper_1_talk|Salutations, je suis Sharna. Bienvenue à l'Inn of the Kneeling Man, {ser / lady}.
@@ -543,7 +543,7 @@ dlga_hodor_talk_3:close_window|Mhm ...
 dlga_start:close_window.21|Vous appréciez de regarder un nain !?
 dlga_start:close_window.22|Vous soutenez le Seigneur de la Lumière, cher {garçon / fille}?
 dlga_start:aemon_menu|Mon {seigneur / dame}, comment ça va? A qui ai-je le plaisir de parler?
-dlga_aemon_menu:npc36_2|Quelle acclamation, maître? Mon nom est {playername}.
+dlga_aemon_menu:npc36_2|Mon nom est {playername}.
 dlga_aemon_menu:npc36_4|Faites attention à votre entreprise, vieil homme!
 dlga_aemon_menu:close_window|Désolé, je dois partir.
 dlga_npc36_2:measter_menu|Et pour quoi je peux vous faire, {playername}?
@@ -671,7 +671,7 @@ dlga_ramun_ask_about_capturing_6:ramun_ask_about_capturing_7|... et vous êtes d
 dlga_ramun_ask_about_capturing_7:ramun_pre_talk|Une blessure à l'épaule. Ils ont dit que je ne pouvais plus me battre bien! Donc, depuis 30 ans, je recrute pour la Garde.
 dlga_ramun_talk:ramun_leave|Je ferais mieux d'y aller.
 dlga_ramun_leave:close_window|Souvenez-vous, vous pouvez m'apporter n'importe quel prisonnier, la Garde de Nuit en sera reconnaissante.
-dlga_start:close_window.32|Je demande humblement à votre Seigneurie de garder ses mains là où je peux les voir.
+dlga_start:close_window.32|Je demande humblement à mon Seigneur de garder ses mains là où je peux les voir.
 dlga_manhunters_attack_1:manhunter_talk_b|{s4}
 dlga_start:manhunter_talk_b|Hé, vous là, vous n'auriez pas vu des hors-la-loi dans le coin ?
 dlga_manhunter_talk_b:manhunter_talk_b1|Oui, ils sont partis dans cette direction il y a environ une heure.
@@ -851,7 +851,7 @@ dlga_oim_bring_goods_in_zamoshie_intro_answer:oim_bring_goods_in_zamoshie_intro_
 dlga_oim_bring_goods_in_zamoshie_intro_answer_net:oim_bring_goods_in_zamoshie_intro_answer_net_1|Je me suis consacré aux arts militaires. J'ai eu peu de temps pour conduire un chariot de marchand.
 dlga_oim_bring_goods_in_zamoshie_intro_answer_net_1:oim_choose_quests|'C'est un refus médiocre que vous faites, m' {lord / lady}. Ce n'est pas une disgrâce pour un bon guerrier d'apprendre le métier de marchand. Et aucun commerçant ne durerait longtemps dans ces terres, s'il n'était pas un peu habile à tenir un épée.
 dlga_oim_check_bring_goods:village_elder_talk|Aight! Voici votre argent, m '{lord / lady}.
-dlga_oim_check_bring_bonnes:close_window|Aye, 'tis meets mais une partie de nos besoins, m' {lord / lady}. Livrez tous les produits, et nous vous rembourserons le montant total de votre récompense.
+dlga_oim_check_bring_goods:close_window|Aye, 'tis meets mais une partie de nos besoins, m' {lord / lady}. Livrez tous les produits, et nous vous rembourserons le montant total de votre récompense.
 dlga_member_question_2:duel_accept|Je voudrais vous défier à un duel amical.
 dlga_regular_member_talk:duel_accept|Disons un duel pratique.
 dlga_lord_talk_ask_something_2:lord_question_duel|Mon seigneur, je voudrais vous défier à un duel amical.
@@ -866,7 +866,7 @@ dlga_duel_choose_mount:duel_weap_mounted|Je voudrais faire du duel à cheval.
 dlga_duel_choose_mount:duel_weap_choose|Je voudrais faire duel à pied.
 dlga_duel_choose_mount:duel_weap_choose.1|Très bien.
 dlga_duel_choose_mount:close_window|Oubliez-le.
-dlga_duel_weap_monté:duel_weap_mounted|Quel genre d'armes voudriez-vous combattre?
+dlga_duel_weap_mounted:duel_weap_mounted|Quel genre d'armes voudriez-vous combattre?
 dlga_duel_weap_mounted:duel_start|Nous devrions utiliser nos propres armes.
 dlga_duel_weap_mounted:duel_start.1|Luttons avec l'épée et le bouclier.
 dlga_duel_weap_mounted:duel_accept|Quelle était votre précédente question à nouveau?
@@ -912,7 +912,7 @@ dlga_member_lady_1:member_lady_2a|Nous avons encore un long chemin à parcourir.
 dlga_member_lady_1:member_lady_2b|Très prochainement. Nous y sommes presque.
 dlga_member_lady_2a:close_window|Ah, je vais pouvoir profiter du voyage un peu plus longtemps. Je ne me plaindrai pas. Je trouve que respirer l'air libre est tellement plus agréable que de rester assis toute la journée dans un château. Comme je vous envie, vous qui menez tout le temps cette vie.
 dlga_member_lady_2b:close_window|C'est une bonne nouvelle. Ça n'est pas que je n'apprécie pas votre compagnie mais il est vrai que le luxe me manquait un peu. Il n'empêche que je suis triste de vous quitter bientôt. Vous devez me promettre de venir me rendre visite quand vous pourrez.
-dlga_member_chat:support_pretender_talk|Salutations, {nom de l'utilisateur}, mon premier vassal avant tout. J'attend ton conseil.
+dlga_member_chat:supported_pretender_talk|Salutations, {playername}, mon premier vassal avant tout. J'attend ton conseil.
 dlga_supported_pretender_pretalk:supported_pretender_talk|Autre chose ?
 dlga_supported_pretender_talk:pretender_progress|Que pensez-vous de notre progression, jusqu'ici ?
 dlga_pretender_progress:pretender_progress_2|{reg11?Nous avons {reg11} seigneurs à nos côtés:Nous n'avons aucun seigneur avec nous pour le moment}, alors que {reg21?{s9} a encore {reg21} seigneurs à ses côtés:{s9} n'a aucun seigneur fidèle à ses côtés}. {reg19?Nous contrôlons {reg13?{reg13} bourgs:} {reg14?{reg14} châteaux:} {reg15?et {reg15} villages:}:Nous ne contrôlons aucun territoire}, alors que {reg29?ils ont {reg23?{reg23} bourgs:} {reg24?{reg24} châteaux:} {reg25?et {reg25} villages:}:il ne leur reste aucun territoire}. En tout, {s30}.
@@ -1011,40 +1011,40 @@ dlga_start:rescue_prisoner_succeed_2|{playername}, vous l'avez sauvé ! Je ne sa
 dlga_rescue_prisoner_succeed_2:lord_pretalk|C'est toujours un honneur de vous servir, {s65}.
 dlga_start_up_quest_1_next:close_window|Tout va bien ? Parfait... Vous êtes en vie, au moins. Je ne suis pas sûr que nous puissions en dire autant de ce maraud. Voilà un voleur de moins perturbant nos rues la nuit, bien que Dieu sait qu'il ne sera pas le dernier... Quoi qu'il en soit, vous pourrez peut-être m'aider. Allons discuter à l'intérieur, au dehors on ne peut être certain de le faire en paix.
 dlga_start:merchant_quest_2a|Beau travail, vous avez engagé suffisamment d'hommes pour faire face aux bandits. Des voyageurs récemment arrivés à {s9} nous ont dit qu'il y a un petit groupe de brigands rôdant à l'extérieur de la ville. Je pense qu'ils sont tous de la même bande, celle qui a enlevé mon frère. Pourchassez-les, combattez-les, et forcez-les à vous indiquer la position de leur repaire !
-dlga_start:mercant_quest_3a|Donc, vous avez découvert où ils ont caché mon frère? Travail splendide. Je me flatte que je suis un bon juge de caractère et que vous cherchez un homme qui peut faire des choses. Maintenant, sortez et sauvez sa peau indigne!
-dlga_start:mercant_quest_3b|Eh bien ... mon frère est à la maison. Je ne suis pas sûr de ce qu'il faut faire avec lui - peut-être l'emmener à King's Landing. De cette façon, s'il est frappé sur la tête dans une bagarre de rue, personne ne peut dire que c'est de ma faute. Mais ce n'est pas votre problème. Voici le reste de votre récompense. C'est bien mérité.
-dlga_merchant_quest_3b:mercant_quest_4a|L'argent est le bienvenu, et je suis heureux d'avoir été en service.
-dlga_merchant_quest_4a:marchand_quest_4b|Bon! Maintenant, êtes-vous intéressé à gagner de l'argent?
-dlga_merchant_quest_4b:mercant_quest_4b1|Possible. De quoi avez-vous besoin?
-dlga_merchant_quest_4b1:mercant_quest_4b2|Rappelez-vous comment je vous ai dit que les bandits avaient un allié à l'intérieur des murs? Je pense que je sais qui il est:le capitaine de la montre, pas moins. Il y a quelques mois, ce capitaine, vu la quantité de profit que les commerçants faisaient du commerce à travers les frontières, a décidé d'emprunter de l'argent pour parrainer une caravane. Malheureusement, comme beaucoup de ceux qui sont nouveaux dans le commerce, il n'a pas réussi à se rendre compte que le grand profit ne présente qu'un grand risque. Alors, il a coulé tout son argent dans les produits les plus chers, et, bien sûr, sa caravane a été capturée et pillée, et il a tout perdu.
-dlga_merchant_quest_4b2:mercant_quest_4b3|En conséquence, il semble que notre capitaine soit devenu une méchanceté pour récupérer sa fortune. Je supposais que je ferais de même si, les Sept interdit, j'ai déjà fait face à l'endettement et à la ruine. Maintenant, tout capitaine de surveillance qui valait son salaire aura quelques voleurs et voleurs sur sa masse salariale, pour informer sur le reste, mais notre capitaine décide d'employer ces bastards en gros. Il les amène dans la ville, les laisse faire comme ils le veulent, et prend une partie de leur prise. Vous avez entendu parler de braconniers qui ont transformé des mangeoires? Eh bien, dans ces pays malheureux, parfois, les gardiens de chasse deviennent braconniers aussi. Heureusement, il y a encore quelques âmes courageuses et honnêtes dans la montre qui m'ont dit comment il fonctionnait.
-dlga_merchant_quest_4b3:mercant_quest_4b4|Maintenant, voici mon plan. Je pourrais attirer l'attention de {s4}, le seigneur de la ville, mais cela signifierait une enquête, ma parole contre le capitaine, et les témoins peuvent être achetés et les preuves détruites, ou peut-être que tout sera oublié si l'ennemi Vient à travers la frontière à nouveau, et tout ce que je vais chercher pour mon problème est un couteau dans les côtes. En temps de guerre, vous voyez, un œil du roi erre loin de son domaine et ses sujets en souffrent. J'ai donc une autre idée. J'ai un petit groupe de citadins ensemble, des hommes à mon service et d'autres qui ont perdu des parents à ces bandits, et nous irriverons la maison du capitaine et l'amenons enchaîné avant {s4}, j'espère avec quelques-uns Les bandits capturés pour expliquer comment les choses s'accumulent.
-dlga_merchant_quest_4b4:mercant_quest_4b5|Tout ce dont j'ai besoin maintenant, c'est quelqu'un pour diriger ma petite armée dans la bataille, et je ne peux penser à personne de mieux que toi. Alors, que dis-tu?
-dlga_merchant_quest_4b5:mercant_quest_4b6|Comment puis-je savoir que vous me dites la vérité?
+dlga_start:merchant_quest_3a|Donc, vous avez découvert où ils ont caché mon frère? Travail splendide. Je me flatte que je suis un bon juge de caractère et que vous cherchez un homme qui peut faire des choses. Maintenant, sortez et sauvez sa peau indigne!
+dlga_start:merchant_quest_3b|Eh bien ... mon frère est à la maison. Je ne suis pas sûr de ce qu'il faut faire avec lui - peut-être l'emmener à King's Landing. De cette façon, s'il est frappé sur la tête dans une bagarre de rue, personne ne peut dire que c'est de ma faute. Mais ce n'est pas votre problème. Voici le reste de votre récompense. C'est bien mérité.
+dlga_merchant_quest_3b:merchant_quest_4a|L'argent est le bienvenu, et je suis heureux d'avoir été en service.
+dlga_merchant_quest_4a:merchant_quest_4b|Bon! Maintenant, êtes-vous intéressé à gagner de l'argent?
+dlga_merchant_quest_4b:merchant_quest_4b1|Possible. De quoi avez-vous besoin?
+dlga_merchant_quest_4b1:merchant_quest_4b2|Rappelez-vous comment je vous ai dit que les bandits avaient un allié à l'intérieur des murs? Je pense que je sais qui il est:le capitaine de la montre, pas moins. Il y a quelques mois, ce capitaine, vu la quantité de profit que les commerçants faisaient du commerce à travers les frontières, a décidé d'emprunter de l'argent pour parrainer une caravane. Malheureusement, comme beaucoup de ceux qui sont nouveaux dans le commerce, il n'a pas réussi à se rendre compte que le grand profit ne présente qu'un grand risque. Alors, il a coulé tout son argent dans les produits les plus chers, et, bien sûr, sa caravane a été capturée et pillée, et il a tout perdu.
+dlga_merchant_quest_4b2:merchant_quest_4b3|En conséquence, il semble que notre capitaine soit devenu une méchanceté pour récupérer sa fortune. Je supposais que je ferais de même si, les Sept interdit, j'ai déjà fait face à l'endettement et à la ruine. Maintenant, tout capitaine de surveillance qui valait son salaire aura quelques voleurs et voleurs sur sa masse salariale, pour informer sur le reste, mais notre capitaine décide d'employer ces bastards en gros. Il les amène dans la ville, les laisse faire comme ils le veulent, et prend une partie de leur prise. Vous avez entendu parler de braconniers qui ont transformé des mangeoires? Eh bien, dans ces pays malheureux, parfois, les gardiens de chasse deviennent braconniers aussi. Heureusement, il y a encore quelques âmes courageuses et honnêtes dans la montre qui m'ont dit comment il fonctionnait.
+dlga_merchant_quest_4b3:merchant_quest_4b4|Maintenant, voici mon plan. Je pourrais attirer l'attention de {s4}, le seigneur de la ville, mais cela signifierait une enquête, ma parole contre le capitaine, et les témoins peuvent être achetés et les preuves détruites, ou peut-être que tout sera oublié si l'ennemi Vient à travers la frontière à nouveau, et tout ce que je vais chercher pour mon problème est un couteau dans les côtes. En temps de guerre, vous voyez, un œil du roi erre loin de son domaine et ses sujets en souffrent. J'ai donc une autre idée. J'ai un petit groupe de citadins ensemble, des hommes à mon service et d'autres qui ont perdu des parents à ces bandits, et nous irriverons la maison du capitaine et l'amenons enchaîné avant {s4}, j'espère avec quelques-uns Les bandits capturés pour expliquer comment les choses s'accumulent.
+dlga_merchant_quest_4b4:merchant_quest_4b5|Tout ce dont j'ai besoin maintenant, c'est quelqu'un pour diriger ma petite armée dans la bataille, et je ne peux penser à personne de mieux que toi. Alors, que dis-tu?
+dlga_merchant_quest_4b5:merchant_quest_4b6|Comment puis-je savoir que vous me dites la vérité?
 dlga_merchant_quest_4b6:merchant_quest_4b7|Oh, on peut supposer qu'il est possible que j'aie trouvé une douzaine de bandits prêts à donner leur vie pour donner à un étranger une fausse impression de la vie à {s4}. Certes, vous ne pouvez pas vraiment savoir si ce que je dis est vrai, mais reconnaissez que mon argent l'est, et il y a 100 cerfs d'argent supplémentaires ou même peut-être un peu plus qui vous attendent si vous me faites cette dernière petite faveur. Alors, qu'en dites-vous ?
 dlga_merchant_quest_4b7:merchant_quest_4b8|D'accord. Je suis votre homme.
-dlga_merchant_quest_4b7:mercant_quest_4_decline|Je suis désolé. C'est trop, trop vite. J'ai besoin de temps pour réfléchir.
-dlga_merchant_quest_4b8:mercant_quest_4b9|Splendide. Il y a longtemps que je jalonnais tellement sur un seul coup de dés et, franchement, je le trouve exaltante. Mes hommes sont prêts à passer votre mot. Es-tu prêt?
-dlga_merchant_quest_4b9:mercant_quest_4_accept|Oui. Donnez-leur le signe.
+dlga_merchant_quest_4b7:merchant_quest_4_decline|Je suis désolé. C'est trop, trop vite. J'ai besoin de temps pour réfléchir.
+dlga_merchant_quest_4b8:merchant_quest_4b9|Splendide. Il y a longtemps que je jalonnais tellement sur un seul coup de dés et, franchement, je le trouve exaltante. Mes hommes sont prêts à passer votre mot. Es-tu prêt?
+dlga_merchant_quest_4b9:merchant_quest_4_accept|Oui. Donnez-leur le signe.
 dlga_merchant_quest_4b9:merchant_quest_4_decline|Pas maintenant. J'ai besoin d'un peu de repos avant de combattre à nouveau.
 dlga_merchant_quest_4_accept:close_window|Très bien ! Maintenant, frappez vite, frappez fort, et le capitaine et ses sbires ne comprendront pas ce qui leur tombe dessus. Que les Sept soient avec vous !
 dlga_merchant_quest_4_decline:close_window|Soit. Je peux tenir mes hommes, mais pas trop longtemps. Si votre indécision s'éternise, j'achèverai cette affaire sans vous, mais je serais plus heureux si vous pouviez y prendre votre part. Pour l'instant, prenez le temps dont vous avez besoin.
 dlga_merchant_quest_2a:close_window|Très bien. Je vais traquer ces bandits.
-dlga_merchant_quest_2a:mercant_quest_2a_whynotcome Pourquoi ne pas venir avec nous?
-dlga_merchant_quest_2a_whynotcome:mercant_quest_2a|Parce que je vous paye pour aller et m'occuper de ça. C'est la réponse courte. La longue réponse est que j'ai quelques pistes à suivre ici en ville, et j'ai autant de chances de me frapper la tête que vous, si c'est ce que vous demandez. Mais je respecte votre question. Maintenant, qu'est-ce que vous dites?
+dlga_merchant_quest_2a:merchant_quest_2a_whynotcome|Pourquoi ne pas venir avec nous?
+dlga_merchant_quest_2a_whynotcome:merchant_quest_2a|Parce que je vous paye pour aller et m'occuper de ça. C'est la réponse courte. La longue réponse est que j'ai quelques pistes à suivre ici en ville, et j'ai autant de chances de me frapper la tête que vous, si c'est ce que vous demandez. Mais je respecte votre question. Maintenant, qu'est-ce que vous dites?
 dlga_merchant_quest_2a:close_window.1|Je ne puis m'en occuper pour le moment.
 dlga_merchant_quest_3a:close_window|Très bien. Je pars sur l'heure attaquer le repaire des bandits, et délivrer votre frère.
 dlga_merchant_quest_3a:close_window.1|Je ne peux pas m'en charger pour l'instant.
-dlga_start:mercant_quest_persuasion12|Bonne chance, {ser / my lady}.
+dlga_start:merchant_quest_persuasion12|Bonne chance, {ser / my lady}.
 dlga_merchant_quest_3a:merchant_quest_persuasion|Vous faites un cas convaincant. Je vais vous aider.
 dlga_merchant_quest_persuasion:merchant_quest_2|Vous savez vous montrer persuasif. Je vous aiderai.
 dlga_merchant_quest_persuasion:merchant_quest_3|Vous savez vous montrer persuasif. Je vous aiderai.
 dlga_merchant_quest_persuasion:merchant_quest_4b8|Vous savez vous montrer persuasif. Je vous aiderai.
 dlga_merchant_quest_persuasion12:close_window|Merci. Adieu.
 dlga_merchant_quest_2:merchant_quest_2a|Maintenant partez, et soyez sans pitié pour ces bandits.
-dlga_merchant_quest_3:mercant_quest_3a|Maintenant, attaquez-vous contre la guérison des bandits, rapprochez mon frère et montre à ces brigands ce qui arrive à ceux qui menacent mon ménage.
+dlga_merchant_quest_3:merchant_quest_3a|Maintenant, attaquez-vous contre la guérison des bandits, rapprochez mon frère et montre à ces brigands ce qui arrive à ceux qui menacent mon ménage.
 dlga_start:close_window.37|Oh ... loué soit le Seven ... suis-je en sécurité?
-dlga_start:mercant_closing_statement_2|Ah, {playername}. Les choses ne vont pas si bien que j'avais espéré. {S5} ne pouvait pas le trouver en négligeant ma petite violation de la paix. Oh, il est assez reconnaissant pour me débarrasser de son capitaine tordu; Un gardien qui va laisser entrer des bandits laissera dans une armée ennemie si le prix est correct, mais il ne peut pas exactement me faire courir ici comme un rappel durable de son incapacité à prendre soin des choses lui-même.
+dlga_start:merchant_closing_statement_2|Ah, {playername}. Les choses ne vont pas si bien que j'avais espéré. {S5} ne pouvait pas le trouver en négligeant ma petite violation de la paix. Oh, il est assez reconnaissant pour me débarrasser de son capitaine tordu; Un gardien qui va laisser entrer des bandits laissera dans une armée ennemie si le prix est correct, mais il ne peut pas exactement me faire courir ici comme un rappel durable de son incapacité à prendre soin des choses lui-même.
 dlga_merchant_closing_statement_2:merchant_closing_statement_3|N'est-ce pas injuste ?
 dlga_merchant_closing_statement_3:merchant_closing_statement_4|Injuste ? On est en Calradia, ici, vous savez ! Les rois font ce qu'ils veulent, et nous autres devons faire ce qu'ils ordonnent. Il ne m'a pas pendu, et il m'a même laissé le temps de vendre mes biens, il a même dit aux autres marchands qu'il valait mieux pour eux qu'ils me paient un prix honnête. C'est fort aimable à lui, autant qu'un roi peut l'être, mais c'est aussi une marque de faiblesse, comme tous les rois ici en montrent. Les rois faibles veillent d'abord à maintenir leur autorité, et pensent à la justice ensuite. Je suppose que je ferais pareil, à leur place.
 dlga_merchant_closing_statement_4:close_window|Ah oui, je n'ai pu cacher au {s5} de votre rôle dans cette histoire, et il m'a écouté attentivement. Il a déclaré que cela ne valait pas que l'on vous pende, et c'est quelquechose pour lequel je léverai un verre tous les jours de la semaine. Il pourrait même avoir du travail pour vous, un peu plus tard. Ceci dit, je pense que vous êtes du genre à être capable de vous faire une place n'importe où en Calradia. Quoi qu'il en soit, j'espère que vous en savez un peu plus sur la façon de rester en vie en ces terres troublées, et je pense que vous ne gaspillerez pas l'argent que vous avez gagné dans cette affaire. Bonne chance !
@@ -1121,7 +1121,7 @@ dlga_minister_issues:minister_talk.1|À ce stade, aucune question urgente ne req
 dlga_minister_issues:minister_talk.2|Si vous me permettez un conseil, {messire/madame}, il semble que votre légitimité à régner en tant que monarque indépendant ne soit pas suffisamment reconnu, ce qui risque de nous créer des problèmes. Je vous conseillerais donc de trouver un autre royaume avec lequel vous avez des intérêts communs et de chercher sa reconnaissance pour vous mettre sur un même pied d'égalité que les autres rois de Calradia.
 dlga_minister_issues:minister_talk.3|À ce stade, aucune question urgente ne requiert votre attention. Voulez-vous que je fasse quelque chose ?
 dlga_minister_pretalk:minister_talk|Voulez-vous que je fasse quelque chose ?
-dlga_minister_talk:combiné_political_quests|Avez-vous des idées pour renforcer l'unité de notre royaume?
+dlga_minister_talk:combined_political_quests|Avez-vous des idées pour renforcer l'unité de notre royaume?
 dlga_minister_talk:offer_gift_quest_complete|J'ai les matériaux pour le cadeau de {s4}.
 dlga_offer_gift_quest_complete:close_window|Ah, donnez-moi cela. Espérons que cela suffira à apaiser votre querelle. Vous devriez peut-être aller lui parler, histoire de voir si cela a fonctionné.
 dlga_minister_talk:minister_cancel_political_quest|Abandonnons notre plan pour {s10}.
@@ -1129,7 +1129,7 @@ dlga_minister_cancel_political_quest:minister_cancel_political_quest_confirm|Êt
 dlga_minister_cancel_political_quest_confirm:minister_pretalk|Oui j'en suis sûr, abandonnons cette idée.
 dlga_minister_cancel_political_quest_confirm:minister_pretalk.1|Non, pas maintenant.
 dlga_minister_talk:minister_diplomatic_kingdoms|Je désire dépêcher un émissaire.
-dlga_minister_talk:Minister_indict|Je souhaite inscrire un vassal déloyal pour la trahison.
+dlga_minister_talk:minister_indict|Je souhaite inscrire un vassal déloyal pour la trahison.
 dlga_minister_talk:minister_change_marshal|Je souhaite remplacer le maréchal, {s4}.
 dlga_minister_talk:minister_change_marshal.1|Je souhaite nommer un nouveau maréchal.
 dlga_minister_change_marshal:minister_pretalk|Vous venez tout juste de choisir un maréchal, {seigneur/madame}. Si vous annulez si vite votre décision, cela sera source de moult confusions. Nous devrions attendre quelques jours au moins.
@@ -1512,7 +1512,7 @@ dlga_dplmc_chamberlain_dismiss_confirm:dplmc_chamberlain_pretalk|Non, je ne le s
 dlga_dplmc_chamberlain_dismiss_confirm_yes:close_window|Qu'il en soit ainsi, voici tous les documents.
 dlga_dplmc_chamberlain_talk:close_window|Oh rien, je voulais juste vérifier les documents.
 dlga_spouse_talk:dplmc_spouse_staff_talk_ask|Je requiers les services d'un nouvel intendant.
-dlga_dplmc_spouse_staff_talk_ask:dplmc_talk_staff Quel type de membre du personnel souhaiteriez-vous embaucher?
+dlga_dplmc_spouse_staff_talk_ask:dplmc_talk_staff|Quel type de membre du personnel souhaiteriez-vous embaucher?
 dlga_dplmc_talk_staff:dplmc_talk_appoint_constable|J'aurais besoin d'un connétable.
 dlga_dplmc_talk_appoint_constable:dplmc_talk_appoint_constable_confirm|C'est une bonne idée. Puis-je suggérer un noble compétent et ami de ma famille ? Son nom est Miles de Gloucester. Il demande 15 cerfs d'argent par semaine et son engagement a un coût de 20 cerfs d'argent.
 dlga_dplmc_talk_appoint_constable:dplmc_talk_appoint_constable_confirm.1|J'ai entendu du bien d'un noble local appelé Miles de Gloucester, je pense qu'il serait parfait pour ce poste. Il demande 15 cerfs d'argent par semaine et son engagement a un coût de 20 cerfs d'argent.
@@ -1540,13 +1540,13 @@ dlga_dplmc_talk_staff:minister_pretalk|Aucun.
 dlga_dplmc_talk_staff:spouse_pretalk|Aucun.
 dlga_spouse_talk:dplmc_spouse_talk_buy_food_amount_ask|Pouvez-vous acheter du pain, je vous prie ?
 dlga_dplmc_spouse_talk_buy_food_amount_ask:dplmc_spouse_talk_buy_food_amount|De quelle quantité de pain avez-vous besoin ?
-dlga_dplmc_spouse_talk_buy_food_mount:spouse_pretalk|Rien.
+dlga_dplmc_spouse_talk_buy_food_amount:spouse_pretalk|Rien.
 dlga_dplmc_spouse_talk_buy_food:dplmc_spouse_talk_buy_food_confirm|Oui bien sûr, je vais voir les marchands à {s6} pour acheter du pain. Cela nous coûtera {reg0} cerfs d'argent.
 dlga_dplmc_spouse_talk_buy_food:spouse_pretalk|Actuellement aucun commerçant n'a suffisamment de pain, nous devons attendre.
 dlga_dplmc_spouse_talk_buy_food_confirm:close_window|Très bien, nous pouvons nous le permettre, allez-y je vous prie.
 dlga_dplmc_spouse_talk_buy_food_confirm:close_window.1|Oh, plus tard peut-être.
 dlga_minister_talk:dplmc_minister_staff_talk_ask|Je recherche un nouveau collaborateur.
-dlga_dplmc_minister_staff_talk_ask:dplmc_talk_staff Quel type de membre du personnel souhaiteriez-vous embaucher?
+dlga_dplmc_minister_staff_talk_ask:dplmc_talk_staff|Quel type de membre du personnel souhaiteriez-vous embaucher?
 dlga_lord_talk:dplmc_lord_give_back_fief|{s66}, je souhaite renoncer à un fief.
 dlga_dplmc_lord_give_back_fief:dplmc_lord_give_back_fief_select|Ainsi vous ne pouvez pas le gérer vous-même? Bien, à quel fief songez-vous ?
 dlga_dplmc_lord_give_back_fief_select:lord_pretalk|Laissez tomber.
@@ -1617,7 +1617,7 @@ dlga_dplmc_minister_exchange_prisoner_select:minister_pretalk|Personne.
 dlga_dplmc_minister_exchange_prisoner_lord_ask:dplmc_minister_exchange_prisoner_lord_select|Lequel de nos seigneurs aimeriez-vous voir libéré ?
 dlga_dplmc_minister_exchange_prisoner_lord_select:dplmc_minister_prisoner_emissary|{s10}.
 dlga_dplmc_minister_exchange_prisoner_lord_select:minister_pretalk|Personne.
-dlga_dplmc_minister_prisoner_emissary:??minister_emissary_select|Qui négociera l'échange?
+dlga_dplmc_minister_prisoner_emissary:minister_emissary_select|Qui négociera l'échange?
 dlga_minister_emissary_dispatch:minister_diplomatic_dispatch_confirm.1|Très bien, je vais envoyer {s11} au {s12} pour convaincre {s13} de rejoindre votre royaume, et lui offrir {s14}.
 dlga_event_triggered:dplmc_companion_prisoner_exchange_confirm|Eh bien, {s21}, je vous trouve enfin. Ils acceptent d'échanger {s32} contre {s33} qui m'accompagne, voulez-vous relâcher {s32} ?
 dlga_dplmc_companion_prisoner_exchange_confirm:companion_rejoin_response|Oui, libérez-le.
@@ -1634,7 +1634,7 @@ dlga_dplmc_minister_persuade_lord_faction:minister_pretalk|Nulle part.
 dlga_dplmc_minister_persuade_lord_ask:dplmc_minister_persuade_lord|Qui devons-nous convaincre ?
 dlga_dplmc_minister_persuade_lord:dplmc_minister_persuasion_emissary|{s11}
 dlga_dplmc_minister_persuade_lord:minister_pretalk|Non, laissez tomber.
-dlga_dplmc_minister_persuasion_emissary:??minister_emissary_select|Qui dois-je envoyer? Vous devriez choisir celui avec la compétence de persuasion la plus élevée.
+dlga_dplmc_minister_persuasion_emissary:minister_emissary_select|Qui dois-je envoyer? Vous devriez choisir celui avec la compétence de persuasion la plus élevée.
 dlga_minister_emissary_dispatch:minister_diplomatic_dispatch_confirm.2|Très bien, mon {seigneur / femme}. Je vais envoyer {s11} à {s12} pour persuader {s13} et lui offrir {s14}.
 dlga_event_triggered:companion_rejoin_response.2|Bien, {s21}, je vous trouve enfin. Je reviens de ma mission de persuasion concernant le {s30}. {s14} ne veut pas vous rejoindre, il a dit, {s40}
 dlga_event_triggered:companion_rejoin_response.3|Bien, {s21}, je vous trouve enfin. Je reviens de ma mission de persuasion concernant le {s31}. {s14} est d'accord de vous rejoindre.
@@ -1642,7 +1642,7 @@ dlga_minister_talk:dplmc_minister_spy_kingdoms|Je veux espionner un autre royaum
 dlga_dplmc_minister_spy_kingdoms:dplmc_minister_spy_kingdoms_select|Où aimeriez-vous envoyer un espion ?
 dlga_dplmc_minister_spy_kingdoms:minister_pretalk|Malheureusement, il n'y a personne de disponible actuellement.
 dlga_dplmc_minister_spy_kingdoms_select:dplmc_minister_spy_emissary|{s11}{s14}
-dlga_dplmc_minister_spy_emissary:??minister_emissary_select|Qui sera votre espion? Vous devriez choisir celui dont vous avez le plus confiance et qui est habile à repérer!
+dlga_dplmc_minister_spy_emissary:minister_emissary_select|Qui sera votre espion? Vous devriez choisir celui dont vous avez le plus confiance et qui est habile à repérer!
 dlga_event_triggered:dplmc_companion_spy_request_select_center|Eh bien, {s21}, je vous trouve enfin. Je suis revenu de ma mission de reconnaissance dans le {s31}. De quelles informations avez-vous besoin ?
 dlga_event_triggered:close_window.1|Mon seigneur, je reviens de ma mission de reconnaissance dans le {s31}. Je suis désolé, mais les gardes nous ont surpris et ont capturé {s11}. Par chance, j'ai pu m'échapper de justesse.
 dlga_dplmc_companion_spy_request_select_center:dplmc_companion_spy_request_center_selected|{s60}
@@ -1677,7 +1677,7 @@ dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.5|Q
 dlga_event_triggered:dplmc_companion_war_request_response|Eh bien, {s21}, je vous trouve enfin. Je suis de retour de ma mission dans le {s31}.
 dlga_dplmc_companion_war_request_response:companion_rejoin_response|{s4} est disposé à entrer en guerre contre le {s31}.
 dlga_dplmc_companion_war_request_response:dplmc_companion_war_pay|{s4} est disposé à entrer en guerre contre le {s31}, mais cela nécessite 5000 cerfs d'argent pour préparer son armée.
-dlga_dplmc_companion_war_pay:compagnon_rejoin_response|Pay {reg1} cerfs d'argent du trésor et lui dire de commencer la guerre.
+dlga_dplmc_companion_war_pay:companion_rejoin_response|Pay {reg1} cerfs d'argent du trésor et lui dire de commencer la guerre.
 dlga_dplmc_companion_war_pay:companion_rejoin_response.1|Tout bien réfléchi, actuellement il est inutile de dépenser autant d'argent.
 dlga_dplmc_companion_war_request_response:companion_rejoin_response.1|{s4} n'est pas disposé à entrer en guerre contre le {s31}.
 dlga_companion_embassy_results:dplmc_companion_truce_pay|{s12} vous fait savoir qu'il est disposé à réfléchir à une trêve de 20 jours contre {reg0} cerfs d'argent.
@@ -1685,8 +1685,8 @@ dlga_companion_embassy_results:dplmc_companion_truce_pay.1|{s12} vous fait savoi
 dlga_companion_embassy_results:dplmc_companion_truce_pay.2|{s12} vous fait savoir qu'il est disposé à réfléchir à une trêve de 20 jours contre {s18}.
 dlga_companion_embassy_results:dplmc_companion_truce_pay.3|{s12} vous fait savoir qu'il est disposé à réfléchir à une trêve de 20 jours si vous lui cédez {s18} et versez {reg0} en supplément.
 dlga_companion_embassy_results:dplmc_companion_truce_pay.4|{s12} vous fait savoir qu'il est disposé à réfléchir à une trêve de 20 jours si vous lui versez {reg0} cerfs d'argent, ou bien lui cédez {s18}.
-dlga_dplmc_companion_truce_pay:compagnon_rejoin_response|Pay {reg0} cerfs et laisser conclure la trêve avec {s4}.
-dlga_dplmc_companion_truce_pay:compagnon_rejoin_response.1|Pay {reg1} cers en argent et donnez-lui {s18}. Laissez cette trêve avec le {s4} être conclue.
+dlga_dplmc_companion_truce_pay:companion_rejoin_response|Pay {reg0} cerfs et laisser conclure la trêve avec {s4}.
+dlga_dplmc_companion_truce_pay:companion_rejoin_response.1|Pay {reg1} cers en argent et donnez-lui {s18}. Laissez cette trêve avec le {s4} être conclue.
 dlga_dplmc_companion_truce_pay:companion_rejoin_response.2|Donnez-lui {s18} et concluons enfin cette trêve avec le {s4}
 dlga_dplmc_companion_truce_pay:companion_rejoin_response.3|Tout bien réfléchi, ce n'est peut-être pas dans notre intérêt à ce jour.
 dlga_minister_talk:close_window|C'est tout pour le moment.
@@ -1709,7 +1709,7 @@ dlga_minister_declare_war:minister_declare_war_confirm|{s12}
 dlga_minister_declare_war_confirm:minister_declare_war_confirm_yes|Eh bien, je souhaite déclarer la guerre au {s12}.
 dlga_minister_declare_war_confirm:minister_pretalk|Hum, peut-être pas.
 dlga_minister_declare_war_confirm_yes:minister_pretalk|Comme il vous plaira. Nous sommes maintenant en guerre contre le {s12}. Puissions-nous remporter la victoire.
-dlga_minister_diplomatic_emissary:??minister_emissary_select|Qui sera votre émissaire? Vous devriez choisir quelqu'un à qui vous confiez, mais qui est également convaincant, celui qui peut négocier sans faire d'infraction.
+dlga_minister_diplomatic_emissary:minister_emissary_select|Qui sera votre émissaire? Vous devriez choisir quelqu'un à qui vous confiez, mais qui est également convaincant, celui qui peut négocier sans faire d'infraction.
 dlga_minister_emissary_select:minister_emissary_dispatch|{s11}
 dlga_minister_emissary_select:minister_pretalk|En fait, je ne vois personne.
 dlga_minister_emissary_dispatch:minister_diplomatic_dispatch_confirm.3|Très bien, j'enverra {s11} à {s12} à {s14}.
@@ -1903,7 +1903,7 @@ dlga_start:lord_requests_recruitment|{s9}
 dlga_lord_requests_recruitment:close_window|{s9}
 dlga_lord_requests_recruitment:lord_requests_recruitment_refuse|{s9}
 dlga_lord_requests_recruitment_refuse:close_window|{s9}
-dlga_start:support_pretender_talk|J'attend votre conseil, {nom de l'utilisateur}.
+dlga_start:supported_pretender_talk|J'attend votre conseil, {playername}.
 dlga_start:pretender_intro_1|Je vous connais ?
 dlga_pretender_intro_1:pretender_intro_2|Mon nom est {playername}, à votre service.
 dlga_pretender_intro_1:pretender_intro_2.1|Je suis {playername}. Peut-être avez-vous eu vent de mes hauts faits.
@@ -2068,7 +2068,7 @@ dlga_regular_member_talk:follower_woman_action|J'ai besoin de toi pour aider à 
 dlga_follower_woman_action:regular_member_talk|Hommes? Oh ... eh bien, il est important d'aider.
 dlga_start:sacerdotes_party_talk|Ma {seigneur / dame}, nous ne sommes que des pauvres septons essayant d'éclairer les gens de cette terre.
 dlga_sacerdotes_party_talk:close_window|La foi des sept, hein? Il est temps de vous réunir avec votre créateur!
-dlga_sacerdotes_party_talk:priestote_pary_action|Nous avons besoin des nouveaux dieux pour nous purifier de nos péchés. Je vais faire don de 200 cerfs d'argent aux familles de mes hommes déchus pour votre aide.
+dlga_sacerdotes_party_talk:sacerdote_pary_action|Nous avons besoin des nouveaux dieux pour nous purifier de nos péchés. Je vais faire don de 200 cerfs d'argent aux familles de mes hommes déchus pour votre aide.
 dlga_sacerdote_pary_action:sacerdotes_party_talk|- Ils prient le guerrier. - Amen. Vos hommes se sentiront mieux maintenant.
 dlga_sacerdotes_party_talk:close_window.1|Très bien, continuez.
 dlga_start:paganos_party_talk|Nous adorons les Anciens Dieux de la Forêt. De quoi avez-vous besoin?
@@ -2081,15 +2081,15 @@ dlga_rhllor_party_talk:close_window|Vous écume épouvantable adorer le démon r
 dlga_rhllor_party_talk:rhllor_party_action|Mes hommes ont besoin de R'hllor. Je vais faire don de 200 cerfs d'argent pour votre aide dans cette affaire.
 dlga_rhllor_party_action:rhllor_party_talk|Je prierai notre seigneur pour vous et vos hommes. Cela les encouragera à se battre avec fierté à vos côtés.
 dlga_rhllor_party_talk:close_window.1|Non, continuez.
-dlga_start:ahogé_men_party_talk|Nous sommes les adeptes du dieu noyé. Qu'est-ce que tu veux!?
+dlga_start:drowned_men_party_talk|Nous sommes les adeptes du dieu noyé. Qu'est-ce que tu veux!?
 dlga_drowned_men_party_talk:close_window|Ha, aujourd'hui, nous adorons le Dieu Tempête! Mourrez, l'écume ironborn!
-dlga_drowned_men_party_talk:ahogé_men_party_action|Mes hommes ont besoin du dieu noyé. Je vais faire don de 200 cerfs d'argent pour votre aide dans cette affaire.
+dlga_drowned_men_party_talk:drowned_men_party_action|Mes hommes ont besoin du dieu noyé. Je vais faire don de 200 cerfs d'argent pour votre aide dans cette affaire.
 dlga_drowned_men_party_action:drowned_men_party_talk|Nous allons faire un sacrifice en votre nom. Cela encouragera vos hommes à se battre avec fierté à vos côtés.
 dlga_drowned_men_party_talk:close_window.1|Rien, continuez.
 dlga_lord_talk:Eormenred_creditos|Hmm, votre visage semble familier. Nous sommes-nous déjà rencontrés?
 dlga_Eormenred_creditos:lord_pretalk|Sure, {playername}. Je suis Lyonel Corbray, chef de la maison Corbray.
 dlga_lord_talk:brustwarzenLenny_creditos|Hmm, votre visage semble familier. Nous sommes-nous déjà rencontrés?
-dlga_brustwarzenLenny_creditos:lord_pretalk|Sure, {playername}. Je suis Jason Mallister, chef de House Mallister.
+dlga_brustwarzenLenny_creditos:lord_pretalk|Sure, {playername}. Je suis Jason Mallister, chef de la Maison Mallister.
 dlga_lord_talk:piipe_creditos|Hmm, votre visage semble familier. Nous sommes-nous déjà rencontrés?
 dlga_piipe_creditos:lord_pretalk|Sure, {playername}. Je suis Renfred Rykker, chef de la maison Rykker.
 dlga_lord_talk:yeyo_creditos|Hmm, votre visage semble familier. Nous sommes-nous déjà rencontrés?
@@ -2160,7 +2160,7 @@ dlga_lord_start:lord_mission_told_scout_waypoints|{playername}, j'ai besoin d'un
 dlga_lord_mission_told_scout_waypoints:lord_mission_told_scout_waypoints_accepted|Vous avez votre volontaire, votre grâce.
 dlga_lord_mission_told_scout_waypoints:lord_mission_told_scout_waypoints_rejected|Je crains de devoir refuser.
 dlga_lord_mission_told_scout_waypoints_accepted:close_window|Brave {homme/jeune fille} ! Passez simplement à côté de {s13}, {s14} et {s15} et renseignez-vous sur ce qu'il s'y passe. Prenez note de tout ce que y trouverez et revenez-me voir dès que possible.
-dlga_lord_mission_told_scout_waypoints_rejecté:lord_pretalk|Hmm ... Je suis déçu, {playername}. Très déçu. Nous allons parler plus tard, je dois aller chercher quelqu'un pour nous chercher.
+dlga_lord_mission_told_scout_waypoints_rejected:lord_pretalk|Hmm ... Je suis déçu, {playername}. Très déçu. Nous allons parler plus tard, je dois aller chercher quelqu'un pour nous chercher.
 dlga_lord_generic_mission_thank:lord_generic_mission_completed|Vous nous avez été des plus utiles, {playername}. Mes remerciements.
 dlga_lord_generic_mission_completed:lord_pretalk|Ce fut un honneur de vous servir.
 dlga_lord_start:lord_pay_debt_2|Je pense que vous me devez {reg1} cerfs d'argent, {playername}. Avez-vous l'intention de régler bientôt cette dette ?
@@ -2253,11 +2253,11 @@ dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_
 dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_support_acknowledge|Je vous soutiens, {s4}
 dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_support_same_acknowledge|J'approuve votre décision, {s4}
 dlga_lord_internal_politics_plyr_choose_candidate_select:lord_pretalk|Oubliez ça
-dlga_lord_internal_politics_support_acervé:lord_pretalk|C'est très gentil de votre part, mais je ne cherche pas l'honneur, et je refuse votre soutien.
-dlga_lord_internal_politics_support_accessibilité:lord_pretalk.1|Je ne vous fais pas confiance, et je n'ai pas besoin de votre soutien.
-dlga_lord_internal_politics_support_accessibilité:lord_pretalk.2|C'est très gentil de votre part.
-dlga_lord_internal_politics_support_same_acnowledge:lord_pretalk|Vous pouvez le dire lui-même. Je ne vous fais pas confiance, et je ne participerai à aucun jeu que vous jouez.
-dlga_lord_internal_politics_support_same_accessibilité:lord_pretalk.1|Compte tenu de votre relation avec {s4}, je ne pense pas qu'il soit favorable à votre soutien.
+dlga_lord_internal_politics_support_acknowledge:lord_pretalk|C'est très gentil de votre part, mais je ne cherche pas l'honneur, et je refuse votre soutien.
+dlga_lord_internal_politics_support_acknowledge:lord_pretalk.1|Je ne vous fais pas confiance, et je n'ai pas besoin de votre soutien.
+dlga_lord_internal_politics_support_acknowledge:lord_pretalk.2|C'est très gentil de votre part.
+dlga_lord_internal_politics_support_same_acknowledge:lord_pretalk|Vous pouvez le dire lui-même. Je ne vous fais pas confiance, et je ne participerai à aucun jeu que vous jouez.
+dlga_lord_internal_politics_support_same_acknowledge:lord_pretalk.1|Compte tenu de votre relation avec {s4}, je ne pense pas qu'il soit favorable à votre soutien.
 dlga_lord_internal_politics_support_same_acknowledge:lord_pretalk.2|Je le lui dirai. Je ne doute pas qu'il vous en sera reconnaissant.
 dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_pretalk.2|Je soutiens {s4}
 dlga_lord_internal_politics_pretalk:lord_internal_politics_cur_stance_plyr_response|Ah. Très intéressant.
@@ -2333,8 +2333,8 @@ dlga_lord_recruit_3_claim:lord_pretalk|{s12}
 dlga_lord_recruit_4:lord_recruit_4_objective_conditions|Je vous demande de bien vouloir prêter serment d'allégeance au {s16}.
 dlga_lord_recruit_4:lord_pretalk|Peu importe.
 dlga_lord_recruit_4_objective_conditions:lord_recruit_5_security|Permettez-moi d'y réfléchir...
-dlga_lord_recruit_5_security:lord_recruit_5_politique|{s32}
-dlga_lord_recruit_5_politique:lord_recruit_5_ideological|{s31}
+dlga_lord_recruit_5_security:lord_recruit_5_political|{s32}
+dlga_lord_recruit_5_political:lord_recruit_5_ideological|{s31}
 dlga_lord_recruit_5_ideological:lord_recruit_5_change_sides|{s33}
 dlga_lord_recruit_5_change_sides:lord_recruit_6|{s34}
 dlga_lord_recruit_6:lord_recruit_6_reaction|L'heure est venue de prendre une décision.
@@ -2477,7 +2477,7 @@ dlga_lord_10_starting_quest4:lord_10_starting_quest5|Vous devez insister sur le 
 dlga_lord_10_starting_quest5:lord_10_starting_quest6|Il y a une autre chose que vous pouvez nous aider avec {playerername}. Nos scouts ont signalé une fougueuse fête qui se dirigeait vers le pont des crânes. Vous devez vous connecter avec notre hôte là-bas et assurez-vous qu'ils ne passent pas ce pont.
 dlga_lord_10_starting_quest6:close_window|Très bien, je pars tout de suite.
 dlga_lord_talk:lord_request_mission_ask|Avez-vous quelque tâche à me confier ?
-dlga_lord_talk:combiné_political_quests|Pensez-vous que nous pouvons travailler ensemble pour faire progresser notre position dans ce domaine?
+dlga_lord_talk:combined_political_quests|Pensez-vous que nous pouvons travailler ensemble pour faire progresser notre position dans ce domaine?
 dlga_combined_political_quests:lord_pretalk|Je ne pense pas que nous ayons des beaucoup d'intérêts communs.
 dlga_combined_political_quests:lord_pretalk.1|Hum... Peut-être devrions-nous en reparler plus tard, en privé...
 dlga_combined_political_quests:lord_pretalk.2|J'ai bien une idée, mais il faudrait pour cela qu'aucune polémique gênante ne vienne nous compliquer la tâche. Si vous attendiez quelque temps sans vous quereller avec les autres seigneurs de notre royaume, peut-être nous pourrions alors en discuter davantage.
@@ -2781,7 +2781,7 @@ dlga_lord_ask_leave_service_giveup:lord_pretalk|Je suis heureux de l'entendre, {
 dlga_lord_ask_leave_service_2:lord_ask_leave_service_verify_again|Vous en êtes certain ? Soyez conscient que si vous quittez mes services, vous allez devoir me restituer tous les fiefs que vous possédez en mon nom.
 dlga_lord_ask_leave_service_2:lord_ask_leave_service_verify_again.1|Alors vous êtes sûr? Aussi, sachez que si vous quittez mes services, vous me rendez tous les fiefs que vous détenez à mon nom.
 dlga_lord_ask_leave_service_verify_again:lord_ask_leave_service_3|Oui, je suis sur (s65).
-dlga_lord_ask_leave_service_verify_again:lord_ask_leave_service_giveup Bien sûr que non, {s65}. Je suis un frère maintenant.
+dlga_lord_ask_leave_service_verify_again:lord_ask_leave_service_giveup|Bien sûr que non, {s65}. Je suis un frère maintenant.
 dlga_lord_ask_leave_service_verify_again:lord_ask_leave_service_giveup.1|Bien sûr que non, {s65}. Je suis toujours votre vassal loyal.
 dlga_lord_ask_leave_service_3:lord_ask_leave_service_end|Puisque vous le souhaitez, par la présente, je déclare votre serment caduque. Vous ne détiendrez plus aucun domaine ou titre en mon nom et vous êtes {libéré/libérée} de vos obligations envers mon royaume. Vous êtes libre, {playername}.
 dlga_lord_ask_leave_service_3:lord_ask_leave_service_end.1|Comme vous le souhaitez. Je déclare que vos serments sont nulles et non avenus. Vous ne détenez plus de terre ou de titres à mon nom, et vous êtes libéré de vos fonctions dans ma maison. Vous êtes libre, {playername}.
@@ -2800,7 +2800,7 @@ dlga_capture_enemy_hero_thank_2:lord_pretalk.2|La prochaine fois donnez-moi un d
 dlga_lord_active_mission_2:lord_raise_troops_thank|Tout à fait, j'ai formé {reg1} {s13}, vous pouvez les prendre.
 dlga_lord_raise_troops_thank:lord_raise_troops_thank_2|Ces hommes changeront peut-être le cours des événements, {playername}. Je suis sûr que vous les avez bien entraînés. Je vous adresse mes remerciements et mes compliments.
 dlga_lord_raise_troops_thank_2:lord_pretalk|Bien, les gars sont sous votre commandement à présent, messire. Il ne fait aucun doute que vous vous en occuperez bien.
-dlga_lord_active_mission_2:lord_collect_taxes_success Voici toutes les taxes de {s3}. Il appartient à {reg19} cers en argent.
+dlga_lord_active_mission_2:lord_collect_taxes_success|Voici toutes les taxes de {s3}. Cela équivaut à {reg19} cerfs d'argent.
 dlga_lord_active_mission_2:lord_collect_taxes_half_success|Voici tous les impôts provenant de {s3}. J'ai collecté {reg19} cerfs d'argent en tout.
 dlga_lord_active_mission_2:lord_collect_taxes_fail|Malheureusement, une révolte a éclaté pendant que je collectais les impôts. Je n'ai pu collecter que {reg19} cerfs d'argent.
 dlga_lord_collect_taxes_success:lord_pretalk|Excellent, {playername}, vraiment excellent ! Vous étiez véritablement {l'homme/la personne} de la situation. Je vous ai promis le cinquième de la somme totale des impôts, ce qui s'élève à {reg21} cerfs d'argent. Si vous me donnez {reg20} cerfs d'argent, vous pourrez gardez le reste. Chacun y trouve son compte, n'est-ce-pas ?
@@ -2872,7 +2872,7 @@ dlga_lord_mission_deliver_message:lord_mission_deliver_message_accepted|Bien sû
 dlga_lord_mission_deliver_message:lord_mission_deliver_message_rejected|Je doute de rencontrer {s13} avant longtemps, {s65}, vous feriez mieux de trouver quelqu'un d'autre.
 dlga_lord_mission_deliver_message:lord_mission_deliver_message_rejected_rudely|Je ne suis pas garçon de course, messire. Recrutez un coursier pour qu'il s'occupe de vos bagatelles.
 dlga_lord_mission_deliver_message_accepted:close_window|J'apprécie votre geste, {playername}. Voici la lettre et une petite somme d'argent pour couvrir les dépenses de votre voyage. Transmettez mes amitiés à {s13} lorsque vous lui rendrez visite.
-dlga_lord_mission_deliver_message_rejecté:lord_pretalk|Ah, d'accord. Eh bien, je suis sûr que je trouverai quelqu'un d'autre.
+dlga_lord_mission_deliver_message_rejected:lord_pretalk|Ah, d'accord. Eh bien, je suis sûr que je trouverai quelqu'un d'autre.
 dlga_lord_mission_deliver_message_rejected_rudely:lord_mission_deliver_message_rejected_rudely_2|Hum, est-ce ainsi que vous réagissez lorsqu'on vous demande poliment une petite faveur ? Quelle attitude déplorable, {playername}. Je ne pensais pas vous offusquer.
 dlga_lord_mission_deliver_message_rejected_rudely_2:lord_mission_deliver_message_rejected_rudely_3|Donc à l'avenir vous en tiendrez compte.
 dlga_lord_mission_deliver_message_rejected_rudely_2:lord_mission_deliver_message_accepted|Pardonnez mon impulsivité, {s65}. J'apporterai votre lettre.
@@ -2883,7 +2883,7 @@ dlga_lord_tell_mission:lord_mission_deal_with_bandits_told|Un groupe de bandits 
 dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_accepted|Ne vous inquiétez pas, je vais me rendre à {s1} et vous débarrasser de cette engeance.
 dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_rejected|Vous devrez trouver de l'aide ailleurs, je suis trop occupé.
 dlga_lord_mission_deal_with_bandits_accepted:close_window|Vous feriez ça ? Sachez que je vous en serais très reconnaissant. Voici un peu d'argent pour couvrir les dépenses de votre campagne. Faites un exemple de ces {s43}s.
-dlga_lord_mission_deal_with_bandits_rejecté:lord_pretalk|Ah ... Très bien, oubliez, je l'ai abordé.
+dlga_lord_mission_deal_with_bandits_rejected:lord_pretalk|Ah ... Très bien, oubliez, je l'ai abordé.
 dlga_lord_tell_mission:lord_tell_mission_raise_troops|Aucun seigneur ne devrait avoir à admettre cela {playername}, mais l'autre jour j'examinais mes soldats et certains d'entre eux ne savaient pas par quel bout tenir une épée. {s43} Vous êtes un guerrier de renom, {playername}, entraîneriez-vous certains soldats pour moi ? Je vous en serais très reconnaissant.
 dlga_lord_tell_mission_raise_troops:lord_tell_mission_raise_troops_2|De combien d'hommes avez-vous besoin ?
 dlga_lord_tell_mission_raise_troops_2:lord_mission_raise_troops_told|Si vous pouvez former {reg1} {s14} et me les amener, cela suffira probablement.
@@ -2895,7 +2895,7 @@ dlga_lord_tell_mission:lord_mission_collect_taxes_told|Vous savez probablement q
 dlga_lord_mission_collect_taxes_told:lord_mission_collect_taxes_accepted|Une offre équitable, {s65}. Marché conclu.
 dlga_lord_mission_collect_taxes_told:lord_mission_collect_taxes_rejected|Pardonnez-moi, je n'ai pas le temps.
 dlga_lord_mission_collect_taxes_accepted:close_window|C'est une bonne nouvelle, {playername}. Je vous confie cette affaire, mais souvenez-vous que ces {reg9?habitants:paysans} sont rusés comme des renards, ils utiliseront n'importe quel prétexte pour ne pas payer les revenus qui me sont dûs. Ne vous laissez pas avoir.
-dlga_lord_mission_collect_taxes_rejecté:lord_pretalk|Oh, oui. Eh bien, bonne chance à vous alors.
+dlga_lord_mission_collect_taxes_rejected:lord_pretalk|Oh, oui. Eh bien, bonne chance à vous alors.
 dlga_lord_tell_mission:lord_mission_hunt_down_fugitive_told|Il y a une chose pour laquelle vous pourriez m'être utile. Un problème avec ce scélérat sans scrupule appelé {s4}. Il a assassiné un de mes hommes et depuis il est en cavale, échappant à son jugement. Je ne peux pas le laisser échapper à la justice, j'ai donc mis sa tête à prix pour 300 cerfs d'argent. Les amis de l'homme assassiné croient qu'il pourrait avoir trouvé refuge avec ses compères à {s3}. Peut-être pourriez-vous le pourchasser et lui donner ce qu'il mérite, et ainsi prétendre à la prime.
 dlga_lord_mission_hunt_down_fugitive_told:lord_mission_hunt_down_fugitive_accepted|Alors je le pourchasserai et je ferai appliquer la loi.
 dlga_lord_mission_hunt_down_fugitive_told:lord_mission_hunt_down_fugitive_rejected|Pour l'instant je suis trop occupé pour partir à sa recherche.
@@ -2959,7 +2959,7 @@ dlga_lord_tell_mission_collect_debt_rejected:lord_pretalk|Peut-être que non, {p
 dlga_lord_tell_mission:lord_tell_mission_incriminate_commander|Je vous le dis, cet imbécile pleurnichard de {s13} n'est pas capable de diriger le {s14}. Dieu sait qu'il serait privé de ces terres en un instant si un de ses fidèles vassaux, {s15}, n'était pas là. Aussi longtemps qu'il aura son vassal pour l'aider, il sera difficile de le battre. Je dois donc pousser {s15} hors du paysage, et j'ai justement un plan pour y parvenir... Avec votre aide, bien sûr.
 dlga_lord_tell_mission_incriminate_commander:lord_tell_mission_incriminate_commander_2|{s66}, je suis tout ouïe.
 dlga_lord_tell_mission_incriminate_commander:lord_tell_mission_incriminate_commander_rejected|Je ne veux pas m'impliquer dans une action déshonorante à l'encontre de {s15}.
-dlga_lord_tell_mission_incriminate_commander_rejecté:lord_pretalk|Déshumidificateur? Bah! J'espérais pouvoir compter sur vous, {playerername}, mais vous m'avez montré quel imbécile j'étais. Je devrais trouver quelqu'un dont je respecte la fidélité.
+dlga_lord_tell_mission_incriminate_commander_rejected:lord_pretalk|Déshumidificateur? Bah! J'espérais pouvoir compter sur vous, {playerername}, mais vous m'avez montré quel imbécile j'étais. Je devrais trouver quelqu'un dont je respecte la fidélité.
 dlga_lord_tell_mission_incriminate_commander_2:lord_tell_mission_incriminate_commander_3|J'ai écrit une lettre contrefaite à {s15}, portant mon propre sceau, qui l'implique dans une conspiration avec nous pour tenter un coup d'état en ma faveur dans {s14}. Si nous parvenons à faire croire à {s13} que cette lettre est authentique, il s'occupera de {s15} très rapidement. Bien sûr, le défi est de convaincre {s13} que la lettre est authentique...
 dlga_lord_tell_mission_incriminate_commander_3:lord_tell_mission_incriminate_commander_4|Poursuivez, {s65}...
 dlga_lord_tell_mission_incriminate_commander_3:lord_tell_mission_incriminate_commander_rejected|Non, je ne souillerai pas mon honneur dans cette affaire déshonorante.
@@ -3008,7 +3008,7 @@ dlga_spouse_talk:spouse_cancel_political_quest|Abandonnons notre plan pour {s10}
 dlga_spouse_cancel_political_quest:spouse_cancel_political_quest_confirm|Êtes-vous sûr de vouloir abandonner cette idée ?
 dlga_spouse_cancel_political_quest_confirm:spouse_pretalk|Oui j'en suis sûr, abandonnons cette idée.
 dlga_spouse_cancel_political_quest_confirm:spouse_pretalk.1|Non, pas maintenant
-dlga_spouse_talk:combination_political_quests|Imaginons un moyen d'améliorer notre position dans ce domaine
+dlga_spouse_talk:combined_political_quests|Imaginons un moyen d'améliorer notre position dans ce domaine
 dlga_spouse_talk:spouse_organize_feast|Je me disais qu'on pourrait peut-être organiser un banquet.
 dlga_spouse_talk:spouse_household_possessions|Dressons l'inventaire de tout ce que nous possédons.
 dlga_spouse_household_possessions:spouse_pretalk|Quoi qu'il en soit, c'est le contenu de notre garde-manger.
@@ -3043,7 +3043,7 @@ dlga_spouse_spree44:spouse_spree4a|{s67}, profitez simplement du cadeau et ne me
 dlga_spouse_spree44:spouse_spree4b|Oui. {S67}, vous êtes un fardeau pour ma cour.
 dlga_spouse_spree4a:close_window|Très bien {playername}. Je vais mettre cela au bon usage.
 dlga_spouse_spree4b:close_window|Pah! Quelle âne, vous êtes {playername}, ^ prenez votre cadeau et faites-le!
-dlga_spouse_talk:copine de conjoint|Mon cher, peut-être que nous devrions faire notre chemin dans nos chambres de lit. J'ai une surprise un peu raide pour vous.
+dlga_spouse_talk:spouse_mate|Mon cher, peut-être que nous devrions faire notre chemin dans nos chambres de lit. J'ai une surprise un peu raide pour vous.
 dlga_spouse_mate:close_window|{playername} arrête, tu me fais rougir!
 dlga_spouse_mate:close_window.1|Comme vous le souhaitez, mon amour
 dlga_spouse_mate:close_window.2|S'il n'y a pas d'alternative [mari / femme}.
@@ -3086,7 +3086,7 @@ dlga_lady_captive_confirm:close_window|Excusez-moi, vous avez dû mal me compren
 dlga_lady_captive_confirm:close_window.1|Contactez votre famille pour la rançon, madame.
 dlga_kingdom_lady_captive:close_window|Eh bien, écrivez à votre famille et dites-lui de se dépêcher pour la rançon !
 dlga_kingdom_lady_captive:close_window.1|J'ai changé d'avis... Vous pouvez partir.
-dlga_start:close_window.65|Eh bien, {playername} - vous avez combattu un duel avec {s10} et perdu. Selon notre coutume et notre tradition, je ne devrais plus vous recevoir. Adieu, {nom de l'utilisateur}.
+dlga_start:close_window.65|Eh bien, {playername} - vous avez combattu un duel avec {s10} et perdu. Selon notre coutume et notre tradition, je ne devrais plus vous recevoir. Adieu, {playername}.
 dlga_start:lady_duel_lost|Oh, {playername} ! J'ai entendu parler de votre duel avec le {s10}. J'aurais préféré que cela ne soit jamais arrivé car, comme le veulent nos us et coutumes, en cas de défaite, vous ne pouvez plus me courtiser. Adieu, {playername}.
 dlga_lady_duel_lost:close_window|Très bien, nous devons nous plier à nos us et coutumes. Adieu madame.
 dlga_lady_duel_lost:lady_duel_lost_flaunt_conventions|Longue vie à nos us et coutumes !
@@ -3106,7 +3106,7 @@ dlga_lady_qst_duel_for_lady_failed:lady_qst_duel_for_lady_failed_2|J'implore vot
 dlga_lady_qst_duel_for_lady_failed_2:lady_pretalk|Cela a peu d'importance, {playername}, vous avez essayé. La vérité ne peut être révélée à la pointe de l'épée, mais vous n'avez pas hésité à mettre votre vie en danger pour mon honneur. Cela suffira à convaincre bon nombre de personnes de mon innocence.
 dlga_start:lady_start.2|Ah {playername} ! Vous avez dû recevoir mon message. Quel bonheur que vous ayez pu venir !
 dlga_start:lady_proposal_pending|{playername}, avez-vous des nouvelles de ma famille ?
-dlga_start:lady_betriohed|J'ai entendu dire que mon {s11} a refusé votre demande de me marier avec moi. Cela signifie-t-il que nous devons nous séparer?
+dlga_start:lady_betrothed|J'ai entendu dire que mon {s11} a refusé votre demande de me marier avec moi. Cela signifie-t-il que nous devons nous séparer?
 dlga_start:lady_generic_mission_succeeded|Oh, {playername}, vous me l'avez ramené ! Merci beaucoup d'avoir sauvé mon {s11}. Acceptez cette petite compensation pour votre acte si noble.
 dlga_start:rescue_prisoner_succeed_1|Oh, {playername}, vous me l'avez ramené ! Merci infiniment d'avoir secouru mon {s11}. Acceptez ceci en guise de récompense pour votre noble exploit.
 dlga_rescue_prisoner_succeed_1:lady_pretalk|Toujours un honneur de vous servir, {s65}.
@@ -3117,7 +3117,7 @@ dlga_start:close_window.66|Ah, {playername}. Comme il est bon de vous revoir. Ce
 dlga_start:lady_start.3|{playername}, quel plaisir de vous voir ! (Soupir) Je me souviens avec bonheur de vos visites.
 dlga_start:lady_meet_end.2|Ah, {playername} ! Quel plaisir de vous avoir vu vous distinguer lors du récent tournoi !
 dlga_start:lady_start.4|{s12}
-dlga_lady_start:lady_betriohed|J'ai de belles nouvelles. Je suis devenu fiancé à {s5} - contre ma volonté, je dirais! Oh {playername} - Je serais tellement marié à toi!
+dlga_lady_start:lady_betrothed|J'ai de belles nouvelles. Je suis devenu fiancé à {s5} - contre ma volonté, je dirais! Oh {playername} - Je serais tellement marié à toi!
 dlga_lady_start:lady_betrothed.1|Bien, {playername}... J'ai été fiancée au {s5}. Il n'est plus convenable que nous continuions à nous voir.
 dlga_lady_start:lady_other_suitor|Je me faut vous dire : un autre seigneur s'intéresse à moi, bien que je ne puisse pas le sentir. J'ai peur qu'il n'ait des projets pour nous deux et qu'il me force à l'épouser contre mon gré.
 dlga_lady_start:lady_talk|{s11}Il n'est sans doute pas convenable que nous poursuivions cette conversation bien longtemps, mais j'espère vous revoir très vite.
@@ -3128,7 +3128,7 @@ dlga_lady_start:lady_talk.4|Qu'est-ce qui vous amène ici, aujourd'hui ?
 dlga_lady_proposal_pending:close_window|Toujours pas un mot...
 dlga_lady_proposal_pending:lady_proposal_pending_end|À la réflexion, ce n'est pas le bon moment pour nous marier.
 dlga_lady_proposal_pending_end:close_window|{s11}
-dlga_lady_betriohed:lady_suggest_elope|Jamais! Nous devons nous attaquer ensemble à la fois!
+dlga_lady_betrothed:lady_suggest_elope|Jamais! Nous devons nous attaquer ensemble à la fois!
 dlga_lady_betrothed:lady_pretalk|Peut-être puis-je encore vous faire changer d'avis sur {s11}.
 dlga_lady_betrothed:lady_conclude_relationship|Qu'il en soit ainsi... Séparons-nous, alors.
 dlga_lady_suggest_elope:lady_conclude_relationship|Mon bon {playername}... Vous êtes quelqu'un de bien, mais une dame ne peut pas défier sa famille. Ces choses ne se font pas !
@@ -3145,7 +3145,7 @@ dlga_lady_elope_agree_lady_vows:lady_elope_agree_nurse_2|Oui, je veux bien. En c
 dlga_lady_elope_agree_nurse_2:lady_elope_agree_player_vows|Très bien. Jurez-vous, {playername}, vous aussi, d'accepter {s4} pour épouse ?
 dlga_lady_elope_agree_player_vows:close_window|Je le jure.
 dlga_lady_elope_agree_player_vows:close_window.1|Je ne sais... Tout cela va trop vite...
-dlga_lady_elope_agree:lady_conclude_relationship Oh, vraiment? Mon cher, je ne pourrais jamais séparer une dame de sa famille comme ça ...
+dlga_lady_elope_agree:lady_conclude_relationship|Oh, vraiment? Mon cher, je ne pourrais jamais séparer une dame de sa famille comme ça ...
 dlga_lady_conclude_relationship:lady_conclude_relationship_confirm|Alors, je suppose que c'est la fin de notre histoire...
 dlga_lady_conclude_relationship_confirm:lady_conclude_relationship_confirm_yes|Oui, en effet...
 dlga_lady_conclude_relationship_confirm:lady_conclude_relationship_confirm_no|Attendez, nous avons peut-être encore une chance !
@@ -3195,14 +3195,14 @@ dlga_lady_marriage_discussion:lady_other_suitor|Messire, comme vous le savez peu
 dlga_lady_marriage_discussion:lady_proposal_refused|Messire... Je suis ravie d'apprendre que vous pensez sérieusement à l'avenir. Cependant j'aimerais vous voir prendre une place plus importante avant de m'engager à vous épouser.
 dlga_lady_marriage_discussion:lady_proposal_refused.1|Je suis ravie de constater que vos intentions sont honorables. Mais je suis bien décidée à épouser un homme d'une grande moralité. Et j'aimerais que vous fassiez davantage vos preuves dans ce domaine.
 dlga_lady_marriage_discussion:lady_proposal_refused.2|Je suis ravie de constater que vos intentions à mon égard sont honorables. Mais peut-être devrions nous prendre le temps de laisser nos sentiments réciproques prendre de l'ampleur avant de prendre une telle décision.
-dlga_lady_marriage_discussion:lady_betrioted|Oh {playername}, quelle heureuse me ferait! Mais mon {s11} {s4} ne le permettrait jamais ... Peut-être est-il préférable que nous nous séparions ...
+dlga_lady_marriage_discussion:lady_betrothed|Oh {playername}, quelle heureuse me ferait! Mais mon {s11} {s4} ne le permettrait jamais ... Peut-être est-il préférable que nous nous séparions ...
 dlga_lady_marriage_discussion:close_window|Oh {playername}, comme j'en serais heureuse ! Allez demander l'autorisation à mon {s11} le {s4} !
 dlga_lady_proposal_refused:lady_proposal_refused_persuade_check|Peut-être puis-je vous persuader de ne pas retarder davantage.
 dlga_lady_proposal_refused_persuade_check:lady_proposal_refused_persuade_player_response|Qu'avez-vous à dire ?
 dlga_lady_proposal_refused_persuade_player_response:lady_proposal_refused_persuade_result|L'amour est une rose, ma Dame. Il a certes des épines, mais finit par se flétrir si on ne s'en occupe pas.
 dlga_lady_proposal_refused_persuade_player_response:lady_pretalk|Oh jamais de la vie.
 dlga_lady_proposal_refused_persuade_result:close_window|Assez, monsieur ! Je ne suis pas pressée de me marier, avec vous ou avec quelqu'un d'autre d'ailleurs ! Je suis très fâchée, laissez-moi tranquille pendant un moment. Je vous ferai savoir quand je serai à nouveau prête à vous parler.
-dlga_lady_proposal_refused_persuade_result:lady_betriohed|Oh {playername}, je ne pourrais jamais permettre que cela se produise! Oh, si seulement nous pouvions être mariés! Mais mon {s11} {s4} ne donnerait jamais sa permission ... Peut-être est-il préférable que nous nous séparions ...
+dlga_lady_proposal_refused_persuade_result:lady_betrothed|Oh {playername}, je ne pourrais jamais permettre que cela se produise! Oh, si seulement nous pouvions être mariés! Mais mon {s11} {s4} ne donnerait jamais sa permission ... Peut-être est-il préférable que nous nous séparions ...
 dlga_lady_proposal_refused_persuade_result:close_window.1|Oh {playername}, je ne pourrais jamais laisser cela se produire ! Aller demander à mon {s11} sa permission de nous marier !
 dlga_lady_proposal_refused:close_window|Parfait... Je vais tout mettre en œuvre pour me montrer digne de votre estime !
 dlga_lady_proposal_refused:lady_player_threatens_compel|J'en ai assez de ces petits jeux ! Je vais, sans plus tarder, aller discuter avec votre famille de l'organisation d'un mariage très bientôt.
@@ -3254,7 +3254,7 @@ dlga_lady_restore_relation_6:lady_pretalk|Merci pour votre aide, madame.
 dlga_lady_restore_relation_cant_afford:lady_pretalk|Dans ce cas, je crains de ne pas vous être d'une grande utilité, {playername}. Je suis désolée.
 dlga_lady_talk:lady_leave|Permettez-moi de prendre congé.
 dlga_lady_leave:close_window|{s12}
-dlga_convince_begin:convence_options|Je ne vois toujours pas pourquoi je devrais accepter ce que vous me demandez.
+dlga_convince_begin:convince_options|Je ne vois toujours pas pourquoi je devrais accepter ce que vous me demandez.
 dlga_convince_options:convince_bribe|Je ferai en sorte que vous ne le regrettiez pas. ({reg8} cerfs d'argent)
 dlga_convince_options:convince_friendship|S'il vous plaît, faites cela au nom de notre amitié. (-{reg9} en relation)
 dlga_convince_options:convince_persuade_begin|Permettez-moi d'essayer de vous convaincre. (Persuasion)
@@ -3278,7 +3278,7 @@ dlga_convince_persuade_begin:lord_pretalk|Par la grâce de Dieu, {playername} ! 
 dlga_convince_persuade:convince_accept|Très bien, très bien, vous m'avez convaincu. J'accède à votre requête.
 dlga_convince_persuade:convince_options|Vous avez raison sur ce point, {playername}, je vous l'accorde. Cependant il en faudra davantage pour que je sois convaincu de devoir faire ce que vous me proposez.
 dlga_convince_persuade:convince_options.1|Il suffit, {playername}. Vous avez beaucoup d'arguments, mais aucun d'entre eux ne m'a réellement convaincu. Je m'en tiens à ma décision.
-dlga_convince_persuade:convence_options.2|Vraiment, {playername}, je ne vois pas la vertu de votre raisonnement. Ce que vous demandez, cela n'a plus de sens maintenant qu'il l'a fait auparavant.
+dlga_convince_persuade:convince_options.2|Vraiment, {playername}, je ne vois pas la vertu de votre raisonnement. Ce que vous demandez, cela n'a plus de sens maintenant qu'il l'a fait auparavant.
 dlga_start:siege_won_seneschal_1|Je dois vous féliciter de votre victoire, {messire/madame}. Bienvenue à {s1}. Nous, les serviteurs de ce château, sommes à votre service.
 dlga_siege_won_seneschal_1:siege_won_seneschal_2|Êtes-vous le sénéchal ?
 dlga_siege_won_seneschal_2:siege_won_seneschal_3|En effet, c'est moi, {messire/madame}. J'ai toujours servi les maîtres de {s1} de mon mieux, et ce quel que soit leur camp. De ce fait, vous pourrez compter sur ma plus grande loyauté aussi longtemps que vous serez {le seigneur/la dame} de ces lieux. Alors, avez-vous l'intention de me garder en tant que sénéchal ? Vous ne serez pas déçu, je vous le promets.
@@ -3335,14 +3335,14 @@ dlga_merchant_talk_offer_goods:merchant_pretalk|Hmm.  Nous ne prenons pas normal
 dlga_merchant_talk_offer_2:merchant_pretalk|Rien, oubliez cela.
 dlga_merchant_talk:merchant_bandit_information|Je traque un groupe de bandits répondant à la description suivante... Les auriez-vous vus ?
 dlga_merchant_bandit_information:merchant_pretalk|{s15}
-dlga_merchant_talk:mercant_trip_explanation|Parlez-moi de votre voyage
+dlga_merchant_talk:merchant_trip_explanation|Parlez-moi de votre voyage
 dlga_merchant_trip_explanation:merchant_pretalk|Nous venons de {s11} et nous dirigeons vers {s12}.{s14}
 dlga_merchant_talk:merchant_demand|J'ai quelque chose à vous demander !
 dlga_merchant_demand:merchant_demand_2|Que voulez-vous ?
 dlga_merchant_demand_2:merchant_demand_toll|Il faut payer pour passer librement ici !
 dlga_merchant_demand_toll:merchant_demand_toll_2|Je vous en prie, je ne veux pas d'ennuis. Je peux vous donner {reg6} cerfs d'argent, et laissez-nous partir.
 dlga_merchant_demand_toll:merchant_demand_toll_2.1|Je ne veux aucun problème. Je peux vous donner {reg6} cerfs d'argent si vous nous laissez partir.
-dlga_merchant_demand_toll_2:mercant_demand_toll_accept|D'accord, la remettre et vous pouvez aller en paix.
+dlga_merchant_demand_toll_2:merchant_demand_toll_accept|D'accord, la remettre et vous pouvez aller en paix.
 dlga_merchant_demand_toll_accept:close_window|Très bien. Voici {reg6} cerfs d'argent.
 dlga_merchant_demand_toll_2:merchant_pretalk|J'ai changé d'avis, je ne veux pas de votre argent.
 dlga_merchant_demand_toll_2:merchant_attack|Non, je veux tout ce que vous possédez ! [Attaquer]
@@ -3556,8 +3556,8 @@ dlga_start:runaway_serf_talk_again_return|Nous sommes sur le chemin du retour po
 dlga_runaway_serf_talk_again_return:runaway_serf_talk_again_return_2|Dépêchez-vous maintenant. Plus vite vous arriverez, mieux cela vaudra pour vous.
 dlga_runaway_serf_talk_again_return:runaway_serf_talk_again_return_2.1|Bien. Alors continuez.
 dlga_runaway_serf_talk_again_return_2:close_window|Oui {monsieur/madame}, comme vous voudrez.
-dlga_start:problemome_bandits_intro_1|Ce doit être votre journée malheureuse, mon ami. Nous sommes à peu près les pires personnes dans lesquelles vous pourriez rencontrer, dans ces parties.
-dlga_troublesome_bandits_intro_1:problemome_bandits_intro_2|Heh. Pour moi, vous n'êtes que des sacs d'argent. Un marchand dans {s1} m'a offert de l'argent pour vos têtes.
+dlga_start:troublesome_bandits_intro_1|Ce doit être votre journée malheureuse, mon ami. Nous sommes à peu près les pires personnes dans lesquelles vous pourriez rencontrer, dans ces parties.
+dlga_troublesome_bandits_intro_1:troublesome_bandits_intro_2|Heh. Pour moi, vous n'êtes que des sacs d'argent. Un marchand dans {s1} m'a offert de l'argent pour vos têtes.
 dlga_troublesome_bandits_intro_2:close_window|Un chasseur de primes ! {Tuez-le/Tuez-la} ! {Tuez-le/tuez-la} tout de suite !
 dlga_start:deserter_paid_talk|Que voulez-vous ? Nous donner un peu plus d'argent ?
 dlga_deserter_paid_talk:deserter_paid_talk_2a|Désolé de vous avoir dérangés. Je vais poursuivre ma route.
@@ -3751,10 +3751,10 @@ dlga_start:tavern_traveler_answer|Salutations, on m'a dit que vous étiez le gen
 dlga_tavern_traveler_answer:tavern_traveler_continue|Tenez, vos 100 cerfs d'argent. Dites-moi ce que vous savez.
 dlga_tavern_traveler_answer:close_window|Désolé l'ami, mais cela ne m'intéresse pas.
 dlga_tavern_traveler_continue:close_window|Voilà, c'est tout ce que je peux vous dire. Au revoir.
-dlga_start:bookeller_talk|Bonne journée {ser / madam}, vais-tu regarder mes livres?
-dlga_bookseller_talk:bookeller_buy|Oui. Montrez-moi ce que vous avez à vendre.
+dlga_start:bookseller_talk|Bonne journée {ser / madam}, vais-tu regarder mes livres?
+dlga_bookseller_talk:bookseller_buy|Oui. Montrez-moi ce que vous avez à vendre.
 dlga_bookseller_buy:book_trade_completed|mais certainement, {monsieur/madame}.
-dlga_book_trade_completed:bookeller_talk|Autre chose?
+dlga_book_trade_completed:bookseller_talk|Autre chose?
 dlga_bookseller_talk:close_window|Non merci.
 dlga_start:qohor_buy|Bonjour {ser / madam}. Peut-être voudriez-vous acheter l'un des meilleurs morceaux d'acier dans tous les royaumes?
 dlga_qohor_buy:close_window|Bien sûr, permettez-moi de voir ce que vous avez.
@@ -3812,7 +3812,7 @@ dlga_minstrel_courtship_poem_teach_4:minstrel_courtship_poem_teach_reject|Peuh !
 dlga_minstrel_courtship_poem_teach_reject:minstrel_pretalk|Si le poème n'est pas à votre goût, alors gardez votre argent. Mais souvenez-vous qu'avec les poètes et les amoureux, l'important n'est pas ce qui vous plaît. L'important est ce qui plaît à qui vous écoute. Si vous voulez apprendre le poème, je suis toujours disposé à m'en charger.
 dlga_minstrel_learn_poem_continue:close_window|Très bien... Mais il y a de nombreuses strophes à suivre. Bon, écoutez bien...
 dlga_minstrel_1:minstrel_gossip|Pouvez-vous me parler des bons partis de ce royaume ?
-dlga_minstrel_gossip:minstrel_gossip_select À propos de qui désirez-vous savoir?
+dlga_minstrel_gossip:minstrel_gossip_select|À propos de qui désirez-vous savoir?
 dlga_minstrel_gossip_select:minstrel_gossip_maiden_selected_2|Parlez-moi juste des derniers commérages.
 dlga_minstrel_gossip_select:minstrel_gossip_maiden_selected|{s10}
 dlga_minstrel_gossip_select:minstrel_pretalk|Peu importe.
@@ -4136,12 +4136,12 @@ dlga_master_craftsman_liquidation:close_window|Comme vous voulez. Ce fut un honn
 dlga_master_craftsman_talk:close_window.1|C'est tout pour le moment.
 dlga_start:bardo_talk|Bonne veille, {mon seigneur / ma dame}. Je suis le Kingdom Bard. Je peux vous réciter un poème ou je peux créer des chansons et des poèmes sur votre honneur et votre valeur.
 dlga_bardo_pretalk:bardo_talk|Mon art et ma compétence ne vous décevront pas, mon seigneur. De quoi d'autres avez-vous besoin?
-dlga_bardo_talk:bardo_sing|Je veux que tu chantes à propos de moi. Je dois être connu et célèbre.
-dlga_bardo_sing:bardo_sing2|Le seigneur, j'écrirai un poème si épique que tout le monde connu connaîtra la grandeur de {nom de l'utilisateur}, il saute de joie. Enfin, il s'arrête et respire profondément. Cependant, je vais demander une petite somme pour couvrir le coût des encres et ... d'autres choses. J'aurai besoin de 700 pièces.
-dlga_bardo_sing2:bardo_pretalk|Prenez l'argent, ce n'est rien pour un homme de ma taille.
+dlga_bardo_talk:bardo_sing|Je veux que vous chantiez à propos de moi. Je dois être connu et célèbre.
+dlga_bardo_sing:bardo_sing2|Le seigneur, j'écrirai un poème si épique que tout le monde connu connaîtra la grandeur de {playername} - il saute de joie. Enfin, il s'arrête et respire profondément - Cependant, je vais demander une petite somme pour couvrir le coût des encres et ... d'autres choses. J'aurai besoin de 700 pièces.
+dlga_bardo_sing2:bardo_pretalk|Prenez l'argent, ce n'est rien pour un homme de mon importance.
 dlga_bardo_sing2:close_window|Vous demandez le même prix qu'une putain, et sans doute je serais plus heureux avec son service! Non, merci.
 dlga_bardo_talk:bardo_cancion|Peux-tu jouer quelque chose pour moi et mes hommes?
-dlga_bardo_talk:close_window|Un bard? Chansons? (Vous tournez le dos à lui) Pourquoi ne sortez-vous pas et ne gagnez pas votre pain comme le reste d'entre nous? Je te fais mes adieux.
+dlga_bardo_talk:close_window|Un barde? Chansons? (Vous tournez le dos à lui) Pourquoi ne sortez-vous pas et ne gagnez pas votre pain comme le reste d'entre nous? Je vous fais mes adieux.
 dlga_bardo_cancion:bardo_cancion2|Cela vous coûtera 100 pièces, je peux jouer ...
 dlga_bardo_cancion2:close_window|Rains of Castamere
 dlga_bardo_cancion2:close_window.1|Cantiga 9
@@ -4149,7 +4149,7 @@ dlga_bardo_cancion2:close_window.2|Cantiga 105
 dlga_bardo_cancion2:bardo_pretalk|Je veux vous demander autre chose.
 dlga_bardo_talk:bardo_treasures|J'aimerais connaître les «Trésors du monde connu».
 dlga_bardo_treasures:bardo_pretalk|Je sais très peu, mais j'ai entendu dire qu'ils avaient tous été perdus dans les temps d'Aegon. Cependant, il y a un voyageur que vous pouvez trouver dans les tavernes, qui prétend savoir où ils se trouvent. Il s'appelle Conchobor.
-dlga_bardo_talk:bardo_mystery|Owain? Ce nom est Qohoric, non?
+dlga_bardo_talk:bardo_mystery|Owain? Ce nom vient de Qohor, non?
 dlga_bardo_mystery:bardo_pretalk|Oh, oui, je suis de Qohor. J'avais l'habitude de voyager, c'est ainsi que j'ai appris mes compétences en barde. Maintenant, je souhaite partager ma musique et essayer d'apporter du bonheur à ce monde.
 dlga_bardo_talk:bardo_bt8|Owain. Savez-vous quelque chose de trésor?
 dlga_bardo_bt8:close_window|Pensez-vous que si j'avais les trésors, je serais ici pour servir un autre roi? Non... Adieu.
@@ -4162,7 +4162,7 @@ dlga_sacerdote_angry:close_window|Par les sept enfers, {playername}. Vous parlez
 dlga_sacerdote_talk:sacerdote_ayuda|Je suis un membre de The Seven, votre sainteté; vous inclinez votre tête en respect, et je dois réparer mes péchés passés.
 dlga_sacerdote_talk:sacerdote_ayuda.1|Je ne suis pas membre de The Seven, mais je souhaite me convertir.
 dlga_sacerdote_talk:close_window|Je n'ai pas besoin d'un {homme / femme} de Dieu en ce moment.
-dlga_sacerdote_ayuda:priestote_ayuda2|Venez, mon enfant - il sourit, heureux -, notre Dieu est celui du pardon et de l'acceptation, non de la vengeance et de la haine. Je suis là pour vous aider {playerername}, mais vous devez également aider le Septry en nature. Je peux prier pour votre âme, mais vous devez faire don de 300 cerfs d'argent - il place ses mains sur vos épaules - Je peux aussi prêcher en votre nom, {nom de l'utilisateur}, et laisser tout le pays connaître votre Foi aux Sept et sa pureté Et la sainteté. Mais vous devez financer mes voyages à travers le pays, cela vous coûtera 1000 cerfs d'argent.
+dlga_sacerdote_ayuda:sacerdote_ayuda2|Venez, mon enfant - il sourit, heureux -, notre Dieu est celui du pardon et de l'acceptation, non de la vengeance et de la haine. Je suis là pour vous aider {playerername}, mais vous devez également aider le Septry en nature. Je peux prier pour votre âme, mais vous devez faire don de 300 cerfs d'argent - il place ses mains sur vos épaules - Je peux aussi prêcher en votre nom, {playername}, et laisser tout le pays connaître votre Foi aux Sept et sa pureté Et la sainteté. Mais vous devez financer mes voyages à travers le pays, cela vous coûtera 1000 cerfs d'argent.
 dlga_sacerdote_ayuda2:sacerdote_sins|Louez les sept, et soyez-nous purifiés de nos péchés. Je donnerai 300 pièces de monnaie.
 dlga_sacerdote_sins:sacerdote_pretalk|Le visage du père est sévère et fort, il s'assied et juge le juste du faux. Il pèse nos vies, court et long, et aime les petits enfants .....
 dlga_sacerdote_ayuda2:sacerdote_pretalk|Je vous remercie Septon, je veux que cette terre m'aime. Je vous donnerai 1000 pièces.
@@ -4191,12 +4191,12 @@ dlga_rhllor_talk:close_window|Je n'ai pas besoin du dieu rouge en ce moment.
 dlga_rhllor_ayuda:rhllor_ayuda2|Bien, le Seigneur sera ravi.Mais vous devez également nous aider. Les gens doivent connaître R'hllor. Vous devez faire don de 300 cerfs d'argent. De cette façon, je peux répandre partout comment Dieu de flamme et d'ombre est vraiment favorisé.Mais je vous demande également de faire don de 1000 cerfs d'argent.
 dlga_rhllor_ayuda2:rhllor_sins|Très bien. Je donnerai 300 pièces de monnaie.
 dlga_rhllor_sins:rhllor_pretalk|Merci. Maintenant, nous devons prier.   Seigneur de la Lumière! Venez à nous dans notre obscurité. Nous vous offrons ces faux dieux. Prenez-les et mettez votre lumière sur nous. Car la nuit est sombre et pleine de terreurs.
-dlga_rhllor_ayuda2:rhllor_pretalk Bien entendu, il y a 1000 pièces.
+dlga_rhllor_ayuda2:rhllor_pretalk|Bien entendu, il y a 1000 pièces.
 dlga_rhllor_ayuda2:rhllor_angry|Je ne financerai pas votre quête inutile.
 dlga_rhllor_ayuda2:rhllor_pretalk.1|En fait, j'ai changé d'avis.
-dlga_start:ahogé_god_talk|Bonjour, {mon seigneur / ma dame}. Je suis un homme noyé du dieu noyé.
+dlga_start:drowned_god_talk|Bonjour, {mon seigneur / ma dame}. Je suis un homme noyé du dieu noyé.
 dlga_drowned_god_pretalk:drowned_god_talk|{playername}. De quoi avez-vous besoin?
-dlga_drowned_god_talk:ahogé_god_angry|Je n'adore pas le dieu noyé et votre pillage imbécile! Vos chiens et vous payez pour votre trahison.
+dlga_drowned_god_talk:drowned_god_angry|Je n'adore pas le dieu noyé et votre pillage imbécile! Vos chiens et vous payez pour votre trahison.
 dlga_drowned_god_angry:close_window|Vous regretterez le jour où vous nous avez maudits {playername}.
 dlga_drowned_god_talk:drowned_god_ayuda|Je suis toujours fidèle aux dieux noyés.
 dlga_drowned_god_talk:drowned_god_ayuda.1|Je souhaite être informé sur le dieu noyé
@@ -4264,8 +4264,8 @@ dlga_old_venta3:old_venta31|Je pense que vous êtes l'élu qui peut retourner la
 dlga_old_venta3:close_window|Cela me plaît d'entendre ça. J'espère que Jupiter et Mars se battront à vos côtés et restaureront les anciens et glorieux jours.
 dlga_old_venta31:close_window|Par Roma!, Je vais conquérir Londinium!
 dlga_old_venta31:close_window.1|La pensée de Rome me dégoûte, vieil homme
-dlga_start:mai-mai|Bonjour, mon seigneur.
-dlga_start:Mayor_talk|Bonjour étranger, vous semblez être nouveau sur {s9}. Je suis le maître de guilde de la ville.
+dlga_start:mayor_begin|Bonjour, mon seigneur.
+dlga_start:mayor_talk|Bonjour étranger, vous semblez être nouveau sur {s9}. Je suis le maître de guilde de la ville.
 dlga_start:mayor_begin.1|Bonjour, {playername}.
 dlga_mayor_begin:lord_persuade_lords_to_make_peace_completed|{playername}, convaincre le {s14} et le {s15} d'accepter une trêve n'était pas chose facile, et pourtant vous l'avez fait ! Votre implication a non seulement permis à notre ville d'être épargnée, mais ils ont aussi sauvé des milliers de vies et ont mis fin à toute la souffrance de cette guerre. Qu'il soit dit qu'à {s19}, nous tenons toujours nos promesses, nous vous paierons donc {reg12} cerfs d'argent, comme convenu.
 dlga_lord_persuade_lords_to_make_peace_completed:lord_persuade_lords_to_make_peace_pay|Merci. Puis-je avoir cet argent ?
@@ -4298,23 +4298,23 @@ dlga_mayor_begin:mayor_friendly_pretalk.1|J'ai entendu parler de vos exploits. V
 dlga_mayor_begin:merchant_ask_for_debts|Selon mes registres, vous devez à la guilde des Marchands {reg1} cerfs d'argent. Le mieux serait que vous régliez tout maintenant.
 dlga_merchant_ask_for_debts:merchant_debts_paid|Très bien. Je vais vous payer ce que je vous dois.
 dlga_merchant_debts_paid:mayor_pretalk|Excellent. Je ferai savoir aux autres marchands que vous n'avez plus aucune dette.
-dlga_merchant_ask_for_debts:mercant_debts_not_paid|Je crains que je ne puisse pas payer cette somme maintenant.
+dlga_merchant_ask_for_debts:merchant_debts_not_paid|Je crains que je ne puisse pas payer cette somme maintenant.
 dlga_merchant_debts_not_paid:close_window|Dans ce cas j'ai bien peur de ne pas pouvoir faire affaire avec vous. Ce sont les règles de la guilde... Revenez lorsque vous pourrez payer les {reg1} cerfs d'argent. Et sachez que nous ajouterons un intérêt à votre dette. Donc plus tôt vous paierez, mieux ce sera.
 dlga_mayor_begin:mayor_talk|Que puis-je faire pour vous ?
 dlga_mayor_friendly_pretalk:mayor_talk|Et maintenant... que puis-je faire d'autre pour vous ?
 dlga_mayor_pretalk:mayor_talk|Oui ?
 dlga_mayor_talk:mayor_info_begin|Pouvez-vous me dire ce que vous faites ?
-dlga_mayor_talk:mercant_quest_requested|Avez-vous un emploi pour moi?
-dlga_mayor_talk:mercant_quest_last_offered_job|À propos de ce travail que vous m'avez proposé ...
-dlga_mayor_talk:mercant_quest_about_job|À propos du travail que vous m'avez donné ...
+dlga_mayor_talk:merchant_quest_requested|Avez-vous un emploi pour moi?
+dlga_mayor_talk:merchant_quest_last_offered_job|À propos de ce travail que vous m'avez proposé ...
+dlga_mayor_talk:merchant_quest_about_job|À propos du travail que vous m'avez donné ...
 dlga_mayor_talk:mayor_political_talk|J'ai quelques questions de nature politique.
-dlga_mayor_talk:Mayor_economy_report_1|Comment se déroule le commerce ici?
+dlga_mayor_talk:mayor_economy_report_1|Comment se déroule le commerce ici?
 dlga_mayor_talk:mayor_wealth_comparison_1|Quelle est la richesse de cette région, comparée au reste de Westeros et Essos?
-dlga_mayor_talk:Mayor_investissement_possible|Je souhaite acheter des terrains dans cette ville pour une entreprise productive
+dlga_mayor_talk:mayor_investment_possible|Je souhaite acheter des terrains dans cette ville pour une entreprise productive
 dlga_mayor_investment_possible:mayor_pretalk|Vous avez déjà une {s4} ici. Il n'y a probablement pas assez commerçants ici pour ouvrir une seconde entreprise.
 dlga_mayor_investment_possible:mayor_pretalk.1|{s9}
 dlga_mayor_investment_possible:mayor_investment_advice.1|Bien sûr {messire/madame}. Vous êtes le seigneur de cette ville, et personne ne s'y opposera.
-dlga_mayor_investment_possible:mayor_investissement|Eh bien ... Compte tenu de votre relation avec notre liege, {s4}, je pense que vous ne trouverez pas beaucoup ici qui sont assez courageux pour vous vendre n'importe quel terrain.
+dlga_mayor_investment_possible:mayor_investment|Eh bien ... Compte tenu de votre relation avec notre liege, {s4}, je pense que vous ne trouverez pas beaucoup ici qui sont assez courageux pour vous vendre n'importe quel terrain.
 dlga_mayor_investment_possible:mayor_pretalk.2|Eh bien... Pour être honnête, je pense qu'il vaudrait mieux que les marchands de la Guilde vous connaissent un peu mieux. Ils peuvent se montrer pointilleux envers les étrangers qui viennent ici pour acheter du terrain.
 dlga_mayor_investment_possible:mayor_investment_advice.2|Très bien {monsieur/madame}. Nous autres de la Guilde vous connaissons et vous faisons confiance, et je pense que nous vous trouverons les terres dont vous avez besoin.
 dlga_mayor_investment_advice:investment_choose_enterprise|Quelques petites choses que vous devez savoir : les meilleurs travailleurs sont toujours très occupés, alors je doute que vous soyez en mesure d'ouvrir plus d'une entreprise ici. Pour faire des bénéfices vous devriez opter pour quelque chose qui souvent se fait rare, mais avec des matières premières bon marché. Quelle entreprise souhaitez-vous créer ?
@@ -4328,38 +4328,38 @@ dlga_investment_choose_enterprise:investment_summary.6|Un atelier de tissage et 
 dlga_investment_choose_enterprise:investment_summary.7|Un atelier de tissage, pour faire des tissus avec de la laine.
 dlga_investment_choose_enterprise:investment_summary.8|Un atelier de tissage, pour faire du linge avec du lin.
 dlga_investment_choose_enterprise:mayor_pretalk |Oubliez ça.
-dlga_investment_summary:Mayor_investment_confirm|Très bien, {ser / madam}. Le terrain et les matériaux sur lesquels vous pouvez construire votre {s3} vous coûteront des cerseaux argentés {reg7}. À l'heure actuelle, votre {s3} produit {s4} valeurs {reg1} cerdos argentés chaque semaine, tandis que {s6} doit fabriquer ce lot sera {reg2} et le travail et l'entretien seront {reg3}. {S9} I Devrait deviner que votre bénéfice serait {reg0} cerfs argentés par semaine. Cela suppose bien sûr que les prix restent constants - ce qui, je peux pratiquement vous garantir, ils ne le feront pas. Voulez-vous continuer?
-dlga_mayor_investment_confirm:Mayor_investment_purchase|Oui. Voici de l'argent pour la terre.
+dlga_investment_summary:mayor_investment_confirm|Très bien, {ser / madam}. Le terrain et les matériaux sur lesquels vous pouvez construire votre {s3} vous coûteront des cerseaux argentés {reg7}. À l'heure actuelle, votre {s3} produit {s4} valeurs {reg1} cerdos argentés chaque semaine, tandis que {s6} doit fabriquer ce lot sera {reg2} et le travail et l'entretien seront {reg3}. {S9} I Devrait deviner que votre bénéfice serait {reg0} cerfs argentés par semaine. Cela suppose bien sûr que les prix restent constants - ce qui, je peux pratiquement vous garantir, ils ne le feront pas. Voulez-vous continuer?
+dlga_mayor_investment_confirm:mayor_investment_purchase|Oui. Voici de l'argent pour la terre.
 dlga_mayor_investment_confirm:mayor_pretalk|Non - ce n'est pas économique pour moi en ce moment.
 dlga_mayor_investment_purchase:mayor_pretalk|Très bien ! Votre entreprise devrait être en état de marche dans environ une semaine. La prochaine fois que vous viendrez, et les fois suivantes, vous devriez demander à votre {s4} de vous parler de ses opérations.
 dlga_mayor_talk:close_window|[Partir]
 dlga_mayor_info_begin:mayor_info_talk|Je suis le maître de Guilde de {s9}. Vous pouvez dire que je représente le bon peuple de {s9}. Je peux vous aider, si vous cherchez un travail honnête.
-dlga_mayor_info_talk:Mayor_info_lord|Qui dirige cette ville?
-dlga_mayor_info_lord:Mayor_info_talk|Le seigneur et le protecteur de notre ville sont {s10}. {S10} possède le château et y réside parfois et recueille des taxes de la ville. Cependant, nous nous réglementons dans la plupart des questions qui nous concernent. En tant que maître de la guilde de la ville, j'ai le pouvoir de décider de ces choses.
+dlga_mayor_info_talk:mayor_info_lord|Qui dirige cette ville?
+dlga_mayor_info_lord:mayor_info_talk|Le seigneur et le protecteur de notre ville sont {s10}. {S10} possède le château et y réside parfois et recueille des taxes de la ville. Cependant, nous nous réglementons dans la plupart des questions qui nous concernent. En tant que maître de la guilde de la ville, j'ai le pouvoir de décider de ces choses.
 dlga_mayor_info_talk:mayor_pretalk|C'est tout ce que je voulais savoir. Merci.
-dlga_mayor_political_talk:Mayor_political_questions|Politique? Bon paradis, la guilde n'a rien à voir avec la politique. Nous sommes des serviteurs fidèles de {s10}. Nous gouvernons simplement nos propres affaires, et transmettons les préoccupations de la population à nos seigneurs et maîtres, et peut-être les prévenir de temps en temps contre de mauvais conseils. De toute façon, qu'as-tu demandé de poser?
+dlga_mayor_political_talk:mayor_political_questions|Politique? Bon paradis, la guilde n'a rien à voir avec la politique. Nous sommes des serviteurs fidèles de {s10}. Nous gouvernons simplement nos propres affaires, et transmettons les préoccupations de la population à nos seigneurs et maîtres, et peut-être les prévenir de temps en temps contre de mauvais conseils. De toute façon, qu'as-tu demandé de poser?
 dlga_mayor_prepolitics:mayor_political_questions|Ai-je mentionné qu'ici nous sommes tous {s9} ? Car je ne le répéterai jamais assez... Quoi qu'il en soit... Y a-t-il autre chose ?
 dlga_mayor_political_questions:mayor_war_description_1|Quelle est la cause de toutes les guerres dans Westeros et Essos?
 dlga_mayor_war_description_1:mayor_war_description_2|Et bien pour répondre de manière générale à votre question, sachez que chaque monarque revendique d'être l'héritier légitime du titre de Westeros, souverain de tout le monde connu. Parmi ces revendications, certaines sont fondées sur des mariages dynastiques oubliés et d'autres sur d'obscures promesses, tandis que {s22} Rhodoks invoquent la constitution de l'empire qui n'est pas écrite. Aussi, en théorie, chaque royaume a des raisons de déclarer la guerre à chacun des autres royaumes à n'importe quelle occasion.
 dlga_mayor_war_description_2:mayor_war_description_3|En pratique, faire la guerre est épuisant. Il n'est pas très difficile de dévaster les terres agricoles de son ennemi, mais les cultures repousseront, et conserver une forteresse ennemie est une tout autre histoire que de la capturer. Aussi les monarques de Westeros et Essos combattent un peu, signent une trêve, se battent à nouveau, et ce à l'infini. Souvent un monarque part en guerre quand un autre royaume le provoque. Dès lors, certaines mauvaises influences soucieuses de s'enrichir grâce aux rançons et aux pillages demandent rétribution, aussi les dégâts occasionnés par la guerre à la trésorerie d'un monarque sont moindres comparés aux dégâts occasionnés sur son autorité s'il ne faisait rien... Bien sûr, je ne parle pas de {s10}, car personne n'oserait remettre en cause son autorité.
 dlga_mayor_war_description_3:mayor_war_description_4|Je tiens à rappeler que les membres de la guilde n'ont rien à voir avec la politique. Mais si le {s10} me demandait mon avis, en tant que loyal sujet, je lui dirais que sa revendication est juste, mais que la plus juste des revendications se doit d'être soutenue par de vaillants combattants. Et ces vaillants combattants veulent de l'argent, l'argent vient du commerce, et la guerre ruine le commerce, ce qui fait que le meilleur moyen de revendiquer un trône est peut-être de ne pas le revendiquer, si vous voyez ce que je veux dire...
-dlga_mayor_war_description_4:Mayor_prepolitics|Vous pouvez dire {s10} ceci si vous voyez {reg4?elle lui}. Ne mentionnez pas mon nom spécifiquement - dites simplement 'les gens de {s4} vous l'ont dit. Notre opinion personnelle, bien sûr, sur ce qui serait dans le meilleur intérêt de {s10}. Aucun de nous n'aurait jamais rêvé d'interroger le droit souverain d'un monarque de pousser {reg4?Elle:ses revendications légitimes.
+dlga_mayor_war_description_4:mayor_prepolitics|Vous pouvez dire {s10} ceci si vous voyez {reg4?elle lui}. Ne mentionnez pas mon nom spécifiquement - dites simplement 'les gens de {s4} vous l'ont dit. Notre opinion personnelle, bien sûr, sur ce qui serait dans le meilleur intérêt de {s10}. Aucun de nous n'aurait jamais rêvé d'interroger le droit souverain d'un monarque de pousser {reg4?Elle:ses revendications légitimes.
 dlga_mayor_political_questions:mayor_politics_assess|Quelle est la politique du {s10} en ce qui concerne les autres royaumes de Calradia ?
 dlga_mayor_politics_assess:mayor_politics_assess_realm|À quel royaume pensez-vous ?
-dlga_mayor_politics_assess_realm:Mayor_politics_give_realm_assessment|{s11}
+dlga_mayor_politics_assess_realm:mayor_politics_give_realm_assessment|{s11}
 dlga_mayor_politics_give_realm_assessment:mayor_prepolitics|{s14}
-dlga_mayor_political_questions:mayor_internal_politique|Que pouvez-vous dire sur la politique interne des royaumes?
-dlga_mayor_internal_politima:mayor_internal_politique_2|Eh bien, ici dans le {s4}, nous sommes tous unis par notre amour pour {s5} et notre soutien pour {reg4?Elle:sa revendication légitime à la direction de tous les Westeros et Essos. Mais j'ai entendu parler de querelles internes dans d'autres domaines ...
-dlga_mayor_internal_politique_2:Mayor_internal_politics_3|Les seigneurs d'un royaume ont souvent des idées très différentes sur l'honneur, la stratégie et la façon dont un seigneur doit se comporter. De plus, ils rivalisent les uns avec les autres pour la faveur du souverain, et évaluent constamment leur position - comment ils se tiennent, comment leurs amis et leur famille se tiennent debout, et comment leurs ennemis résistent.
+dlga_mayor_political_questions:mayor_internal_politics|Que pouvez-vous dire sur la politique interne des royaumes?
+dlga_mayor_internal_politics:mayor_internal_politics_2|Eh bien, ici dans le {s4}, nous sommes tous unis par notre amour pour {s5} et notre soutien pour {reg4?Elle:sa revendication légitime à la direction de tous les Westeros et Essos. Mais j'ai entendu parler de querelles internes dans d'autres domaines ...
+dlga_mayor_internal_politics_2:mayor_internal_politics_3|Les seigneurs d'un royaume ont souvent des idées très différentes sur l'honneur, la stratégie et la façon dont un seigneur doit se comporter. De plus, ils rivalisent les uns avec les autres pour la faveur du souverain, et évaluent constamment leur position - comment ils se tiennent, comment leurs amis et leur famille se tiennent debout, et comment leurs ennemis résistent.
 dlga_mayor_internal_politics_3:mayor_internal_politics_4|En toile de fond de toutes ces tensions existe la possibilité qu'un seigneur abandonne son suzerain pour devenir le vassal d'un autre. En théorie, le serment d'allégeance qu'il a prononcé est irrévocable, mais en pratique il peut toujours trouver une excuse pour s'en absoudre. Le vassal peut arguer que son suzerain n'a pas réussi à remplir sa part du marché, à savoir le protéger et le traiter correctement. Le vassal peut aussi arguer que son suzerain est en fait un usurpateur, et qu'un autre est plus à même de revendiquer le royaume.
-dlga_mayor_internal_politics_4:mayor_internal_politique_5|Les lieges et les vassaux se regardent encore attentivement. Si un roi croit que son vassal va changer de camp ou de rebelle, il peut prononcer le vassal pour la trahison et saisir ses propriétés. De même, si un vassal craint qu'il soit inculpé, il peut se rebeller. Habituellement, quiconque fait le premier mouvement sera en mesure de contrôler les forteresses du vassal.
-dlga_mayor_internal_politique_5:major_prepolitics|Maintenant, les hommes ne font pas confiance à un vassal qui tourne facilement le manteau, et ne font pas confiance à un roi qui lance légèrement les accusations de trahison. Ces deux facteurs peuvent garder un domaine ensemble. Mais si les relations entre un vassal et un liege se détériorent assez loin, les choses peuvent devenir très tendues ... Dans d'autres pays, bien sûr. Ces choses ne pourraient jamais arriver ici dans le {s4}.
+dlga_mayor_internal_politics_4:mayor_internal_politics_5|Les lieges et les vassaux se regardent encore attentivement. Si un roi croit que son vassal va changer de camp ou de rebelle, il peut prononcer le vassal pour la trahison et saisir ses propriétés. De même, si un vassal craint qu'il soit inculpé, il peut se rebeller. Habituellement, quiconque fait le premier mouvement sera en mesure de contrôler les forteresses du vassal.
+dlga_mayor_internal_politics_5:mayor_prepolitics|Maintenant, les hommes ne font pas confiance à un vassal qui tourne facilement le manteau, et ne font pas confiance à un roi qui lance légèrement les accusations de trahison. Ces deux facteurs peuvent garder un domaine ensemble. Mais si les relations entre un vassal et un liege se détériorent assez loin, les choses peuvent devenir très tendues ... Dans d'autres pays, bien sûr. Ces choses ne pourraient jamais arriver ici dans le {s4}.
 dlga_mayor_political_questions:mayor_pretalk|C'est tout. Merci.
 dlga_merchant_quest_about_job:merchant_quest_about_job_2|Qu'il y a-t-il ?
 dlga_merchant_quest_about_job_2:merchant_quest_what_if_fail|Et si je ne parviens pas à mener à bien cette tâche ?
 dlga_merchant_quest_about_job_2:merchant_quest_about_job_working|Et bien j'y travaille toujours.
 dlga_merchant_quest_about_job_working:mayor_pretalk|Bien, je suis sûr que vous y arriverez.
-dlga_merchant_quest_last_offered_job:mercant_quest_brief|Eh, vous souhaitez reconsidérer cela. Bien...
+dlga_merchant_quest_last_offered_job:merchant_quest_brief|Eh, vous souhaitez reconsidérer cela. Bien...
 dlga_merchant_quest_what_if_fail:mayor_pretalk|J'espère que vous n'échouerez pas. Si tel était le cas, il me faudrait vous demander de me rembourser le prix du chargement que vous transportiez.
 dlga_merchant_quest_what_if_fail:mayor_pretalk.1|Alors faites de votre mieux pour terminer.
 dlga_merchant_quest_taken:mayor_pretalk|Excellent. Sachez que je compte sur vous. Bonne chance.
@@ -4369,48 +4369,48 @@ dlga_mayor_economy_report_2:mayor_economy_report_3|{s42}
 dlga_mayor_economy_report_3:mayor_pretalk|{s47}
 dlga_merchant_quest_requested:merchant_quest_brief|Hum, vous semblez être quelqu'un de capable. Je pense que vous pourriez m'aider.
 dlga_merchant_quest_brief:merchant_quest_looters_choice|Il n'y a pas si longtemps, des combats se sont déroulés aux alentours de {s5}. La confusion qui en résulté a poussé certains hommes peu scrupuleux à se faire une petite fortune en profitant de la situation pour piller les fermes et les boutiques des environs. Ces brigands ont dérobé nombre d'objets de valeur. Il nous faut quelqu'un qui soit capable de leur donner une bonne leçon. Êtes-vous intéressé ?
-dlga_merchant_quest_looters_choice:marchand_quest_looters_brief|Aye, je vais le faire.
-dlga_merchant_quest_looters_choice:mercant_quest_stall|Je crains que je ne puisse pas suivre le travail pour le moment.
+dlga_merchant_quest_looters_choice:merchant_quest_looters_brief|Aye, je vais le faire.
+dlga_merchant_quest_looters_choice:merchant_quest_stall|Je crains que je ne puisse pas suivre le travail pour le moment.
 dlga_merchant_quest_looters_brief:close_window|Excellent ! Vous trouverez les pillards vagabondant dans la campagne environnante, et essayant probablement de voler d'autres braves gens. Tuez ou capturez ces chiens, je me moque de ce que vous en ferez. Je vous paierai une prime de 40 cerfs d'argent pour chaque bande de pillards que vous éliminerez et ce, jusqu'à ce qu'il n'y ait plus de pillards.
-dlga_merchant_quest_requested:mercant_quest_explain_2|Eh bien, il y a une très grande faveur que vous pourriez nous faire ... Comme vous l'avez peut-être entendu, certains (s10) s ont traversé la frontière pour attaquer nos gens. {S5} est sous la pression de certains des plus belliqueux de ses vassaux pour répondre avec une déclaration de guerre. Malheureusement, alors que les grands seigneurs de cette terre sont riches en effusion de sang, nous serons pris dans le milieu et nous souffrirons.
-dlga_merchant_quest_explain_2:mercant_quest_brief|Nous ne disons pas que {s5} devrait négliger cette agression - loin de là! Mais s'il charge un de ses seigneurs de répondre, le cycle de provocation entraînera nécessairement une confrontation à part entière. Maintenant, si un étranger devait intervenir et vaincre un seigneur dans la bataille, alors l'honneur serait fait, et cela empêcherait la clameur de la guerre. Si le seigneur vaincu était un fauteur de troubles connu - {s7} - alors le {s10} s pourrait le négliger.
+dlga_merchant_quest_requested:merchant_quest_explain_2|Eh bien, il y a une très grande faveur que vous pourriez nous faire ... Comme vous l'avez peut-être entendu, certains (s10) s ont traversé la frontière pour attaquer nos gens. {S5} est sous la pression de certains des plus belliqueux de ses vassaux pour répondre avec une déclaration de guerre. Malheureusement, alors que les grands seigneurs de cette terre sont riches en effusion de sang, nous serons pris dans le milieu et nous souffrirons.
+dlga_merchant_quest_explain_2:merchant_quest_brief|Nous ne disons pas que {s5} devrait négliger cette agression - loin de là! Mais s'il charge un de ses seigneurs de répondre, le cycle de provocation entraînera nécessairement une confrontation à part entière. Maintenant, si un étranger devait intervenir et vaincre un seigneur dans la bataille, alors l'honneur serait fait, et cela empêcherait la clameur de la guerre. Si le seigneur vaincu était un fauteur de troubles connu - {s7} - alors le {s10} s pourrait le négliger.
 dlga_merchant_quest_brief:merchant_quest_retaliate_confirm|Vous devez attaquer et vaincre {s7}. La tâche s'annonce rude et les relations que cet étranger entretient avec les {s10}s risquent d'en pâtir, mais nous serions très reconnaissants. Nous ne pourrions pas admettre avoir eu des liens avec cet étranger, mais nous pourrions veiller à ce qu'il soit généreusement récompensé... Qu'en dites-vous ?
-dlga_merchant_quest_retaliate_confirm:mercant_quest_track_bandits_brief|Aye, je peux le faire.
+dlga_merchant_quest_retaliate_confirm:merchant_quest_track_bandits_brief|Aye, je peux le faire.
 dlga_merchant_quest_retaliate_confirm:merchant_pretalk|Je préfère ne pas me mêler de ce genre de choses.
-dlga_destroy_lair_quest_brief:mercant_quest_track_bandit_lair_choice|Les pirates ont probablement déposé leurs navires dans une crique bien cachée, quelque part le long du littoral, de préférence à côté d'un petit ruisseau où ils ont de l'eau. La meilleure façon de découvrir son emplacement serait de trouver un groupe de pirates qui semblent se diriger vers leur base de réapprovisionnement et les suivre.
-dlga_destroy_lair_quest_brief:mercant_quest_track_bandit_lair_choice.1|Les Raiders sont susceptibles d'avoir déposé leurs navires dans une crique bien cachée, quelque part le long du littoral, de préférence à côté d'un petit ruisseau où ils ont de l'eau. La meilleure façon de découvrir son emplacement serait de trouver un groupe d'entre eux qui semblent revenir à leur base de réapprovisionnement et suivre leurs traces.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice|Les pirates ont probablement déposé leurs navires dans une crique bien cachée, quelque part le long du littoral, de préférence à côté d'un petit ruisseau où ils ont de l'eau. La meilleure façon de découvrir son emplacement serait de trouver un groupe de pirates qui semblent se diriger vers leur base de réapprovisionnement et les suivre.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.1|Les Raiders sont susceptibles d'avoir déposé leurs navires dans une crique bien cachée, quelque part le long du littoral, de préférence à côté d'un petit ruisseau où ils ont de l'eau. La meilleure façon de découvrir son emplacement serait de trouver un groupe d'entre eux qui semblent revenir à leur base de réapprovisionnement et suivre leurs traces.
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.2|De tels bandits établissent généralement leur base dans les hautes terres, souvent sur une corniche de laquelle ils peuvent surveiller les environs. Ils sont ainsi difficiles à surprendre. Pour les localiser, le meilleur moyen consiste à trouver un groupe de bandits des montagnes faisant route vers leur base pour se réapprovisionner et les suivre.
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.3|De tels bandits établissent généralement leurs campements dans la forêt, souvent au coeur d'un marécage. Pour les localiser, le meilleur moyen consiste à trouver un groupe de bandits des forêts faisant route vers leur base pour se réapprovisionner, et les suivre.
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.4|De tels bandits établissent généralement leurs campements dans la steppe où ils peuvent se cacher. Pour les localiser, le meilleur moyen consiste à trouver un groupe de bandits de la steppe faisant route vers leur base pour se réapprovisionner et les suivre.
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.5|Des bandits tels que ceux-là établissent généralement leurs campements au plus profond des bois. Pour les localiser, le meilleur moyen consiste à trouver un groupe de bandits de la toundra faisant route vers leur base pour se réapprovisionner et les suivre.
-dlga_destroy_lair_quest_brief:mercant_quest_track_bandit_lair_choice.6|Les Dothraki, comme ceux-ci, établiront habituellement leurs campements sur des plaines herbeuses ou désertiques. La meilleure façon de découvrir son emplacement serait de trouver un groupe d'entre eux qui semblent revenir à leur base de réapprovisionnement et suivre leurs traces.
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.6|Les Dothraki, comme ceux-ci, établiront habituellement leurs campements sur des plaines herbeuses ou désertiques. La meilleure façon de découvrir son emplacement serait de trouver un groupe d'entre eux qui semblent revenir à leur base de réapprovisionnement et suivre leurs traces.
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.7|Des bandits comme ceux-ci installent habituellement leurs campements dans les forêts. La meilleure façon de découvrir son emplacement serait de trouver un groupe de bandits qui semblent revenir à leur base de réapprovisionnement et les suivre.
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.8|Les slavers installent normalement des camps dans le désert. Ces camps peuvent être utilisés comme tête de pont pour les opérations dans cette région.
-dlga_merchant_quest_track_bandit_lair_choice:mercant_quest_destroy_lair_brief|Oui, je vais le faire.
+dlga_merchant_quest_track_bandit_lair_choice:merchant_quest_destroy_lair_brief|Oui, je vais le faire.
 dlga_merchant_quest_track_bandit_lair_choice:lord_pretalk|J'ai bien peur de ne pas pouvoir accepter ce travail pour l'instant.
 dlga_merchant_quest_destroy_lair_brief:close_window|Très bien. Nous allons donc attendre que vous réussissiez.
 dlga_merchant_quest_requested:merchant_quest_brief.1|Nous avons entendu dire que {s4}, plusieurs voyageurs {reg4?se dirigeant vers:venant de} {s5} ont été attaqués par des {s7}.
 dlga_merchant_quest_brief:merchant_quest_track_bandits_choice|Nous aimerions traquer ces {s4}. Les marchands de la ville ont réussi à me décrire leur chef et ont proposé une prime pour qui le trouvera. Si vous réussissez à les traquer et à les neutraliser, vous recevrez une très belle récompense.
-dlga_merchant_quest_track_bandits_choice:mercant_quest_track_bandits_brief|Aye, je vais le faire.
+dlga_merchant_quest_track_bandits_choice:merchant_quest_track_bandits_brief|Aye, je vais le faire.
 dlga_merchant_quest_track_bandits_brief:close_window|Parfait. La bande n'a peut-être pas traîné dans le coin, mais il y a fort à parier que d'autres voyageurs les repèreront.
-dlga_merchant_quest_track_bandits_choice:mercant_quest_stall|Je crains que je ne puisse pas accepter le travail en ce moment.
+dlga_merchant_quest_track_bandits_choice:merchant_quest_stall|Je crains que je ne puisse pas accepter le travail en ce moment.
 dlga_merchant_quest_requested:merchant_quest_brief.2|Vous recherchez un emploi? Ha...
-dlga_merchant_quest_brief:mercant_quest_brief_deliver_wine|Désolé, mais vous devriez retourner un autre jour.
-dlga_merchant_quest_brief_deliver_wine:mercant_quest_stall|OK, adieu.
-dlga_merchant_quest_requested:mercant_quest_brief.3|Vous recherchez un emploi? En fait, je cherchais quelqu'un pour escorter l'évêque de notre ville. Peut-être que vous pouvez le faire ...
+dlga_merchant_quest_brief:merchant_quest_brief_deliver_wine|Désolé, mais vous devriez retourner un autre jour.
+dlga_merchant_quest_brief_deliver_wine:merchant_quest_stall|OK, adieu.
+dlga_merchant_quest_requested:merchant_quest_brief.3|Vous recherchez un emploi? En fait, je cherchais quelqu'un pour escorter l'évêque de notre ville. Peut-être que vous pouvez le faire ...
 dlga_merchant_quest_brief:escort_bishop_quest_brief|L'évêque de notre ville va voyager à {s8}.  Il aura une réunion importante là-bas, alors nous devons nous assurer qu'il arrive sain et sauf.  Si vous pouvez l'escorter à {s8} en 15 jours, vous gagnerez des cers d'argent {reg8}.  Bien sûr, votre parti doit être au moins {reg4} fort pour offrir à notre évêque toute protection.
 dlga_escort_bishop_quest_brief:merchant_quest_taken|Alright. Je escorterais l'évêque.
-dlga_escort_bishop_quest_brief:mercant_quest_stall|Je crains que je n'ai pas beaucoup de soldats avec moi.
+dlga_escort_bishop_quest_brief:merchant_quest_stall|Je crains que je n'ai pas beaucoup de soldats avec moi.
 dlga_escort_bishop_quest_brief:merchant_quest_stall.1|Désolé. Je ne peux pas le faire maintenant
 dlga_start:close_window.81|Nous pouvons couvrir le reste du chemin nous-mêmes. Mon {fils / fille}, vous avez ma bénédiction! Adieu et que l'amour de Dieu soit avec vous!
 dlga_start:close_window.82|Bien, nous avons presque atteint {s21}. Nous pouvons couvrir le reste du chemin nous-mêmes. Mon {fils / fille}, vous avez ma bénédiction! Voici votre salaire ... {reg14} cerfs d'argent. Adieu et que l'amour de Dieu soit avec vous!
 dlga_start:bishop_intro_1|Laudetur Iesus Christus! Vous devez être mon escorte, n'est-ce pas?
-dlga_bishop_intro_1:bishop_intro_2|Dans saecula saeculorum, pater! Mon nom est {playername}. Je mènerai Votre Eminence à {s1}.
+dlga_bishop_intro_1:bishop_intro_2|Mon nom est {playername}. Je mènerai Votre Eminence à {s1}.
 dlga_bishop_intro_2:escort_bishop_talk|Bien, il est bon de savoir que nous ne voyagerons pas seul. Que voulez-vous que nous fassions maintenant?
 dlga_start:escort_bishop_talk|Eh. Nous l'avons fait jusqu'ici ... Que veux-tu que nous fassions?
 dlga_escort_bishop_talk:bishop_follow_lead|Je vous ferai parcourir un itinéraire sécurisé.
 dlga_bishop_follow_lead:close_window|Très bien. Nous serons juste derrière vous.
-dlga_escort_bishop_talk:mercant_caravan_stay_here|Vous restez ici pendant un certain temps. Je vais aller de l'avant et vérifier la route.
+dlga_escort_bishop_talk:merchant_caravan_stay_here|Vous restez ici pendant un certain temps. Je vais aller de l'avant et vérifier la route.
 dlga_escort_bishop_talk:close_window|Alright. Nous attendons ici pour vous.
 dlga_merchant_quest_requested:merchant_quest_brief.4|Vous recherchez un emploi? En fait, je cherchais quelqu'un pour escorter une caravane. Peut-être que vous pouvez le faire ...
 dlga_merchant_quest_brief:escort_merchant_caravan_quest_brief|Une caravane marchande, disais-je, doit se rendre à {s8}. Cependant, avec tous ces bandits et déserteurs sur les routes, je serais idiot de la laisser partir sans escorte. Si vous pouviez amener cette caravane à {s8} dans les 15 jours, vous recevriez {reg8} cerfs d'argent. Bien sûr votre groupe devra comporter au moins {reg4} membres pour en assurer la protection.
@@ -4425,18 +4425,18 @@ dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|Bien, c'est bon de sa
 dlga_start:escort_merchant_caravan_talk|Hé, nous nous en sommes bien sortis jusque là... Que voulez-vous que nous fassions ?
 dlga_escort_merchant_caravan_talk:merchant_caravan_follow_lead|Suivez-moi. Je vous ferai emprunter un trajet qui n'est pas dangereux.
 dlga_merchant_caravan_follow_lead:close_window|Très bien. Nous sommes juste derrière vous.
-dlga_escort_merchant_caravan_talk:mercant_caravan_stay_here|Vous restez ici pendant un certain temps. Je vais aller de l'avant et vérifier la route.
+dlga_escort_merchant_caravan_talk:merchant_caravan_stay_here|Vous restez ici pendant un certain temps. Je vais aller de l'avant et vérifier la route.
 dlga_merchant_caravan_stay_here:close_window|Très bien, nous vous attendrons.
 dlga_merchant_quest_requested:merchant_quest_brief.5|En fait, je cherchais un aventurier capable comme vous. Il y a ce groupe de bandits particulièrement ennuyeux. Ils ont infesté le voisinage de notre ville et se précipitent sur mes caravanes. Ils ont évité jusqu'à maintenant tous les soldats et les milices. Si quelqu'un ne les arrête pas bientôt, je vais être en ruine ...
-dlga_merchant_quest_brief:problemome_bandits_quest_brief|Je vais vous payer {reg8} cers en argent si vous cherchez ces bandits gênants. C'est un travail dangereux. Mais je crois que vous êtes le {man / one} pour cela. Que dis-tu?
+dlga_merchant_quest_brief:troublesome_bandits_quest_brief|Je vais vous payer {reg8} cers en argent si vous cherchez ces bandits gênants. C'est un travail dangereux. Mais je crois que vous êtes le {man / one} pour cela. Que dis-tu?
 dlga_troublesome_bandits_quest_brief:merchant_quest_taken_bandits|C'est d'accord, je vous débarrasserai de ces bandits.
 dlga_merchant_quest_taken_bandits:close_window|Vous allez le faire ? Fantastique, je vous souhaite bonne chance.
 dlga_troublesome_bandits_quest_brief:merchant_quest_stall|Navré, je n'ai pas le temps pour le moment.
-dlga_merchant_quest_requested:mercant_quest_brief.6|En fait, je cherchais un homme / aide fiable qui peut entreprendre une mission importante. Un groupe de bandits ont enlevé la fille d'un de mes amis et la tient pour rançon. Mon ami est prêt à les payer, mais nous avons encore besoin de quelqu'un pour prendre l'argent à ces coquins et ramener la jeune fille à la sécurité.
+dlga_merchant_quest_requested:merchant_quest_brief.6|En fait, je cherchais un homme / aide fiable qui peut entreprendre une mission importante. Un groupe de bandits ont enlevé la fille d'un de mes amis et la tient pour rançon. Mon ami est prêt à les payer, mais nous avons encore besoin de quelqu'un pour prendre l'argent à ces coquins et ramener la jeune fille à la sécurité.
 dlga_merchant_quest_brief:kidnapped_girl_quest_brief|Le montant de la rançon s'élève à {reg12} cerfs d'argent. Je vous donnerai cet argent si vous acceptez de faire cette quête. Vous avez 15 jours pour apporter l'argent aux bandits qui attendront près du village {s4}. Ces chiens ont dit qu'ils allaient tuer la pauvre fille s'ils n'obtenaient pas l'argent à temps. Vous serez payé {reg8} cerfs d'argent lorsque vous ramènerez la fille saine et sauve ici.
 dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|Très bien. je vais amener cette rançon aux bandits et ramener la fille.
 dlga_kidnapped_girl_quest_taken:close_window|Bien, je savais que nous pouvions vous faire confiance. Voilà l'argent de la rançon, {reg12} cerfs d'argent. Comptez-le avant de le prendre. Et, je vous en prie, ne tentez rien de stupide. Gardez à l'esprit que le bien-être de la fille est plus important que tout le reste...
-dlga_kidnapped_girl_quest_brief:mercant_quest_stall|Désolé. Je n'ai pas le temps pour cela maintenant.
+dlga_kidnapped_girl_quest_brief:merchant_quest_stall|Désolé. Je n'ai pas le temps pour cela maintenant.
 dlga_start:close_window.85|Merci beaucoup de me faire revenir!  J'ai hâte de voir ma famille. Adieu.
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|Oui. Venez avec moi. Je vous ramène chez vous.
 dlga_kidnapped_girl_liberated_map_2a:close_window|Malheureusement, on dirait que vous n'ayez pas de place pour moi...
@@ -4475,27 +4475,27 @@ dlga_merchant_quest_about_job_2:lost_kidnapped_girl|Malheureusement, il se trouv
 dlga_lost_kidnapped_girl:lost_kidnapped_girl_2|Oh non ! Comment vais-je pouvoir annoncer cela à mon ami ?
 dlga_lost_kidnapped_girl_2:lost_kidnapped_girl_3|Je suis désolé, je n'ai rien pu faire.
 dlga_lost_kidnapped_girl_3:lost_kidnapped_girl_4|Vous m'avez laissé tomber {playername}, alors que j'avais confiance en vous. Je ferai savoir à tous que vous êtes un incompétent. Je veux également que vous me rendiez ces {reg8} cerfs d'argent que je vous avais donné pour payer la rançon.
-dlga_lost_kidnapped_girl_4:mercant_quest_about_job_5a|Bien sur. Vous voilà...
+dlga_lost_kidnapped_girl_4:merchant_quest_about_job_5a|Bien sur. Vous voilà...
 dlga_merchant_quest_about_job_5a:close_window|Au moins vous avez la décence de rendre l'argent.
-dlga_lost_kidnapped_girl_4:mercant_quest_about_job_5b|Désolé. Je n'ai pas ce montant avec moi.
+dlga_lost_kidnapped_girl_4:merchant_quest_about_job_5b|Désolé. Je n'ai pas ce montant avec moi.
 dlga_merchant_quest_about_job_5b:close_window|Vous pensez pouvoir vous en tirer comme ça ? Vous allez me rendre cet argent, et me le rendre jusqu'au moindre denier ! Et vite !
-dlga_merchant_quest_requested:mercant_quest_persuade_peace_1|Cette guerre entre {s15} et {s14} a amené notre ville au bord de la ruine. Nos caravanes sont agressées avant d'atteindre leur destination. Nos commerçants ont peur de laisser la sécurité des murs de la ville. Et comme si cela ne suffisait pas, les taxes pour maintenir la guerre enlevent les dernières économies. Si la paix ne vient pas bientôt, nous ne pouvons pas rester longtemps plus longtemps.
-dlga_merchant_quest_persuade_peace_1:marchand_quest_brief|Vous avez raison. Mais qui peut arrêter cette folie appelée guerre?
+dlga_merchant_quest_requested:merchant_quest_persuade_peace_1|Cette guerre entre {s15} et {s14} a amené notre ville au bord de la ruine. Nos caravanes sont agressées avant d'atteindre leur destination. Nos commerçants ont peur de laisser la sécurité des murs de la ville. Et comme si cela ne suffisait pas, les taxes pour maintenir la guerre enlevent les dernières économies. Si la paix ne vient pas bientôt, nous ne pouvons pas rester longtemps plus longtemps.
+dlga_merchant_quest_persuade_peace_1:merchant_quest_brief|Vous avez raison. Mais qui peut arrêter cette folie appelée guerre?
 dlga_merchant_quest_persuade_peace_1:merchant_quest_persuade_peace_reject|C'est votre devoir d'aider les nobles dans leur effort de guerre. Vous ne devriez pas vous en plaindre.
 dlga_merchant_quest_persuade_peace_reject:close_window|Ha ! Les guerres de la noblesse ne servent que leur cupidité et leur soif de gloire. Et ce sont les honnêtes gens comme nous qui devons supporter le véritable fardeau. Mais évidemment ce sont des choses que vous ne voulez pas entendre.
-dlga_merchant_quest_brief:mercant_quest_persuade_peace_3|Il a été tenté de concilier les deux parties et de parvenir à un règlement. Cependant, il existe des seigneurs puissants des deux côtés dont les intérêts sont à la poursuite de la guerre. Ces hommes exhortent tous les autres à ne pas tenir compte de la parole de l'homme sensible, mais de continuer à se battre. Bien que ces dirigeants restent influents, aucun règlement de paix ne peut être atteint.
-dlga_merchant_quest_persuade_peace_3:mercant_quest_persuade_peace_4|Qui sont ces guerriers qui bloquent la voie de la paix?
-dlga_merchant_quest_persuade_peace_3:mercant_quest_persuade_peace_4.1|Qui sont ces seigneurs dont vous parlez?
-dlga_merchant_quest_persuade_peace_4:mercant_quest_persuade_peace_5|Ils sont {s12} de {s15} et {s13} à partir de {s14}. Jusqu'à ce qu'ils changent d'avis ou qu'ils perdent leur influence, il n'y aura aucune chance d'avoir la paix entre les deux côtés.
-dlga_merchant_quest_persuade_peace_5:mercant_quest_persuade_peace_6|Que peut-on faire à ce sujet?
-dlga_merchant_quest_persuade_peace_5:mercant_quest_persuade_peace_6.1|Hélas, il semble que rien ne puisse être fait à ce sujet.
-dlga_merchant_quest_persuade_peace_6:mercant_quest_persuade_peace_7|Il existe un moyen de résoudre le problème. Une personne particulièrement déterminée peut persuader l'un ou l'autre de ces seigneurs d'accepter de faire la paix. Et même si cela échoue, il est possible de voir que ces seigneurs sont vaincus par la force et prisonniers. S'ils sont captifs, ils perdront leur influence et ne pourront plus s'opposer à un règlement ... Qu'est-ce que tu penses? Pouvez-vous le faire?
-dlga_merchant_quest_persuade_peace_7:mercant_quest_persuade_peace_8|Il semble difficile. Mais je vais essayer.
-dlga_merchant_quest_persuade_peace_7:mercant_quest_persuade_peace_8.1|Si le prix est correct, je pourrais.
-dlga_merchant_quest_persuade_peace_7:mercant_quest_persuade_peace_8.2|Oubliez-le. Ce n'est pas mon problème.
-dlga_merchant_quest_persuade_peace_8:mercant_quest_persuade_peace_9|La plupart des marchands de la ville ouvriront volontiers leurs bourses pour soutenir un tel plan. Je pense que nous pouvons collecter des cerfs d'argent {reg12} entre nous. Nous serons heureux de vous récompenser avec cette somme, si vous pouvez le résoudre. Convainquez {s12} et {s13} d'accepter un règlement de paix, et si l'un d'eux s'avère trop têtu, assurez-vous qu'il tombe en captivité et ne peut être renvoyé avant qu'un accord de paix ne soit réglé.
+dlga_merchant_quest_brief:merchant_quest_persuade_peace_3|Il a été tenté de concilier les deux parties et de parvenir à un règlement. Cependant, il existe des seigneurs puissants des deux côtés dont les intérêts sont à la poursuite de la guerre. Ces hommes exhortent tous les autres à ne pas tenir compte de la parole de l'homme sensible, mais de continuer à se battre. Bien que ces dirigeants restent influents, aucun règlement de paix ne peut être atteint.
+dlga_merchant_quest_persuade_peace_3:merchant_quest_persuade_peace_4|Qui sont ces guerriers qui bloquent la voie de la paix?
+dlga_merchant_quest_persuade_peace_3:merchant_quest_persuade_peace_4.1|Qui sont ces seigneurs dont vous parlez?
+dlga_merchant_quest_persuade_peace_4:merchant_quest_persuade_peace_5|Ils sont {s12} de {s15} et {s13} à partir de {s14}. Jusqu'à ce qu'ils changent d'avis ou qu'ils perdent leur influence, il n'y aura aucune chance d'avoir la paix entre les deux côtés.
+dlga_merchant_quest_persuade_peace_5:merchant_quest_persuade_peace_6|Que peut-on faire à ce sujet?
+dlga_merchant_quest_persuade_peace_5:merchant_quest_persuade_peace_6.1|Hélas, il semble que rien ne puisse être fait à ce sujet.
+dlga_merchant_quest_persuade_peace_6:merchant_quest_persuade_peace_7|Il existe un moyen de résoudre le problème. Une personne particulièrement déterminée peut persuader l'un ou l'autre de ces seigneurs d'accepter de faire la paix. Et même si cela échoue, il est possible de voir que ces seigneurs sont vaincus par la force et prisonniers. S'ils sont captifs, ils perdront leur influence et ne pourront plus s'opposer à un règlement ... Qu'est-ce que tu penses? Pouvez-vous le faire?
+dlga_merchant_quest_persuade_peace_7:merchant_quest_persuade_peace_8|Il semble difficile. Mais je vais essayer.
+dlga_merchant_quest_persuade_peace_7:merchant_quest_persuade_peace_8.1|Si le prix est correct, je pourrais.
+dlga_merchant_quest_persuade_peace_7:merchant_quest_persuade_peace_8.2|Oubliez-le. Ce n'est pas mon problème.
+dlga_merchant_quest_persuade_peace_8:merchant_quest_persuade_peace_9|La plupart des marchands de la ville ouvriront volontiers leurs bourses pour soutenir un tel plan. Je pense que nous pouvons collecter des cerfs d'argent {reg12} entre nous. Nous serons heureux de vous récompenser avec cette somme, si vous pouvez le résoudre. Convainquez {s12} et {s13} d'accepter un règlement de paix, et si l'un d'eux s'avère trop têtu, assurez-vous qu'il tombe en captivité et ne peut être renvoyé avant qu'un accord de paix ne soit réglé.
 dlga_merchant_quest_persuade_peace_9:merchant_quest_persuade_peace_10|D'accord. Je ferai de mon mieux.
-dlga_merchant_quest_persuade_peace_9:mercant_quest_persuade_peace_no|Désolé. Je ne peux pas faire ça.
+dlga_merchant_quest_persuade_peace_9:merchant_quest_persuade_peace_no|Désolé. Je ne peux pas faire ça.
 dlga_merchant_quest_persuade_peace_10:close_window|Excellent. Nous prierons pour vous. J'espère que vous parviendrez à obtenir quelque chose de ces vieux boucs. Nous attendrons avec impatience les bonnes nouvelles.
 dlga_merchant_quest_persuade_peace_no:close_window|Ne vous décidez pas si vite ! Réfléchissez-y avant de prendre votre décision. Si quelqu'un peut réussir à faire ça, c'est bien vous.
 dlga_merchant_quest_requested:merchant_quest_deal_with_night_bandits|Pour ça, oui ! Un groupe de bandits a pénétré de nuit dans la ville, et je désespère de parvenir un jour à régler cette histoire. Ils ont dépouillé plusieurs habitants de notre ville durant la nuit et ont disparu à la vitesse de l'éclair dès que les gardes se sont montrés. Nous n'avons pas pu en attraper un seul. Ils attaquent uniquement les gens seuls et ne se risquent jamais à approcher un groupe. J'ai besoin de quelqu'un qui ne craigne pas de se battre seul. Cela me semble être l'unique moyen de des amener devant la justice. Pensez-vous être à la hauteur ?
@@ -4503,11 +4503,11 @@ dlga_merchant_quest_brief:merchant_quest_deal_with_night_bandits|Un groupe de ba
 dlga_merchant_quest_deal_with_night_bandits:deal_with_night_bandits_quest_taken|Tuer des bandits ? Oh que oui, ça m'intéresse !
 dlga_merchant_quest_deal_with_night_bandits:merchant_quest_stall|Toutes mes excuses, mais cela ne m'intéresse pas.
 dlga_deal_with_night_bandits_quest_taken:mayor_pretalk|Vous m'enlevez une épine du pied, {playername}. Vous pouvez compter sur une belle récompense en cas de réussite. Évitez juste de vous faire tuer...
-dlga_merchant_quest_requested:marchand_quest_brief.7|L'un des marchands ici cherche des bergers pour emmener son bétail sur le marché à {s13}.
+dlga_merchant_quest_requested:merchant_quest_brief.7|L'un des marchands ici cherche des bergers pour emmener son bétail sur le marché à {s13}.
 dlga_merchant_quest_brief:move_cattle_herd_quest_brief|Le troupeau doit être à {s13} sous 30 jours. Le plus tôt sera le mieux, mais il ne doit en aucun cas y être amené après les 30 jours. Si vous pouvez faire cela, je vous paierai {reg8} cerfs d'argent pour le dérangement. Marché conclu ?
 dlga_move_cattle_herd_quest_brief:move_cattle_herd_quest_taken|Soit, je conduirai ce bétail à {s13}.
-dlga_move_cattle_herd_quest_brief:mercant_quest_stall|Je suis désolé, mais non.
-dlga_move_cattle_herd_quest_taken:Mayor_pretalk|Splendide. Vous pouvez trouver le troupeau juste à l'extérieur de la ville. Après avoir emmené les animaux sur {s13}, retournez-moi et je vous donnerai votre salaire.
+dlga_move_cattle_herd_quest_brief:merchant_quest_stall|Je suis désolé, mais non.
+dlga_move_cattle_herd_quest_taken:mayor_pretalk|Splendide. Vous pouvez trouver le troupeau juste à l'extérieur de la ville. Après avoir emmené les animaux sur {s13}, retournez-moi et je vous donnerai votre salaire.
 dlga_merchant_quest_requested:mayor_pretalk|J'ai bien peur de ne pas avoir de travail à vous proposer pour le moment.
 dlga_start:village_elder_deliver_cattle_thank|{Très cher monsieur/Très chère dame}. Notre village vous est reconnaissant pour l'aide que vous lui avez apporté. Grâce aux {reg5} têtes de bétail que vous nous avez amené, nous pouvons maintenant élever notre propre troupeau.
 dlga_village_elder_deliver_cattle_thank:village_elder_talk|{Mon bon seigneur/Gente dame}, puis-je faire quelque chose pour vous ?
@@ -4753,7 +4753,7 @@ dlga_lannister_men1:lannister_men_attack|Nous ne faisons pas partie de votre com
 dlga_lannister_men1:lannister_men_attack.1|J'ai regardé vos hommes caresser ceux qui sont fidèles à Ned Stark. Je vais venger les personnes tuées et vous payerez avec votre sang!
 dlga_lannister_men2:close_window|Hmph! Soyez sur votre chemin, vous ne pouvez pas faire de dribble.
 dlga_lannister_men_attack:close_window|On nous a ordonné de vous ramener à Kings Landing, malheureusement pour vous, on ne nous a pas dit si cela était vivant ou autrement!
-dlga_poachers_introduce:pochers1|Oi, vous! Ce fut nous qui avons eu cet oiseau, remets-le, ou bien!
+dlga_poachers_introduce:poachers1|Oi, vous! Ce fut nous qui avons eu cet oiseau, remets-le, ou bien!
 dlga_poachers1:poachers1_attack|Je suppose que les Lannisters ont mis un joli penny sur chaque corbeau tiré par le ciel?
 dlga_poachers1:poachers1_attack1|Ok, prenez-le! Pas quelque chose dans lequel je veux être impliqué de toute façon.
 dlga_poachers1:poachers1_attack2|Ok, prenez-le! Pas quelque chose dans lequel je veux être impliqué de toute façon.
@@ -4879,7 +4879,7 @@ dlga_town_merchant_talk:merchant_gossip.1|Hé. Quelles rumeurs parlent les gens?
 dlga_merchant_gossip:town_merchant_talk|Oh, eh bien, rien qui sorte de l'ordinaire. Les prix, la guerre, le temps, toujours la même chose, en fait.
 dlga_merchant_gossip:town_merchant_talk.1|{s61}
 dlga_merchant_gossip:town_merchant_talk.2|Bien, rien de nouveau ces derniers temps. Les prix, le temps, la guerre, les mêmes choses anciennes.
-dlga_town_merchant_talk:demain|adieu.
+dlga_town_merchant_talk:tomorrowback|adieu.
 dlga_tomorrowback:close_window|Revenez demain!
 dlga_start:kingsguard|Nous sommes là pour vous servir, Votre Grâce.
 dlga_kingsguard:close_window|Très bien. Je reviens sur le domaine.
@@ -4944,7 +4944,7 @@ dlga_player_castle_guard_talk:player_castle_guard_talk_2|Comment se passe le gue
 dlga_player_castle_guard_talk:picto2_action|Je ferai don de 200 cerfs d'argent aux familles de mes hommes déchus pour votre aide.
 dlga_picto2_action:close_window|Vos hommes se sentiront mieux maintenant.
 dlga_player_castle_guard_talk:anglo12_action|Mes hommes ont besoin des Anciens dieux. Je ferai don de 200 cerfs d'argent pour votre aide dans cette affaire.
-dlga_anglo12_action:close_window|Je parlerai à vos hommes des anciens dieux de la forêt. Cela leur donnera du courage de combattre à vos côtés.
+dlga_anglo12_action:close_window|Je parlerai à vos hommes des Anciens Dieux de la forêt. Cela leur donnera du courage de combattre à vos côtés.
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|Tout est calme {monsieur/madame}. Rien à signaler.
 dlga_player_castle_guard_talk_3:close_window|Parfait. Gardez l'oeil.
 dlga_start:close_window.86|Bonne journée, {ser / madame}. Toujours un honneur de vous avoir ici dans {s10}.
@@ -5065,10 +5065,10 @@ dlga_fort_drowned_action:fort_member_talk|- L'homme noyé prie le dieu noyé - V
 dlga_fort_member_talk:fort_old_action|Nous avons besoin des Anciens Dieux pour nous purifier de nos péchés. Je donnerai 400 bêtes d'argent aux familles de mes hommes déchus pour votre aide.
 dlga_fort_member_talk:fort_member_talk.2|- Vous n'adorez pas les Anciens dieux, probablement mieux de ne pas leur parler -
 dlga_fort_old_action:fort_member_talk|- Il prie les Anciens dieux - ...Anciens dieux, écoutez ma prière ... Vos hommes se sentiront mieux maintenant.
-dlga_start:Fort_captain|Comment puis-je vous aider, Commandant?
+dlga_start:fort_captain|Comment puis-je vous aider, Commandant?
 dlga_fort_captain_pretalk:fort_captain|Autre chose, commandant?
 dlga_fort_captain:fort_captain_nothing|Y at-il quelque chose que je devrais savoir?
-dlga_fort_captain:fortpartty_action|Je ferai don de 500 cerfs d'argent aux familles de mes hommes.
+dlga_fort_captain:fortparty_action|Je ferai don de 500 cerfs d'argent aux familles de mes hommes.
 dlga_fort_captain:arena_master_spar_teams2|Je voudrais m'asseoir avec certains de mes hommes.
 dlga_fort_captain:fort_captain_public_yes|Veuillez indiquer aux gardes pour permettre aux visiteurs.
 dlga_fort_captain_public_yes:fort_captain_pretalk|Je dois émettre vos commandes à la fois.
@@ -5165,23 +5165,23 @@ dlga_merchant_quest_4e:merchant_finale|OK, je le verrai terminé.
 dlga_merchant_quest_4e:merchant_finale_1|Je pense que je préfère ne pas m'impliquer.
 dlga_merchant_finale_1:close_window|OK, adaptez-vous à vous-même, mais je pense que vous faites une grave erreur.
 dlga_merchant_finale:close_window|OK très bien. Vous devez vous hâter et suivre le Kingsroad North. Bonne chance mon ami!
-dlga_start:mercant_quest_1_prologue_1|{s1}
-dlga_merchant_quest_1_prologue_1:mercant_quest_1_prologue_2|Vous semblez un peu désorienté. Je ne sais pas de qui vous êtes ou d'où vous venez, et, pour vous dire la vérité, je m'en fous. Je ne suis qu'un marchand simple, mais les choses ne m'ont pas bien dérangé ici. Donc, j'ai l'intention de voyager dans un autre pays, paisible et sans pluie, j'espère. J'ai entendu dire que dans l'or de l'Est provient des fontaines aquatiques, alors peut-être que je vais essayer ma fortune à Essos.
-dlga_merchant_quest_1_prologue_2:mercant_quest_1_prologue_3|Quoi qu'il en soit, je vous conseille, avant de partir, de faire de même et de chercher votre propre fortune dans d'autres pays. Westeros est un marécage sanglante et ravagé, et son «peuple rien de plus qu'un fourrage de guerre. La pauvreté se nourrit de la faiblesse, et les hommes forts abusent de l'épée et de la lance pour imposer leur pouvoir et leur contrôle sur les humbles. Pour échanger, nous devons payer de lourdes taxes dans chaque ville, trier les bandits et les pirates et prier pour qu'un seigneur local, ignorant et paresseux, ne décide pas d'avoir la moitié de nos marchandises pour financer sa prochaine fête ou campagne de guerre.
-dlga_merchant_quest_1_prologue_3:mercant_quest_1a|Mais je me dépasse. Prenez mon conseil et partez de ce trou de l'enfer. Jusqu'à ce qu'un roi puissant puisse réussir à imposer l'ordre, le droit et l'unité, cette île restera une table de fête de vautour. Ce coin oublié du monde connu est misérable à ses racines, et il n'y a pas de héros pour apporter un léger espoir de paix aux bonnes âmes qui vivent ici. Donc je dis, cherchez votre destinée ailleurs.
-dlga_merchant_quest_1a:mercant_quest_1b|Je suis là pour rester, marchand. Il est faux de penser que les malheurs viennent de l'ouest ou de l'est. Ils appartiennent à l'esprit.
+dlga_start:merchant_quest_1_prologue_1|{s1}
+dlga_merchant_quest_1_prologue_1:merchant_quest_1_prologue_2|Vous semblez un peu désorienté. Je ne sais pas de qui vous êtes ou d'où vous venez, et, pour vous dire la vérité, je m'en fous. Je ne suis qu'un marchand simple, mais les choses ne m'ont pas bien dérangé ici. Donc, j'ai l'intention de voyager dans un autre pays, paisible et sans pluie, j'espère. J'ai entendu dire que dans l'or de l'Est provient des fontaines aquatiques, alors peut-être que je vais essayer ma fortune à Essos.
+dlga_merchant_quest_1_prologue_2:merchant_quest_1_prologue_3|Quoi qu'il en soit, je vous conseille, avant de partir, de faire de même et de chercher votre propre fortune dans d'autres pays. Westeros est un marécage sanglante et ravagé, et son «peuple rien de plus qu'un fourrage de guerre. La pauvreté se nourrit de la faiblesse, et les hommes forts abusent de l'épée et de la lance pour imposer leur pouvoir et leur contrôle sur les humbles. Pour échanger, nous devons payer de lourdes taxes dans chaque ville, trier les bandits et les pirates et prier pour qu'un seigneur local, ignorant et paresseux, ne décide pas d'avoir la moitié de nos marchandises pour financer sa prochaine fête ou campagne de guerre.
+dlga_merchant_quest_1_prologue_3:merchant_quest_1a|Mais je me dépasse. Prenez mon conseil et partez de ce trou de l'enfer. Jusqu'à ce qu'un roi puissant puisse réussir à imposer l'ordre, le droit et l'unité, cette île restera une table de fête de vautour. Ce coin oublié du monde connu est misérable à ses racines, et il n'y a pas de héros pour apporter un léger espoir de paix aux bonnes âmes qui vivent ici. Donc je dis, cherchez votre destinée ailleurs.
+dlga_merchant_quest_1a:merchant_quest_1b|Je suis là pour rester, marchand. Il est faux de penser que les malheurs viennent de l'ouest ou de l'est. Ils appartiennent à l'esprit.
 dlga_merchant_quest_1a:close_window|Non, j'ai des choses plus importantes à faire.
-dlga_merchant_quest_1b:mercant_quest_by|Oh? Oui ... c'est très sage. - Son visage grandit pendant qu'il contemple tes paroles. - Tu es courageux aussi, je vois. Laissez-moi vous aider. Il vous livre un petit sac de cerf d'argent. Maintenant, vous sortez de là, j'ai du travail à faire. Bonne chance étrangère ...
+dlga_merchant_quest_1b:merchant_quest_by|Oh? Oui ... c'est très sage. - Son visage grandit pendant qu'il contemple tes paroles. - Tu es courageux aussi, je vois. Laissez-moi vous aider. Il vous livre un petit sac de cerf d'argent. Maintenant, vous sortez de là, j'ai du travail à faire. Bonne chance étrangère ...
 dlga_merchant_quest_by:close_window|Merci, ami. Un voyage équitable à vous.
 dlga_start:battle_reason_stated.3|Surrender ou mort scum. Fais ton choix
 dlga_battle_reason_stated:close_window|Je n'ai pas peur de vous. Je suis prêt à me battre.
-dlga_start:gratuit|Bonjour. Que puis-je faire pour vous?
+dlga_start:free|Bonjour. Que puis-je faire pour vous?
 dlga_free:view_char_requested|Parlez-moi de vous.
 dlga_view_char_requested:view_char|Très bien, écoutez...
-dlga_view_char:gratuit|Autre chose?
+dlga_view_char:free|Autre chose?
 dlga_end:close_window|[Terminé]
 dlga_start:threaten_1|Si vous tenez à la vie, lâchez vos armes et rendez-vous.
-dlga_threaten_1:fin|Nous allons vous battre en premier
+dlga_threaten_1:end|Nous allons vous battre en premier
 dlga_member_direct_campaign:member_direct_campaign_choice|Oui {monsieur/madame}, quel message souhaitez-vous adresser aux vassaux ?
 dlga_member_direct_campaign_choice:member_direct_campaign_call_to_arms_verify|J'aimerais entamer une nouvelle campagne. Rassemblons l'armée ici.
 dlga_member_direct_campaign_choice:member_give_order_disband_army_verify|Je veux mettre un terme à la campagne, et laisser tout le monde rentrer chez soi.
@@ -5203,8 +5203,8 @@ dlga_mayor_wealth_comparison_1:mayor_wealth_comparison_2|Globalement, la plus ri
 dlga_mayor_wealth_comparison_2:mayor_wealth_comparison_3|En ce qui concerne l'industrie locale, la ville la plus productive de Westeros et Essos est {s4}. {reg4} villes produisent plus que nous ici, à {s5}, et {reg5} produisent moins que nous. Cela dépend bien sûr de l'approvisionnement en matières premières, ainsi que de la prospérité globale de la ville.
 dlga_mayor_wealth_comparison_3:mayor_wealth_comparison_4|En termes de rendement des villages avoisinants, la ville de {s4} est la mieux lotie de Westeros et Essos. Ici, à {s5}, les villages produisent moins que ceux autour de {reg4} villes, mais plus que ceux de {reg5} villes. La richesse des alentours d'une ville dépend bien sûr des aléas de la guerre. Le pillage et les conquêtes peuvent avoir un impact majeur.
 dlga_mayor_wealth_comparison_4:mayor_wealth_comparison_5|En termes de commerce, la ville de {s4} est connue pour avoir reçu le plus de visites de la part de caravanes durant ces derniers mois. Ici, à {s5}, nous sommes moins visités que {reg4} villes, et plus que {reg5}.
-dlga_mayor_wealth_comparison_5:Mayor_pretalk|En termes d'attaques sur les voyageurs, la ville de {s4} est considérée comme la plus dangereuse. Ici dans {s5}, nous sommes moins affligés par les bandits et les raiders que {reg4} villes et plus affligés que {reg5}.
-dlga_start:town_merchant_talk.2|Salutations, {reg59?Ma dame:votre seigneurie}. Comment puis-je vous servir aujourd'hui?
+dlga_mayor_wealth_comparison_5:mayor_pretalk|En termes d'attaques sur les voyageurs, la ville de {s4} est considérée comme la plus dangereuse. Ici dans {s5}, nous sommes moins affligés par les bandits et les raiders que {reg4} villes et plus affligés que {reg5}.
+dlga_start:town_merchant_talk.2|Salutations, {reg59?Ma dame:mon Seigneur}. Comment puis-je vous servir aujourd'hui?
 dlga_trade_requested_weapons:merchant_trade.1|Ah, oui {reg59?Madam:ser}. Ces bras sont les meilleurs que vous trouverez n'importe où.
 dlga_trade_requested_armor:merchant_trade.1|Bien sur, {reg59?Madam:ser}. Pas de meilleurs prix dans tout le monde connu!
 dlga_trade_requested_horse:merchant_trade.1|Vous avez un oeil attentif pour les chevaux, {reg59?Madam:ser}. Vous ne trouverez pas de meilleures bêtes que celles-ci ailleurs.
