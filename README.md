@@ -22,4 +22,4 @@ En effectuant la traduction, j'ai effectué quelques modifications comparé au m
 
 - En effet, comme pour le mod Floris, j'ai ajouté les niveaux des troupes et leur catégorie au nom de ces troupes (Une recrue Nordique sera nommé "I1 Recrue Nordique" ou un archer du Conflans sera nommé "A4 Archer du Conflans" par exemple). Si cela vous embetes, ça peut être vite enlevé avec Notepad (en faisant Control+F).
 
-- Le nom des factions n'est plus lié aux territoires mais est nommé en fonction de celui qui possède ce terroire au début du jeu : Par exemple, au lieu de nommé "Le Nord", j'ai décidé de nommé "Maison Stark".
+- Le nom des factions n'est plus lié aux territoires mais est nommé en fonction de celui qui possède ce territoire au début du jeu : Par exemple, au lieu de nommé "Le Nord", j'ai décidé de nommé "Maison Stark".
