@@ -251,7 +251,7 @@ menu_inn_of_the_kneeling_man|Vous arrivez à l'Inn of the Kneeling Man.
 mno_inn_wait|Restez ici pendant un certain temps {s1}. 
 menu_old_stone_bridge|Vous arrivez à Old Stone Bridge Inn. 
 menu_illyrios_manse|Vous arrivez au Manse d'Illyrio Mopatis. 
-menu_ruined_castle Vous avez rencontré un chateau ruiné. Il y a de nombreux dispersés dans le monde connu, les plus détruits par les Valyriens en utilisant la force totale de leurs dragons dans une tentative d'éradiquer leurs ennemis. Il y a longtemps que ce château s'appelait Qarthigar et son village Taelon. ^ En utilisant les outils et les connaissances correctes, vous pourriez reconstruire celui-ci. Soyez prudent cependant, les raiders ou les slavers pourraient utiliser cet endroit comme leur propre. 
+menu_ruined_castle|Vous avez rencontré un chateau ruiné. Il y en a de nombreux dispersés dans le monde connu, la plupart détruits par les Valyriens en utilisant la force totale de leurs dragons dans une tentative d'éradiquer leurs ennemis. Il y a longtemps que ce château s'appelait Qarthigar et son village Taelon. ^ En utilisant les outils et les connaissances correctes, vous pourriez reconstruire celui-ci. Soyez prudent cependant, les raiders ou les esclavagistes pourraient utiliser cet endroit.
 mno_choice_1_1|Réclamez cet endroit pour vous-même et essayez de reconstruire cette ruine. 
 mno_choice_1_2|Laissez cet endroit seul. 
 menu_harbours|{s0} 
@@ -283,7 +283,7 @@ menu_dhorak_keep|Vous entrez dans le donjon de Dhorak.
 menu_join_siege_outside|{s2} assiège {s1}.
 mno_approach_besiegers|Approcher du camp des assiégeants
 mno_pass_through_siege|Franchir les lignes du siège et entrer dans {s1}
-menu_cut_siege_withoutffight|Les assiégeants vous permettent d'approcher les portes sans défi. 
+menu_cut_siege_without_fight|Les assiégeants vous permettent d'approcher les portes sans problème.
 menu_besiegers_camp_with_allies|{s1} est toujours en état de siège, les bannières du {s2} flottent au-dessus du camp des assiégeants, où vos hommes et vous êtes les bienvenus.
 mno_talk_to_siege_commander|Demander une audience avec le commandant
 mno_change_commander_besiegers_camp_with_allies|Changer de commandant (Commandant actuel: {s7})
@@ -358,7 +358,7 @@ mno_destruir_campos_b|Quelles nouvelles avons-nous sur les hommes que j'ai envoy
 menu_siege_assault|Le temps est de l'or et vous craignez que l'arrivée des renforts soit terminée. L'agression entraînera de lourdes pertes, mais c'est votre décision. ^^ {s17} ^^ {s18} ^ {s4} 
 mno_scout_investigar|Commandez à vos scouts de fournir des informations sur les défenses de {s7}. 
 mno_build_mantlet|Construire des mantelets. 
-mno_poniendo_elementos Préparez-vous à charger avec l'armée principale sous votre commande. 
+mno_poniendo_elementos|Préparez-vous à charger avec l'armée principale sous votre commande.
 mno_poniendo_elementos_mantles|Commandez l'avant-garde pour utiliser des mantelets et préparez-vous à charger avec l'armée principale sous votre commande. 
 mno_change_commander_castle_besiege|Changer de commandant (Commandant actuel: {s7})
 menu_siege_attack_meets_sally|Des défenseurs tentent une sortie afin de vous surprendre et de contrer votre assaut.
@@ -374,7 +374,7 @@ mno_build_battering_ram_cont|Commencez à construire le frappeur.
 menu_build_mantles2|En tant que membre du parti ayant le plus haut niveau d'ingénieur ({reg2}), {reg3?Vous estimez: {s3} estimations} qu'il faudra {reg4} heures pour construire des mantelets prêts pour l'assaut. 
 menu_castle_attack_walls_simulate|{s4}^^Vos pertes:{s8}^^Pertes ennemies: {s9}
 menu_castle_attack_walls_simulate2|{s4} ^^ Vos victimes: {s8} ^^ Les pertes ennemies étaient: {s9} 
-menu_sneak_into_considéré2|Déguisé et sous la couverture de l'obscurité, vous infiltre {s4}. Il est temps de considérer leurs défenses. 
+menu_sneak_into_town_suceeded2|Déguisé et grâce de l'obscurité, vous infiltrez {s4}. Il est temps de considérer leurs défenses.
 menu_construct_saneamiento|L'assainissement est important pour prévenir les rats et les maladies. Il est possible de construire des latrines et des pipelines pour empêcher l'accumulation de boue et de la saleté flottant avec la pluie et creuser une fosse pour assurer l'approvisionnement en eau. ^^ En tant que membre du parti ayant la compétence ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estimations} qu'il faudra {reg4} heures. 
 mno_build_saneamiento|Construire l'assainissement. 
 menu_construct_circunvalation|En tant que membre du parti ayant la compétence ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estimations} qu'il faudra {reg4} heures pour construire des défenses de règlement. Les mesures de règlement empêchent les escarmouches ennemies et les fournitures alimentaires d'arriver au règlement. Il protège également vos troupes pendant le siège et cause une peine au moral de l'ennemi. 
@@ -685,7 +685,7 @@ mno_to_price_and_productions|Afficher les prix et les productions
 menu_price_and_production|Biens produits :^{s1}^^Facteurs de prix :^{s2}
 menu_town_trade|Place du marché
 mno_assess_prices|Évaluer les opportunités commerciales
-mno_trophies: échangez vos trophées de combat.
+mno_trophies|échangez vos trophées de combat.
 mno_trade_with_arms_merchant|- Marchand d'armes -
 mno_trade_with_armor_merchant|- Marchand d'armures -
 mno_trade_with_horse_merchant|- Marchand de chevaux -
@@ -697,12 +697,12 @@ mno_trade_trophy_b|Trade in your war trophy.
 mno_trade_trophy_c|Trade in your épic trophy
 menu_town_trade_assessment_begin|Vous surprenez plusieurs discussions au sujet du prix des marchandises dans la région. Vous écoutez attentivement afin de pouvoir réaliser les meilleures affaires.
 menu_town_trade_assessment|Étant le membre du groupe le plus au fait des négoces ({reg2} en Marchandage), {reg3?vous essayez d'estimer:{s1} essaie d'estimer} les biens les plus rentables. {s2}
-menu_sneak_ dans_town_suceeded|Déguisé dans les vêtements d'un pèlerin pauvre, vous tromper les gardes et faire votre chemin dans la ville.
+menu_sneak_into_town_suceeded|Déguisé en pèlerin, vous parvenez à tromper les gardes et à passer les portes.
 menu_sneak_into_town_caught|Tandis que vous essayez de vous infiltrer, un des gardes vous reconnaît et lance l'alarme. ^Vous devez passez les portes pour vous enfuir avant que toute la garnison ne vous tombe dessus !
 mno_sneak_caught_fight|Essayer de fuir
 mno_sneak_caught_surrender|Se rendre
-menu_sneak_into_city_caught_dispersed_guards|Vous débranchez les gardes et couvrez votre parcours avant de fuir, perdant facilement vos poursuivants dans le labyrinthe des rues.
-menu_sneak_to_town_caught_ran_away|Vous reculez dans les portes et reculez rapidement vers la sécurité de la campagne. {S11}
+menu_sneak_into_town_caught_dispersed_guards|Vous chassez les gardes et couvrez vos traces avant de fuir, perdant facilement vos poursuivants dans le labyrinthe des rues.
+menu_sneak_into_town_caught_ran_away|Vous reculez dans les portes et reculez rapidement vers la sécurité de la campagne. {S11}
 menu_enemy_offer_ransom_for_prisoner|{s2} vous offre la somme de {reg12} cerfs d'argent si vous acceptez de lui vendre {s1}.
 mno_ransom_accept|Accepter l'offre
 mno_ransom_reject|Refuser l'offre
@@ -772,10 +772,10 @@ menu_question_peace_offer|Vous propose un traité d'armistice^^{s1} vous offre d
 mno_peace_offer_accept|Accepter et faire la paix
 mno_dplmc_peace_offer_terms|Dicter les termes de la paix
 mno_peace_offer_reject|Poursuivre les hostilités
-menu_notification_truce_expiré|La trêve a expiré ^^ La trêve entre {s1} et {s2} a expiré.
-menu_notification_feast_quest_expiré|{s10}
+menu_notification_truce_expired|La trêve a expiré ^^ La trêve entre {s1} et {s2} a expiré.
+menu_notification_feast_quest_expired|{s10}
 menu_notification_sortie_possible|Ennemis repérés à l'extérieur des remparts de {s4}. {s5} et d'autres préparent une sortie à laquelle vous pouvez vous joindre si le cœur vous en dit.
-menu_notification_casus_belli_expiré|Kingdom Fails to Responder ^^ Le {s1} n'a pas répondu aux provocations du {s2}, et {s3} souffre d'une perte de visage parmi {reg4?Elle: ses plus de sujets belliqueux ...^
+menu_notification_casus_belli_expired|Le royaume ne cède pas^^Le {s1} n'a pas riposté aux provocations du {s2}, et les sujets les plus belliqueux du {s3} lui font subir une véritable humiliation...^
 menu_notification_lord_defects|Défection, {s4} a abandonné le {s5} et rejoint le {s7} en emportant ses fiefs.
 menu_notification_treason_indictment|Inculpation pour trahison^^{s9}
 menu_notification_border_incident|Incident frontalier^^Vous apprenez que {s9}. Vous ignorez si ces rumeurs sont fondées, mais vous savez que cet insignifiant incident a attisé les anciennes rancoeurs au sein du {s4} qui risque d'en profiter pour déclarer la guerre au {s3}, s'il le désire.
@@ -807,13 +807,14 @@ menu_notification_village_raided|Les ennemis ravagent un fief^^{s1} a été pill
 menu_notification_village_raid_started|Votre village est attaqué !^^{s2} du {s3} pille {s1}.
 menu_notification_one_faction_left|"Les Sept Royaumes et Essos ont été conquis par un dirigeant ^^ {s1} a vaincu tous ses rivaux et s'est assuré l'hégémonie sur l'ensemble du monde connu !
 "
+menu_notification_peace_declared|Accord de paix^^Le {s1} et le {s2} ont signé un accord de paix !
 menu_notification_oath_renounced_faction_defeated|Votre ancienne faction a été vaincue.^^Vous avez triomphé et brillamment défait le {s1} ! Cela met un terme aux hostilités qui avaient débuté après que vous ayez rompu votre serment d'allégeance.
 menu_notification_center_lost|Un fief est perdu^^Vous perdez {s1}, c'est maintenant le {s2} qui le possède.
 menu_notification_troop_left_players_faction|Trahison !^^{s1} a quitté le {s2} et rejoint le {s3}.
 menu_notification_troop_joined_players_faction|Bonne nouvelle !^^ {s1} a quitté le {s2} et rejoint le {s3}.
 menu_notification_war_declared|Déclaration de guerre^^{s1} a déclaré la guerre contre le {s2} !
 L'accord de paix ^^ {s1} et {s2} ont fait la paix!^ {S57} ^ Ces deux peuples ont cessé de se battre - pour l'instant. Peut-être une nation utilisera-t-elle le temps d'affûter un couteau frais pour plonger dans le cœur de son ennemi ...
-menu_notification_faction_destallé|Faction Eliminée ^^ {s1} n'est plus!
+menu_notification_faction_defeated|Faction éliminée^^Le {s1} n'est plus !
 menu_notification_rebels_switched_to_faction|Triomphe de la rébellion !^^ Votre rebellion est victorieuse ! Votre faction est désormais la seule à pouvoir réclamer le titre de {s11}, avec {s12} comme seul souverain.
 menu_notification_player_should_consult|Votre ministre vous fait savoir que des problèmes couvent dans le royaume, à défaut d'être résolus, ceux-ci risquent de saper votre autorité. Vous devriez le consulter au plus vite.| reg0?Votre ministre: {s11}} envoie des mots qu'il y a des problèmes de brassage dans le domaine qui, s'il n'est pas traité, pourrait nuire à votre autorité. Vous devriez consulter {reg4?Elle: lui} le plus tôt possible
 menu_notification_player_feast_in_progress|Banquet en préparation^^Votre épouse a entamé les préparatifs d'un banquet dans la salle d'honneur de {s11}.
@@ -928,7 +929,7 @@ mno_camp_build_watchtower|Construire unn Outpost. Il coûte 25000 cerfs d'argent
 mno_fort_rename|Renommez votre Outpost.
 mno_camp_demolish_watchtower|Supprimez votre Outpost. Cela coûtera 5000 cerfs d'argent.
 mno_camp_end_watchtower|Retournez à votre camp.
-menu_contratar_personnel|menu de recrutement du personnel de fortification.
+menu_contratar_personal|Menu de recrutement du personnel de fortification.
 mno_contratar_hoar|Louez une putain. Cela vous coûtera 1500 cerfs d'argent.
 mno_despedir_hoar|Demandez à la prostituée de partir. Vous devrez payer 500 cerfs d'argent.
 mno_hire_maester|Louez un maester. Cela vous coûtera 2000 cerfs d'argent.
@@ -1026,9 +1027,9 @@ mno_dplmc_trade_offer_reject|Rejeter
 menu_dplmc_question_nonaggression_offer|Vous recevez une offre de pacte !^^{s1} vous propose un traité de non-agression. Quelle est votre réponse ?
 mno_dplmc_nonaggression_offer_accept|Accepter
 mno_dplmc_nonaggression_offer_reject|Rejeter
-menu_dplmc_notification_alliance_expiré|Alliance a expiré ^^ L'alliance entre {s1} et {s2} a expiré et a été dégradée dans un pacte défensif.
-menu_dplmc_notification_defensive_expiré|Le pacte défensif a expiré ^^ Le pacte défensif entre {s1} et {s2} a expiré et a été dégradé à un accord commercial.
-menu_dplmc_notification_trade_expiré|L'accord commercial a expiré ^^ L'accord commercial entre {s1} et {s2} a expiré et a été dégradé à un traité de non-agression.
+menu_dplmc_notification_alliance_expired|Alliance a expiré ^^ L'alliance entre {s1} et {s2} a expiré et a été dégradée dans un pacte défensif.
+menu_dplmc_notification_defensive_expired|Le pacte défensif a expiré ^^ Le pacte défensif entre {s1} et {s2} a expiré et a été dégradé à un accord commercial.
+menu_dplmc_notification_trade_expired|L'accord commercial a expiré ^^ L'accord commercial entre {s1} et {s2} a expiré et a été dégradé à un traité de non-agression.
 menu_dplmc_dictate_terms|Dicter vos conditions de paix.
 mno_dplmc_demand_4000|Demander 4000 cerfs d'argent
 mno_dplmc_demand_8000|Demander 8000 cerfs d'argent
@@ -1217,7 +1218,7 @@ mno_choice_35_2|Vous regardez votre jeune lieutenant et votre humeur devient sou
 mno_choice_35_3|Vous parvenez à forcer un sourire alors que votre rire de camarade vous entoure. Vous décidez que ce jeune comédien serait plus drôle avec sa tête sur un pic.
 menu_event_36|Vous rencontrez ce qui est évidemment des bovins errants d'un village voisin
 mno_choice_36_1|Revenez les animaux au village et ne demande aucune récompense.
-mno_choice_36_2 Retourne les animaux. Pour un prix.
+mno_choice_36_2|Retourne les animaux. Pour un prix.
 mno_choice_36_3|Dîner! Rondez et abattez les animaux.
 menu_event_37|Un voyageur vous indique où trouver un petit groupe de colons.
 mno_choice_37_1|Vous attaquez le petit groupe, abattuz facilement vos ennemis malheureux d'une embuscade, laissant peu de survivants.

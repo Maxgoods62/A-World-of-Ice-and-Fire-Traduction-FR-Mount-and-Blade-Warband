@@ -90,14 +90,14 @@ trp_mercenary_cavalry|Cavalier Veteran
 trp_mercenary_cavalry_pl|Cavaliers Veteran 
 trp_mercenaries_end|fin des mercenaires
 trp_mercenaries_end_pl|fin des mercenaires
-trp_local_lord|Seigneur
-trp_local_lord_pl|Seigneurs
+trp_local_lord|I5 Seigneur
+trp_local_lord_pl|I5 Seigneurs
 trp_local_lord_mounted|Seigneur
 trp_local_lord_mounted_pl|Seigneurs
 trp_dornish_peasant|I1 Paysan de Dorne 
 trp_dornish_peasant_pl|I1 Paysans de Dorne
 trp_dornish_recruit|I2 Recrue de Dorne
-trp_dornish_recruit_pl|I2 Recrue de Dorne
+trp_dornish_recruit_pl|I2 Recrues de Dorne
 trp_dornish_archer|A3 Archer de Dorne 
 trp_dornish_archer_pl|A3 Archers de Dorne 
 trp_dornish_spearman|I3 Lancier de Dorne 
@@ -116,18 +116,18 @@ trp_dornish_spearman_heavy|I5 Lancier lourd de Dorne
 trp_dornish_spearman_heavy_pl|I5 Lanciers lourd de Dorne 
 trp_dornish_hornman|Trompettiste de Dorne
 trp_dornish_hornman_pl|Trompettistes de Dorne
-trp_dorne_standard_bearer|de Dorne Standard Bearer
-trp_dorne_standard_bearer_pl|de Dorne Standard Bearers
-trp_dorne_messenger|Messager de Dorne
-trp_dorne_messenger_pl|Messagers de Dorne
-trp_dornish_deserter|Déserteur de Dorne
-trp_dornish_deserter_pl|Déserteurs de Dorne
-trp_dornish_prison_guard|Garde de Prison de Dorne
-trp_dornish_prison_guard_pl|Garde de Prisons de Dorne
-trp_dornish_castle_guard|Garde de Dorne
-trp_dornish_castle_guard_pl|Gardes de Dorne
-trp_dornish_local_lord|Noble de Dorne
-trp_dornish_local_lord_pl|Nobles de Dorne
+trp_dorne_standard_bearer|Porte-étendard de Dorne 
+trp_dorne_standard_bearer_pl|Porte-étendards de Dorne 
+trp_dorne_messenger|C5 Messager de Dorne
+trp_dorne_messenger_pl|C5 Messagers de Dorne
+trp_dornish_deserter|I4 Déserteur de Dorne
+trp_dornish_deserter_pl|I4 Déserteurs de Dorne
+trp_dornish_prison_guard|I4+ Geôlier de Dorne
+trp_dornish_prison_guard_pl|I4+ Geôliers de Dorne
+trp_dornish_castle_guard|I4+ Garde de Dorne
+trp_dornish_castle_guard_pl|I4+ Gardes de Dorne
+trp_dornish_local_lord|C5 Noble de Dorne
+trp_dornish_local_lord_pl|c5 Nobles de Dorne
 trp_herdsman|Herdsman
 trp_herdsman_pl|Herdsmen
 trp_guardians|Guardian
@@ -161,7 +161,7 @@ trp_free_city_hornman_pl|Trompettistes
 trp_stormlands_peasant|I1 Paysan des Terres de l'Orage
 trp_stormlands_peasant_pl|I1 Paysans des Terres de l'Orage
 trp_stormlands_recruit|I2 Recrue des Terres de l'Orage
-trp_stormlands_recruit_pl|I2 Recrue des Terres de l'Orage
+trp_stormlands_recruit_pl|I2 Recrues des Terres de l'Orage
 trp_stormlands_forester|A3 Forestier des Terres de l'Orage
 trp_stormlands_forester_pl|A3 Forestiers des Terres de l'Orage
 trp_stormlands_militia|I3 Milicien des Terres de l'Orage
@@ -176,18 +176,18 @@ trp_stormlands_mounted_knight|C5 Chevalier monté des Terres de l'Orage
 trp_stormlands_mounted_knight_pl|C5 Chevaliers montés des Terres de l'Orage
 trp_stormlands_hornman|Trompettiste des Terres de l'Orage
 trp_stormlands_hornman_pl|Trompettistes des Terres de l'Orage
-trp_stormlands_standard_bearer|des Terres de l'Orage Standard Bearer
-trp_stormlands_standard_bearer_pl|des Terres de l'Orage Standard Bearers
-trp_stormlands_messenger|Messager des Terres de l'Orage
-trp_stormlands_messenger_pl|Messagers des Terres de l'Orage
-trp_stormlands_deserter|Déserteur des Terres de l'Orage
-trp_stormlands_deserter_pl|Déserteurs des Terres de l'Orage
-trp_stormlands_prison_guard|Garde de Prison des Terres de l'Orage
-trp_stormlands_prison_guard_pl|Garde de Prisons des Terres de l'Orage
-trp_stormlands_castle_guard|Garde des Terres de l'Orage
-trp_stormlands_castle_guard_pl|Gardes des Terres de l'Orage
-trp_stormlands_local_lord|Seigneur des Terres de l'Orage
-trp_stormlands_local_lord_pl|Seigneurs des Terres de l'Orage
+trp_stormlands_standard_bearer|Porte-étendard des Terres de l'Orage 
+trp_stormlands_standard_bearer_pl|Porte-étendards des Terres de l'Orage 
+trp_stormlands_messenger|C5 Messager des Terres de l'Orage
+trp_stormlands_messenger_pl|C5 Messagers des Terres de l'Orage
+trp_stormlands_deserter|I4 Déserteur des Terres de l'Orage
+trp_stormlands_deserter_pl|I4 Déserteurs des Terres de l'Orage
+trp_stormlands_prison_guard|I4+ Geôlier des Terres de l'Orage
+trp_stormlands_prison_guard_pl|I4+ Geôliers des Terres de l'Orage
+trp_stormlands_castle_guard|I4+ Garde des Terres de l'Orage
+trp_stormlands_castle_guard_pl|I4+ Gardes des Terres de l'Orage
+trp_stormlands_local_lord|I5 Seigneur des Terres de l'Orage
+trp_stormlands_local_lord_pl|I5 Seigneurs des Terres de l'Orage
 trp_dragonstone_peasant|I1 Paysan de Peyredragon
 trp_dragonstone_peasant_pl|I1 Paysans de Peyredragon 
 trp_dragonstone_recruit|I2 Recrue de Peyredragon
@@ -208,22 +208,22 @@ trp_dragonstone_queensmen|Queen's Man
 trp_dragonstone_queensmen_pl| Queen's Men
 trp_dragonstone_hornman|Trompettiste de Peyredragon 
 trp_dragonstone_hornman_pl|Trompettistes de Peyredragon 
-trp_dragonstone_standard_bearer|Peyredragon Standard Bearer
-trp_dragonstone_standard_bearer_pl|Peyredragon Standard Bearers
-trp_dragonstone_messenger|Messager de Peyredragon 
-trp_dragonstone_messenger_pl|Messagers de Peyredragon 
-trp_dragonstone_deserter|Déserteur de Peyredragon 
-trp_dragonstone_deserter_pl|Déserteurs de Peyredragon 
-trp_dragonstone_prison_guard|Garde de Prison de Peyredragon 
-trp_dragonstone_prison_guard_pl|Garde de Prisons de Peyredragon 
-trp_dragonstone_castle_guard|Garde de Peyredragon 
-trp_dragonstone_castle_guard_pl|Gardes de Peyredragon 
+trp_dragonstone_standard_bearer|Porte-étendard de Peyredragon 
+trp_dragonstone_standard_bearer_pl|Porte-étendards de Peyredragon 
+trp_dragonstone_messenger|C5 Messager de Peyredragon 
+trp_dragonstone_messenger_pl|C5 Messagers de Peyredragon 
+trp_dragonstone_deserter|I4 Déserteur de Peyredragon 
+trp_dragonstone_deserter_pl|I4 Déserteurs de Peyredragon 
+trp_dragonstone_prison_guard|I4+ Geôlier de Peyredragon 
+trp_dragonstone_prison_guard_pl|I4+ Geôliers de Peyredragon 
+trp_dragonstone_castle_guard|I4+ Garde de Peyredragon 
+trp_dragonstone_castle_guard_pl|I4+ Gardes de Peyredragon 
 trp_dragonstone_local_lord|Noble de Peyredragon 
 trp_dragonstone_local_lord_pl|Noble de Peyredragon 
 trp_westerlands_peasant|I1 Paysan des Terres de l'Ouest
 trp_westerlands_peasant_pl|I1 Paysans des Terres de l'Ouest
 trp_westerlands_recruit|I2 Recrue des Terres de l'Ouest
-trp_westerlands_recruit_pl|I2 Recrue des Terres de l'Ouest
+trp_westerlands_recruit_pl|I2 Recrues des Terres de l'Ouest
 trp_westerlands_foot_soldier|I3 Fantassin des Terres de l'Ouest
 trp_westerlands_foot_soldier_pl|I3 Fantassins des Terres de l'Ouest
 trp_westerlands_crossbowman|A3 Archer des Terres de l'Ouest
@@ -242,54 +242,54 @@ trp_westerlands_red_cloak_knight|C6 Chevalier monté des Terres de l'Ouest
 trp_westerlands_red_cloak_knight_pl|C6 Chevaliers montés des Terres de l'Ouest
 trp_westerland_hornman|Trompettiste des Terres de l'Ouest
 trp_westerland_hornman_pl|Trompettistes des Terres de l'Ouest
-trp_westerland_standard_bearer|des Terres de l'Ouest Standard Bearer
-trp_westerland_standard_bearer_pl|des Terres de l'Ouest Standard Bearers
-trp_westerlands_messenger|Messager des Terres de l'Ouest
-trp_westerlands_messenger_pl|Messager des Terres de l'Ouest
-trp_westerlands_deserter|Déserteur des Terres de l'Ouest
-trp_westerlands_deserter_pl|Déserteurs des Terres de l'Ouest
+trp_westerland_standard_bearer|Porte-étendard des Terres de l'Ouest 
+trp_westerland_standard_bearer_pl|Porte-étendards des Terres de l'Ouest 
+trp_westerlands_messenger|C5 Messager des Terres de l'Ouest
+trp_westerlands_messenger_pl|C5 Messager des Terres de l'Ouest
+trp_westerlands_deserter|I4 Déserteur des Terres de l'Ouest
+trp_westerlands_deserter_pl|I4 Déserteurs des Terres de l'Ouest
 trp_westerlands_prison_guard|Gardiens de Prison des Terres de l'Ouest
-trp_westerlands_prison_guard_pl|Gardiens de Prisons des Terres de l'Ouest
-trp_westerlands_castle_guard|Garde des Terres de l'Ouest
-trp_westerlands_castle_guard_pl|Gardes des Terres de l'Ouest
-trp_westerlands_local_lord|Seigneur des Terres de l'Ouest
-trp_westerlands_local_lord_pl|Seigneurs des Terres de l'Ouest
-trp_westerlands_lannister_recruit|Recrue Lannister
-trp_westerlands_lannister_recruit_pl|Recrues Lannister
-trp_westerlands_lannister_foot_soldier|Fantassin Lannister
-trp_westerlands_lannister_foot_soldier_pl|Fantassins Lannister
-trp_westerlands_lannister_crossbowman|Archer Lannister
-trp_westerlands_lannister_crossbowman_pl|Archers Lannister
-trp_westerlands_lannister_infantry|Infanterie Lannister
-trp_westerlands_lannister_infantry_pl|Infanterie Lannister
-trp_westerlands_lannister_scout|Éclaireur Lannister
-trp_westerlands_lannister_scout_pl|Éclaireur Lannister
-trp_westerlands_lannister_arbelester|Arbalétriers Lannister
-trp_westerlands_lannister_arbelester_pl|Arbalétriers Lannister
-trp_westerlands_lannister_freerider|Cavalier Lannister
-trp_westerlands_lannister_freerider_pl|Cavalier Lannister
-trp_westerlands_lannister_lannisguard|Chevalier Lannister
-trp_westerlands_lannister_lannisguard_pl|Chevalier Lannister
-trp_westerlands_lannister_red_cloak_knight|Chevalier Lannister
-trp_westerlands_lannister_red_cloak_knight_pl|Chevaliers Lannister
+trp_westerlands_prison_guard_pl|I4+ Geôliers des Terres de l'Ouest
+trp_westerlands_castle_guard|I4+ Garde des Terres de l'Ouest
+trp_westerlands_castle_guard_pl|I4+ Gardes des Terres de l'Ouest
+trp_westerlands_local_lord|I5 Seigneur des Terres de l'Ouest
+trp_westerlands_local_lord_pl|I5 Seigneurs des Terres de l'Ouest
+trp_westerlands_lannister_recruit|I2 Recrue Lannister
+trp_westerlands_lannister_recruit_pl|I2 Recrues Lannister
+trp_westerlands_lannister_foot_soldier|I3 Fantassin Lannister
+trp_westerlands_lannister_foot_soldier_pl|I3 Fantassins Lannister
+trp_westerlands_lannister_crossbowman|A3 Archer Lannister
+trp_westerlands_lannister_crossbowman_pl|A3 Archers Lannister
+trp_westerlands_lannister_infantry|I4 Infanterie Lannister
+trp_westerlands_lannister_infantry_pl|I4 Infanterie Lannister
+trp_westerlands_lannister_scout|C4 Éclaireur Lannister
+trp_westerlands_lannister_scout_pl|C4 Éclaireur Lannister
+trp_westerlands_lannister_arbelester|A4 Arbalétriers Lannister
+trp_westerlands_lannister_arbelester_pl|A4 Arbalétriers Lannister
+trp_westerlands_lannister_freerider|C5 Cavalier Lannister
+trp_westerlands_lannister_freerider_pl|C5 Cavalier Lannister
+trp_westerlands_lannister_lannisguard|I5 Chevalier Lannister
+trp_westerlands_lannister_lannisguard_pl|I5 Chevalier Lannister
+trp_westerlands_lannister_red_cloak_knight|C6 Chevalier Lannister
+trp_westerlands_lannister_red_cloak_knight_pl|C6 Chevaliers Lannister
 trp_westerland_lannister_hornman|Trompettiste Lannister
 trp_westerland_lannister_hornman_pl|Trompettistes Lannister
-trp_westerland_lannister_standard_bearer|Lannister Standard Bearer
-trp_westerland_lannister_standard_bearer_pl|Lannister Standard Bearers
-trp_westerlands_lannister_messenger|Messager Lannister
-trp_westerlands_lannister_messenger_pl|Messagers Lannister
-trp_westerlands_lannister_deserter|Déserteur Lannister
-trp_westerlands_lannister_deserter_pl|Déserteurs Lannister
-trp_westerlands_lannister_prison_guard|Gardien de Prison Lannister
-trp_westerlands_lannister_prison_guard_pl|Gardien de Prisons Lannister
-trp_westerlands_lannister_castle_guard|Garde Lannister
-trp_westerlands_lannister_castle_guard_pl|Gardes Lannister
-trp_westerlands_lannister_local_lord|Seigneur Lannister
-trp_westerlands_lannister_local_lord_pl|Seigneurs Lannister
+trp_westerland_lannister_standard_bearer|Porte-étendard Lannister 
+trp_westerland_lannister_standard_bearer_pl|Porte-étendards Lannister 
+trp_westerlands_lannister_messenger|C5 Messager Lannister
+trp_westerlands_lannister_messenger_pl|C5 Messagers Lannister
+trp_westerlands_lannister_deserter|I4 Déserteur Lannister
+trp_westerlands_lannister_deserter_pl|I4 Déserteurs Lannister
+trp_westerlands_lannister_prison_guard|I4+ Geôlier Lannister
+trp_westerlands_lannister_prison_guard_pl|I4+ Geôliers Lannister
+trp_westerlands_lannister_castle_guard|I4+ Garde Lannister
+trp_westerlands_lannister_castle_guard_pl|I4+ Gardes Lannister
+trp_westerlands_lannister_local_lord|I5 Seigneur Lannister
+trp_westerlands_lannister_local_lord_pl|I5 Seigneurs Lannister
 trp_reach_peasant|I1 Paysan du Bief
 trp_reach_peasant_pl|I1 Paysans du Bief
 trp_reach_recruit|I2 Recrue du Bief 
-trp_reach_recruit_pl|I2 Recrue du Bief
+trp_reach_recruit_pl|I2 Recrues du Bief
 trp_reach_rider|C3 Cavalier du Bief
 trp_reach_rider_pl|C3 Cavaliers du Bief 
 trp_reach_footman|I3 Fantassin du Bief
@@ -308,22 +308,22 @@ trp_reach_swornsword|C6 Grand Chevalier du Bief
 trp_reach_swornsword_pl|C6 Grand Chevalier du Bief 
 trp_reach_hornman|Trompettiste du Bief
 trp_reach_hornman_pl|Trompettistes du Bief
-trp_reach_standard_bearer|du Bief Standard Bearer
-trp_reach_standard_bearer_pl|du Bief Standard Bearers
-trp_reach_messenger|Messager du Bief
-trp_reach_messenger_pl|Messagers du Bief
-trp_reach_deserter|du Bief Déserteur du Bief
-trp_reach_deserter_pl|Déserteurs du Bief
-trp_reach_prison_guard|Gardien de Prison du Bief
-trp_reach_prison_guard_pl|Gardien de Prisons du Bief
-trp_reach_castle_guard|Garde du Bief
-trp_reach_castle_guard_pl|Gardes du Bief
-trp_reach_local_lord|Seigneur du Bief
-trp_reach_local_lord_pl|Seigneurs du Bief
+trp_reach_standard_bearer|Porte-étendard du Bief 
+trp_reach_standard_bearer_pl|Porte-étendards du Bief 
+trp_reach_messenger|C5 Messager du Bief
+trp_reach_messenger_pl|C5 Messagers du Bief
+trp_reach_deserter|du Bief I4 Déserteur du Bief
+trp_reach_deserter_pl|I4 Déserteurs du Bief
+trp_reach_prison_guard|I4+ Geôlier du Bief
+trp_reach_prison_guard_pl|I4+ Geôliers du Bief
+trp_reach_castle_guard|I4+ Garde du Bief
+trp_reach_castle_guard_pl|I4+ Gardes du Bief
+trp_reach_local_lord|I5 Seigneur du Bief
+trp_reach_local_lord_pl|I5 Seigneurs du Bief
 trp_north_peasant|I1 Paysan Nordique
 trp_north_peasant_pl|I1 Paysans Nordique
 trp_north_recruit|I2 Recrue Nordique
-trp_north_recruit_pl|I2 Recrue Nordique
+trp_north_recruit_pl|I2 Recrues Nordique
 trp_north_footman|I3 Fantassin Nordique
 trp_north_footman_pl|I3 Fantassins Nordique
 trp_north_archer|A3 Archer Nordique
@@ -342,8 +342,8 @@ trp_north_pikeman|I5 Lancier Nordique
 trp_north_pikeman_pl|I5 Lanciers Nordique
 trp_north_house_guard|I6 Garde Nordique
 trp_north_house_guard_pl|I6 Gardes Nordique
-trp_white_harbour_knights|White Harbour Chevalier
-trp_white_harbour_knights_pl|White Harbour Chevaliers
+trp_white_harbour_knights|C6 White Harbour Chevalier
+trp_white_harbour_knights_pl|C6 White Harbour Chevaliers
 trp_wild_hare|Wild Hare
 trp_wild_hare_pl|Wild Hares
 trp_wild_hare_vet|Veteran Wild Hare
@@ -352,20 +352,20 @@ trp_benfred_tallhart|Benfred Tallhart
 trp_benfred_tallhart_pl|Benfred Tallhart
 trp_north_hornman|Trompettiste Nordique
 trp_north_hornman_pl|Trompettistes Nordique
-trp_north_messenger|Messager Nordique
-trp_north_messenger_pl|Messagers Nordique
-trp_north_deserter|Déserteur Nordique
-trp_north_deserter_pl|Déserteurs Nordique
-trp_north_prison_guard|Gardien de Prison Nordique
-trp_north_prison_guard_pl|Gardien de Prisons Nordique
-trp_north_castle_guard|Garde Nordique
-trp_north_castle_guard_pl|Gardes Nordique
-trp_north_standard_bearer|Nordique Standard Bearer
-trp_north_standard_bearer_pl|Nordique Standard Bearers
-trp_north_local_lord|Seigneur Nordique
-trp_north_local_lord_pl|Seigneurs Nordique
-trp_north_karstark_recruit|Karstark Recrue 
-trp_north_karstark_recruit_pl|Karstark Recrue
+trp_north_messenger|C5 Messager Nordique
+trp_north_messenger_pl|C5 Messagers Nordique
+trp_north_deserter|I4 Déserteur Nordique
+trp_north_deserter_pl|I4 Déserteurs Nordique
+trp_north_prison_guard|I4+ Geôlier Nordique
+trp_north_prison_guard_pl|I4+ Geôliers Nordique
+trp_north_castle_guard|I4+ Garde Nordique
+trp_north_castle_guard_pl|I4+ Gardes Nordique
+trp_north_standard_bearer|Porte-étendard Nordique 
+trp_north_standard_bearer_pl|Porte-étendards Nordique 
+trp_north_local_lord|I5 Seigneur Nordique
+trp_north_local_lord_pl|I5 Seigneurs Nordique
+trp_north_karstark_recruit|Karstark I2 Recrue 
+trp_north_karstark_recruit_pl|Karstark I2 Recrue
 trp_north_karstark_footman|Karstark Fantassin
 trp_north_karstark_footman_pl|Karstark Fantassins
 trp_north_karstark_archer|Karstark Archer
@@ -386,54 +386,54 @@ trp_north_karstark_household_guard|Karstark Household Garde
 trp_north_karstark_household_guard_pl|Karstark Household Garde
 trp_north_karstark_hornman|Karstark Trompettiste
 trp_north_karstark_hornman_pl|Karstark Trompettistes
-trp_north_karstark_messenger|Karstark Messager
+trp_north_karstark_messenger|Karstark C5 Messager
 trp_north_karstark_messenger_pl|Karstark messengers
-trp_north_karstark_deserter|Karstark Déserteur
-trp_north_karstark_deserter_pl|Karstark Déserteurs
-trp_north_karstark_prison_guard|Karstark Garde de Prison
-trp_north_karstark_prison_guard_pl|Karstark Garde de Prisons
+trp_north_karstark_deserter|Karstark I4 Déserteur
+trp_north_karstark_deserter_pl|Karstark I4 Déserteurs
+trp_north_karstark_prison_guard|Karstark I4+ Geôlier
+trp_north_karstark_prison_guard_pl|Karstark I4+ Geôliers
 trp_north_karstark_castle_guard|Karstark Household Garde
 trp_north_karstark_castle_guard_pl|Karstark Household Gardes
-trp_north_karstark_standard_bearer|Karstark Standard Bearer
-trp_north_karstark_standard_bearer_pl|Karstark Standard Bearers
+trp_north_karstark_standard_bearer|Karstark Porte-étendard
+trp_north_karstark_standard_bearer_pl|Karstark Porte-étendards
 trp_north_karstark_local_lord|Karstark Seigneur
 trp_north_karstark_local_lord_pl|Karstark Seigneurs
-trp_north_stark_recruit|Recrue Stark
-trp_north_stark_recruit_pl|Recrue Stark
-trp_north_stark_footman|Fantassin Stark
-trp_north_stark_footman_pl|Fantassins Stark
-trp_north_stark_archer|Archer Stark 
-trp_north_stark_archer_pl|Archers Stark
-trp_north_stark_guardsman|Homme d'arme Stark
-trp_north_stark_guardsman_pl|Hommes d'armes Stark
-trp_north_stark_hunting_archers|Archer Stark
-trp_north_stark_hunting_archers_pl|Archers Stark
-trp_north_stark_horseman|Cavalier Stark 
-trp_north_stark_horseman_pl|Cavaliers Stark
-trp_north_stark_cavalry|Grand Cavalier Stark
-trp_north_stark_cavalry_pl|Grand Cavalier Stark
-trp_north_stark_guard|Garde Stark
-trp_north_stark_guard_pl|Gardes Stark
-trp_north_stark_pikeman|Lancier Stark 
-trp_north_stark_pikeman_pl|Stark Lanciers
-trp_north_stark_household_guard|Garde Stark
-trp_north_stark_household_guard_pl|Garde Stark
+trp_north_stark_recruit|I2 Recrue Stark
+trp_north_stark_recruit_pl|I2 Recrues Stark
+trp_north_stark_footman|I3 Fantassin Stark
+trp_north_stark_footman_pl|I3 Fantassins Stark
+trp_north_stark_archer|A3 Archer Stark 
+trp_north_stark_archer_pl|A3 Archers Stark
+trp_north_stark_guardsman|I4 Homme d'arme Stark
+trp_north_stark_guardsman_pl|I4 Hommes d'armes Stark
+trp_north_stark_hunting_archers|A4 Archer Stark
+trp_north_stark_hunting_archers_pl|A4 Archers Stark
+trp_north_stark_horseman|C4 Cavalier Stark 
+trp_north_stark_horseman_pl|C4 Cavaliers Stark
+trp_north_stark_cavalry|C5 Grand Cavalier Stark
+trp_north_stark_cavalry_pl|C5 Grand Cavalier Stark
+trp_north_stark_guard|I5 Garde Stark
+trp_north_stark_guard_pl|I5 Gardes Stark
+trp_north_stark_pikeman|I5 Lancier Stark 
+trp_north_stark_pikeman_pl|I5 Lanciers Stark 
+trp_north_stark_household_guard|I6 Garde Stark
+trp_north_stark_household_guard_pl|I6 Garde Stark
 trp_north_stark_hornman|Trompettiste Stark
 trp_north_stark_hornman_pl|Trompettistes Stark
-trp_north_stark_messenger|Messager Stark
-trp_north_stark_messenger_pl|Messagers Stark
-trp_north_stark_deserter|Déserteur Stark
-trp_north_stark_deserter_pl|Déserteurs Stark
-trp_north_stark_prison_guard|Gardien de Prison Stark
-trp_north_stark_prison_guard_pl|Gardien de Prisons Stark
-trp_north_stark_castle_guard|Garde Stark
-trp_north_stark_castle_guard_pl|Gardes Stark
-trp_north_stark_standard_bearer|Stark Standard Bearer
-trp_north_stark_standard_bearer_pl|Stark Standard Bearers
-trp_north_stark_local_lord|Seigneur Stark
-trp_north_stark_local_lord_pl|Seigneurs Stark
-trp_north_bolton_recruit|Recrue Bolton
-trp_north_bolton_recruit_pl|Recrue Bolton
+trp_north_stark_messenger|C5 Messager Stark
+trp_north_stark_messenger_pl|C5 Messagers Stark
+trp_north_stark_deserter|I4 Déserteur Stark
+trp_north_stark_deserter_pl|I4 Déserteurs Stark
+trp_north_stark_prison_guard|I4+ Geôlier Stark
+trp_north_stark_prison_guard_pl|I4+ Geôliers Stark
+trp_north_stark_castle_guard|I4+ Garde Stark
+trp_north_stark_castle_guard_pl|I4+ Gardes Stark
+trp_north_stark_standard_bearer|Porte-étendard Stark 
+trp_north_stark_standard_bearer_pl|Porte-étendards Stark 
+trp_north_stark_local_lord|I5 Seigneur Stark
+trp_north_stark_local_lord_pl|I5 Seigneurs Stark
+trp_north_bolton_recruit|I2 Recrue Bolton
+trp_north_bolton_recruit_pl|I2 Recrues Bolton
 trp_north_bolton_footman|Fantassin Bolton
 trp_north_bolton_footman_pl|Fantassins Bolton
 trp_north_bolton_archer|Archer Bolton
@@ -450,22 +450,22 @@ trp_north_bolton_guard|Garde Bolton
 trp_north_bolton_guard_pl|Gardes Bolton
 trp_north_bolton_pikeman|Lancier Bolton 
 trp_north_bolton_pikeman_pl|Lanciers Bolton 
-trp_north_bolton_household_guard|Garde Bolton
-trp_north_bolton_household_guard_pl|Garde Bolton
+trp_north_bolton_household_guard|I6 Garde Bolton
+trp_north_bolton_household_guard_pl|I6 Garde Bolton
 trp_north_bolton_hornman|Trompettiste Bolton
 trp_north_bolton_hornman_pl|Trompettistes Bolton
-trp_north_bolton_messenger|Messager Bolton
-trp_north_bolton_messenger_pl|Messagers Bolton
-trp_north_bolton_deserter|Déserteur Bolton
-trp_north_bolton_deserter_pl|Déserteurs Bolton
-trp_north_bolton_prison_guard|Gardien de Prison Bolton
-trp_north_bolton_prison_guard_pl|Gardien de Prisons Bolton
-trp_north_bolton_castle_guard|Garde Bolton
-trp_north_bolton_castle_guard_pl|Gardes Bolton
-trp_north_bolton_standard_bearer|Bolton Standard Bearer
-trp_north_bolton_standard_bearer_pl|Bolton Standard Bearers
-trp_north_bolton_local_lord|Seigneur Bolton
-trp_north_bolton_local_lord_pl|Seigneurs Bolton
+trp_north_bolton_messenger|C5 Messager Bolton
+trp_north_bolton_messenger_pl|C5 Messagers Bolton
+trp_north_bolton_deserter|I4 Déserteur Bolton
+trp_north_bolton_deserter_pl|I4 Déserteurs Bolton
+trp_north_bolton_prison_guard|I4+ Geôlier Bolton
+trp_north_bolton_prison_guard_pl|I4+ Geôliers Bolton
+trp_north_bolton_castle_guard|I4+ Garde Bolton
+trp_north_bolton_castle_guard_pl|I4+ Gardes Bolton
+trp_north_bolton_standard_bearer|Porte-étendard Bolton 
+trp_north_bolton_standard_bearer_pl|Porte-étendards Bolton 
+trp_north_bolton_local_lord|I5 Seigneur Bolton
+trp_north_bolton_local_lord_pl|I5 Seigneurs Bolton
 trp_wildling_female_peasant|Sauvageons
 trp_wildling_female_peasant_pl|Paysannes Sauvageons
 trp_wildling_peasant|I1 Paysan Sauvageons
@@ -488,50 +488,50 @@ trp_wildling_raider|A4 Raider Sauvageons
 trp_wildling_raider_pl|A4 Raiders Sauvageons
 trp_wildling_hornman|Trompettiste Sauvageons
 trp_wildling_hornman_pl|Trompettistes Sauvageons
-trp_wildling_standard_bearer|Sauvageons Standard Bearer
-trp_wildling_standard_bearer_pl|Sauvageons Standard bearers
-trp_wildling_messenger|Messager Sauvageons
-trp_wildling_messenger_pl| Messagers Sauvageons
-trp_wildling_deserter|Raider Sauvageons
-trp_wildling_deserter_pl|Raiders Sauvageons
-trp_wildling_prison_guard|Gardien de Prison Sauvageons
-trp_wildling_prison_guard_pl|Gardiens de Prisons Sauvageons
-trp_wildling_castle_guard|Garde Sauvageons
-trp_wildling_castle_guard_pl|Gardes Sauvageons
+trp_wildling_standard_bearer|Porte-étendard Sauvageons 
+trp_wildling_standard_bearer_pl|Porte-étendards Sauvageons 
+trp_wildling_messenger|C5 Messager Sauvageons
+trp_wildling_messenger_pl|C5 Messagers Sauvageons
+trp_wildling_deserter|I3 Raider Sauvageons
+trp_wildling_deserter_pl|I3 Raiders Sauvageons
+trp_wildling_prison_guard|I4+ Geôlier Sauvageons
+trp_wildling_prison_guard_pl|I4+ Geôliers Sauvageons
+trp_wildling_castle_guard|I4+ Garde Sauvageons
+trp_wildling_castle_guard_pl|I4+ Gardes Sauvageons
 trp_giant|Géant
 trp_giant_pl|Géant
-trp_thenn_peasant|Thenn
-trp_thenn_peasant_pl|Thenns
-trp_thenn_warrior|Guerrier Thenn
-trp_thenn_warrior_pl|Guerriers Thenn
-trp_thenn_hunter|Chasseur Thenn
-trp_thenn_hunter_pl|Thenn Hunters
-trp_thenn_champion|Champion Thenn
-trp_thenn_champion_pl|Champions Thenn
-trp_thenn_stalker|Thenn Stalker
-trp_thenn_stalker_pl|Thenn Stalkers
-trp_thenn_raider|Raider Thenn
-trp_thenn_raider_pl|Raiders Thenn
+trp_thenn_peasant|I1 Thenn
+trp_thenn_peasant_pl|I1 Thenns
+trp_thenn_warrior|I2 Guerrier Thenn
+trp_thenn_warrior_pl|I2 Guerriers Thenn
+trp_thenn_hunter|I2 Chasseur Thenn
+trp_thenn_hunter_pl|I2 Thenn Hunters
+trp_thenn_champion|I3 Champion Thenn
+trp_thenn_champion_pl|I3 Champions Thenn
+trp_thenn_stalker|A3 Stalker Thenn 
+trp_thenn_stalker_pl|A3 Thenn Stalkers
+trp_thenn_raider|I3 Raider Thenn
+trp_thenn_raider_pl|I3 Raiders Thenn
 trp_thenn_hornman|Trompettiste Thenn
 trp_thenn_hornman_pl|Trompettistes Thenn
-trp_thenn_standard_bearer|Thenn Standard Bearer
-trp_thenn_standard_bearer_pl|Thenn Standard bearers
-trp_thenn_messenger|Messager Thenn
-trp_thenn_messenger_pl|Messagers Thenn
-trp_thenn_deserter|Raider Thenn
-trp_thenn_deserter_pl|Raiders Thenn
-trp_thenn_prison_guard|Gardien de Prison Thenn
-trp_thenn_prison_guard_pl|Gardien de Prisons Thenn
-trp_thenn_castle_guard|Garde Thenn
-trp_thenn_castle_guard_pl|Gardes Thenn
+trp_thenn_standard_bearer|Porte-étendard Thenn 
+trp_thenn_standard_bearer_pl|Porte-étendards Thenn 
+trp_thenn_messenger|C5 Messager Thenn
+trp_thenn_messenger_pl|C5 Messagers Thenn
+trp_thenn_deserter|I3 Raider Thenn
+trp_thenn_deserter_pl|I3 Raiders Thenn
+trp_thenn_prison_guard|I4+ Geôlier Thenn
+trp_thenn_prison_guard_pl|I4+ Geôliers Thenn
+trp_thenn_castle_guard|I4+ Garde Thenn
+trp_thenn_castle_guard_pl|I4+ Gardes Thenn
 trp_ironborn_peasant|I1 Paysan Fer-nés
 trp_ironborn_peasant_pl|I1 Paysans Fer-nés
 trp_ironborn_sailor|I2 Marin Fer-nés
 trp_ironborn_sailor_pl|I2 Marins Fer-nés
 trp_ironborn_seafarer|I3 Marin expérimenté Fer-nés
 trp_ironborn_seafarer_pl|I3 Marins expérimentés Fer-nés
-trp_ironborn_raider|I3 Raider Fer-nés
-trp_ironborn_raider_pl|I3 Raiders Fer-nés
+trp_ironborn_raider|I3 I3 Raider Fer-nés
+trp_ironborn_raider_pl|I3 I3 Raiders Fer-nés
 trp_ironborn_skirmisher|I4 Tirailleur Fer-nés 
 trp_ironborn_skirmisher_pl|I4 Tirailleurs Fer-nés 
 trp_ironborn_warrior|I4 Guerrier Fer-nés
@@ -544,24 +544,24 @@ trp_ironborn_marauder|I5 Maraudeur Fer-nés
 trp_ironborn_marauder_pl|I5 Maraudeurs Fer-nés
 trp_ironborn_hornman|Trompettiste Fer-nés
 trp_ironborn_hornman_pl|Trompettistes Fer-nés
-trp_ironborn_standard_bearer|Fer-nés Standard Bearer
-trp_ironborn_standard_bearer_pl|Fer-nés Standard Bearer
-trp_ironborn_messenger|Messager Fer-nés
-trp_ironborn_messenger_pl|Messagers Fer-nés
-trp_ironborn_deserter|Déserteur Fer-nés
-trp_ironborn_deserter_pl|Déserteurs Fer-nés
-trp_ironborn_prison_guard|Gardien de Prison Fer-nés
-trp_ironborn_prison_guard_pl|Gardien de Prisons Fer-nés
-trp_ironborn_castle_guard|Garde Fer-nés
-trp_ironborn_castle_guard_pl|Gardes Fer-nés
+trp_ironborn_standard_bearer|Porte-étendard Fer-nés 
+trp_ironborn_standard_bearer_pl|Porte-étendard Fer-nés 
+trp_ironborn_messenger|C5 Messager Fer-nés
+trp_ironborn_messenger_pl|C5 Messagers Fer-nés
+trp_ironborn_deserter|I4 Déserteur Fer-nés
+trp_ironborn_deserter_pl|I4 Déserteurs Fer-nés
+trp_ironborn_prison_guard|I4+ Geôlier Fer-nés
+trp_ironborn_prison_guard_pl|I4+ Geôliers Fer-nés
+trp_ironborn_castle_guard|I4+ Garde Fer-nés
+trp_ironborn_castle_guard_pl|I4+ Gardes Fer-nés
 trp_ironborn_reaver|Pilleur Fer-nés
 trp_ironborn_reaver_pl|Pilleurs Fer-nés
 trp_ironborn_reaver_vet|Pilleur Véteran Fer-nés
 trp_ironborn_reaver_vet_pl|Pilleurs Véteran Fer-nés
 trp_ironborn_kraken_guard|Kraken Garde
 trp_ironborn_kraken_guard_pl|Kraken Gardes
-trp_ironborn_local_lord|Seigneur Fer-nés
-trp_ironborn_local_lord_pl|Seigneurs Fer-nés
+trp_ironborn_local_lord|I5 Seigneur Fer-nés
+trp_ironborn_local_lord_pl|I5 Seigneurs Fer-nés
 trp_dothraki_tribesman|I1 Dothraki
 trp_dothraki_tribesman_pl|I1 Dothraki
 trp_dothraki_warrior|I2 Guerrier Dothraki
@@ -574,22 +574,22 @@ trp_dothraki_outrider|C4 Éclaireur monté Dothraki
 trp_dothraki_outrider_pl|C4 Éclaireurs montés Dothraki
 trp_dothraki_jr|Jaqqa Rhan
 trp_dothraki_jr_pl|Jaqqa Rhan's
-trp_dothraki_raider|C4 Raider Dothraki
-trp_dothraki_raider_pl|C4 Raiders Dothraki
+trp_dothraki_raider|C4 I3 Raider Dothraki
+trp_dothraki_raider_pl|C4 I3 Raiders Dothraki
 trp_dothraki_horselord|C5 Grand Cavalier Dothraki 
 trp_dothraki_horselord_pl|C5 Grands Cavaliers Dothraki
 trp_dothraki_hornman|Trompettiste Dothraki
 trp_dothraki_hornman_pl|Trompettistes Dothraki
 trp_dothraki_standard_bearer|Standard
 trp_dothraki_standard_bearer_pl|Standard
-trp_dothraki_messenger|Messager Dothraki
-trp_dothraki_messenger_pl|Messagers Dothraki
-trp_dothraki_deserter|Déserteur Dothraki
-trp_dothraki_deserter_pl|Déserteurs Dothraki
-trp_dothraki_prison_guard|Gardien de Prison Dothraki
-trp_dothraki_prison_guard_pl|Gardiens de Prisons Dothraki
-trp_dothraki_castle_guard|Garde Dothraki
-trp_dothraki_castle_guard_pl|Gardes Dothraki
+trp_dothraki_messenger|C5 Messager Dothraki
+trp_dothraki_messenger_pl|C5 Messagers Dothraki
+trp_dothraki_deserter|I4 Déserteur Dothraki
+trp_dothraki_deserter_pl|I4 Déserteurs Dothraki
+trp_dothraki_prison_guard|I4+ Geôlier Dothraki
+trp_dothraki_prison_guard_pl|I4+ Geôliers Dothraki
+trp_dothraki_castle_guard|I4+ Garde Dothraki
+trp_dothraki_castle_guard_pl|I4+ Gardes Dothraki
 trp_merc_peasant|I1 Paysan mercenaire
 trp_merc_peasant_pl|I1 Paysans mercenaire
 trp_fc_merc_militia_recruit|I2 Recrue Mercenaire
@@ -612,20 +612,20 @@ trp_fc_merc_heavy_cavalry|C5 Cavalier Lourd Mercenaire
 trp_fc_merc_heavy_cavalry_pl|C5 Cavalier Lourd Mercenaire
 trp_fc_merc_veteran_bowman|A5 Archer Véteran Mercenaire
 trp_fc_merc_veteran_bowman_pl|A5 Archers Véteran Mercenaire
-trp_fc_merc_standard_bearer|Standard Bearers
-trp_fc_merc_standard_bearer_pl|Standard Bearers
-trp_free_messenger|Messager
-trp_free_messenger_pl|Messagers
-trp_free_deserter|Mercenaire Déserteur
-trp_free_deserter_pl|Mercenaire Déserteurs
-trp_free_prison_guard|Gardien de Prison
-trp_free_prison_guard_pl|Gardiens de Prisons
-trp_free_castle_guard|Garde
-trp_free_castle_guard_pl|Gardes
+trp_fc_merc_standard_bearer|Porte-étendards Mercenaire
+trp_fc_merc_standard_bearer_pl|Porte-étendards Mercenaire
+trp_free_messenger|C5 Messager
+trp_free_messenger_pl|C5 Messagers
+trp_free_deserter|Mercenaire I4 Déserteur
+trp_free_deserter_pl|Mercenaire I4 Déserteurs
+trp_free_prison_guard|I4+ Geôlier
+trp_free_prison_guard_pl|I4+ Geôliers
+trp_free_castle_guard|I4+ Garde
+trp_free_castle_guard_pl|I4+ Gardes
 trp_vale_peasant|I1 Paysan du Val
 trp_vale_peasant_pl|I1 Paysans du Val 
 trp_vale_recruit|I2 Recrue du Val
-trp_vale_recruit_pl|I2 Recrue du Val
+trp_vale_recruit_pl|I2 Recrues du Val
 trp_vale_archer|A3 Archer du Val
 trp_vale_archer_pl|A3 Archers du Val
 trp_vale_footman|I3 Fantassin du Val
@@ -642,22 +642,22 @@ trp_vale_knight_of_the_gate|C6 Chevalier de la porte du Val
 trp_vale_knight_of_the_gate_pl|C6 Chevaliers de la porte du Val
 trp_vale_hornman|Trompettiste du Val
 trp_vale_hornman_pl|Trompettistes du Val
-trp_vale_standard_bearer|du Val Standard Bearer
-trp_vale_standard_bearer_pl|du Val Standard Bearers
-trp_vale_messenger| Messager du Val
-trp_vale_messenger_pl|Messagers du Val
-trp_vale_deserter|Déserteur du Val
-trp_vale_deserter_pl|Déserteurs du Val
-trp_vale_prison_guard|Gardien de Prison du Val
-trp_vale_prison_guard_pl|Gardien de Prisons du Val
-trp_vale_castle_guard|Garde du Val
-trp_vale_castle_guard_pl|Gardes du Val
-trp_vale_local_lord|Seigneur du Val
-trp_vale_local_lord_pl|Seigneurs du Val
+trp_vale_standard_bearer|Porte-étendard du Val 
+trp_vale_standard_bearer_pl|Porte-étendards du Val
+trp_vale_messenger| C5 Messager du Val
+trp_vale_messenger_pl|C5 Messagers du Val
+trp_vale_deserter|I4 Déserteur du Val
+trp_vale_deserter_pl|I4 Déserteurs du Val
+trp_vale_prison_guard|I4+ Geôlier du Val
+trp_vale_prison_guard_pl|I4+ Geôliers du Val
+trp_vale_castle_guard|I4+ Garde du Val
+trp_vale_castle_guard_pl|I4+ Gardes du Val
+trp_vale_local_lord|I5 Seigneur du Val
+trp_vale_local_lord_pl|I5 Seigneurs du Val
 trp_riverlands_peasant|I1 Paysan du Conflans
 trp_riverlands_peasant_pl|I1 Paysans du Conflans
 trp_riverlands_recruit|I2 Recrue du Conflans
-trp_riverlands_recruit_pl|I2 Recrue du Conflans
+trp_riverlands_recruit_pl|I2 Recrues du Conflans
 trp_riverlands_tracker|A3 Traqueur du Conflans
 trp_riverlands_tracker_pl|A3 Traqueurs du Conflans
 trp_riverlands_footman|I3 Fantassin du Conflans
@@ -678,20 +678,20 @@ trp_riverlands_mounted_knight|C6 Chevalier monté du Conflans
 trp_riverlands_mounted_knight_pl|C6 Chevaliers montés du Conflans
 trp_riverlands_hornman|Trompettiste du Conflans
 trp_riverlands_hornman_pl|Trompettistes du Conflans
-trp_riverlands_standard_bearer|Standard Bearer
-trp_riverlands_standard_bearer_pl|Standard Bearers
-trp_riverlands_messenger|Messager du Conflans
-trp_riverlands_messenger_pl|Messagers du Conflans
-trp_riverlands_deserter|Déserteur du Conflans
-trp_riverlands_deserter_pl|Déserteurs du Conflans
-trp_riverlands_prison_guard|Gardien de Prison du Conflans
-trp_riverlands_prison_guard_pl|Gardiens de Prisons du Conflans
-trp_riverlands_castle_guard|Garde du Conflans
-trp_riverlands_castle_guard_pl|Gardes du Conflans
-trp_riverlands_local_lord|Seigneur du Conflans
-trp_riverlands_local_lord_pl|Seigneurs du Conflans
-trp_riverlands_frey_recruit|Recrue Frey
-trp_riverlands_frey_recruit_pl|Recrue Frey
+trp_riverlands_standard_bearer|Porte-étendard du Conflans
+trp_riverlands_standard_bearer_pl|Porte-étendards du Conflans
+trp_riverlands_messenger|C5 Messager du Conflans
+trp_riverlands_messenger_pl|C5 Messagers du Conflans
+trp_riverlands_deserter|I4 Déserteur du Conflans
+trp_riverlands_deserter_pl|I4 Déserteurs du Conflans
+trp_riverlands_prison_guard|I4+ Geôlier du Conflans
+trp_riverlands_prison_guard_pl|I4+ Geôliers du Conflans
+trp_riverlands_castle_guard|I4+ Garde du Conflans
+trp_riverlands_castle_guard_pl|I4+ Gardes du Conflans
+trp_riverlands_local_lord|I5 Seigneur du Conflans
+trp_riverlands_local_lord_pl|I5 Seigneurs du Conflans
+trp_riverlands_frey_recruit|I2 Recrue Frey
+trp_riverlands_frey_recruit_pl|I2 Recrues Frey
 trp_riverlands_frey_tracker|Traqueur Frey
 trp_riverlands_frey_tracker_pl|Traqueurs Frey
 trp_riverlands_frey_footman|Fantassin Frey
@@ -712,22 +712,22 @@ trp_riverlands_frey_mounted_knight|Chevalier monté Frey
 trp_riverlands_frey_mounted_knight_pl|Chevaliers montés Frey
 trp_riverlands_frey_hornman|Trompettiste Frey
 trp_riverlands_frey_hornman_pl|Trompettistes Frey
-trp_riverlands_frey_standard_bearer|Standard Bearer Frey
-trp_riverlands_frey_standard_bearer_pl|Standard Bearers Frey
-trp_riverlands_frey_messenger|Messager Frey
-trp_riverlands_frey_messenger_pl|Messagers Frey
-trp_riverlands_frey_deserter|Déserteur Frey
-trp_riverlands_frey_deserter_pl|Déserteurs Frey
-trp_riverlands_frey_prison_guard|Gardien de Prison Frey
-trp_riverlands_frey_prison_guard_pl|Gardiens de Prisons Frey
-trp_riverlands_frey_castle_guard|Garde Frey
-trp_riverlands_frey_castle_guard_pl|Gardes Frey
-trp_riverlands_frey_local_lord|Seigneur Frey
-trp_riverlands_frey_local_lord_pl|Seigneurs Frey
+trp_riverlands_frey_standard_bearer|Porte-étendard Frey
+trp_riverlands_frey_standard_bearer_pl|Porte-étendards Frey
+trp_riverlands_frey_messenger|C5 Messager Frey
+trp_riverlands_frey_messenger_pl|C5 Messagers Frey
+trp_riverlands_frey_deserter|I4 Déserteur Frey
+trp_riverlands_frey_deserter_pl|I4 Déserteurs Frey
+trp_riverlands_frey_prison_guard|I4+ Geôlier Frey
+trp_riverlands_frey_prison_guard_pl|I4+ Geôliers Frey
+trp_riverlands_frey_castle_guard|I4+ Garde Frey
+trp_riverlands_frey_castle_guard_pl|I4+ Gardes Frey
+trp_riverlands_frey_local_lord|I5 Seigneur Frey
+trp_riverlands_frey_local_lord_pl|I5 Seigneurs Frey
 trp_crownlands_peasant|I1 Paysan des Terres de la Couronne
 trp_crownlands_peasant_pl|I1 Paysans des Terres de la Couronne
 trp_crownlands_recruit|I2 Recrue des Terres de la Couronne
-trp_crownlands_recruit_pl|I2 Recrue des Terres de la Couronne
+trp_crownlands_recruit_pl|I2 Recrues des Terres de la Couronne
 trp_crownlands_tracker|A3 Tirailleur des Terres de la Couronne
 trp_crownlands_tracker_pl|A3 Tirailleurs des Terres de la Couronne
 trp_crownlands_footman|I3 Fantassin des Terres de la Couronne
@@ -748,18 +748,18 @@ trp_dragonguards|C6 Dragon Gardes
 trp_dragonguards_pl|C6 Dragon Gardes
 trp_crownlands_hornman|Trompettiste des Terres de la Couronne
 trp_crownlands_hornman_pl|Trompettistes des Terres de la Couronne
-trp_crownlands_messenger|Messager des Terres de la Couronne
-trp_crownlands_messenger_pl|Messagers des Terres de la Couronne
-trp_crownlands_deserter|Déserteur des Terres de la Couronne
-trp_crownlands_deserter_pl|Déserteurs des Terres de la Couronne
-trp_crownlands_prison_guard|Gardien de Prison
-trp_crownlands_prison_guard_pl|Gardiens de Prisons
-trp_crownlands_castle_guard|Garde
-trp_crownlands_castle_guard_pl|Gardes
-trp_targaryen_standard_bearer|Standard Bearer
-trp_targaryen_standard_bearer_pl|Standard Bearers
-trp_crownlands_local_lord|Seigneur des Terres de la Couronne
-trp_crownlands_local_lord_pl|Seigneurs des Terres de la Couronne
+trp_crownlands_messenger|C5 Messager des Terres de la Couronne
+trp_crownlands_messenger_pl|C5 Messagers des Terres de la Couronne
+trp_crownlands_deserter|I4 Déserteur des Terres de la Couronne
+trp_crownlands_deserter_pl|I4 Déserteurs des Terres de la Couronne
+trp_crownlands_prison_guard|I4+ Geôlier
+trp_crownlands_prison_guard_pl|I4+ Geôliers
+trp_crownlands_castle_guard|I4+ Garde
+trp_crownlands_castle_guard_pl|I4+ Gardes
+trp_targaryen_standard_bearer|Porte-étendard Targaryen
+trp_targaryen_standard_bearer_pl|Porte-étendards Targaryen
+trp_crownlands_local_lord|I5 Seigneur des Terres de la Couronne
+trp_crownlands_local_lord_pl|I5 Seigneurs des Terres de la Couronne
 trp_golden_company_footman|Fantassin de la Compagnie Dorée 
 trp_golden_company_footman_pl|Fantassins de la Compagnie Dorée
 trp_golden_company_infantry|Infanterie de la Compagnie Dorée
@@ -808,16 +808,16 @@ trp_nw_elite_ranger|A6 Ranger d'élite de la Garde
 trp_nw_elite_ranger_pl|A6 Rangers d'élite de la Garde
 trp_nw_hornman|Trompettiste de la Garde
 trp_nw_hornman_pl|Trompettistes de la Garde
-trp_nw_standard_bearer|Standard Bearer de la Garde
-trp_nw_standard_bearer_pl|Standard Bearers de la Garde
-trp_nw_messenger|Messager de la Garde
-trp_nw_messenger_pl|Messagers de la Garde
-trp_nw_deserter|Déserteur de la Garde
-trp_nw_deserter_pl|Déserteurs de la Garde
-trp_nw_prison_guard|Gardien de Prison de la Garde
-trp_nw_prison_guard_pl|Gardiens de Prisons de la Garde
-trp_nw_castle_guard|Garde de la Garde
-trp_nw_castle_guard_pl|Gardes de la Garde
+trp_nw_standard_bearer|Porte-étendard de la Garde
+trp_nw_standard_bearer_pl|Porte-étendards de la Garde
+trp_nw_messenger|C5 Messager de la Garde
+trp_nw_messenger_pl|C5 Messagers de la Garde
+trp_nw_deserter|I4 Déserteur de la Garde
+trp_nw_deserter_pl|I4 Déserteurs de la Garde
+trp_nw_prison_guard|I4+ Geôlier de la Garde
+trp_nw_prison_guard_pl|I4+ Geôliers de la Garde
+trp_nw_castle_guard|I4+ Garde de la Garde
+trp_nw_castle_guard_pl|I4+ Gardes de la Garde
 trp_nightswatch_armsman|Wandering Crow
 trp_nightswatch_armsman_pl|Wander Crows
 trp_braavosi_peasant|I1 Paysan de Braavos
@@ -834,16 +834,16 @@ trp_master_water_dancer|I6 Master Water Dancer
 trp_master_water_dancer_pl|I6 Master Water Dancers
 trp_braavosi_hornman|Trompettiste de Braavos
 trp_braavosi_hornman_pl|Trompettistes de Braavos
-trp_braavosi_standard_bearer|Standard Bearer de Braavos
-trp_braavosi_standard_bearer_pl|Standard Bearers de Braavos
-trp_braavosi_messenger|Messager de Braavos
-trp_braavosi_messenger_pl|Messagers de Braavos
-trp_braavosi_deserter|Déserteur de Braavos
-trp_braavosi_deserter_pl|Déserteurs de Braavos
-trp_braavosi_prison_guard|Gardien de Prison de Braavos
-trp_braavosi_prison_guard_pl|Gardiens de Prisons de Braavos
-trp_braavosi_castle_guard|Garde de Braavos
-trp_braavosi_castle_guard_pl|Gardes de Braavos
+trp_braavosi_standard_bearer|Porte-étendard de Braavos
+trp_braavosi_standard_bearer_pl|Porte-étendards de Braavos
+trp_braavosi_messenger|C5 Messager de Braavos
+trp_braavosi_messenger_pl|C5 Messagers de Braavos
+trp_braavosi_deserter|I4 Déserteur de Braavos
+trp_braavosi_deserter_pl|I4 Déserteurs de Braavos
+trp_braavosi_prison_guard|I4+ Geôlier de Braavos
+trp_braavosi_prison_guard_pl|I4+ Geôliers de Braavos
+trp_braavosi_castle_guard|I4+ Garde de Braavos
+trp_braavosi_castle_guard_pl|I4+ Gardes de Braavos
 trp_norvoshi_initiate|I1 Paysan de Norvos
 trp_norvoshi_initiate_pl|I1 Paysan de Norvos
 trp_norvoshi_monk|I2 Initiate de Norvos
@@ -860,44 +860,68 @@ trp_bearded_priest|I3 Bearded Priest
 trp_bearded_priest_pl|I3 Bearded Priests
 trp_bearded_bishop|A4 Bearded Bishop
 trp_bearded_bishop_pl|A4 Bearded Bishops
-trp_norvos_standard_bearer|Standard Bearer de Norvos
-trp_norvos_standard_bearer_pl|Standard Bearers de Norvos
-trp_norvos_messenger|Messager de Norvos
-trp_norvos_messenger_pl|Messagers de Norvos
-trp_norvos_deserter|Déserteur de Norvos
-trp_norvos_deserter_pl|Déserteurs de Norvos
-trp_norvos_prison_guard|Gardien de Prison de Norvos
-trp_norvos_prison_guard_pl|Gardiens de Prisons de Norvos
-trp_norvos_castle_guard|Garde de Norvos
-trp_norvos_castle_guard_pl|Gardes de Norvos
+trp_norvos_standard_bearer|Porte-étendard de Norvos
+trp_norvos_standard_bearer_pl|Porte-étendards de Norvos
+trp_norvos_messenger|C5 Messager de Norvos
+trp_norvos_messenger_pl|C5 Messagers de Norvos
+trp_norvos_deserter|I4 Déserteur de Norvos
+trp_norvos_deserter_pl|I4 Déserteurs de Norvos
+trp_norvos_prison_guard|I4+ Geôlier de Norvos
+trp_norvos_prison_guard_pl|I4+ Geôliers de Norvos
+trp_norvos_castle_guard|I4+ Garde de Norvos
+trp_norvos_castle_guard_pl|I4+ Gardes de Norvos
 trp_essos_slave|Esclave
 trp_essos_slave_pl|Esclaves
 trp_essos_slave_levy|Esclave Recrue
 trp_essos_slave_levy_pl|Esclave Levies
 trp_essos_slave_warrior|Guerrier Esclave 
 trp_essos_slave_warrior_pl|Guerriers Esclave
-trp_qohor_standard_bearer|Standard Bearer Qohoric
-trp_qohor_standard_bearer_pl|Standard Bearers Qohoric
-trp_qohor_messenger|Messager Qohoric
-trp_qohor_messenger_pl|Messagers Qohoric
-trp_qohor_deserter|Déserteur Qohoric
-trp_qohor_deserter_pl|Déserteurs Qohoric
-trp_qohor_prison_guard|Gardien de Prison Qohoric
-trp_qohor_prison_guard_pl|Gardiens de Prisons Qohoric
-trp_qohor_castle_guard|Garde Qohoric
-trp_qohor_castle_guard_pl|Gardes Qohoric
+trp_qohor_standard_bearer|Porte-étendard Qohoric
+trp_qohor_standard_bearer_pl|Porte-étendards Qohoric
+trp_qohor_messenger|C5 Messager Qohoric
+trp_qohor_messenger_pl|C5 Messagers Qohoric
+trp_qohor_deserter|I4 Déserteur Qohoric
+trp_qohor_deserter_pl|I4 Déserteurs Qohoric
+trp_qohor_prison_guard|I4+ Geôlier Qohoric
+trp_qohor_prison_guard_pl|I4+ Geôliers Qohoric
+trp_qohor_castle_guard|I4+ Garde Qohoric
+trp_qohor_castle_guard_pl|I4+ Gardes Qohoric
+trp_volantine_slave|I1 Esclave de Volantis
+trp_volantine_slave_pl|I1 Esclaves de Volantis
+trp_volantine_freeman|I2 Homme libre de Volantis
+trp_volantine_freeman_pl|I2 Hommes libres de Volantis
+trp_volantine_fighter|I3 Combattant de Volantis
+trp_volantine_fighter_pl|I3 Combattants de Volantis
+trp_volantine_soldier|I4 Soldat de Volantis
+trp_volantine_soldier_pl|I4 Soldats de Volantis
+trp_volantine_horseman|C4 Cavalier léger de Volantis
+trp_volantine_horseman_pl|C4 Cavaliers léger de Volantis
+trp_volantine_cavalry|C5 Cavalier de Volantis
+trp_volantine_cavalry_pl|C5 Cavaliers de Volantis
+trp_tiger_trainee|I2 Recrue Tigre de Volantis
+trp_tiger_trainee_pl|I2 Recrues Tigres de Volantis
+trp_tiger_cloak|I3 Combattant Tigre de Volantis
+trp_tiger_cloak_pl|I3 Combattants Tigres de Volantis
+trp_tiger_archer|A4 Archer Tigre de Volantis
+trp_tiger_archer_pl|A4 Archers Tigres de Volantis
+trp_tiger_cloak_soldier|I4 Soldat Tigre de Volantis
+trp_tiger_cloak_soldier_pl|I4 Soldats Tigres de Volantis
+trp_tiger_cloak_guard|I5 Garde Tigre de Volantis
+trp_tiger_cloak_guard_pl|I5 Gardes Tigres de Volantis
+trp_tiger_elite_archer|A5 Archer d'élite Tigre de Volantis
+trp_tiger_elite_archer_pl|A5 Archers d'élites Tigres de Volantis
 trp_volantine_peasant|I1 Paysan de Volantis
 trp_volantine_peasant_pl|I1 Paysan de Volantis
-trp_volantine_standard_bearer|Standard Bearer de Volantis
-trp_volantine_standard_bearer_pl|Standard Bearers de Volantis
-trp_volantine_messenger|Messager de Volantis
-trp_volantine_messenger_pl|Messagers de Volantis
-trp_volantine_deserter|Déserteur de Volantis
-trp_volantine_deserter_pl|Déserteurs de Volantis
-trp_volantine_prison_guard|Gardien de Prison de Volantis
-trp_volantine_prison_guard_pl|Gardiens de Prisons de Volantis
-trp_volantine_castle_guard|Garde de Volantis
-trp_volantine_castle_guard_pl|Gardes de Volantis
+trp_volantine_standard_bearer|Porte-étendard de Volantis
+trp_volantine_standard_bearer_pl|Porte-étendards de Volantis
+trp_volantine_messenger|C5 Messager de Volantis
+trp_volantine_messenger_pl|C5 Messagers de Volantis
+trp_volantine_deserter|I4 Déserteur de Volantis
+trp_volantine_deserter_pl|I4 Déserteurs de Volantis
+trp_volantine_prison_guard|I4+ Geôlier de Volantis
+trp_volantine_prison_guard_pl|I4+ Geôliers de Volantis
+trp_volantine_castle_guard|I4+ Garde de Volantis
+trp_volantine_castle_guard_pl|I4+ Gardes de Volantis
 trp_lys_peasant|I1 Paysan de Lys
 trp_lys_peasant_pl|I1 Paysans de Lys
 trp_lys_recruit|I2 Recrue de Lys
@@ -918,28 +942,28 @@ trp_lys_heavy_cavalry|C5 Cavalier de Lys
 trp_lys_heavy_cavalry_pl|C5 Cavaliers de Lys
 trp_lys_veteran_bowman|A5 Grand Archer de Lys
 trp_lys_veteran_bowman_pl|A5 Grands Archers de Lys
-trp_lys_standard_bearer|Standard Bearer de Lys
-trp_lys_standard_bearer_pl|Standard Bearers de Lys
-trp_lys_messenger|Messager de Lys
-trp_lys_messenger_pl|Messagers de Lys
-trp_lys_deserter|Déserteur de Lys
-trp_lys_deserter_pl|Déserteurs de Lys
-trp_lys_prison_guard|Gardien de Prison de Lys
-trp_lys_prison_guard_pl|Gardiens de Prisons de Lys
-trp_lys_castle_guard|Garde de Lys
-trp_lys_castle_guard_pl|Gardes de Lys
+trp_lys_standard_bearer|Porte-étendard de Lys
+trp_lys_standard_bearer_pl|Porte-étendards de Lys
+trp_lys_messenger|C5 Messager de Lys
+trp_lys_messenger_pl|C5 Messagers de Lys
+trp_lys_deserter|I4 Déserteur de Lys
+trp_lys_deserter_pl|I4 Déserteurs de Lys
+trp_lys_prison_guard|I4+ Geôlier de Lys
+trp_lys_prison_guard_pl|I4+ Geôliers de Lys
+trp_lys_castle_guard|I4+ Garde de Lys
+trp_lys_castle_guard_pl|I4+ Gardes de Lys
 trp_myr_peasant|Paysan de Myr
 trp_myr_peasant_pl|Paysans de Myr
-trp_myr_standard_bearer|Standard Bearer de Myr
-trp_myr_standard_bearer_pl|Standard Bearers de Myr
-trp_myr_messenger|Messager de Myr
-trp_myr_messenger_pl|Messagers de Myr
-trp_myr_deserter|Déserteur de Myr
-trp_myr_deserter_pl|Déserteurs de Myr
-trp_myr_prison_guard|Gardien de Prison de Myr
-trp_myr_prison_guard_pl|Gardiens de Prisons de Myr
-trp_myr_castle_guard|Garde de Myr
-trp_myr_castle_guard_pl|Gardes de Myr
+trp_myr_standard_bearer|Porte-étendard de Myr
+trp_myr_standard_bearer_pl|Porte-étendards de Myr
+trp_myr_messenger|C5 Messager de Myr
+trp_myr_messenger_pl|C5 Messagers de Myr
+trp_myr_deserter|I4 Déserteur de Myr
+trp_myr_deserter_pl|I4 Déserteurs de Myr
+trp_myr_prison_guard|I4+ Geôlier de Myr
+trp_myr_prison_guard_pl|I4+ Geôliers de Myr
+trp_myr_castle_guard|I4+ Garde de Myr
+trp_myr_castle_guard_pl|I4+ Gardes de Myr
 trp_pentoshi_peasant|I1 Paysan de Pentos
 trp_pentoshi_peasant_pl|I1 Paysans de Pentos
 trp_pentoshi_novice|I2 Novice de Pentos
@@ -962,16 +986,16 @@ trp_pentoshi_mounted_veteran|C6 Véteran monté de Pentos
 trp_pentoshi_mounted_veteran_pl|C6 Véteran monté de Pentos
 trp_pentoshi_veteran_marksman|A6 Marksman Véteran de Pentos
 trp_pentoshi_veteran_marksman_pl|A6 Marksmen Véteran de Pentos
-trp_pentos_standard_bearer|Standard Bearer de Pentos
-trp_pentos_standard_bearer_pl|Standard Bearers de Pentos
-trp_pentos_messenger|Messager de Pentos
-trp_pentos_messenger_pl|Messagers de Pentos
-trp_pentos_deserter|Déserteur de Pentos
-trp_pentos_deserter_pl|Déserteurs de Pentos
-trp_pentos_prison_guard|Gardien de Prison de Pentos
-trp_pentos_prison_guard_pl|Gardiens de Prisons de Pentos
-trp_pentos_castle_guard|Garde de Pentos
-trp_pentos_castle_guard_pl|Gardes de Pentos
+trp_pentos_standard_bearer|Porte-étendard de Pentos
+trp_pentos_standard_bearer_pl|Porte-étendards de Pentos
+trp_pentos_messenger|C5 Messager de Pentos
+trp_pentos_messenger_pl|C5 Messagers de Pentos
+trp_pentos_deserter|I4 Déserteur de Pentos
+trp_pentos_deserter_pl|I4 Déserteurs de Pentos
+trp_pentos_prison_guard|I4+ Geôlier de Pentos
+trp_pentos_prison_guard_pl|I4+ Geôliers de Pentos
+trp_pentos_castle_guard|I4+ Garde de Pentos
+trp_pentos_castle_guard_pl|I4+ Gardes de Pentos
 trp_tyrosh_peasant|Paysan de Tyrosh
 trp_tyrosh_peasant_pl|Paysans de Tyrosh
 trp_tyroshi_slave|Esclave de Tyrosh
@@ -982,26 +1006,26 @@ trp_tyroshi_archer|Archer de Tyrosh
 trp_tyroshi_archer_pl| Archers de Tyrosh
 trp_tyroshi_footman|Fantassin de Tyrosh
 trp_tyroshi_footman_pl|Fantassins de Tyrosh
-trp_tyrosh_standard_bearer|Standard Bearer de Tyrosh
-trp_tyrosh_standard_bearer_pl|Standard Bearers de Tyrosh
-trp_tyrosh_messenger|Messager de Tyrosh
-trp_tyrosh_messenger_pl|Messagers de Tyrosh
-trp_tyrosh_deserter|Déserteur de Tyrosh
-trp_tyrosh_deserter_pl|Déserteurs de Tyrosh
-trp_tyrosh_prison_guard|Gardien de Prison de Tyrosh
-trp_tyrosh_prison_guard_pl|Gardiens de Prisons de Tyrosh
-trp_tyrosh_castle_guard|Garde de Tyrosh
-trp_tyrosh_castle_guard_pl|Gardes de Tyrosh
-trp_lorath_standard_bearer|Standard Bearer de Lorath
-trp_lorath_standard_bearer_pl|Standard Bearers de Lorath
-trp_lorath_messenger|Messager de Lorath
-trp_lorath_messenger_pl|Messagers de Lorath
-trp_lorath_deserter|Déserteur de Lorath
-trp_lorath_deserter_pl|Déserteurs de Lorath
-trp_lorath_prison_guard|Gardien de Prison de Lorath
-trp_lorath_prison_guard_pl|Gardiens de Prisons de Lorath
-trp_lorath_castle_guard|Garde de Lorath
-trp_lorath_castle_guard_pl|Gardes de Lorath
+trp_tyrosh_standard_bearer|Porte-étendard de Tyrosh
+trp_tyrosh_standard_bearer_pl|Porte-étendards de Tyrosh
+trp_tyrosh_messenger|C5 Messager de Tyrosh
+trp_tyrosh_messenger_pl|C5 Messagers de Tyrosh
+trp_tyrosh_deserter|I4 Déserteur de Tyrosh
+trp_tyrosh_deserter_pl|I4 Déserteurs de Tyrosh
+trp_tyrosh_prison_guard|I4+ Geôlier de Tyrosh
+trp_tyrosh_prison_guard_pl|I4+ Geôliers de Tyrosh
+trp_tyrosh_castle_guard|I4+ Garde de Tyrosh
+trp_tyrosh_castle_guard_pl|I4+ Gardes de Tyrosh
+trp_lorath_standard_bearer|Porte-étendard de Lorath
+trp_lorath_standard_bearer_pl|Porte-étendards de Lorath
+trp_lorath_messenger|C5 Messager de Lorath
+trp_lorath_messenger_pl|C5 Messagers de Lorath
+trp_lorath_deserter|I4 Déserteur de Lorath
+trp_lorath_deserter_pl|I4 Déserteurs de Lorath
+trp_lorath_prison_guard|I4+ Geôlier de Lorath
+trp_lorath_prison_guard_pl|I4+ Geôliers de Lorath
+trp_lorath_castle_guard|I4+ Garde de Lorath
+trp_lorath_castle_guard_pl|I4+ Gardes de Lorath
 trp_red_initiate|Red Initiate
 trp_red_initiate_pl|Red Initiates
 trp_red_worshiper|Red Worshipper
@@ -1026,8 +1050,8 @@ trp_poachers|Poacher
 trp_poachers_pl|Poachers
 trp_forest_bandit|Bandit
 trp_forest_bandit_pl|Bandits
-trp_sea_raider|Sea Raider
-trp_sea_raider_pl|Sea Raiders
+trp_sea_raider|Sea I3 Raider
+trp_sea_raider_pl|Sea I3 Raiders
 trp_steppe_bandit|Pirate
 trp_steppe_bandit_pl|Pirates
 trp_essosi_bandit|Bandit
@@ -3102,8 +3126,8 @@ trp_bounty1|Exiled Chevalier
 trp_bounty1_pl|Exiled Chevaliers
 trp_bounty3|Robber Chevalier
 trp_bounty3_pl|Robber Chevaliers
-trp_bounty4|Clansman Raider
-trp_bounty4_pl|Clansmen Raiders
+trp_bounty4|Clansman I3 Raider
+trp_bounty4_pl|Clansmen I3 Raiders
 trp_bounty2|Bravo
 trp_bounty2_pl|de Braavos
 trp_bounty5|Lys Pirate
@@ -3436,8 +3460,8 @@ trp_dplmc_constable|Connétable
 trp_dplmc_constable_pl|Connétables
 trp_dplmc_chancellor|Chancelier
 trp_dplmc_chancellor_pl|Chanceliers
-trp_dplmc_messenger|Messager
-trp_dplmc_messenger_pl|Messagers
+trp_dplmc_messenger|C5 Messager
+trp_dplmc_messenger_pl|C5 Messagers
 trp_dplmc_scout|Éclaireur
 trp_dplmc_scout_pl|Éclaireurs
 trp_dplmc_recruiter|Recruteur
@@ -3458,7 +3482,7 @@ trp_oim_trakai_ksendz|Priest
 trp_oim_trakai_ksendz_pl|Paysan Rebels
 trp_port_keeper|Contructeur de navires
 trp_port_keeper_pl|Contructeur de naviress
-trp_port_recruiter|Sea Raider Capitaine
+trp_port_recruiter|Sea I3 Raider Capitaine
 trp_port_recruiter_pl|SR Capitaines
 trp_port_slave_trader|Esclave Trader
 trp_port_slave_trader_pl|Marchand d'esclave
