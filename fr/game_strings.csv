@@ -295,7 +295,7 @@ str_name_24|Rhian
 str_name_25|Hywel
 str_surname_1|{s50} de Port Blanc
 str_surname_2|{s50} de Tyrosh
-str_surname_3|{s50} de Duskendale
+str_surname_3|{s50} de Sombreval
 str_surname_4|{s50} le brave
 str_surname_5|{s50} de Braavos
 str_surname_6|{s50} de Highgarden
@@ -399,9 +399,9 @@ str_npc7_intro|Salutations. Je suis Qyburn, autrefois Maître Qyburn. Peut-être
 str_npc8_intro|Qu'est-ce que vous voulez ?
 str_npc9_intro|Hey, vous cherchez des informations ? Tout savoir est mon boulot, dites moi ce que vous voulez savoir et je vais vous le dire.
 str_npc10_intro|Bonjour. Besoin d'un bon marin ?
-str_npc11_intro|Voleurs! Brigands! Je vais avoir leur tête pour cela !
+str_npc11_intro|Voleurs! Brigands! Je vais avoir leurs têtes pour cela !
 str_npc12_intro|Salutations. J'ai l'honneur d'être le fameux Ser Creighton Longbough, celui dont les bardes chantent les prouesses !
-str_npc13_intro|VOUS! Vous êtes celui que je cherche! Apportez-moi un autre verre.
+str_npc13_intro|VOUS ! Vous êtes celui que je cherche ! Apportez-moi un autre verre.
 str_npc14_intro|Salut. Je vois que vous êtes un combattant, comme moi dans un certain sens. Que diriez-vous d'un peu d'Arbor rouge ?
 str_npc15_intro|Salutations, mon seigneur. Vous cherchez un jeune écuyer par hasard ?
 str_kurleket_intro|...
@@ -421,7 +421,7 @@ str_npc9_intro_response_1|Je veux savoir où je peux recruter des bons soldats. 
 str_npc10_intro_response_1|Salutations. Vous avez l'air de venir d'ailleurs. Qu'elle est votre histoire ?
 str_npc11_intro_response_1|Qu'est-ce qui vous trouble ?
 str_npc12_intro_response_1|Je cherche des hommes compétents. Vous en êtes un ?
-str_npc13_intro_response_1|Vous m'avez confondu avec un aubergiste. Par les dieux, vous êtes sot !
+str_npc13_intro_response_1|Vous m'avez confondu avec un tavernier. Par les dieux, vous êtes sôt !
 str_npc14_intro_response_1|Avec plaisir! Quel est votre nom ? Je suis {playername}.
 str_npc15_intro_response_1|Je pourrais le faire. Quelle est votre histoire?
 str_kurleket_intro_response_1|...
@@ -459,9 +459,9 @@ str_npc7_backstory_a|Bien, j'ai étudié à la Citadelle et j'ai été aussi com
 str_npc8_backstory_a|Ah. Eh bien, si vous devez savoir, je vous dirai.
 str_npc9_backstory_a|Soldiers? Why would you need this lot? In fact, I used t' be a soldier once. Dick Crabb's my name, also called Nimble Dick. You must've heard of me. Fought in many battles, won myself so much glory I have to be discreet 'bout it not to draw too much attention.{***}
 str_npc10_backstory_a|Histoire? Xhondo n'a pas d'histoire. Les compagnons de Xhondo sur le Vent de la cannelle, marchandent honnêtement dans la mer de Jade, le Détroit et la mer d'été.
-str_npc11_backstory_a|Mon nom est Hibald. Je suis un marchand ambulant et fais mon pain sur la route. Mon panier a été récemment adopté par une bande de déserteurs. Ils ont pris tout sauf mes vêtements. Je les aurais combattues mais je ne suis pas un combattant.
-str_npc12_backstory_a|Ils ne font pas de chants de chevaliers sans réputation! Pourquoi, je me suis battue valablement dans le siège de Pyke lors de la Rébellion de Greyjoy. Je me souviens encore du fait que le château de Botley et Lordsport étaient en ruines avant de lancer notre attaque contre Pyke.
-str_npc13_backstory_a|Bien sur, je suis énorme! Vous ne pouvez pas réduire les armées entières avec de petits bras comme le tien! Pouvez-vous même brandir un champ de bataille? Je m'appelle Shagga, fils de Dolf. Je suis le chef des corbeaux de pierre des montagnes de la lune.
+str_npc11_backstory_a|Mon nom est Hibald. Je suis un marchand ambulant et fais mon pain sur la route. Mes marchandises ont été récemment pillé par une bande de déserteurs. Ils ont tout pris sauf mes vêtements. Je les aurais bien combattues mais je ne suis pas un combattant.
+str_npc12_backstory_a|Ils ne font pas de chants de chevaliers sans réputation! Je me suis battue valablement dans le siège de Pyke lors de la Rébellion de Greyjoy. Je me souviens encore du fait que le château de Botley et Lordsport étaient en ruines avant de lancer notre attaque contre Pyke.
+str_npc13_backstory_a|Bien sûr, JE SUIS énorme ! Vous ne pouvez pas réduire des armées entières avec de petits bras comme le votre ! Pouvez-vous même brandir une hache ? Je m'appelle Shagga, fils de Dolf. Je suis le chef de la tribu des Freux des Montagnes de la Lune.
 str_npc14_backstory_a|Je suis Anguy. Anguy l'Archer. Vous auriez pu entendre mon nom dans King's Landing après avoir gagné cette compétition de tir à l'arc pendant le Tourney of the Hand. Sortez le chevalier de Kingsguard Ser Balon Swann et Jalabhar Xho, un prince exilé.
 str_npc15_backstory_a|Très bien, mon seigneur. Je suis Podrick de House Payne.
 str_kurleket_backstory_a|...
@@ -479,9 +479,9 @@ str_npc7_backstory_b|Au lieu d'ouvrir les corps morts pour découvrir les secret
 str_npc8_backstory_b|Je suis une femme désireuse d'être chevalier. Malheureusement, les parents ne voient pas tellement gentil.
 str_npc9_backstory_b|Le célèbre héros légendaire Ser Clarence Crabb a utilisé t 'be my ancestor. Il a dû être celui dont j'ai hérité de l'épée. Ils disent qu'il était tellement énorme et lourd que les Aurochs ne pouvaient l'emporter. Cependant, je n'en ai pas hérité.
 str_npc10_backstory_b|Le capitaine Quhuru Mo dit alors que Xhondo est un voleur et qu'il n'y a pas de place pour Xhondo sur la Brise Cannelle. Xhondo n'est pas un voleur, mais Quhuru Mo est capitaine.
-str_npc11_backstory_b|Le constable dans ces parties est trop préoccupé par la guerre pour lever un doigt à ma défense. Et sans deux pièces pour frotter ensemble, je ne peux certainement pas trouver quelques mots de vendeur pour reprendre mes affaires.
-str_npc12_backstory_b|C'était une glorieuse bataille! J'ai tué vingt-cinq des Ironborn avant de subir des blessures. Mais pour ce coup bien frappé, j'aurais été parmi les premiers dans la brèche du château, aux côtés de Thoros de Myr et de Jorah Mormont.
-str_npc13_backstory_b|Ne me regardez pas comme ça ou je vais nourrir votre virilité aux chèvres! Quoi qu'il en soit, je voulais un autre verre. INNKEEP! Dépêchez-vous avec cette hydromel ou cette auberge de votre volonté sera en ruine avant l'aube!
+str_npc11_backstory_b|Le seigneur dans ces terres est trop préoccupé par la guerre pour lever un doigt pour ma défense. Et sans argent, je ne peux certainement pas récuperer mes affaires.
+str_npc12_backstory_b|C'était une glorieuse bataille! J'ai tué vingt-cinq des Fer-nés avant de subir des blessures. Mais pour ce coup bien frappé, j'aurais été parmi les premiers dans la brèche du château, aux côtés de Thoros de Myr et de Jorah Mormont.
+str_npc13_backstory_b|Ne me regardez pas comme ça ou je vais tranchez vos couilles pour les donner aux chèvres ! Quoi qu'il en soit, je voulais un autre verre. TAVERNIER ! Dépêchez-vous avec cette hydromel ou cette taverne sera en ruine avant l'aube
 str_npc14_backstory_b|Lord Stark m'a offert de rejoindre la garde de la main, mais je sais mieux que d'être un gardien. Alors il m'a envoyé avec le Seigneur de la Lumière pour exécuter ce géant d'un hors-la-loi - La Montagne. Seulement, après que le roi Robert soit mort, nous sommes devenus les hors-la-loi.
 str_npc15_backstory_b|J'avais l'habitude d'écrire un chevalier Hedge; Ser Lorimer. Mon seigneur était responsable du train de bagages de Tywin Lannister, mais il a fini par enlever des aliments. Il m'a partagé avec moi. Et bien, on a découvert. Nous étions à la fois pendus, mais j'ai été épargné à cause de mon nom de famille et j'ai été exilé.
 str_kurleket_backstory_b|...
@@ -501,7 +501,7 @@ str_npc9_backstory_c|En fait, trois membres de ma Maison ont assisté au Kingsgu
 str_npc10_backstory_c|Ils n'auront pas Xhondo à bord. Donc, Xhondo est laissé à Vielleville pour se soigner dans ce lieu où Xhondo sait si peu.
 str_npc11_backstory_c|Lorsque le roi Robert est mort, il en est de même de la paix du roi. La guerre est une bonne affaire, mais le risque est trop élevé. Maintenant, je dois partir de zéro, mais avec les prêts que j'ai pris, je préfère devenir un homme mort.
 str_npc12_backstory_c|Mais même les plus grands actes tels que la mienne disparaissent dans le temps et donc je me déplace dans le royaume à la recherche de l'honneur et de la gloire. Peut-être voudriez-vous que Ser Creighton Longbough ajoute son épée à la vôtre dans les combats à venir?
-str_npc13_backstory_c|Vous ne cherchez pas de guerriers, n'est-ce pas? J'étais avec le petit seigneur de Lannister, mais garder son âme nain n'est pas pour moi. J'ai pris mon salaire et mon champ de bataille d'acier avec moi et je suis parti. Je veux avaler le SANG, ne pas rester vigilant près de la porte!
+str_npc13_backstory_c|Vous ne cherchez pas de guerriers, n'est-ce pas? J'étais avec le petit seigneur Lannister, mais garder son âme de nain n'est pas pour moi. J'ai pris mon salaire et ma hache d'acier avec moi et je suis parti. Je veux RÉPANDRE LE SANG, et non pas rester comme un garde près de la porte !
 str_npc14_backstory_c|Nous avons toujours tenu notre serment et sommes restés les hommes du roi. Lord Beric et moi, nous avions des vues différentes sur la justice. J'ai tiré des brigands et les ai pendus, il les a laissés faire un procès par la bataille et ont confié leurs destin au Dieu rouge. À la fin, nos voies se sont séparées.
 str_npc15_backstory_c|Donc, je suis ici, un jeune écuyer à la recherche d'un commandant compétent pour servir.
 str_kurleket_backstory_c|...
@@ -520,8 +520,8 @@ str_npc8_backstory_later|Vous avez toujours besoin d'un chevalier dans vos rangs
 str_npc9_backstory_later|J'étais là et je faisais toutes sortes de choses. Vous avez toujours besoin d'un bon épée et d'une source d'informations?
 str_npc10_backstory_later|Xhondo a cherché du travail mais les gens disent: ^ 'Oui-oui, Xhondo. Je viendrai demain.'^ Alors les gens disparaissent. Prendre Xhondo à bord?
 str_npc11_backstory_later|J'ai échappé aux requins sur les sept royaumes et j'essaie de passer. Je n'ai encore trouvé personne intéressé par mon expertise commerciale. Peut-être pourriez-vous utiliser un homme comme moi?
-str_npc12_backstory_later|J'ai cherché des occasions de donner aux bardes et aux ménestrels une autre cause pour chanter Ser Creighton Longbough à nouveau. Est-ce que vous êtes venu chercher ma valeur dans la bataille?
-str_npc13_backstory_later|J'ai offert ma hache à des seigneurs dans ces parties, mais ils risquent de mourir dans mon visage! Sinon pour cent gardes autour de chacun d'entre eux, je les aurais coupés tous pour les soutirer et les avoir nourris aux chèvres!
+str_npc12_backstory_later|J'ai cherché des occasions de donner aux bardes et aux ménestrels un autre motig pour chanter à propos de Ser Creighton Longbough à nouveau. Est-ce que vous êtes venu chercher ma valeur dans la bataille?
+str_npc13_backstory_later|J'ai offert ma hache à des seigneurs dans ces terres, mais ils osent rire devant moi ! Si il n'y avait pas des centaines de gardes autour de chacun d'entre eux, je les aurais coupés tous pour les donner aux chèvres !
 str_npc14_backstory_later|J'ai gagné des dragons en tirant sur certains archers confiants et en les dépensant sur les putes et le vin. Avez-vous besoin d'un homme mortel avec un arc?
 str_npc15_backstory_later|J'ai combattu dans la guerre pour notre liege commun.
 str_kurleket_backstory_later|J'ai eu quelques questions à traiter. Bien que je suis de retour là où est ma place maintenant.
@@ -539,7 +539,7 @@ str_npc7_backstory_response_1|J'ai certainement besoin d'un homme de tes talents
 str_npc8_backstory_response_1|Je peux vous offrir des opportunités pour vous prouver vous-même digne d'une femme guerrière.
 str_npc9_backstory_response_1|Je voudrais avoir un guerrier si glorieux dans mon hôte.
 str_npc10_backstory_response_1|J'ai besoin d'un marin qualifié pour m'aider à manipuler le navire.
-str_npc11_backstory_response_1|Un homme de tes talents serait un ajout bienvenu à mon hôte.
+str_npc11_backstory_response_1|Un homme avec vos talents serait un ajout bienvenu pour mon groupe.
 str_npc12_backstory_response_1|Si vous pouvez faire pivoter votre épée de la façon dont vous faites des histoires, je pourrais vous utiliser.
 str_npc13_backstory_response_1|Venez avec moi et vous vous baignerez dans le sang.
 str_npc14_backstory_response_1|Je pourrais vraiment utiliser un homme avec une telle expertise dans le tir à l'arc.
@@ -560,7 +560,7 @@ str_npc8_backstory_response_2|Bien, bonne chance.
 str_npc9_backstory_response_2|Dites vos contes à une taverne.
 str_npc10_backstory_response_2|Xhondo peut continuer à chercher. Je n'ai pas besoin d'un marin.
 str_npc11_backstory_response_2|Je n'ai pas besoin d'un marchand pour le moment.
-str_npc12_backstory_response_2|Si vous aimez tant pour les chansons, devenez un bard. Je chercherai ailleurs les guerriers.
+str_npc12_backstory_response_2|Si vous aimez tant pour les chansons, devenez un barde. Je chercherai ailleurs les guerriers.
 str_npc13_backstory_response_2|Une autre fois, Shaggy.
 str_npc14_backstory_response_2|Je dirai aux gardiens de vous, criminels.
 str_npc15_backstory_response_2|Bonne chance de le trouver.
@@ -579,9 +579,9 @@ str_npc7_signup|Merci, Sire. Je peux traiter toute blessure et guérir tout pois
 str_npc8_signup|Ensuite, j'accepte votre offre. Mais, croyez-moi, je me prouverai d'être le meilleur guerrier dans vos rangs.
 str_npc9_signup|Et vous avez raison, cela sera le vôtre! Je peux également trouver des sentiers dans différents domaines qui, autrement, vous resteront sans précédent et à votre parti.
 str_npc10_signup|Xhondo servira bien. Xhondo connait plusieurs langues, un peu. Et comment utiliser une lame.
-str_npc11_signup|Vous trouverez peu de marchands qualifiés dans l'art du commerce que je le suis. J'ai acheté des œuvres d'art inestimables pour des penny et vendu des déchets pour les châteaux. Je peux souligner les meilleures offres, regagner les prix et aider à organiser vos finances.
-str_npc12_signup|Je ne fais rien pour je suis un chevalier, pas un tailleur! Je vous assure que lorsque les épées échouent, vous ne me trouverez jamais à l'arrière. Le jour où je perdrais ma vie dans la bataille, mes ennemis seront empilés tout autour de moi!
-str_npc13_signup|Il suffit de me pointer vers vos ennemis et je les séparerai. Shagga, fils de Dolf, ne parvient jamais et ne tombe jamais.
+str_npc11_signup|Vous trouverez peu de marchands qualifiés dans l'art du commerce comme moi. J'ai acheté des œuvres d'art inestimables pour beaucoup d'argent et vendu des déchets pour les châteaux. Je peux vous faire remarquer les meilleures offres, marchander les prix et aider à organiser vos finances.
+str_npc12_signup|Je suis un chevalier, pas un tailleur! Je vous assure que lorsque les épées s'entrechoquent, vous ne me trouverez jamais à l'arrière. Le jour où je perdrais ma vie dans la bataille, mes ennemis seront empilés tout autour de moi !
+str_npc13_signup|Il suffit de me pointer vers vos ennemis et je les fendrai. Shagga, fils de Dolf, réussi toujours et ne tombe jamais.
 str_npc14_signup|Il n'y a pas d'archer plus fin que moi dans les Seven Kingdoms. Assurez-vous que je suis stationné sur un sol solide et je vais pleuvoir la mort sur vos ennemis. Je suis également un observateur qualifié et un traceur.
 str_npc15_signup|Vous faites? Eh bien, j'ai beaucoup de chance de vous rencontrer aujourd'hui!
 str_kurleket_signup|...
@@ -599,9 +599,9 @@ str_npc7_signup_2|Je tiens à souligner cependant que, puisque je tiendrai à vo
 str_npc8_signup_2|Je serai heureux de me battre dans votre mur de bouclier. Mais je vous préviens - si vous me demandez de rassembler le bois de feu ou de faire un repas, vous n'auriez pas envie des conséquences.
 str_npc9_signup_2|Je sais aussi où t 's'occupe de la bataille pour les choses ou la plus grande valeur. Par conséquent, je vous demande de ne pas quitter Ol 'Dick sans ma part de butin et un morceau de viande savoureux par le feu.
 str_npc10_signup_2|Xhondo veut son ventre plein de nourriture et de boissons et ses poches sonnent avec des pièces de monnaie. Ou Xhondo sera très mécontent.
-str_npc11_signup_2|Il sera bon de poursuivre après les bandits plutôt que de les exécuter une seule fois. Mais je suis tout d'abord un marchand et je devrais savoir que ça me ruinerait si je devais m'associer à une bande de raiders et de pillards.
-str_npc12_signup_2|Sans aucun doute, un certain seigneur cherchera mon service dans un proche avenir, mais j'entends que vous êtes lié à de grands périls. Vous aurez certainement besoin de mon acier, et le bras qui l'exerce! Je demande seulement que nous ne fuissions pas du champ de bataille, il n'y a pas d'honneur à cela.
-str_npc13_signup_2|Assurez-vous simplement qu'il y a toujours assez de nourriture et de pièces pour répondre à mes besoins. Aucun homme ne peut se battre avec une faim dans son ventre et aucun bon guerrier ne saute une bonne fête après la victoire!
+str_npc11_signup_2|Il sera bon de poursuivre après les bandits plutôt que de les exécuter une seule fois. Mais je suis tout d'abord un marchand et je devrais savoir que ça me ruinerait si je devais m'associer à une bande de raideurs et de pillards.
+str_npc12_signup_2|Aucun doute que des seigneurs chercheront mon service dans un proche avenir, mais j'entends que vous êtes lié à de grands périls. Vous aurez certainement besoin de mon acier, et le bras qui l'exerce ! Je demande seulement que nous ne fuissions pas du champ de bataille, il n'y a pas d'honneur à cela.
+str_npc13_signup_2|Assurez-vous simplement qu'il y a toujours assez de nourriture et de pièces pour répondre à mes besoins. Aucun homme ne peut se battre lorqu'il a faim et aucun bon guerrier ne saute une bonne fête après la victoire !
 str_npc14_signup_2|Il est formidable de reprendre les bras. Vous ne me trouverez pas généreux avec des brigands que nous rencontrerons, si vous avez la signification. Et gardez à l'esprit que je ne tolérerais pas voler les paysans et brûler les villages.
 str_npc15_signup_2|Je ne vais pas vous laisser tomber. Je pense que vous allez me trouver un ajout précieux à vos rangs. Je vous serai fidèle, mon seigneur.
 str_kurleket_signup_2|...
@@ -620,8 +620,8 @@ str_npc8_signup_response_1|Pas de peur, mon ami. Vous êtes un guerrier, et vous
 str_npc9_signup_response_1|Pourquoi pourrais-je tromper un homme aussi honnête?
 str_npc10_signup_response_1|Nous avons beaucoup de nourriture et de pièces pour tous. Bienvenue dans notre groupe.
 str_npc11_signup_response_1|Je comprends, et soyez assuré que vos soucis sont sans fondement avec moi.
-str_npc12_signup_response_1|Je ne suis jamais sorti de batailles - je les recherche.
-str_npc13_signup_response_1|Il n'y a jamais de pénurie de nourriture et de monnaie dans mon camp. Nous nous fêterons de nos victoires!
+str_npc12_signup_response_1|Je ne suis jamais emfuit d'une bataille - je les recherche.
+str_npc13_signup_response_1|Il n'y a jamais de pénurie de nourriture et de monnaie dans mon groupe. Nous fêterons bien nos victoires  !
 str_npc14_signup_response_1|Je partage vos vues. Laissez-nous séparer la terre de cette troupe.
 str_npc15_signup_response_1|Bon! Préparez vos trucs et rencontrez-moi à l'extérieur.
 str_kurleket_signup_response_1|...
@@ -639,8 +639,8 @@ str_npc7_signup_response_2|Ce sont mes gens et je fais comme je le souhaite avec
 str_npc8_signup_response_2|Ah. En fait, peut-être, je n'ai pas besoin d'une femme essayant d'être un chevalier qui monte avec moi.
 str_npc9_signup_response_2|Vous voleriez même les mendiants, semble-t-il. Éloignez-vous.
 str_npc10_signup_response_2|Une autre bouche! Pas de nourriture pour Xhondo.
-str_npc11_signup_response_2|Je fais comme je le souhaite, si vous ne l'aimez pas, restez ici.
-str_npc12_signup_response_2|Un chevalier de haie surélevé et trop confiant ne me ralentira que.
+str_npc11_signup_response_2|Je fais comme je le souhaite, si vous n'aimez pas, restez ici.
+str_npc12_signup_response_2|Un chevalier en surpoids et trop confiant ne fera que me ralentir.
 str_npc13_signup_response_2|Vous allez dévorer mes stocks alimentaires!
 str_npc14_signup_response_2|Je m'occupe de bas né comme je le souhaite.
 str_npc15_signup_response_2|En retour, les guerres pourraient être trop dangereuses pour vous. Désolé cheri.
@@ -659,9 +659,9 @@ str_npc7_payment|Cela est rassurant. Avant de nous occuper, cependant, j'ai beso
 str_npc8_payment|Ensuite, je vais te battre avec tes ennemis. Mais d'abord, j'ai besoin de cercles argentés (reg3).
 str_npc9_payment|C'est ce que je dis toujours! Quoi qu'il en soit, un soldat honnête comme moi exige un paiement honnête avant qu'il ne commence à se battre. Tout ce que je demande, c'est une humble somme de cerglins {reg3}.
 str_npc10_payment|Bien. Xhondo n'a pas d'argent et demande des cerfs {reg3}. Maintenant.
-str_npc11_payment|Merci, vous ne regretterez pas de m'emporter. Cependant, il y a la question des prêts que j'ai pris. J'ai acquis des cerfs {reg3} pour mon dernier envoi. Je ne peux pas voyager ouvertement à moins de rembourser les prêts.
-str_npc12_payment|Les mots plus vrais n'ont jamais été prononcés! Maintenant, il reste une petite question de paiement, j'aurai besoin de cercles {reg3} pour payer le smith local pour la réparation de ma lame. Je l'avais entaché dans une lutte furieuse avec les bandits à la campagne, vous voyez. Un peu pour moi même, bien sûr.
-str_npc13_payment|J'ai besoin de cercles [reg3} pour payer tout l'hydromel que j'ai bu et la viande dont j'ai fêté ces jours-ci.
+str_npc11_payment|Merci, vous ne regretterez pas de m'accepter dans votre groupe. Cependant, il y a la question des prêts que j'ai pris. J'ai emprunté {reg3} cerfs d'argent pour ma dernière expédition. Je ne peux pas voyager ouvertement à moins de rembourser les prêts.
+str_npc12_payment|Des mots plus vrais n'ont jamais été prononcés ! Maintenant, il reste une petite question de paiement, j'aurai besoin de {reg3} cerfs d'argent pour payer le forgeron local pour la réparation de ma lame. Je l'avais entaché dans une lutte furieuse avec les bandits à la campagne, vous voyez. Plus un peu pour moi même, bien sûr.
+str_npc13_payment|J'ai besoin de [reg3} cerfs d'argent pour payer tout l'hydromel que j'ai bu et la viande dont j'ai mangé ces jours-ci.
 str_npc14_payment|Aye. Il y a juste une chose avant de continuer. J'ai passé la nuit dernière avec des prostituées chères qui semblent m'être laissé en panne. Je requierais des cerfs {reg3} pour répondre à mes besoins en vin fin et en dames.
 str_npc15_payment|Cependant, je requierais des cerfs {reg3}. J'ai peut-être dépassé un peu, je reste ici trop longtemps.
 str_kurleket_payment|...
@@ -679,8 +679,8 @@ str_npc7_payment_response|Bien sur! Ici, prenez les cerfs {reg3} et achetez ce d
 str_npc8_payment_response|Hmm OK, voici {reg3} des cerfs d'argent pour vous.
 str_npc9_payment_response|Mots honnêtes d'un tel soldat expérimenté. Voici vos cerfs {reg3}.
 str_npc10_payment_response|D'accord. Voici {reg3} cerfs d'argent. Rencontrez-moi à l'extérieur.
-str_npc11_payment_response|Voici l'argent, les cerfs [reg3}, voir les prêts et essayer de revenir avec tous vos membres.
-str_npc12_payment_response|L'épée ne fait pas l'homme, mais prenez vos cerfs et vous rencontre à l'extérieur.
+str_npc11_payment_response|Voici l'argent, [reg3} cerfs d'argent. Allez voir le prêteur et essayer de revenir en entier.
+str_npc12_payment_response|L'épée ne fait pas l'homme, mais prenez vos {reg3] cerfs d'argent et rencontrez-moi à l'extérieur.
 str_npc13_payment_response|Vous aimez certainement manger, Shagga. Voici {reg3} cerfs.
 str_npc14_payment_response|Here. Prenez les cerfs {reg3} et préparez-vous à partir bientôt.
 str_npc15_payment_response|assez juste. Voici des voleurs {reg3}, comme vous l'avez demandé. Maintenant, préparez-vous à déménager.
@@ -693,14 +693,14 @@ str_npc1_morality_speech|C'est un peu beaucoup que nous {s21}. Vous devriez pren
 str_npc2_morality_speech|Ce n'est pas toujours bon pour {s21}. Bien que cela nous rend plus riches.
 str_npc3_morality_speech|Je confesse que je suis un peu choqué que nous (s21).
 str_npc4_morality_speech|Ce que nous avons fait, il n'y avait pas de raison, commandant. Je sais que la guerre n'est pas ce que les bardes en font dans les chansons, mais nous ne devrions pas seulement {s21}.
-str_npc5_morality_speech|Commander, si votre préférence est {s21}, alors mon forage de vos soldats va au pot. Et Mère a pitié de vous quand vous décidez de vous battre.
+str_npc5_morality_speech|Commandant, si votre préférence est {s21}, alors mon forage de vos soldats va au pot. Et Mère a pitié de vous quand vous décidez de vous battre.
 str_npc6_morality_speech|Excusez-moi {monsieur/madame}. Comme vous le savez, je vous ai rejoint en redresseur de torts, en protecteur des innocents et pour expier mes péchés. Je ne m'attendais pas à {s21}.
 str_npc7_morality_speech|Sire, c'est tout à fait décevant lorsque vous {21}. Je ne resterai pas longtemps dans une entreprise avec un tel leadership.
 str_npc8_morality_speech|Je n'ai pas apprécié que vous décidiez de {s21}. Tomber au combat est un honneur, mais combattre au sein d'une troupe armée menée par un lâche est une disgrâce.
-str_npc9_morality_speech|Commander, si vous {s21} pourquoi êtes-vous à la tête de notre armée? Ol 'Dick a une certaine expérience dans la direction des troupes, je peux le faire à votre place.
+str_npc9_morality_speech|Commandant, si vous {s21} pourquoi êtes-vous à la tête de notre armée? Ol 'Dick a une certaine expérience dans la direction des troupes, je peux le faire à votre place.
 str_npc10_morality_speech|Captaine, vous {s21}. Xhondo n'est pas content.
 str_npc11_morality_speech|J'ai été très clair sur les conditions de mon service. Si vous souhaitez {s21} acquérir votre monnaie, vous devrez le dépenser sans mes conseils.
-str_npc12_morality_speech|Commander, si vous voulez que {s21}, vos hommes, y compris moi, pourraient commencer à penser qu'ils seraient mieux de servir un autre seigneur ou même de leur propre chef.
+str_npc12_morality_speech|Commandant, si vous voulez que {s21}, vos hommes y compris moi, commencent à penser qu'ils seraient mieux de servir un autre seigneur ou même de devenir leur propre seigneur.
 str_npc13_morality_speech|Chef, Shagga ne va pas s'asseoir par-dessus tout pendant que vous {s21}. Laissez-nous la façon dont il doit être fait ou reposez-vous et laissez les vrais guerriers le faire!
 str_npc14_morality_speech|Capitaine, qu'est-ce qui t'a fait {s21}? Ce n'est pas ce que je m'attendais de vous. Si vous pensez que je conduirai les caravanes et les innocents de boucherie, vous vous trompez gravement.
 str_npc15_morality_speech|Mon seigneur, je ne pense pas pouvoir te regarder tuer les pauvres âmes innocentes. Veuillez reconsidérer la prochaine fois avant d'effectuer une telle action.
@@ -723,16 +723,16 @@ str_event_2ary_morality_speech|Pourquoi choisissez-vous {s21}.
 str_npc1_personalityclash_speech|..
 str_npc2_personalityclash_speech|Je n'ai pas de fidélité ici, plus tôt les gens se sont rendu compte que mieux nous serons tous.
 str_npc3_personalityclash_speech|À mon avis, {s11} est terrible ... Je ne peux pas dire pourquoi ... Je ne peux pas dire quand ... Mais je sais que vous le savez.
-str_npc4_personalityclash_speech|Commander, ce marchand {s11} est un homme faible et glissant. Toujours essayer de payer aux hommes pour faire son travail pour lui, ne pouvant jamais enduire ses mains délicates avec tout ce qu'il y a de compoteurs.
-str_npc5_personalityclash_speech|Commander, je comprends que vous avez besoin de soldats capables, mais {s11} est le pire de tous les scènes de sellsword dans le domaine. Il est un homme sans Dieu sans honneur ni dignité.
+str_npc4_personalityclash_speech|Commandant, ce marchand {s11} est un homme faible et glissant. Toujours essayer de payer aux hommes pour faire son travail pour lui, ne pouvant jamais enduire ses mains délicates avec tout ce qu'il y a de compoteurs.
+str_npc5_personalityclash_speech|Commandant, je comprends que vous avez besoin de soldats capables, mais {s11} est le pire de tous les scènes de sellsword dans le domaine. Il est un homme sans Dieu sans honneur ni dignité.
 str_npc6_personalityclash_speech|Damn, il est barbare! Je peux te mettre fin si tu le veux?
 str_npc7_personalityclash_speech|Sire, je suis venu à vous pour parler de {s11}. Il se considère comme un homme savant et savant, mais il voit mes expériences d'intérêt purement scientifique menacer lui-même et notre entreprise.
 str_npc8_personalityclash_speech|Leur est quelque chose qui ne va pas avec cet homme!
-str_npc9_personalityclash_speech|Commander, ce vieux imbécile {s11} se croit tellement expérimenté par un guerrier et un chevalier si vaillant, mais il a refusé de descendre de ce cheval et de me donner, un «simple mot de vente», une main quand j'avais besoin d'un .
+str_npc9_personalityclash_speech|Commandant, ce vieux imbécile {s11} se croit tellement expérimenté par un guerrier et un chevalier si vaillant, mais il a refusé de descendre de ce cheval et de me donner, un «simple mot de vente», une main quand j'avais besoin d'un .
 str_npc10_personalityclash_speech|Captain, Xhondo sait qu'il n'est pas local. Xhondo essaie de se rapprocher avec votre équipe mais {s11} se moque toujours de Xhondo.
-str_npc11_personalityclash_speech|Leader, j'ai vu une chose ou deux dans ma vie et pas tous très agréables. Mais ce vieil homme qui s'appelle un ancien maître connu sous le nom de sll} est la créature la plus redoutable sur laquelle j'ai posé les yeux.
-str_npc12_personalityclash_speech|Commander, {s11} doit être le plus grave que j'ai jamais eu le mécontentement à rencontrer! Il éveille de la bière et supporte tellement qu'il me garde la nuit.
-str_npc13_personalityclash_speech|Chef, je n'aime pas {s11} du tout. Il fait des choses interdites par les Anciens dieux et peut nous dénoncer la colère.
+str_npc11_personalityclash_speech|Chef, j'ai vu une chose ou deux dans ma vie et pas tous très agréables. Mais ce vieil homme qui s'appelle lui-même comme un ancien maître connu sous le nom de {sll} est la créature la plus redoutable sur laquelle j'ai posé les yeux.
+str_npc12_personalityclash_speech|Commandant, {s11} doit être le voyou le plus grossier que j'ai jamais rencontrer ! Il pue la bière et la sueur que je n'arrive pas à dormir la nuit.
+str_npc13_personalityclash_speech|Chef, je n'aime pas {s11} du tout. Il fait des choses interdites par les Anciens dieux qui peuvent renvoyer leur colère contre nous.
 str_npc14_personalityclash_speech|Captain, {s11} est juste un autre de ces brigands dont j'ai vu et tué des centaines. Parfois, je pense que ce qui m'empêche de faire quelques trous en lui.
 str_npc15_personalityclash_speech|..
 str_kurleket_personalityclash_speech|...
@@ -750,9 +750,9 @@ str_npc7_personalityclash_speech_b|Que peut savoir un commerçant au sujet de Ma
 str_npc8_personalityclash_speech_b|Il pense à la femme comme à son trophée. Il pense me mettre à la main et l'avoir mal.
 str_npc9_personalityclash_speech_b|Je comprends que son cul est trop noble et pieux d'être assis près du mien, mais il pourrait m'aider quand j'ai été renversé par deux cavaliers ennemis néanmoins.
 str_npc10_personalityclash_speech_b|Xhondo n'est pas cruel, mais parfois, Xhondo veut faire la tête de ce bouffon. Xhondo veut que son navire navigue.
-str_npc11_personalityclash_speech_b|Je n'ai jamais entendu parler d'un Maester qui perd ses chaînes. Que Qyburn doit avoir fait quelque chose de très mal pour être débarrassé de sa commande. La parole est qu'il a été attrapé pratiquant les arts sombres et les horreurs indescriptibles. Je ne veux pas cet homme autour de moi quand je suis blessé et incapable de me débrouiller!
-str_npc12_personalityclash_speech_b|Et quand il ne dévore pas notre stock de nourriture, il parcourt nos magasins de bière comme si il mourait de soif. Je le jure c'est comme le jour du King's Name à Quill et Tankard tous les jours avec lui!
-str_npc13_personalityclash_speech_b|Permettez-moi de couper sa virilité et de l'alimenter vers les chèvres, puis de lui faire un chatouillement avec mon champ de bataille!
+str_npc11_personalityclash_speech_b|Je n'ai jamais entendu parler d'un Maître qui perd ses chaînes. Ce Qyburn doit avoir fait quelque chose de très mal pour être débarrassé de sa commande. La parole est qu'il a été attrapé pratiquant des arts sombres et des horreurs indescriptibles. Je ne veux pas cet homme autour de moi quand je suis blessé et incapable de me débrouiller !
+str_npc12_personalityclash_speech_b|Et quand il ne dévore pas notre stock de nourriture, il parcourt nos magasins de bière comme si il mourait de soif. Je le jure, c'est comme la fête du Roi à Quill et Tankard tous les jours avec lui !
+str_npc13_personalityclash_speech_b|Permettez-moi de couper ses couiles et de les donner aux chèvres, puis de lui faire des chatouilles avec ma hache !
 str_npc14_personalityclash_speech_b|De plus, il est un pillier méprisable et chercherait probablement ses propres parents morts pour une pièce de monnaie. Donnez-moi l'autorisation de faire face à cette écume.
 str_npc15_personalityclash_speech_b|...
 str_kurleket_personalityclash_speech_b|...
@@ -763,16 +763,16 @@ str_event_personalityclash_speech_b|...
 str_npc1_personalityclash2_speech|Je me fatigue de {s11} et de son Dieu rouge.
 str_npc2_personalityclash2_speech|Captain, recrutons-nous toutes sortes de Septon et fanatiques maintenant? {S11} est seulement capable de prier et de prêcher, ce qui en fait un bon fourrage mais pas un guerrier que nous pourrions utiliser.
 str_npc3_personalityclash2_speech|Que Syrio parle drôle.
-str_npc4_personalityclash2_speech|Commander, cet énorme marin de votre part, {s11}, est une brute et un étranger à notre domaine. La dernière fois que nous avons combattu à épaule à épaule, il a rugis quelque chose d'incompréhensible dans sa langue et a coupé la tête de l'homme.
-str_npc5_personalityclash2_speech|Commander, {s11} est intolérable. Il se considère comme un grand guerrier de House Crabb, mais il n'est plus qu'un brigand commun. Dans le dernier combat, je me suis précipité pour l'aider contre deux brutes et il est sorti et m'a laissé me débrouiller.
+str_npc4_personalityclash2_speech|Commandant, cet énorme marin de votre part, {s11}, est une brute et un étranger à notre domaine. La dernière fois que nous avons combattu à épaule à épaule, il a rugis quelque chose d'incompréhensible dans sa langue et a coupé la tête de l'homme.
+str_npc5_personalityclash2_speech|Commandant, {s11} est intolérable. Il se considère comme un grand guerrier de House Crabb, mais il n'est plus qu'un brigand commun. Dans le dernier combat, je me suis précipité pour l'aider contre deux brutes et il est sorti et m'a laissé me débrouiller.
 str_npc6_personalityclash2_speech|....
 str_npc7_personalityclash2_speech|Sire, enrôlant les barbares et toutes sortes de créatures poilues capables de se battre peut s'avérer une grave erreur. Comment envisagez-vous de contrôler cette bête d'un homme {s11}?
 str_npc8_personalityclash2_speech|Il s'appelle un chevalier .. Pah!
-str_npc9_personalityclash2_speech|Commander, ce jeune archer {s11} que vous avez emmené me regarde parfois comme si j'avais brûlé sa maison et assassiné sa famille. Je le jure, il est comme de me couper la gorge pendant mon sommeil.
+str_npc9_personalityclash2_speech|Commandant, ce jeune archer {s11} que vous avez emmené me regarde parfois comme si j'avais brûlé sa maison et assassiné sa famille. Je le jure, il est comme de me couper la gorge pendant mon sommeil.
 str_npc10_personalityclash2_speech|Capitaine, lors de la dernière bataille, Xhondo a eu ce garçon {s11} derrière son dos. Xhondo a été attaqué par un groupe d'ennemis et savait qu'il n'était pas seul.
-str_npc11_personalityclash2_speech|Leader, ce smith boy {s11} est trop naïf et simple d'être présent dans notre groupe de guerre. Il ne peut ni se battre bien, ni piquer l'écume que nous quittons derrière nous. Et ces compétences de forgerons de ses sœurs. Est-ce qu'il t'a fait encore quelque chose?
-str_npc12_personalityclash2_speech|Commander, {s11} doit être la personne la plus dangereuse que j'ai rencontrée. Il y a peut-être de meilleurs épées et combattants là-bas, mais ils sont normalement ralentis par des choses comme l'honneur et la miséricorde. Bronn, d'autre part, tuerait probablement un bébé s'il était payé assez bien.
-str_npc13_personalityclash2_speech|Le chef, les wenches blabbering ne devraient pas faire partie de notre warband. {S11} parle toujours de ses prouesses, mais dans la dernière bataille, il a presque cassé son pied de ses ennemis.
+str_npc11_personalityclash2_speech|Chef, ce forgeron {s11} est trop naïf et simple pour être présent dans notre groupe de guerre. Il ne peut ni se battre bien, ni emporter le butin que nous laissons derrière nous. Et ces fameuses compétences de forgerons dont il se vante, est-ce qu'il a dèjà fabriqué quelque chose ?
+str_npc12_personalityclash2_speech|Commandant, {s11} doit être la personne la plus dangereuse que j'ai rencontrée. Il y a peut-être de meilleurs épées et combattants là-bas, mais ils sont normalement ralentis par des choses comme l'honneur et la miséricorde. Bronn tuerait probablement un bébé s'il était payé assez bien.
+str_npc13_personalityclash2_speech|Chef, les pipelettes ne devraient pas faire partie de notre groupe. {S11} parle toujours de ses prouesses, mais lors de la dernière bataille, il a presque cassé son orteil en fuyant ses ennemis.
 str_npc14_personalityclash2_speech|Capitaine, à quoi sert cet énorme {s11} s'il ne parle pas de langue commune et ne comprend même pas les jais que font moi et d'autres soldats?
 str_npc15_personalityclash2_speech|none.
 str_kurleket_personalityclash2_speech|...
@@ -790,9 +790,9 @@ str_npc7_personalityclash2_speech_b|Après la dernière bataille, il a laissé t
 str_npc8_personalityclash2_speech_b|Toute ma vie, les hommes comme lui, m'ont moqué de moi. Et toute ma vie j'ai frappé des hommes comme lui dans la poussière.
 str_npc9_personalityclash2_speech_b|Au cours de la dernière bataille, j'ai toujours senti ses yeux sur moi et je m'attendais à une flèche sur mon dos tout le temps. Je m'inquiétais plus d'un ennemi qui me balançait l'épée devant mon visage.
 str_npc10_personalityclash2_speech_b|Mais le garçon vient de quitter Xhondo pour y apporter de l'aide. Toute l'aide dont Xhondo avait besoin était l'épée du garçon. Xhondo dit, étaler le sang du lâche sur le pont.
-str_npc11_personalityclash2_speech_b|Je l'ai vu hésitant avant de terminer un de nos ennemis dans la dernière bataille. Ce garçon est trop vert pour tuer des gens, il devrait être laissé à la première ville que nous passons et y travailler comme apprenti.
-str_npc12_personalityclash2_speech_b|Il a du courage et de la force, mais il n'y a pas de gentillesse et de loyauté. Il ne veut pas que je vienne et que cela soit évident. Il dit que je devrais arrêter de jouer à la guerre et devenir un bard plutôt, ce bas né!
-str_npc13_personalityclash2_speech_b|Je peux couper sa virilité et la nourrir aux chèvres comme exemple de ce qui arrive aux lâches pour vos troupes. S'il en a un, et je le doute.
+str_npc11_personalityclash2_speech_b|Je l'ai vu hésitant avant de tuer un de nos ennemis dans la dernière bataille. Ce garçon est trop inexperimenté pour tuer des gens, il devrait être laissé à la première ville que nous passons et y travailler comme apprenti.
+str_npc12_personalityclash2_speech_b|Il a du courage et de la force, mais il n'y a pas de gentillesse et de loyauté en lui. Il dit que je devrais arrêter de jouer à la guerre et devenir un barde plutôt, ce salaud !
+str_npc13_personalityclash2_speech_b|Je peux couper ses couilles et nourrir les chèvres avec afin de donner faire un exemple de ce qui arrive aux lâches pour vos troupes. Si il y en a, ce que je doute.
 str_npc14_personalityclash2_speech_b|Et il a tendance à aimer combattre quelques ennemis à la fois. Je ne peux toujours pas couvrir son gros dos noir, il finirait par mourir de nous. Mieux vaut vous débarrasser de lui maintenant.
 str_npc15_personalityclash2_speech_b|none.
 str_kurleket_personalityclash2_speech_b|...
@@ -803,16 +803,16 @@ str_event_personalityclash2_speech_b|...
 str_npc1_personalitymatch_speech|J'ai été impressionné par les compétences de {s11} dans cette dernière bataille.
 str_npc2_personalitymatch_speech|La dernière auberge où nous nous sommes arrêtés, la bière était bonne et les femmes, bien, laissez juste dire que je n'ai jamais vu de plus gros seins dans l'ensemble de Westeros. Je pourrais m'être attiré jusqu'à ce que {s11} ait sauté devant moi ... même si j'aime son style.
 str_npc3_personalitymatch_speech|Pensez-vous que {s11} voudrait un homme comme moi? ... Évidemment pas moi, mais quelqu'un comme ... moi?
-str_npc4_personalitymatch_speech|Commander, {s11} est un homme digne et juste, sans parler de son expertise avec l'arc et les flèches. Je me sens beaucoup plus confiant en sachant qu'il regarde mon dos dans la bataille. Il m'a sauvé plusieurs fois déjà.
-str_npc5_personalitymatch_speech|Commander, je voulais juste souligner que vous avez fait le bon choix en prenant {s11} le long. Il sait comment se battre et comment raconter des histoires aussi. Il s'agit des plus intéressants que j'ai entendus depuis longtemps.
+str_npc4_personalitymatch_speech|Commandant, {s11} est un homme digne et juste, sans parler de son expertise avec l'arc et les flèches. Je me sens beaucoup plus confiant en sachant qu'il regarde mon dos dans la bataille. Il m'a sauvé plusieurs fois déjà.
+str_npc5_personalitymatch_speech|Commandant, je voulais juste souligner que vous avez fait le bon choix en prenant {s11} le long. Il sait comment se battre et comment raconter des histoires aussi. Il s'agit des plus intéressants que j'ai entendus depuis longtemps.
 str_npc6_personalitymatch_speech|Le Braavosi qui voyage avec nous. Je n'ai jamais vu un jeu d'espionnage d'une telle beauté.
 str_npc7_personalitymatch_speech|Sire, l'Island Island qui voyage avec nous est vraiment une personne intéressante. {S11} m'a raconté des choses sur les rituels et la médecine de son peuple, que j'ai trouvé très excitant à entendre.
 str_npc8_personalitymatch_speech|Il apprend vite. Pas mal avec une épée non plus!
-str_npc9_personalitymatch_speech|Commander, que {11} est un homme bon et honnête et connaît mieux le goût de l'or que moi. Au cours d'une jambe de chèvre et d'une bière, il a commencé à me parler de toutes les différentes pièces de monnaie, alors qu'avant les cerfs et les dragons, chaque royaume avait sa propre monnaie. Vous avez entendu parler de cela? Je ne l'ai pas fait.
+str_npc9_personalitymatch_speech|Commandant, que {11} est un homme bon et honnête et connaît mieux le goût de l'or que moi. Au cours d'une jambe de chèvre et d'une bière, il a commencé à me parler de toutes les différentes pièces de monnaie, alors qu'avant les cerfs et les dragons, chaque royaume avait sa propre monnaie. Vous avez entendu parler de cela? Je ne l'ai pas fait.
 str_npc10_personalitymatch_speech|Captaine, Xhondo pense que {s11} est un bon homme et un bon guérisseur. Chaque fois que Xhondo était blessé, il a guéri Xhondo.
-str_npc11_personalitymatch_speech|Leader, {s11} est une bonne entreprise. Nous étions assis au feu du camp et nous partageons des histoires de notre passé et nous savoutions la belle soirée. Vous devriez le regarder de plus près ou même le promouvoir.
-str_npc12_personalitymatch_speech|Commander, je voulais dire que {s11} était certainement un excellent choix. Il n'y a pas beaucoup de guerriers si expérimentés que notre brave Ser Illifer pour ne pas mentionner sa lignée de sang.
-str_npc13_personalitymatch_speech|Chef, que {s11} est un bon combattant. Il ne montre aucune pitié et ne le demande pas, tout comme moi. Il sait que les combats ne visent pas à montrer le jeu de l'épée, il s'agit de massacrer le pauvre imbécile devant toi pour la nourriture des corbeaux et de passer à ses camarades!
+str_npc11_personalitymatch_speech|Chef, {s11} est d'une bonne compagnie. Nous étions assis au feu du camp et nous partageons des histoires de notre passé et nous savourions la belle soirée. Vous devriez le regarder de plus près ou même le promouvoir.
+str_npc12_personalitymatch_speech|Commandant, je voulais dire que {s11} était certainement un excellent choix. Il n'y a pas beaucoup de guerriers si expérimentés que notre brave Ser Illifer pour ne pas mentionner sa lignée de sang.
+str_npc13_personalitymatch_speech|Chef,{s11} est un bon combattant. Il ne montre aucune pitié et n'en le demande pas, tout comme moi. Il sait que les combats ne visent pas à montrer le jeu de l'épée, il s'agit de massacrer le pauvre imbécile devant toi pour nourrir tes camarades !
 str_npc14_personalitymatch_speech|Captain, le smith {s11} que vous avez emmené avec nous est un bon et honnête garçon. Il n'a pas encore été expérimenté avec une lame mais il fabrique de fines armes et armures.
 str_npc15_personalitymatch_speech|Mon lord, l'espadrille de {s11} est très impressionnant.
 str_kurleket_personalitymatch_speech|...
@@ -830,9 +830,9 @@ str_npc7_personalitymatch_speech_b|Il ne parle pas bien la langue commune, mais 
 str_npc8_personalitymatch_speech_b|Vous devriez être heureux que nous ayons des personnes de sa nature dans notre entreprise.
 str_npc9_personalitymatch_speech_b|Il sait tout ce qui concerne le commerce et nous ferions bien d'utiliser ses connaissances à partir du temps t. Je vais aider à le faire sortir des combats, nous ne pouvons pas perdre un membre aussi utile de notre hôte.
 str_npc10_personalitymatch_speech_b|Il connaît des choses sur les îles d'été et enseigne Xhondo votre langue de Westeros. Un jour, Xhondo sera meilleur que vos rois pour parler.
-str_npc11_personalitymatch_speech_b|Il est un soldat formidable et expérimenté, après tout, et sait ce qui brille le plus brillant. Un membre plutôt réticent et non remarquable, mais précieux de notre bande de guerre.
-str_npc12_personalitymatch_speech_b|Je considère qu'il est un grand honneur de se battre à côté de lui et je partage volontiers le pain et l'hydromel avec lui après des combats. Peut-être chercherons-nous la fortune ensemble un jour.
-str_npc13_personalitymatch_speech_b|Et il sait comment boire et se régaler! La nuit dernière, nous avons mangé un bœuf entier et des 2 tonneaux d'hydromel! Tout homme qui ose attaquer Bronn Je vais me déchirer avec mes propres mains nues!
+str_npc11_personalitymatch_speech_b|Il est un soldat formidable et expérimenté, après tout. C'est un membre plutôt réticent et assez banal, mais précieux de notre groupe de guerre.
+str_npc12_personalitymatch_speech_b|Je considère que c'est un grand honneur de se battre à côté de lui et je partage volontiers le pain et l'hydromel avec lui après des combats. Peut-être chercherons-nous la fortune ensemble un jour.
+str_npc13_personalitymatch_speech_b|Et il sait comment boire et se régaler! La nuit dernière, nous avons mangé un bœuf entier et des 2 tonneaux d'hydromel! Tout homme qui ose attaquer Bronn, je le tue à mains nues !
 str_npc14_personalitymatch_speech_b|Il a aussi un bon sens de ce qui est juste et juste dans ce monde, j'aime ça. Des hommes comme cet homme ne vous trahira pas ou ne vous frappera pas dans le dos.
 str_npc15_personalitymatch_speech_b|Elle connaît ses limites et exécute chaque attaque parfaitement! Je suis heureux d'avoir quelqu'un comme elle à mes côtés. Vous avez eu du bon sens en l'amenant chez nous.
 str_kurleket_personalitymatch_speech_b|...
@@ -843,16 +843,16 @@ str_event_personalitymatch_speech_b|...
 str_npc1_retirement_speech|Je suis un peu fatigué de marcher en haut et de bas sur la terre, en versant mon sang pour la cause de quelqu'un d'autre. Je vais retourner à Braavos, voir de vieux amis. Je pense qu'ils méritent des vacances, après tout.
 str_npc2_retirement_speech|Votre or est insuffisant et j'ai eu de meilleures offres ailleurs. Il est temps pour moi de continuer.
 str_npc3_retirement_speech|J'ai peur d'avoir quelque chose à vous dire. Je sais que tu seras énervé par un chevalier aussi honorable et galant ... mais je pars.
-str_npc4_retirement_speech|Commander, je pense que je resterai dans la prochaine ville à laquelle nous arriverons. Je ne pense pas que je fais ce que je voulais faire pour vous. Merci de m'avoir amené, mais j'espère que la chaleur de la forge est plus que les feux de bataille.
-str_npc5_retirement_speech|Commander, il est peut-être temps de chercher du repos pour mes vieux os. Je ne peux plus rester aussi vigoureux dans les batailles que j'étais et, malheureusement, cela signifie que je suis un combattant fait. Nous nous reverrons peut-être.
+str_npc4_retirement_speech|Commandant, je pense que je resterai dans la prochaine ville à laquelle nous arriverons. Je ne pense pas que je fais ce que je voulais faire pour vous. Merci de m'avoir amené, mais j'espère que la chaleur de la forge est plus que les feux de bataille.
+str_npc5_retirement_speech|Commandant, il est peut-être temps de chercher du repos pour mes vieux os. Je ne peux plus rester aussi vigoureux dans les batailles que j'étais et, malheureusement, cela signifie que je suis un combattant fait. Nous nous reverrons peut-être.
 str_npc6_retirement_speech|Il semble que mon appel ait été repondu autrement. Je suis là pour vous dire que je dois regretter de laisser votre compagnie maintenant.
 str_npc7_retirement_speech|Sire, il est temps que je tente de m'établir dans une cour et de rester en sécurité derrière les murs de pierre de certains châteaux. Voyager avec vous était une expérience merveilleuse, mais nos moyens se séparent ici et maintenant.
 str_npc8_retirement_speech|Nous avons eu de nombreuses batailles et vous avez été gentil avec moi, dont je vous remercie. Mais je pense que ma valeur a été prouvée et je dois maintenant passer à autre chose. Je vous souhaite bonne.
-str_npc9_retirement_speech|Commander, il est temps pour le vieux Dick de dépenser des pièces de monnaie bien méritées et de se régaler de nos victoires. C'était une excellente visite de The Seven Kingdoms avec vous, mais les gens se sont fatigués après un certain temps et moi aussi. Je me fous plus tard, nous allons boire nos batailles.
+str_npc9_retirement_speech|Commandant, il est temps pour le vieux Dick de dépenser des pièces de monnaie bien méritées et de se régaler de nos victoires. C'était une excellente visite de The Seven Kingdoms avec vous, mais les gens se sont fatigués après un certain temps et moi aussi. Je me fous plus tard, nous allons boire nos batailles.
 str_npc10_retirement_speech|Captain, Xhondo veut visiter les îles d'été avant que quelque chose ne lui arrive. Vous devez comprendre et ne pas retenir Xhondo.
-str_npc11_retirement_speech|Leader, je vous remercie de m'avoir amené mais je crains de ne plus rester à votre service. Je vais rentrer chez moi et essayer de démarrer des investissements. Peut-être nous nous reverrons-nous.
-str_npc12_retirement_speech|Commander, j'ai déjà eu ma part de glorieuses batailles avec vous. Il est temps pour Ser Creighton Longbough de reconnaître ses amis avec des histoires et entendre des chansons de mes actes. Peut-être qu'un roi me fera-t-il le seigneur d'un château? Qui sait?
-str_npc13_retirement_speech|Chef, j'entends un appel en moi que je ne peux pas résister. Je dois y répondre et trouver la paix. Vous m'avez prouvé votre valeur sur le champ de bataille et je vous chercherais quand je ressens de sang à nouveau.
+str_npc11_retirement_speech|Chef, je vous remercie de m'avoir amené mais je crains de ne plus rester à votre service. Je vais rentrer chez moi et essayer de démarrer des investissements. Peut-être nous nous reverrons-nous.
+str_npc12_retirement_speech|Commandant, j'ai déjà eu ma part de glorieuses batailles avec vous. Il est temps pour Ser Creighton Longbough de régaler ses amis avec des histoires et entendre des chansons de mes actes. Peut-être qu'un roi me fera-t-il le seigneur d'un château? Qui sait?
+str_npc13_retirement_speech|Chef, j'entends un appel en moi dont je ne peux pas résister. Je dois y répondre et trouver la paix. Vous m'avez prouvé votre valeur sur le champ de bataille et je vous chercherais quand je me sentirai à nouveau sanguinaire.
 str_npc14_retirement_speech|Captain, combats à côté de vous était un honneur, mais je dois prendre une autre route maintenant. Je vais boire à votre santé dans mes voyages et si R'hllor le permet, nous nous reverrons.
 str_npc15_retirement_speech|Mon seigneur, il y a quelque chose que je veux vous dire. Je ne pense pas que je fais ce que je voulais faire pour vous. Merci de m'avoir embauché, mais je pense que ma place est ailleurs.
 str_kurleket_retirement_speech|Je sens que je dois sortir et explorer le monde seul pendant un certain temps.
@@ -870,9 +870,9 @@ str_npc7_rehire_speech|Sire! Je suis heureux de vous voir. J'ai compris que la v
 str_npc8_rehire_speech|Salutations vers vous, {playername}.
 str_npc9_rehire_speech|Cela fait un bon moment, commandant! Mais mes poches sont très vides maintenant. Qu'en est-il de rétablir nos bonnes vieilles relations?
 str_npc10_rehire_speech|Xhondo est ravi de voir ce visage à nouveau. Personne ne reste responsable de votre navire, alors cherchez-vous Xhondo?
-str_npc11_rehire_speech|Bien si ce n'est pas mon ancien leader glorieux! J'ai réussi à réaliser quelques investissements, mais ils prendront du temps à porter leurs fruits. En attendant, je cherche du travail. Avez-vous besoin de mes services?
-str_npc12_rehire_speech|Bien rencontré, commandant! Les guerres se prosternent, mais j'ai eu peu de chance de trouver un seigneur capable de payer mes services. Je sais que vous êtes bien approvisionné en pièces de monnaie et donc je vous propose encore une fois mon épée.
-str_npc13_rehire_speech|Mon ancien chef! J'ai trouvé la paix que j'ai recherchée dans les montagnes de la Lune. Mais maintenant, je ressens la convoitise pour que la bataille monte de nouveau en moi. Permettez-moi de décoller la virilité de chacun de vos ennemis!
+str_npc11_rehire_speech|Bon sang, mais n'est-ce pas mon ancien chef glorieux ?! J'ai réussi à réaliser quelques investissements, mais ils prendront du temps à porter leurs fruits. En attendant, je cherche du travail. Avez-vous besoin de mes services ?
+str_npc12_rehire_speech|Commandant! Les guerres font ragent, mais j'ai eu un peu de chance de trouver un seigneur capable de payer mes services. Je sais que vous êtes bien approvisionné en pièces de monnaie et donc je vous propose encore une fois mon épée.
+str_npc13_rehire_speech|Mon ancien chef! J'ai trouvé la paix que je recherchais dans les montagnes de la Lune. Mais maintenant, je ressens la convoitise pour les batailles monte de nouveau en moi. Permettez-moi de découper les couilles de chacun de vos ennemis !
 str_npc14_rehire_speech|C'est bon de voir ton visage encore, capitaine! Avez-vous manqué de bons archers et me suis-je retrouvé ensemble?
 str_npc15_rehire_speech|C'est bon de vous voir, mon seigneur. J'ai reconsidéré mes options et j'aimerais rejoindre votre suite à nouveau.
 str_kurleket_rehire_speech|Il est bon de vous revoir. Je vais vous accompagner encore une fois.
@@ -890,9 +890,9 @@ str_npc7_home_intro|Connaissez-vous l'histoire de cet énorme château, Harrenha
 str_npc8_home_intro|Vous vous demandez pourquoi ils m'appellent Brienne of Tarth?
 str_npc9_home_intro|Maidenpool, bon endroit pour se reposer après une longue promenade sur la route. C'est le siège de House Mooton, avec ce gâté William Mooton et ce poisson rouge sur ses tétines de soldats. The Stinking Goose est l'endroit où vous voulez aller acheter une chambre et déguster de la nourriture et d'autres plaisirs.
 str_npc10_home_intro|Vielleville est l'endroit où Quhuru Mo a quitté Xhondo. Xhondo connaît une histoire. Vielleville a survécu à l'invasion d'Andal. Cet ville a accueilli les Andals, elle n'a pas résisté. En outre, pendant la maladie du Grand printemps, Vielleville a souffert. Seul Port-Réal a autant souffert.
-str_npc11_home_intro|Il y a eu un certain temps depuis que je suis arrivé à Lannisport. J'étais en fait là où Ironborn a brûlé la flotte de Lannister pendant la Rébellion de Greyjoy. J'étais venu avec mon père pour assister à un mariage et j'ai fini par un enterrement.
-str_npc12_home_intro|Ah, Duskendale, j'ai des amis ici et beaucoup de bons souvenirs. Pourtant, l'endroit a une histoire triste aussi. Avez-vous déjà entendu parler de Defiance of Duskendale? Je ne suis pas une barde, mais je peux vous le dire parce que j'étais là quand cela s'est produit.
-str_npc13_home_intro|Les montagnes de la Lune ont toujours été ma vraie maison. The Stone Crows, une des tribus d'ici, est dirigé par moi. Nous n'avons pas reconnu l'autorité de l'Eyrie pour que ces cravens nous ont interdit.
+str_npc11_home_intro|Il y a eu un certain temps depuis que je suis arrivé à Port-Lannis. J'étais en fait là où les Fer-nés ont brûlé la flotte des Lannister pendant la Rébellion de Greyjoy. J'étais venu avec mon père pour assister à un mariage et j'ai fini par un enterrement.
+str_npc12_home_intro|Ah, Sombreval, j'ai des amis ici et beaucoup de bons souvenirs. Pourtant, l'endroit a une histoire triste aussi. Avez-vous déjà entendu parler de Défi de Sombreval? Je ne suis pas un barde, mais je peux vous le dire parce que j'étais là quand cela s'est produit.
+str_npc13_home_intro|Les Montagnes de la Lune ont toujours été ma vraie maison. Les Freux, une des tribus d'ici, est dirigé par moi-même. Nous n'avons pas reconnu l'autorité des Eyrié donc ces lâches nous ont interdit.
 str_npc14_home_intro|J'ai grandi ici, à Blackhaven. Saviez-vous que lorsque Ser Barristan Selmy avait dix ans, il a emprunté une armure et est entré dans un tournoi en tant que chevalier mystérieux qui a eu lieu ici?
 str_npc15_home_intro|Golden Tooth. Jamais pensé que je le reverrais. J'avais servi mon seigneur ici.
 str_kurleket_home_intro|...
@@ -910,9 +910,9 @@ str_npc7_home_description|La construction de son rêve a duré une quarantaine d
 str_npc8_home_description|L'île de Tarth, et il y a Evanfall Hall.
 str_npc9_home_description|La ville a aussi un port, avec des navires allant et venant même pendant la guerre. Bay of Crabs est à proximité. Cet endroit est sorta loin de chez moi, étant près de Crackclaw Point, vous voyez. Je l'aime ici, même si je ne peux pas vraiment expliquer la nature de mon affection.
 str_npc10_home_description|Une belle ville. Également l'un des ports les plus importants. Les navires commerciaux de Westeros, Summer Islands, Free Cities et d'autres endroits viennent ici. Toujours une foule dans les ports.
-str_npc11_home_description|Mais je préfère parler des grands travaux qui se déroulent ici. Tous les chemins mènent à Lannisport, et ces routes sont pavées d'or! Les Westerlands ont une grande abondance de mines d'or, et Casterly Rock s'assoit sur le plus grand lode. La ville n'est pas aussi grande que l'atterrissage du roi, mais elle a beaucoup moins de bidonvilles et beaucoup plus d'affaires. La montre de la ville n'est pas aussi corrompue que les cailloux d'or de l'atterrissage du roi, et ils sont beaucoup plus fiables.
-str_npc12_home_description|J'étais alors un écuyer, récupérant des épées et tendant les chevaux. Le roi Aerys était allé à Duskendale pour régler la question de la ville en ne payant pas de taxes, mais les Darklyns qui l'ont gouverné l'ont pris prisonnier. Un grand hôte a été amené aux portes par Hand, Tywin Lannister. Mais tous ces hommes n'avaient rien, les Darklyns ouvriraient la gorge du roi au moment où ils attaquaient.
-str_npc13_home_description|Nous raidons et pillons leurs villages, volons du bétail et des femmes, capturer le lordling vaut une bonne rançon. Nous n'accepterons aucune règle sur nous. Nous sommes des gens libres et nous allons vivre et mourir gratuitement. Et personne n'ose nous attaquer dans nos montagnes, parce qu'ils savent que nous les tuerons tous jusqu'à la fin!
+str_npc11_home_description|Mais je préfère parler des grands travaux qui se déroulent ici. Tous les chemins mènent à Port-Lannis, et ces routes sont pavées d'or ! Les Terres de l'Ouest ont une grande abondance de mines d'or, et Castral Rock s'assoit sur le plus grand filon. La ville n'est pas aussi grande que Port-Réal, mais elle a beaucoup moins de bidonvilles et beaucoup plus d'affaires. La garde de la ville n'est pas aussi corrompue que la Garde Royal de Port-Réal, et ils sont beaucoup plus fiables.
+str_npc12_home_description|J'étais alors un écuyer, ramssant des épées et soignant les chevaux. Le roi Aerys était allé à Sombreval pour régler la compte de la ville qui ne payait pas de taxes, mais les Sombrelyn qui gouvernait l'ont fait prisonnier. Un grand hôte a été amené aux portes par la Main, Tywin Lannister. Mais tous ces hommes ne servaient rien, les Sombrelyn ouvriraient la gorge du roi au moment où ils attaquaient.
+str_npc13_home_description|Nous raidons et pillons leurs villages, volons du bétail et des femmes, capturons des seigneurs pour une bonne rançon. Nous n'accepterons aucune règle sur nous. Nous sommes des gens libres et nous allons vivre et mourir librement. Et personne n'ose nous attaquer dans nos montagnes, parce qu'ils savent que nous les tuerons tous jusqu'à la fin !
 str_npc14_home_description|Il a finalement été vaincu et démasqué par Prince Duncan Targaryen. Pour cela, Ser Barristan a gagné le surnom 'Bold'. Difficile de croire, mais c'est vrai.
 str_npc15_home_description|Ser Lorimer. Un homme qualifié, mais pas un sage. Il me formait chaque matin. Je pensais être un chevalier un jour avec sa tutelle.
 str_kurleket_home_description|...
@@ -930,9 +930,9 @@ str_npc7_home_description_2|Les dragons n'ont pas été obstrués par des murs h
 str_npc8_home_description_2|Ils appellent cet endroit l'île Sapphire, mais malheureusement pas pour l'abondance des saphirs.
 str_npc9_home_description_2|Maidenpool n'a jamais vu de jeunes filles dans des pools sans sang. Il prend son nom de la piscine où le légendaire Florian a d'abord espionné Jonquil en se baignant avec ses soeurs. Avez-vous été une bonne vue, n'est-ce pas?
 str_npc10_home_description_2|Mais vraiment le symbole de Vielleville est la Grande Tour. Xhondo pense que c'est la plus grande structure de votre terre. Sa balise peut être vue de plusieurs miles dans la mer. Une vue accueillante, une fois.
-str_npc11_home_description_2|J'ai toujours rêvé de créer un magasin ici et de traiter avec les orfèvres renommés qui vivent ici. Mais ce que je devais payer pour les permis et licences nécessaires faillirait les maisons les plus nobles!
-str_npc12_home_description_2|Cela a continué jusqu'à ce que Barristan the Bold soit entré dans le camp avec le roi à la remorque. Il s'était caché seul dans Dun Fort et a sauvé Aerys. Sans leur otage, les Darklyns se sont rendus dans l'espoir de trouver de la miséricorde, mais ils ont été décapités jusqu'au dernier, Duskendale donné à la maison Rykker.
-str_npc13_home_description_2|Les seigneurs et les dames, les chevaliers et les mots vendus - ils sont tous les mêmes dans un certain sens. Ils ont tous leurs pantalons quand ils sont amenés devant moi, hah! Vous êtes ce que vous êtes dans les Montagnes de la Lune et il n'y a plus de préjugés là-bas.
+str_npc11_home_description_2|J'ai toujours rêvé de créer un magasin ici et de traiter avec les orfèvres renommés qui vivent ici. Mais ce que je devais payer pour les permis et licences nécessaires rendrait les maisons les plus nobles pauvres !
+str_npc12_home_description_2|Cela a continué jusqu'à ce que Barristan l'Audacieux soit entré dans le camp avec le roi dans une remorque. Il s'était caché seul dans Fort Jaune et a sauvé Aerys. Sans leur otage, les Darklyns se sont rendus dans l'espoir de trouver de la miséricorde, mais ils ont été décapités jusqu'au dernier, Sombreval a été donné à la maison Rykker.
+str_npc13_home_description_2|Les seigneurs et les dames, les chevaliers et les mercenaires - ils sont tous les mêmes dans un certain sens. Ils souillent tous leurs pantalons quand ils sont amenés devant moi, hah ! Vous êtes ce que vous êtes dans les Montagnes de la Lune et il n'y a plus de préjugés là-bas.
 str_npc14_home_description_2|Mon père était le chasseur de Lord local. Il m'a appris comment utiliser l'arc et comment faire des flèches. Parfois, il m'a emmené avec lui sur de longues chasses au cours desquelles on a presque atteint Ashford à pied.
 str_npc15_home_description_2|Je suis sûr que mon père serait fier de moi maintenant.
 str_kurleket_home_description_2|...
@@ -948,11 +948,11 @@ str_npc5_home_recap|Le sept se trouve sur une colline. Au-dessous, il s'agit d'u
 str_npc6_home_recap|....
 str_npc7_home_recap|Harrenhal est un grand château construit avant la guerre de conquête, située dans les Riverlands, sur la rive nord du lac Gods Eye. C'est le plus grand château des sept royaumes. Depuis la Guerre de Conquête, cependant, il est devenu un lieu sombre et ruinant.
 str_npc8_home_recap|L'evenstar m'a envoyé à Storms End. Il est bon de revenir, même si ce n'est que pendant un bref moment.
-str_npc9_home_recap|Le château de Maidenpool se trouve sur une colline, et la ville est fortifiée. L'est de Maidenpool est une colline. Il y a deux routes menant à King's Landing de Maidenpool. L'une qui traverse Duskendale et l'autre qui parcourt la côte. Le premier est le plus rapide.
+str_npc9_home_recap|Le château de Maidenpool se trouve sur une colline, et la ville est fortifiée. L'est de Maidenpool est une colline. Il y a deux routes menant à King's Landing de Maidenpool. L'une qui traverse Sombreval et l'autre qui parcourt la côte. Le premier est le plus rapide.
 str_npc10_home_recap|De nombreuses rivières et canaux traversent ses rues pavées. Les manoirs en pierre sont communs ici. La ville est un labyrinthe de ruelles, d'allées et de rues. Les temples qui s'adressent aux marins étrangers sont tous situés par les quais.
-str_npc11_home_recap|Niché par la Sunset Sea avec de l'or dans ses collines, Lannisport est vraiment un joyau parmi les villes. J'attends avec impatience le jour où je peux me rendre chez moi et laisser ma vie sur les routes.
-str_npc12_home_recap|Duskendale se répand autour du port et a des rues pavées. Le château qui domine le port est connu sous le nom de Dun Fort. Il s'agit d'un château de pierre carré squaté avec de grandes tours de tambours de la maison Rykker.
-str_npc13_home_recap|Leurs contreforts sont rocheux, hauts et sauvages. Les montagnes ont des sommets enneigés. Les toboggans sont fréquents ici. La route orientale de Crossroads Inn traverse les montagnes de la Lune.
+str_npc11_home_recap|Niché dans la Mer du Crépuscule avec de l'or dans ses collines, Port-Lannis est vraiment un joyau parmi les villes. J'attends avec impatience le jour où je pourrai m'établir la-bas et laisser derrière moi mon ancienne vie.
+str_npc12_home_recap|Sombreval s'étend tout autour du port et a des rues pavées. Le château qui domine le port est connu sous le nom de Fort Jaune. Il s'agit d'un château de pierre carré avec de grandes tours de tambours de la maison Rykker.
+str_npc13_home_recap|Leurs contreforts sont rocheux, hauts et sauvages. Les montagnes ont des sommets enneigés. Les éboullements sont fréquents ici. La route orientale de l'auberge du carrefour traverse les montagnes de la Lune.
 str_npc14_home_recap|Blackhaven a une longue histoire comme une fortification défensive contre les attaques de Dorne au sud. Cela est dû au fait que Dornish Marches soit un champ de bataille commun entre les Stormlands, le Reach et Dorne depuis plus de mille ans.
 str_npc15_home_recap|Eh bien, oublions tout cela. Il est temps d'aller de l'avant.
 str_kurleket_home_recap|...
@@ -963,23 +963,23 @@ str_event_home_recap|...
 str_npc1_honorific|{ser/madame}
 str_npc2_honorific|{playername}
 str_npc3_honorific|Young One
-str_npc4_honorific|Commander
-str_npc5_honorific|Commander
+str_npc4_honorific|Commandant
+str_npc5_honorific|Commandant
 str_npc6_honorific|votre grâce
 str_npc7_honorific|{Sire / madam}
 str_npc8_honorific|votre grâce
-str_npc9_honorific|Commander
+str_npc9_honorific|Commandant
 str_npc10_honorific|Capitaine
-str_npc11_honorific|Leader
-str_npc12_honorific|Commander
-str_npc13_honorific|Chief
-str_npc14_honorific|Captain
-str_npc15_honorific|Commander
-str_kurleket_honorific|Commander
+str_npc11_honorific|Chef
+str_npc12_honorific|Commandant
+str_npc13_honorific|Chef
+str_npc14_honorific|Captaine
+str_npc15_honorific|Commandant
+str_kurleket_honorific|Commandant
 str_jorah_honorific|{playername}
 str_son_honorific|{père / mère}
 str_daughter_honorific|{père / mère}
-str_event_honorific|Commander
+str_event_honorific|Commandant
 str_npc1_kingsupport_1|C'est une excellente idée, {ser/madame}. Tous les royaumes sont actuellement en guerre, ce qui pose des difficultés à tous ceux qui sont dans le royaume. Quelqu'un a besoin d'apporter de l'honneur à ces terres et leur raison pour laquelle vous ne pouvez pas être.
 str_npc2_kingsupport_1|Eh bien, je vous soutiendrais. Je pense que vous donnerez au peuple le genre de règle dont ils ont longtemps besoin.
 str_npc3_kingsupport_1|Eh bien, Young One - Je m'inquiète pour vous.
@@ -990,8 +990,8 @@ str_npc7_kingsupport_1|Ne dites plus rien. Je peux voir dans vos yeux que vous �
 str_npc8_kingsupport_1|Je vous suivrais n'importe où votre Grâce.
 str_npc9_kingsupport_1|Entreprise sanglante. C'est ce que je pense à ce sujet. Rentable, cependant, à la fin. Et avec vous étant à la tête de votre entreprise, cette entreprise a la possibilité de travailler.
 str_npc10_kingsupport_1|Ceci est troublant. Xhondo n'est pas de cette terre, mais Xhondo l'aime ici. Xhondo aidera.
-str_npc11_kingsupport_1|Une offre pour le trône? C'est un pari qui donnerait même à ma défunte pape. Quelqu'un d'autre, j'aurais considéré comme fou ou fiévreux, mais chez vous, je vois un investissement potentiel.
-str_npc12_kingsupport_1|Vous n'arrêterez pas jusqu'à ce que vous deveniez roi ou que vous soyez mort dans une crypte dévoilée, voulez-vous? C'est pareil que je ferais à votre place! Imaginez à quel point nous serons reconnus. Pas que je manque de gloire, mais il ne peut pas y avoir trop, n'est-ce pas?
+str_npc11_kingsupport_1|Une offre pour le trône ? C'est un pari risqué. Si c'était quelqu'un d'autre, je l'aurais considéré comme fou ou fiévreux, mais chez vous, je vois un investissement potentiel.
+str_npc12_kingsupport_1|Vous n'arrêterez pas jusqu'à ce que vous deveniez roi ou que vous soyez mort dans une crypte dévoilée, hein? Je ferais pareil à votre place ! Imaginez à quel point nous serons reconnus. Pas que je manque de gloire, mais il ne peut pas n'y en avoir de trop, n'est-ce pas?
 str_npc13_kingsupport_1|Eh bien, chef, vous êtes le combattant le plus audacieux que j'ai rencontré. Normalement, je prends juste ce que ma force me permet de prendre, mais nous avons traversé trop de batailles pour que je vous abandonne de cette façon.
 str_npc14_kingsupport_1|Un trone, hein? Eh bien, si nous étions juste une confrérie de chevaliers cherchant des brigands et des criminels, je vous aurais appelé un fou. Mais nous nous sommes réformés. Je suis avec vous, capitaine.
 str_npc15_kingsupport_1|Bien, monseigneur, vous êtes un grand chef et votre courage dans la bataille et la maîtrise de commandement méritent un trône.
@@ -1010,9 +1010,9 @@ str_npc7_kingsupport_2|Oui, Sire. Si nous réussissons dans notre entreprise, je
 str_npc8_kingsupport_2|Je voudrais - à une condition. Vous me permettez un poste dans votre Kingsguard.
 str_npc9_kingsupport_2|Faites-en valoir mes efforts et mon temps et je le ferais. Tant qu'il y a de l'argent, je suis votre plus fidèle suiveur et supporter dans cette affaire.
 str_npc10_kingsupport_2|Oui. Si vous n'oubliez pas Xhondo plus tard et récompensez-le bien.
-str_npc11_kingsupport_2|Sans aucun doute. Je sais que vous êtes un ami de commerçants comme moi, et comme {King / Queen}, je suis sûr que vous nous respecterez et protégerez nos droits de commerce sans entrave.
-str_npc12_kingsupport_2|Vous me demandez que, après avoir coupé des myriades de personnes en luttant sous votre bannière? Il n'y a qu'une seule faveur que je vous demanderais lorsque vous deviendrez un roi - les terres et la gloire pour moi-même.
-str_npc13_kingsupport_2|En outre, j'éclate la virilité de chacun des hommes qui n'osent pas te soutenir! Et le chef, j'ai besoin de votre promesse de faire en sorte que les petits membres nous permettent de prendre du bétail et des produits de leur côté.
+str_npc11_kingsupport_2|Sans aucun doute. Je sais que vous êtes un ami de commerçants comme moi, et comme {Roi/Reine}, je suis sûr que vous nous respecterez et protégerez nos droits de commerce sans entrave.
+str_npc12_kingsupport_2|Vous me demandez ça, après avoir coupé des myriades de personnes en luttant sous votre bannière? Il n'y a qu'une seule faveur que je vous demanderais lorsque vous deviendrez un roi - des terres et la gloire pour moi-même
+str_npc13_kingsupport_2|En outre, j'éclate la virilité de chacun des hommes qui n'osent pas vous soutenir ! Et chef, j'ai besoin de votre promesse de faire en sorte que le petit peuple nous permettent de prendre du bétail et des produits de temps en temps.
 str_npc14_kingsupport_2|Certainement. Vous êtes un homme de votre mot et un vaillant guerrier. Je crois que vous ne laissez pas les bandits, ni les seigneurs naissants blesser les petits. Ma quête initiale était d'apporter justice, alors c'est ce que je vous demande.
 str_npc15_kingsupport_2|Je voudrais, mais vous devriez me donner votre mot selon lequel vous ferez de votre mieux pour protéger les innocents de monstres comme Ser Gregor Clegane. Une bonne règle est forte, mais aussi honorable et juste.
 str_kurleket_kingsupport_2|Je voudrais. Je dirais à tous ceux qui écoutent vos actions au nom des faibles et impuissants, de votre capacité à diriger les hommes, et leur dire que si vous deviez devenir le roi ou la Reine, il y aurait une loi et une paix.
@@ -1032,8 +1032,8 @@ str_npc8_kingsupport_2a|Sure your Grace.
 str_npc9_kingsupport_2a|Il y a tellement d'argent que vous ne pourrez pas tout supporter.
 str_npc10_kingsupport_2a|Vous aurez tant d'or que vous allez vous baigner dedans!
 str_npc11_kingsupport_2a|Vous avez ma parole à ce sujet.
-str_npc12_kingsupport_2a|Vous l'avez à juste titre. À quoi penses-tu?
-str_npc13_kingsupport_2a|Je crois qu'ils peuvent gérer sans une partie de celui-ci. Accordé.
+str_npc12_kingsupport_2a|Vous l'avez à juste titre. À quoi pensez-vous?
+str_npc13_kingsupport_2a|Je crois qu'ils peuvent gérer sans une partie de ces biens. Accordé.
 str_npc14_kingsupport_2a|Le royaume aura la justice. S'il vous plaît continuez.
 str_npc15_kingsupport_2a|Je ferai ce que je peux.
 str_kurleket_kingsupport_2a|Bien sur {mon seigneur / ma dame}.
@@ -1052,7 +1052,7 @@ str_npc8_kingsupport_2b|Je suis désolé pour votre Grâce, mais c'est une route
 str_npc9_kingsupport_2b|Hélicoptère, sortez de mon visage!
 str_npc10_kingsupport_2b|Xhondo demande trop d'aide à un mendiant des îles d'été.
 str_npc11_kingsupport_2b|Oubliez, je ne vais pas soutenir les marchands.
-str_npc12_kingsupport_2b|Terrains pour un chevalier de haie? Êtes-vous sérieux?
+str_npc12_kingsupport_2b|Une terre pour un chevalier érrant ? Êtes-vous sérieux ?
 str_npc13_kingsupport_2b|Vous raidez leurs villages chaque jour et maintenant vous demandez cela?
 str_npc14_kingsupport_2b|Protégez le smallfolk? Oublie.
 str_npc15_kingsupport_2b|Ser Gregor et son genre doivent faire avec leurs paysans comme ils le souhaitent.
@@ -1071,8 +1071,8 @@ str_npc7_kingsupport_3|Excellent. Ensuite, je vais utiliser toutes mes connexion
 str_npc8_kingsupport_3|Bon! Ensuite, donnez-moi quelques semaines et je vais aborder les tribunaux de cette terre, en précisant que vous êtes le vrai vrai roi du Trône de fer.
 str_npc9_kingsupport_3|Je crois que je le ferai, alors que je suis ici, après tout. Des jours et des semaines passeraient et les gens de tous les Sept Royaumes auront connaissance de vous, boire à votre santé et rêver de votre ascension sur le trône, vous avez ma parole.
 str_npc10_kingsupport_3|Bon. Xhondo trouvera un moyen de permettre à chaque marin de cette terre de connaître la grandeur de {playerername}.
-str_npc11_kingsupport_3|Si vous promettez de rechercher les marchands et de rendre les routes plus sûres, je vous aiderai dans votre quête. Je rencontrerai des commerçants, des commerçants et des guildes et parlerai de votre réclamation. Avec leur soutien, votre droit au trône sera d'autant plus grand.
-str_npc12_kingsupport_3|Splendide, je savais que vous comprendrez mes raisons pour vous demander ceci. Si je dois voyager dans la terre et répandre des contes de vos actions courageuses, en apportant des chevaliers et des louis à votre cause, je ne veux pas finir sans aucune reconnaissance.
+str_npc11_kingsupport_3|Si vous promettez de faire attention aux marchands et de rendre les routes plus sûres, je vous aiderai dans votre quête. Je rencontrerai des commerçants et des guildes et je leur parlerai de votre revendication. Avec leur soutien, votre droit au trône sera d'autant plus grand.
+str_npc12_kingsupport_3|Splendide, je savais que vous comprendrez mes raisons pour vous demander ceci. Si je dois voyager dans les terres et répandre des contes de vos actions courageuses, en apportant des chevaliers et des seigneurs à votre cause, je ne veux pas finir sans aucune reconnaissance.
 str_npc13_kingsupport_3|Je savais que vous feriez un compromis avec les clans de montagne. Comment allez-vous prendre le trône? Je vais leur faire savoir votre décision et vous aurez bientôt les guerriers les plus fous de votre hôte!
 str_npc14_kingsupport_3|Très bien. Chaque paysan me connaît comme un ancien membre de la Fraternité Sans Bannières qui a tiré sur des criminels et d'autres agresseurs sur les routes. Je vais leur parler dans les villages et leur dire votre règle juste. Vous aurez leur soutien.
 str_npc14_kingsupport_objection|Captain, I heard that you had dispatched Shagga son of Dolf to the Mountains of the Moon to talk to other clans. You promised them that smallfolk would spare them some goods and livestock. I don't think that's just - fleecing poor peasants.
@@ -1085,16 +1085,16 @@ str_event_kingsupport_3|Très bien {mon seigneur / ma dame}.
 str_npc1_kingsupport_objection|Ce renard peut être vu et entendu par des miles. L'épée de Braavos pense que vous seriez mieux qu'il ne soit parti.
 str_npc2_kingsupport_objection|Votre pissing dans le vent avec celui-ci. Vous auriez dû donner son armure et son cheval à un guerrier plus apte à faire des combats.
 str_npc3_kingsupport_objection|Nope.
-str_npc4_kingsupport_objection|Commander, que Summer Islander Xhondo vous avez confié une tâche concernant votre réclamation ne me donne pas vraiment l'espoir qu'il sera tout à fait honnête avec nous tout en l'accomplissant. Je suggère de le surveiller de près.
-str_npc5_kingsupport_objection|Commander, que le soldat Nimble Dick que vous avez envoyé sur sa quête est un personnage fluide. Je connais des gens comme lui, il reviendra avec une bourse plein de dragons d'or et une armée pour nous mettre en chaînes jusqu'au reste de nos jours.
+str_npc4_kingsupport_objection|Commandant, que Summer Islander Xhondo vous avez confié une tâche concernant votre réclamation ne me donne pas vraiment l'espoir qu'il sera tout à fait honnête avec nous tout en l'accomplissant. Je suggère de le surveiller de près.
+str_npc5_kingsupport_objection|Commandant, que le soldat Nimble Dick que vous avez envoyé sur sa quête est un personnage fluide. Je connais des gens comme lui, il reviendra avec une bourse plein de dragons d'or et une armée pour nous mettre en chaînes jusqu'au reste de nos jours.
 str_npc6_kingsupport_objection|....
 str_npc7_kingsupport_objection|Sire, je sais que vous avez fait une cause commune avec ce marchand, Hibald. Je ne crois guère à son genre, il sera plus susceptible de nous vendre à nos ennemis que d'acquérir un soutien pour notre noble cause. Mieux vaut le faire en route jusqu'à ce qu'il soit trop tard.
 str_npc8_kingsupport_objection|Je ne suis pas si sûr de ce faux chevalier, sire. Il est déshonoré avant et je suis sûr qu'il le fera encore.
-str_npc9_kingsupport_objection|Commander, j'ai vu beaucoup d'hommes bien n 'mal, mais cet ancien Maester que vous avez envoyé avec une tâche est l'homme le plus dangereux que j'ai jamais vu. Il envoie des frissons dans ma colonne vertébrale. Mieux vaut le débarrasser de lui.
+str_npc9_kingsupport_objection|Commandant, j'ai vu beaucoup d'hommes bien n 'mal, mais cet ancien Maester que vous avez envoyé avec une tâche est l'homme le plus dangereux que j'ai jamais vu. Il envoie des frissons dans ma colonne vertébrale. Mieux vaut le débarrasser de lui.
 str_npc10_kingsupport_objection|Capitaine. Xhondo n'aime pas faire confiance au disciple de Dieu rouge. Xhondo pense que ces lunatiques sont capables de tout.
-str_npc11_kingsupport_objection|Leader, vous avez envoyé Gendry aux forgerons pour leur dire à quel point vous valoriserez leur travail et comment vous réduisez les prix des matériaux, ce qui réduira le bénéfice des marchands et des commerçants sur tout le territoire. Cela ne me paraît pas juste!
-str_npc12_kingsupport_objection|Commander, cette épée à louer Bronn est un mercenaire typique, un mot de passe naturel. J'ai vu assez de son genre dans ma vie et je vous suggère de vous débarrasser de lui, plus tôt est le meilleur. De telles personnes valorisent l'or plus que les alliés.
-str_npc13_kingsupport_objection|Chef, que Ser Craven Longmouth qui parle toujours de la façon dont les chanteurs le chantent ne vaut rien dans une bonne bataille. Ne comptez pas sur lui pour protéger et soutenir votre demande. Dites simplement le mot et je vais couper sa patiente et la nourrir aux chèvres!
+str_npc11_kingsupport_objection|Chef, vous avez envoyé Gendry aux forgerons pour leur dire à quel point vous valoriserez leur travail et comment vous réduisez les prix des matériaux, ce qui réduira le bénéfice des marchands et des commerçants sur tout le territoire. Cela ne me paraît pas juste !
+str_npc12_kingsupport_objection|Commandant, Bronn est un mercenaire typique. J'ai vu assez de son genre dans ma vie et je vous suggère de vous débarrasser de lui, plus tôt est le meilleur. De telles personnes valorisent l'or plus que les alliés.
+str_npc13_kingsupport_objection|Chef, Ser Craven Longmouth qui parle toujours de la façon dont les chanteurs le chantent ne vaut rien dans une bonne bataille. Ne comptez pas sur lui pour vous protéger. Dites simplement un mot et je vais couper ses couilles et les donner aux chèvres !
 Le capitaine, j'ai entendu dire que vous aviez envoyé Shagga fils de Dolf aux montagnes de la Lune pour parler à d'autres clans. Vous leur avez promis que les petits gens leur épargneraient des biens et du bétail. Je ne pense pas que ce soit juste - faire fuir les paysans pauvres.
 str_kurleket_kingsupport_objection|Je ne fais pas confiance à Brienne, sire. Vous devriez lui dire de partir en congé.
 str_jorah_kingsupport_objection|Je ne fais pas confiance à Brienne, sire. Vous devriez lui dire de partir en congé.
@@ -1104,18 +1104,18 @@ str_event_kingsupport_objection|Je ne fais pas confiance à Brienne, sire. Vous 
 str_npc1_intel_mission|Eh bien, en l'occurrence, j'ai quelques cousins ​​dans {s17} qui peut nous parler de {s18}.
 str_npc2_intel_mission|Avec quelques pièces d'or, la bordure dans {s17} me dira tout ce que j'ai besoin de savoir sur {s18}.
 str_npc3_intel_mission|Bien qu'il ait été longtemps depuis que j'ai visité la campagne de {s17}, je pourrais encore prendre contact avec certains de ses résidents plus anciens et plus sages. Ce sont des commerçants à la retraite, des agriculteurs riches et des propriétaires de grands troupeaux. Ils parlent beaucoup de conneries, mais peuvent nous parler un peu de l'état du {s18}.
-str_npc4_intel_mission|Commander, je pourrais demander autour de la forge à {s17} de {s18}. Les paysans semblent savoir tout ce qui se passe dans le royaume, donc je crois que nous aurons quelque chose à réfléchir quand je reviendrai.
-str_npc5_intel_mission|Commander, un ancien vétéran qui est un grand ami mène dans {s17}. Je pourrais le visiter et boire à toutes les batailles que nous avons combattues ensemble et découvrir les choses que vous devez connaître sur {18}. Dites simplement le mot.
+str_npc4_intel_mission|Commandant, je pourrais demander autour de la forge à {s17} de {s18}. Les paysans semblent savoir tout ce qui se passe dans le royaume, donc je crois que nous aurons quelque chose à réfléchir quand je reviendrai.
+str_npc5_intel_mission|Commandant, un ancien vétéran qui est un grand ami mène dans {s17}. Je pourrais le visiter et boire à toutes les batailles que nous avons combattues ensemble et découvrir les choses que vous devez connaître sur {18}. Dites simplement le mot.
 str_npc6_intel_mission|Si vous avez besoin, je peux aller à {s17} et obtenir un aperçu de {s18}.
 str_npc7_intel_mission|Sire, si vous me permettez de voyager vers {s17} où j'ai passé plusieurs jours aux habitants des blessés, je rassemblerai toutes les informations sur {s18}. Une fois que vous avez sauvé la vie de quelqu'un, vous êtes redevable. Ces personnes ne laisseront pas une seule rumeur.
 str_npc8_intel_mission|Si vous avez besoin, je peux aller à {s17} et obtenir un aperçu de {s18}.
-str_npc9_intel_mission|Commander, l'information étant l'une de mes spécialités, il n'y a pas de meilleure source concernant {s18} que moi. Permettez-moi d'aller visiter {s17} et après un certain temps, vous en trouverez une série de nouvelles.
+str_npc9_intel_mission|Commandant, l'information étant l'une de mes spécialités, il n'y a pas de meilleure source concernant {s18} que moi. Permettez-moi d'aller visiter {s17} et après un certain temps, vous en trouverez une série de nouvelles.
 str_npc10_intel_mission|Xhondo est un frère de beaucoup d'autres marins dans {s17}. Ils parleront. Et avec des contes de {s18} Xhondo doit revenir.
-str_npc11_intel_mission|Leader, j'ai des liens avec les guilds et les marchands dans {s17}. Si vous devez connaître la situation politique dans {s18}, je suis sûr qu'ils auront des nouvelles à partager avec leur ancien ami.
-str_npc12_intel_mission|Commander, si c'est {s18} que vous voulez en savoir plus, je pourrais vous donner une idée. Beaucoup d'un homme noble me connaissent dans {s17} et si vous m'envoyez là-bas, vous en saurez tout à mon retour
-str_npc13_intel_mission|Chef, envoyez Shagga à {s17} où les gens tremblent à la vue de moi et ils vont m'enterrer sous des tas de rumeurs et des nouvelles de {s18}. S'ils laissent tout ce que vous devez savoir, je les retournerai et je hacherai leurs homicides!
+str_npc11_intel_mission|Chef, j'ai des liens avec les guildes et les marchands dans {s17}. Si vous devez connaître la situation politique dans {s18}, je suis sûr qu'ils auront des nouvelles à partager avec leur ancien ami.
+str_npc12_intel_mission|Commandant, si c'est {s18} que vous voulez en savoir plus, je pourrais vous donner une idée. Beaucoup d'un homme noble me connaissent dans {s17} et si vous m'envoyez là-bas, vous en saurez tout à mon retour
+str_npc13_intel_mission|Chef, envoyez Shagga à {s17} où les gens tremblent à ma vue et ils vont m'enterrer sous des tas de rumeurs et de nouvelles de {s18}. S'ils oublient de mentionner quelque chose dont  vous devez savoir, je reviendrai vers eux et les découperai en petits morceaux !
 str_npc14_intel_mission|Capitaine, si vous avez besoin d'informations sur l'état actuel des choses dans {s18}, je peux parler avec smallfolk à {s17}. Ils ont toujours partagé leurs connaissances avec la Fraternité sans bannières, de sorte qu'elles ne rejettent pas ma demande.
-str_npc15_intel_mission|Commander, je pourrais demander l'information à l'adresse {s17} de {s18}. Les paysans semblent savoir tout ce qui se passe dans le royaume, donc je crois que nous aurons quelque chose à réfléchir quand je reviendrai.
+str_npc15_intel_mission|Commandant, je pourrais demander l'information à l'adresse {s17} de {s18}. Les paysans semblent savoir tout ce qui se passe dans le royaume, donc je crois que nous aurons quelque chose à réfléchir quand je reviendrai.
 str_kurleket_intel_mission|Si vous avez besoin {mon seigneur /madame}, je peux aller à {s17} et obtenir un aperçu de {s18}.
 str_jorah_intel_mission|Si vous avez besoin, je peux aller à {s17} et obtenir un aperçu de {s18}.
 str_son_intel_mission|Si vous avez besoin de {père / mère}, je peux aller à {s17} et obtenir une idée de {s18}.
@@ -1124,16 +1124,16 @@ str_event_intel_mission|Si vous avez besoin {my lord / my lady}, je peux aller �
 str_npc1_fief_acceptance|Que je serai le seigneur de {s17}, ce serait un grand honneur.
 str_npc2_fief_acceptance|{s17} comme un fief? Eh bien, je me suis toujours pensé en tant que seigneur.
 str_npc3_fief_acceptance|Bien bien Young One, il est très généreux de vous m'offrir {s17}.
-str_npc4_fief_acceptance|Commander, je suis juste un forgeron, je ne saurais pas comment dire {s17}. D'autre part ... qui d'autres personnes peuvent être aimées par les petits, la plupart, sinon une faible naissance? C'était comme eux? Je vous remercie, commandant. Je chercherai à faire prospérer mon fief.
+str_npc4_fief_acceptance|Commandant, je suis juste un forgeron, je ne saurais pas comment dire {s17}. D'autre part ... qui d'autres personnes peuvent être aimées par les petits, la plupart, sinon une faible naissance? C'était comme eux? Je vous remercie, commandant. Je chercherai à faire prospérer mon fief.
 str_npc5_fief_acceptance|C'est honorable de vous, commandant, de m'offrir {s17}. Je l'accepterai avec la responsabilité et je m'efforcerai d'améliorer son état. Naturellement, les paysans de mon fief seront formés par moi pour se protéger et feront de bonnes recrues si vous en avez besoin.
 str_npc6_fief_acceptance|Votre maison est de plus en plus forte {playername}. Je serai fier d'accepter {s17} comme le mien.
 str_npc7_fief_acceptance|Merci, Sire, pour m'avoir accordé {s17}. C'est vraiment un bon cadeau! J'ai toujours rêvé d'avoir une terre en possession. Maintenant, je m'efforcerai de faire prospérer davantage mes revenus.
 str_npc8_fief_acceptance|Merci à votre Grâce. Je défendrai {s17} au nom de votre maison.
 str_npc9_fief_acceptance|Maintenant, c'est une récompense que j'attends avec impatience! Dick Crabb, Lord o '(s17), comment ça sonne? Bientôt, des dragons d'or vont couler dans mes poches. Merci, commandant, pour ce cadeau.
 str_npc10_fief_acceptance|Captaine veut Xhondo regarder sur {s17}? Xhondo n'a aucune compétence à ce sujet, ce n'est pas un navire à travailler. Mais si le capitaine insiste, Xhondo va essayer.
-str_npc11_fief_acceptance|Vous m'offrez de retenir {s17}, Leader? J'accepte votre offre et soyez assuré que je rendrai l'endroit le plus rentable dans tout le domaine. Je vois déjà mes investissements porter fruit. Vous ne regretterez pas votre décision!
-str_npc12_fief_acceptance|L'octroi de moi {s17} est une chose légitime à faire, commandant. Je ne vous laisserai pas tomber, je le jure sur mon honneur en tant que chevalier. Cette terre va chanter ma règle généreuse dans quelques mois, non, dans quelques semaines!
-str_npc13_fief_acceptance|Quel cadeau, le chef! Les paysans dans {s17} adoreront Shagga fils de Dolf comme dieu de guerre assez tôt! Je les formerai pour ravager les villages voisins et leur apprendre comment se battent les guerriers.
+str_npc11_fief_acceptance|Vous m'offrez le fief de {s17}, chef ? J'accepte votre offre et soyez assuré que je rendrai l'endroit le plus rentable de tout le royaume. Je vois déjà mes investissements porter ses fruits. Vous ne regretterez pas votre décision !
+str_npc12_fief_acceptance|Me donner le fief de {s17} est une chose légitime à faire, Commandant. Je ne vous laisserai pas tomber, je le jure sur mon honneur en tant que chevalier. Cette terre va chanter mon règne généreux dans quelques mois, non, dans quelques semaines!
+str_npc13_fief_acceptance|Quel cadeau, Chef ! Les paysans dans {s17} adoreront Shagga fils de Dolf comme dieu de guerre assez tôt! Je les formerai pour ravager les villages voisins et leur apprendre comment se battent les guerriers.
 str_npc14_fief_acceptance|Me? Seigneur de {s17}? Capitaine, si ce n'est pas l'une de tes blagues, je peux te dire que je protégerai les habitants de mon fief à mon dernier souffle. Je vais éliminer les terres environnantes de l'écume criminelle et rendre cette terre paisible et prospère. Merci de votre foi en moi, capitaine.
 str_npc15_fief_acceptance|Monseigneur, vous me faites honneur avec votre offre. Je serai très utile pour vous et je tiendrai {s17} en mon nom. Je m'efforcerai d'être le meilleur et sera toujours votre fidèle serviteur. Adieu, maintenant, mon seigneur.
 str_kurleket_fief_acceptance|Notre maison devient forte {mon seigneu /ma dame}. Je serai fier d'accepter {s17} comme le mien.
@@ -1151,9 +1151,9 @@ str_npc7_turn_against|Je ne suis pas encore guerrier ici, je suis en train de me
 str_npc8_turn_against|Donc, nous nous rencontrons maintenant comme des ennemis, et nous pouvons bientôt nous affronter sur les jantes de nos boucliers. Un jour sinistre c'est le cas.
 str_npc9_turn_against|Bloody Seven. Je n'ai jamais pensé croiser les épées avec vous, {playername}. Finissons ce rapide.
 str_npc10_turn_against|Xhondo n'est pas content de se battre {playername}. Pardonnez Xhondo.
-str_npc11_turn_against|Par les dieux, j'espérais que ce jour ne viendrait jamais. Les Sept ont préparé une façon étrange de nous retrouver, {playername}. Devrais-je prévaloir, je ne vais pas me régaler de la victoire.
-str_npc12_turn_against|Bien rempli, {playername}. Les circonstances de notre rencontre sont plutôt désagréables, mais ne laissez pas perdre le souffle sur les mots et laissez-les chanter notre glorieuse bataille après!
-str_npc13_turn_against|Donc maintenant, j'ai la chance de tester mon acier contre le vôtre, {playername}. Luttons et la fête des gagnants!
+str_npc11_turn_against|Par les dieux, j'espérais que ce jour ne viendrait jamais. Les Sept ont préparé une façon étrange de nous retrouver, {playername}. Si je l'emporte, je ne fêterai pas la victoire.
+str_npc12_turn_against|"Bien, {playername}. Les circonstances de notre rencontre sont plutôt désagréables, mais ne nous laissons pas perdre notre souffle pour des mots et laissez-les chanter notre glorieuse bataille après "
+str_npc13_turn_against|Donc maintenant, j'ai la chance de tester mon acier contre le vôtre, {playername}. Combattons nous et que le gagnant festoie !
 str_npc14_turn_against|Alors c'est ainsi que le Dieu rouge a jugé bon d'organiser notre réunion. Cela ne me dérange pas du tout pour vous battre, {nom du lecteur}, mais il semble que nous n'avons pas d'autre choix. Vous devez me pardonner.
 str_npc15_turn_against|Well .... Je ne sais pas trop quoi dire. Si nous devons nous battre, passons en revue.
 str_kurleket_turn_against|Il me chagrine plus que tout ce que je peux dire de vous rencontrer comme ça, {mon seigneur/ma dame}. Je ne m'attarderai pas sur les circonstances qui nous ont menés à cet égard. Je peux seulement espérer que nous pourrons un jour être réconciliés.
@@ -3137,7 +3137,7 @@ str_gender|Genre
 str_gender_value |: {reg11?Femelle mâle}
 str_nationality|People
 str_nationality_value |: {s12}
-str_parent|Father
+str_parent|Père
 str_parent_value |: {s13}
 str_childhood|Enfance
 str_childhood_value |: {s14}
@@ -3186,13 +3186,13 @@ str_vale3|Vale (court)
 str_riverlands1|Riverlands
 str_riverlands2|Riverlands (grand)
 str_riverlands3|Riverlands (court)
-str_parent_noble|Lesser Noble
+str_parent_noble|Petit noble
 str_parent_merchant|Marchand
-str_parent_retainer|Lord's Retainer
-str_parent_outlaw|Outlaw
-str_parent_serf|A Serf
-str_parent_slave|Slave
-str_parent_septon|A Septon
+str_parent_retainer|Un domestique
+str_parent_outlaw|Hors-la-loi
+str_parent_serf|Un Serf
+str_parent_slave|Esclave
+str_parent_septon|Un Septon
 str_childhood_page|Elevé dans une cour noble
 str_childhood_apprentice|Apprenti Forgeron
 str_childhood_stockboy|Apprenti Marchand
@@ -3322,7 +3322,7 @@ str_player_lord_message|À un camarade d'armes, j'envoie ce message.
 str_missed_duel|Vous n'avez pas rencontré {s1} pour un duel, il gagne par défaut. Votre réputation a souffert en conséquence.
 str_party_picker_title|Party Picker
 str_party_picker_attack|Cliquez avec le bouton droit de la souris sur la partie que vous souhaitez attaquer, puis sélectionnez l'option de menu contextuel ci-dessous.
-str_peasant_trusted_friend|Vos efforts pour aider les paysans dans tout le domaine vous ont gagné leur confiance et leur soutien. Le roi de la terre, cependant, vous considère comme une menace possible dans le jeu des trônes.
+str_peasant_trusted_friend|Vos efforts pour aider les paysans dans tout le royaume vous ont porté leurs fruits, vous avez leur confiance et leur soutien. Le Roi de cette terre, cependant, vous considère comme une menace possible dans le jeu des trônes.
 str_peasant_patron_saint|Les paysans de la terre vous ont proclamé leur Roi. Vous leur avez donné de l'espoir et du courage. Beaucoup d'entre eux attendent maintenant de prendre les armes pour vous aider dans vos efforts pour unir les gens libres.
 str_com_companions|Compagnons:
 str_com_view_companions|Afficher les compagnons
@@ -3772,7 +3772,7 @@ str_difficulty_setting|Réglage de la Difficulté
 str_realism_feature|Réalisme
 str_special_setting|Configuration spéciale
 str_formation_feature|Cadre de formation
-str_performance_feature|Performance Setting
+str_performance_feature|Paramètre performance
 str_battle_size_text|Limite la quantité maximale de troupes sur un champ de bataille à la fois. Si vous rencontrez de faibles performances dans les grandes batailles, vous devriez essayer de réduire la taille de la bataille. Une taille de bataille au dessus de 300 pourrait causer des problèmes.^^ Pour des paramètres supplémentaires, vous pouvez essayer les options vidéo, disponibles dans le menu principal du jeu, ou accessibles pendant le jeu en appuyant sur ESC.
 str_this_setting_affects_all|Ce paramètre affecte le joueur et tous les personnages du jeu.
 str_this_would_be_better_worth_the_effort|This would be better worth the effort, taking into consideration its value, and its distance, and the likely number of defenders.
