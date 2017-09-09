@@ -2,21 +2,21 @@ qst_deliver_message|Porter un message à {s13}
 qst_deliver_message_to_enemy_lord|Porter un message à {s13}
 qst_raise_troops|Former {reg1} {s14}
 qst_escort_lady|Escorter {s13} jusqu'à {s14}
-qst_deal_with_bandits_at_lords_village|Sauver le village de {s15} des bandits maraudeurs.
+qst_deal_with_bandits_at_lords_village|Sauver le village de {s15} des bandits.
 qst_collect_taxes|Collecter les impôts de {s3}
 qst_hunt_down_fugitive|Pourchasser {s4}
-qst_bounty_1|Hunt down {s4}{***}
-qst_bounty_1_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
-qst_bounty_2|Hunt down {s4}{***}
-qst_bounty_2_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
-qst_bounty_3|Hunt down {s4}{***}
-qst_bounty_3_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
-qst_bounty_4|Hunt down {s4}{***}
-qst_bounty_4_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
-qst_bounty_5|Hunt down {s4}{***}
-qst_bounty_5_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
-qst_bounty_6|Hunt down {s4}{***}
-qst_bounty_6_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
+qst_bounty_1|Traquer {s4}{***}
+qst_bounty_1_text|Le {s9} de {s14} vous demande de traquer le fugitif nommé {s4}. Il serait actuellement à {s3}.{***}
+qst_bounty_2|Traquer {s4}{***}
+qst_bounty_2_text|Le {s9} de {s14} vous demande de traquer le fugitif nommé {s4}. Il serait actuellement à {s3}.{***}
+qst_bounty_3|Traquer {s4}{***}
+qst_bounty_3_text|Le {s9} de {s14} vous demande de traquer le fugitif nommé {s4}. Il serait actuellement à {s3}.{***}
+qst_bounty_4|Traquer {s4}{***}
+qst_bounty_4_text|Le {s9} de {s14} vous demande de traquer le fugitif nommé {s4}. Il serait actuellement à {s3}.{***}
+qst_bounty_5|Traquer {s4}{***}
+qst_bounty_5_text|Le {s9} de {s14} vous demande de traquer le fugitif nommé {s4}. Il serait actuellement à {s3}.{***}
+qst_bounty_6|Traquer {s4}{***}
+qst_bounty_6_text|Le {s9} de {s14} vous demande de traquer le fugitif nommé {s4}. Il serait actuellement à {s3}.{***}
 qst_kill_local_merchant|Assassiner un marchand local à {s3}
 qst_bring_back_runaway_serfs|Ramener les serfs en fuite.
 qst_follow_spy|Suivre l'espion jusqu'au lieu de rencontre.
