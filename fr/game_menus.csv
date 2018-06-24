@@ -16,12 +16,12 @@ mno_lord_relations|List of known lords by relations{***}
 mno_courtship_relations|Courtship relations{***}
 mno_Companions_overview|Companions overview{***}
 mno_view_faction_relations_report|Faction relations reports{***}
-mno_view_player_companion_report|Player and companions reports{***}
+mno_view_player_companion_report|Rapport entre le héros et les compagnons
 mno_resume_travelling|Resume travelling.{***}
 menu_custom_battle_scene|(NO TRANS){***}
 menu_custom_battle_end|The battle is over. {s1} Your side killed {reg5} enemies and lost {reg6} troops over the battle. You personally slew {reg7} men in the fighting.{***}
 menu_set_up_game|Please choose your preference. This will change the names and consequences of various outcomes in-game accordingly.{***}
-mno_yara_greyjoy|I prefer the characters to be named according to the HBO GoT's TV series.{***}
+mno_yara_greyjoy|Je préfère que les personnages soient nommés selon la série télévisée de HBO.
 mno_asha_greyjoy|I prefer the characters to be named according to the ASOIAF book's.{***}
 menu_set_up_wars|Please choose your scenario: ^^Static wars: Westerosi factions will be locked in diplomacy according to the Wars of the Five Kings. ^^Sandbox: The same as above but all factions (except the Nights Watch) are free to declare war and peace as they choose. Much like normal Warband.{***}
 mno_static_wars|Static Wars{***}
@@ -53,18 +53,18 @@ mno_poacher|A game poacher.{***}
 menu_start_character_4|{s12}^^But soon everything changed and you decided to strike out on your own as an adventurer. What made you take this decision was...{***}
 mno_revenge|Personal revenge.{***}
 mno_death|The loss of a loved one.{***}
-mno_wanderlust|Wanderlust.{***}
+mno_wanderlust|L'appel de l'aventure
 mno_disown|Being forced out of your home.{***}
 mno_greed|Lust for money and power.{***}
-menu_choose_skill|{s13}{***}
+menu_choose_skill|{s13}
 mno_begin_adventuring|Become an adventurer and ride to your destiny.{***}
 menu_past_life_explanation|{s3}{***}
 mno_view_next|{s5}{***}
 menu_morale_report|{s1}{***}
-menu_courtship_relations|{s1}{***}
+menu_courtship_relations|{s1}
 menu_lord_relations|{s1}{***}
-menu_companion_report|{s7}{s1}{***}
-menu_character_report|{s9}{***}
+menu_companion_report|{s7}{s1}
+menu_character_report|{s9}
 menu_party_size_report|{s1}{***}
 menu_faction_relations_report|{s1}{***}
 menu_camp|You set up camp. What do you want to do?{***}
@@ -73,12 +73,12 @@ mno_camp_wait_here|Wait here for some time.{***}
 menu_camp_action_rest|Camping allows your men to rest for a while and recover from the hard life of travels. It also allows you to forage, increasing your food supplies. This is particularly helpful when campaigning in enemy territory, where it is difficult to buy supplies.{***}
 menu_build_refuge_new|Your men await your orders to start building your settlement. There is enough materials collected so far, and what may be missing can be purchased in nearby villages.^^Total Cost: 5000 silver stags.^Time need: 6 hours.{***}
 mno_refuge_here|Ok go ahead.{***}
-menu_camp_cheat|Select a cheat:{***}
+menu_camp_cheat|Choisissez un cheat :
 mno_testing_cheats|Cheats fast use.{***}
 mno_camp_cheat_change_weather|Change weather..{***}
 menu_cheat_testing_cheats1|Select a cheat:{***}
 mno_back_to_camp_menu|Back.{***}
-menu_camp_action|Choose an action:{***}
+menu_camp_action|Choisir une action :
 mno_camp_recruit_prisoners|Recruit some of your prisoners to your party.{***}
 mno_action_prebattle_custom_divisions|Manage Split Troop Assignments.{***}
 mno_action_export_import|Export/import NPCs.{***}
@@ -86,11 +86,11 @@ mno_camp_cheat|CHEAT MENU.{***}
 mno_jump_to_scene|debug: test scene menu{***}
 mno_camp_smoke_food|Smoke some raw food in your inventory.{***}
 mno_camp_action_4|Back to camp menu.{***}
-menu_camp_recruit_prisoners|You offer your prisoners freedom if they agree to join your ranks as soldiers. {s18}{***}
+menu_camp_recruit_prisoners|Vous offrez la liberté à vos prisonniers s'ils acceptent de rejoindre vos rangs en tant que soldats. {s18}
 mno_camp_recruit_prisoners_accept|Take them.{***}
 mno_camp_recruit_prisoners_reject|Reject them.{***}
-menu_camp_no_prisoners|You have no prisoners to recruit from.{***}
-menu_camp_action_read_book|Choose a book to read:{***}
+menu_camp_no_prisoners|Vous n'avez pas de prisonnier à recruter.
+menu_camp_action_read_book|Choisissez un livre à lire :
 mno_action_read_book_1|{s1}.{***}
 mno_action_read_book_2|{s1}.{***}
 mno_action_read_book_3|{s1}.{***}
@@ -98,7 +98,7 @@ mno_action_read_book_4|{s1}.{***}
 mno_action_read_book_5|{s1}.{***}
 mno_action_read_book_6|{s1}.{***}
 mno_action_read_book_7|{s1}.{***}
-menu_camp_action_read_book_start|{s1}{***}
+menu_camp_action_read_book_start|{s1}
 menu_export_import_npcs|Please choose an NPC, then press key C to view and export/import this character.^^You choose {reg0?{s0}:none}.{***}
 mno_export_import_back|Go back{***}
 mno_export_import_npc1|{s0}{***}
@@ -135,12 +135,12 @@ mno_retire_yes|Yes.{***}
 mno_retire_no|No.{***}
 menu_end_game|The decision is made, and you resolve to give up your adventurer's life and settle down. You sell off your weapons and armour, gather up all your money, and ride off into the sunset....{***}
 mno_end_game_bye|Farewell.{***}
-menu_cattle_herd|You encounter a herd of cattle.{***}
+menu_cattle_herd|Vous croisez un troupeau de bovins.
 mno_cattle_drive_away|Drive the cattle onward.{***}
 mno_cattle_stop|Bring the herd to a stop.{***}
 mno_cattle_kill|Slaughter some of the animals.{***}
 mno_leave|Leave.{***}
-menu_cattle_herd_kill|How many animals do you want to slaughter?{***}
+menu_cattle_herd_kill|Combien de bêtes souhaitez-vous abattre ?
 mno_cattle_kill_1|One.{***}
 mno_cattle_kill_2|Two.{***}
 mno_cattle_kill_3|Three.{***}
@@ -178,7 +178,7 @@ mno_call_back|Call them back.{***}
 menu_order_attack_2|{s4}^^Your casualties: {s8}^^Enemy casualties: {s9}{***}
 mno_order_attack_continue|Order your soldiers to continue the attack.{***}
 mno_order_retreat|Call your soldiers back.{***}
-menu_battle_debrief|{s11}^^Your Casualties:{s8}{s10}^^Enemy Casualties:{s9}^^Kill count:{s12}^^{s3}{***}
+menu_battle_debrief|{s11}^^Vos pertes : {s8}{s10}^^Pertes ennemies : {s9} ^^Nombre de mort:{s12}^^{s3}
 menu_total_victory|You shouldn't be reading this... {s9}{***}
 menu_enemy_slipped_away|{s17}{***}
 menu_permanent_damage|{s0}{***}
@@ -201,16 +201,16 @@ mno_join_leave|Leave.{***}
 mno_join_wounded|You are too wounded to fight.{***}
 menu_join_order_attack|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}{***}
 menu_zendar|You enter the town of Zendar.{***}
-mno_zendar_enter| {***}
-mno_zendar_enter_door|Door to the town centre.{***}
-mno_zendar_tavern| {***}
-mno_zendar_tavern_door|Door to the tavern.{***}
-mno_zendar_merchant| {***}
-mno_zendar_merchant_door|Door to the merchant.{***}
-mno_zendar_arena| {***}
-mno_zendar_arena_door|Door to the arena.{***}
+mno_zendar_enter
+mno_zendar_enter_door|Centre-ville
+mno_zendar_tavern
+mno_zendar_tavern_door|Taverne
+mno_zendar_merchant
+mno_zendar_merchant_door|Boutique
+mno_zendar_arena
+mno_zendar_arena_door|Arènes
 mno_town_1_leave| {***}
-menu_banquete_moral_refuge|Order your men to leave their weapons outside and invite them to your great hall, to sit at your table by rank. The nearest and dearest sit closest to you. Some girls serve meat and mead in large quantities.^^You've spent a small fortune on this feast because your men deserve it. They are the ones who bleed with you, who have helped you conquer your domains. They are your faithful followers.^^The evening progresses. Many men are as drunk as vats. They shout and sing. Some run off to vomit and others fight like gamecocks to attract the attention of a girl. Behind you, a bard sings of your power and deeds.^^You act like a warlord. You are a warlord... a 'shepherd of men.'{***}
+menu_banquete_moral_refuge|Vous ordonnez à vos hommes de laisser leurs armes à l'extérieur et de les inviter à votre grande salle pour s'asseoir à votre table. Vos compagnons les plus loyales sont à vos côtés.^ Des filles servent de la viande et de l'hydromel en grande quantité. ^^Vous avez dépensé une petite fortune pour cette fête en l'honneur de vos hommes méritants. Ce sont eux qui saignent pour vous, ce sont eux qui vous ont aidé à conquérir vos terres. Ils sont vos fidèles disciples. ^^La soirée avance. Beaucoup d'hommes sont ivres. Ils crient et chantent. Certains fuient pour vomir et d'autres se battent pour attirer l'attention d'une fille. Derrière vous, un barde chante vos louanges et glorifie vos actes. ^^Vous agissez comme un chef de guerre. Vous êtes un chef de guerre ... un «berger des hommes».
 mno_banquete_okr|You drink, laugh and shout as they come.{***}
 mno_banquete_ok2r|You stay sober, taste the drink, but no more than necessary.{***}
 mno_banquete_ok3r|You call your men and give them rings and bracelets (2000 stags).{***}
@@ -239,7 +239,7 @@ mno_demoler_no|Return.{***}
 menu_salt_mine|You arrive at a small mining camp. The Westerlands are not the largest, most populous, or most fertile part of the realm, but they are the richest. Full of hills and crags, the land is dotted with mines from which pour gold and silver in astonishing quantities.^^^ {s1}{***}
 mno_enter|Wander around the camp.{***}
 mno_enter_door|Exit to the camp.{***}
-mno_work_mines|Volunteer to work in the mines{s1}.{***}
+mno_work_mines|Se porter volontaire pour travailler dans les mines{s1}.
 mno_add_prisoners|Leave some prisoners to work in the mines or station some guards here.{***}
 menu_slave_labor|{s1}{***}
 menu_iron_mine|You arrive at a small iron mining camp.^^^ {s1}{***}
@@ -276,7 +276,7 @@ menu_tower_of_joy|You have arrived at the ruins of the Tower of Joy.{***}
 menu_cueva_odin|You arrive at a cave...{***}
 menu_iniau_hideout|You arrive at the deep forest.{***}
 menu_quarry1|You arrive at a quarry.{***}
-mno_work_quarry|I wish to work in the quarry{s1}.{***}
+mno_work_quarry|Je souhaite travailler dans la carrière {s1}.
 menu_septry_visit|You arrive at a Septry. You could see at a distance each face of the God portrayed delicately with art and fine stones.{***}
 mno_enter_interior|Visit the septry halls.{***}
 mno_enter_interior_door|To the septry hall.{***}
@@ -297,41 +297,41 @@ menu_join_siege_outside|{s1} has come under siege by {s2}.{***}
 mno_approach_besiegers|Approach the siege camp.{***}
 mno_pass_through_siege|Pass through the siege lines and enter {s1}.{***}
 menu_cut_siege_without_fight|The besiegers let you approach the gates without challenge.{***}
-menu_besiegers_camp_with_allies|{s1} remains under siege. The banners of {s2} fly above the camp of the besiegers, where you and your men are welcomed.{***}
+menu_besiegers_camp_with_allies|{s1} est toujours en état de siège, les bannières du {s2} flottent au-dessus du camp des assiégeants, où vos hommes et vous êtes les bienvenus.
 mno_talk_to_siege_commander|Request a meeting with the commander.{***}
 mno_change_commander_besiegers_camp_with_allies|Change commander(Current commander: {s7}).{***}
 mno_siege_attack_deployment|Choose who will join you in battle.{***}
 mno_siege_attack_plan|Plan your assault.{***}
 mno_join_siege_with_allies|Join the next assault.{***}
 mno_join_siege_stay_back|Order your soldiers to join the next assault without you.{***}
-menu_castle_outside|You are outside {s2}.{s11} {s3} {s4}{***}
+menu_castle_outside|Vous êtes à l'extérieur de {s2}.{s11} {s3} {s4}
 mno_approach_gates|Approach the gates and hail the guard.{***}
 mno_town_sneak|Disguise yourself and try to sneak into the {s7}{***}
 mno_castle_start_siege|Besiege the {reg6?town:castle}.{***}
 mno_castle_leave|Leave.{***}
-menu_castle_guard|You approach the gate. The men on the walls watch you cautiously.^^{s10}{***}
+menu_castle_guard|Vous vous approchez des portes. Les gardes sur les remparts vous observent attentivement. ^^{s10}
 mno_request_shelter|Request entry to the castle.{***}
 mno_persuade_center_surrender_with_town_lord|You and {s11} persuade them to surrender.{***}
 mno_take_lord_as_hostage|You offer an exchange for the surrender of {s12} for {s11}'s safe return.{***}
 mno_request_meeting_commander|Request a meeting with someone.{***}
 mno_guard_leave|Leave.{***}
-menu_castle_entry_granted|After a brief wait, the guards open the gates and allow your party inside.{***}
-menu_castle_entry_denied|The lord of this castle has forbidden you from coming inside these walls, and the guard sergeant informs you that his men will fire if you attempt to come any closer.{***}
-menu_castle_meeting|With whom do you want to meet?{***}
+menu_castle_entry_granted|Après quelques instants, les gardes ouvrent les portes et vous permettent d'entrer.
+menu_castle_entry_denied|L'entrée de ce château vous a été interdite par le seigneur des lieux, et le chef des gardes vous informe qu'il ordonnera à ses hommes de tirer si vous vous approchez davantage.
+menu_castle_meeting|Qui souhaitez-vous rencontrer ?
 mno_forget_it|Forget it.{***}
-menu_castle_meeting_selected|Your request for a meeting is relayed inside, and finally {s6} appears in the courtyard to speak with you.{***}
+menu_castle_meeting_selected|Votre requête a été transmise, et finalement {s6} apparaît dans la cour afin de discuter avec vous.
 menu_port_attack|You are attacking the port of {s1}. You have {reg10} troops fit for battle against the enemy's {reg11}.{***}
 mno_lead_attack|Lead your soldiers in a coastal assault.{***}
 mno_attack_stay_back|Order your soldiers to attack while you stay back...{***}
 mno_lift_siege|Abandon the attack.{***}
 menu_persuade_center_surrender|{reg30?You and {s11} have succeeded. The Commander of {s12} has surrendered without bloodshed!:     Your attempts to pressure the Commander of {s12} to surrender has emerged fruitless. It seems {s11} didn't cooperate with you.({reg13}).}{***}
 menu_persuade_center_surrender_2|{s20}^^{reg30?{s12} agreed to surrender in exchange for {s11}'s safe return:     The Commander at {s12} has rejected your offer of a trade.}{***}
-menu_castle_besiege|You are laying siege to {s4}. {s2} ^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}{***}
+menu_castle_besiege|Vous assiégez {s4}. {s2} ^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}
 mno_siege_request_meeting|Call for a meeting with the castle commander.{***}
 mno_siege_warfare_p|Siege Warfare (Planning Siege).{***}
 mno_siege_assault_p|Siege Warfare (Preparing Assault).{***}
 mno_siege_assault_camp|Your Siege Camp.{***}
-mno_wait_24_hours|Wait until tomorrow.{***}
+mno_wait_24_hours|Attendre jusqu'à demain
 menu_siege_plan|You meet with your advisers to plan the siege and try to conquer {s4} with the least possible casualties. Your strategy will be to cause famine and lower morale.^^{s15} {s17} {s18} {s19} {s20}{***}
 mno_build_circunvalation|Defences: build checkpoints around {s4}.{***}
 mno_close_circunvalation|Checkpoints are finished. Now order active watching.{***}
@@ -359,31 +359,31 @@ menu_surrender_siege_defenders_starved|The defenders of {s4} can hold out no lon
 menu_deer_herd|You encounter a herd of deer.{***}
 mno_deer_kill|Hunt some of the animals.{***}
 menu_deer_herd_kill_end|You shouldn't be reading this.{***}
-menu_coat_herd|You encounter a herd of goat. They belong to the flock of a pastor who swings his sling at you until you move away.{***}
-menu_coatb_herd_kill_end|You shouldn't be reading this.{***}
-menu_coatb_herd|You encounter a herd of goat.{***}
+menu_coat_herd|Vous rencontrez un troupeau de chèvre. Ils appartiennent au troupeau d'un pasteur qui tient sa fronde dans ses mains jusqu'à ce que vous vous éloigniez.
+menu_coatb_herd_kill_end|Vous ne devriez pas lire ceci.
+menu_coatb_herd|Vous rencontrez un troupeau de chèvre.
 mno_coatb_kill|Hunt some of the animals.{***}
-menu_boar_herd|You encounter some boars.{***}
+menu_boar_herd|Vous rencontrez des sangliers.
 mno_boar_kill|Hunt some of the animals.{***}
-menu_boar_herd_kill_end|You shouldn't be reading this.{***}
+menu_boar_herd_kill_end|Vous ne devriez pas lire ceci.
 menu_wolf_herd|You encounter a pack of wolves.{***}
-mno_wolf_kill|Hunt some of the animals.{***}
+mno_wolf_kill|Chassez quelques animaux.
 menu_wolf_herd_kill_end|You shouldn't be reading this.{***}
 menu_wilddonkey_herd|You encounter a herd of Wild Donkey.{***}
-mno_wilddonkey_kill|Hunt some of the animals.{***}
+mno_wilddonkey_kill|Chassez quelques animaux.
 menu_wilddonkey_herd_kill_end|You shouldn't be reading this.{***}
-menu_castle_besiege_inner_battle|{s1}{***}
+menu_castle_besiege_inner_battle|{s1}
 menu_build_mantles2|The mantlets help protect your men when they have to use assault equipment. They save many lives. As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build mantlets.{***}
 mno_build_mantles|Do it.{***}
 menu_construct_ladders|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build enough equipment for the assault.{***}
 mno_build_ladders_cont|Do it.{***}
 menu_construct_siege_tower|As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower and other equipment for assault will take {reg4} hours.{***}
 mno_build_siege_tower_cont|Start building.{***}
-menu_battering_ram|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that building a battering ram and other equipment for the assault will take {reg4} hours.{***}
+menu_battering_ram|En tant que membre du parti ayant la compétence ingénieur la plus élevée ({reg2}), {reg3?vous estimez: {s3} estime} que la construction d'un bélier et d'autres équipements pour l'assaut prendra {reg4} heures.
 mno_build_battering_ram_cont|Start building the battering ram.{***}
-menu_castle_attack_walls_simulate|{s4}^^Your casualties:{s8}^^Enemy casualties were: {s9}{***}
-menu_castle_attack_walls_with_allies_simulate|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}{***}
-menu_castle_attack_walls_simulate2|{s4}^^Your casualties: {s8}^^Enemy casualties: {s10}{***}
+menu_castle_attack_walls_simulate|{s4}^^Vos pertes:{s8}^^Pertes ennemies: {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Vos pertes: {s8}^^Pertes alliées: {s9}^^Pertes ennemies: {s10}
+menu_castle_attack_walls_simulate2|{s4}^^Vos pertes:{s8}^^Pertes ennemies: {s10}
 menu_sneak_into_town_suceeded2|Disguised and under the cover of darkness, you infiltrate {s4}. It's time to scout out their defenses.{***}
 menu_construct_saneamiento|Sanitation is important for preventing rats and disease. It is possible to construct latrines and pipelines to prevent the accumulation of mud and filth from the rain, and dig a reservoir to have an available water supply. Do you want to do it?^^Doing this will take 4 hours.{***}
 mno_build_saneamiento|Do it.{***}
@@ -443,8 +443,8 @@ menu_poner_escaleras_mantlets|Your vanguard advances, bringing ladders, mantlets
 mno_back_behind_esc2|Your men have met the enemy. It is your time...{***}
 menu_informacion_ciudad|A scout appears before you: '{s11}^{s12}{s1}{s5}{s17}'{***}
 mno_regreso_luchain|Thank you. Your information is important!{***}
-menu_castle_taken_without_bloodshed|Nothing to see here.{***}
-menu_castle_taken|The battle for {s60} is almost over. Your troops are eager to start plundering the {reg2?town:castle}. {s10}You may want to just fill your purse a bit and leave the plundered place for the enemy. Finally, you could also decide to devastate the place completely in order to gain as much loot as possible, enslave the inhabitants, and make it worthless for its owner.{***}
+menu_castle_taken_without_bloodshed|Rien à voir ici.
+menu_castle_taken|La bataille pour {s3} est presque finie. Vos troupes sont impatients de commencer à piller {reg2?la ville:le château}. {s10}Vous voulez peut-être remplir un peu votre inventaire et laisser l'endroit pillé pour l'ennemi. Enfin, vous pouvez également décider de dévaster complètement l'endroit afin de gagner le plus de butin possible, d'asservir les habitants et de le rendre inutile pour son propriétaire.
 mno_saqueo_noallowed|Conquer the {reg2?town:castle}, but forbid plundering.{***}
 mno_keep_plunder|Conquer and plunder the {reg2?town:castle}.{***}
 mno_saqueo_normal|Plunder the {reg2?town:castle} and leave.{***}
@@ -452,7 +452,7 @@ mno_saqueo_total|Devastate the place and leave.{***}
 menu_castle_taken_plunder|The {reg2?town:castle} is plundered. You have collected {reg7} stags.{***}
 menu_castle_taken_native|{s3} has fallen to your troops, and you now have full control of the {reg2?town:castle}. {reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}{***}
 menu_castle_taken_keepplunder|{s3} has fallen to your troops, and you now have full control of the {reg2?town:castle}. Your troops run through the streets getting as much stuff as they can carry. The {reg2?town:castle} is plundered. You have collected {reg7} stags. {reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}{***}
-menu_castle_taken_2|{s3} has fallen to your troops, and you now have full control of the castle. It is time to send word to {s9} about your victory. {s5}{***}
+menu_castle_taken_2|Vous avez pris le contrôle de {s3}. ^Il est temps d'envoyer un message pour informer {s9} de votre victoire. {s5}
 mno_castle_taken_claim|Request that {s3} be awarded to you.{***}
 mno_castle_taken_claim_2|Request that {s3} be awarded to your {reg59?husband:wife}.{***}
 mno_castle_taken_no_claim|Ask for no rewards.{***}
@@ -482,31 +482,31 @@ mno_siege_defender_troops_join_battle|Order your men to join the battle without 
 menu_siege_join_defense|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}{***}
 menu_enter_your_own_castle|{s10}{***}
 menu_village|{s10} {s12}^{s11}^{s6}{s7} {s15}{***}
-mno_village_manage|Manage this village.{***}
+mno_village_manage|Gérer ce village
 mno_dplmc_village_elder_meeting|Meet the Village Elder.{***}
 mno_dplmc_village_elder_meeting_denied|You have not met the village elder yet.{***}
 mno_recruit_volunteers|Recruit Volunteers.{***}
 mno_recruit_forzosamente|Forcible recruitment.{***}
 mno_village_center|Go to the village centre.{***}
 mno_village_center_door|Door to the village centre.{***}
-mno_village_buy_food|Buy supplies from the peasants.{***}
+mno_village_buy_food|Commercer avec les villageois
 mno_comprar_cattle|I want to buy some cattle.{***}
-mno_village_attack_bandits|Attack the bandits.{***}
-mno_village_wait|Rest here for some time.{***}
+mno_village_attack_bandits|Attaquer les bandits
+mno_village_wait|Attendre ici jusqu'à nouvel ordre
 mno_village_guest_wait|The villagers invite you to rest here as their honoured guest.{***}
 mno_dplmc_village_counter_insurgency|Counter the insurgency.{***}
 mno_dplmc_village_negotiate|Begin negotiations.{***}
 mno_collect_taxes_qst|{reg5?Continue collecting taxes:Collect taxes} due to {s1}.{***}
 mno_train_peasants_against_bandits_qst|Train the peasants.{***}
-mno_village_hostile_action|Take a hostile action.{***}
-mno_village_perform_basic_work|Perform some very basic work for the village (be a farmer).{***}
-mno_village_leave|Leave...{***}
+mno_village_hostile_action|Attenter une action hostile
+mno_village_perform_basic_work|Effectuez un travail très basique pour le village (être un agriculteur).
+mno_village_leave|Partir
 menu_village_basic_work|{s3}{***}
 menu_village_hostile_action|What action do you have in mind?{***}
-mno_village_take_food|Force peasants to give you supplies.{***}
+mno_village_take_food|Forcer les paysans à vous donner des vivres
 mno_village_steal_cattle|Steal cattle.{***}
 mno_enslave_villagers|Enslave the villagers.{***}
-mno_village_loot|Loot and burn this village.{***}
+mno_village_loot|Mettre le village à sac
 menu_recruit_volunteers|{s18}{***}
 mno_continue_not_enough_gold|I don't have enough stags...{***}
 mno_recruit_them|Recruit them for ({reg6} silver stags).{***}
@@ -516,9 +516,9 @@ menu_recruit_volunteers2|{s18}{***}
 menu_village_hunt_down_fugitive_defeated|A heavy blow from the fugitive sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.{***}
 menu_village_infest_bandits_result|{s9}{***}
 menu_village_infestation_removed|In a battle worthy of song, you and your men drive the bandits out of the village, making it safe once more. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find.{***}
-mno_village_bandits_defeated_accept|Take it as your just due.{***}
-mno_village_bandits_defeated_cont|Refuse, stating that they need these items more than you do.{***}
-menu_center_manage|{s19}^{reg6?^^You are currently building {s7}. The building will be completed after {reg8} day{reg9?s:}.:}{***}
+mno_village_bandits_defeated_accept|Prendre ce qui vous revient de droit
+mno_village_bandits_defeated_cont|Refuser, ils en ont plus besoin que vous
+menu_center_manage|{s19}^{reg6?^^Vous construisez actuellement {s7}. La construction sera achevée dans {reg8} jour{reg9?s:}.:}
 mno_center_build_manor|Build a manor.{***}
 mno_center_build_fish_pond|Build a mill.{***}
 mno_center_build_watch_tower|Build a watch tower.{***}
@@ -536,14 +536,14 @@ mno_center_build_sod18|Build a shrine to R'hllor.{***}
 mno_center_build_sod41|Build a blacksmith.{***}
 mno_center_build_sod42|Build a guild hall.{***}
 mno_center_build_sod43|Build a library.{***}
-menu_center_improve|{s19} As the party member with the highest engineer skill ({reg2}), {reg3?you reckon:{s3} reckons} that building the {s4} will cost you {reg5} silver stags and will take {reg6} days.{***}
+menu_center_improve|{s19} En tant que meilleur ingénieur du groupe ({reg2}), {reg3?vous estimez:{s3} estime} que construire {s4} coûtera {reg5} cerfs d'argent et prendra {reg6} jours.
 mno_dplmc_improve_cont|Go on. (Pay from treasury){***}
 mno_improve_cont|Go on.{***}
 mno_improve_not_enough_gold|I don't have enough money for that.{***}
 menu_town_bandits_failed|{s4} {s5}{***}
 menu_town_bandits_succeeded|The bandits fall before you as grain to a scythe! Soon you stand alone in the streets while most of your attackers lie unconscious, dead or dying. Searching the bodies, you find a purse which must have belonged to a previous victim of these brutes. Or perhaps, it was given to them by someone who wanted to arrange a suitable ending to your life.{***}
 menu_village_steal_cattle_confirm|As the most skilled pilferer of your company, ({reg2}), {reg3?you reckon:{s1} reckons} that you can steal as many as {reg4} heads of the village's cattle.{***}
-mno_village_steal_cattle_confirm|Go on.{***}
+mno_village_steal_cattle_confirm|Parfait, tentons le coup !
 menu_village_steal_cattle|{s1}{***}
 menu_village_take_food_confirm|It will be difficult to force and threaten the peasants into giving their precious supplies. You think you will need at least one hour.{***}
 mno_village_take_food_confirm|Go ahead.{***}
@@ -551,8 +551,8 @@ menu_village_take_food|The villagers grudgingly bring out what they have for you
 mno_take_supplies|Take the supplies.{***}
 mno_let_them_keep_it_2|Let them keep it.{***}
 menu_village_start_attack|Some of the angry villagers grab their tools and prepare to resist you. It looks like you'll have a fight on your hands if you continue.{***}
-mno_village_raid_attack|Charge them.{***}
-mno_village_raid_leave|Leave this village alone.{***}
+mno_village_raid_attack|Les massacrer
+mno_village_raid_leave|Laisser le village en paix
 menu_village_raid_villagers_toslaves|Do you want to hunt the villagers down like animals and make them slaves?{***}
 mno_villagers_slaves|Take all villagers prisoner!{***}
 menu_village_loot_no_resist|The villagers here are few and frightened, and they quickly scatter and run before you, but your men manage to catch some of them. The village is at your mercy.{***}
@@ -565,9 +565,9 @@ mno_village_raid_leaveflee|Leave this village alone.{***}
 menu_village_loot_complete|On your orders your troops sack the village, pillaging everything of any value, and then put the buildings to the torch. From the coins and valuables that are found, you get your share of {reg1} silver stags.{***}
 menu_village_loot_defeat|Fighting with courage and determination, the villagers manage to hold together and drive off your forces.{***}
 menu_village_loot_continue|Do you wish to continue looting this village?{***}
-mno_yosi_yes|Yes.{***}
-mno_yono_no|No.{***}
-menu_close|Nothing.{***}
+mno_yosi_yes|Oui.
+mno_yono_no|No.
+menu_close|Rien
 menu_town|{s30}{***}
 mno_castle_castle|Visit the lord's hall{***}
 mno_castle_castle_door|To the lord's hall.{***}
@@ -588,13 +588,13 @@ mno_castle_inspect|Tour the grounds{***}
 mno_castle_inspect_door|Leave.{***}
 mno_town_enterprise|Visit your {s3}{***}
 mno_town_enterprise_door|To your enterprise.{***}
-mno_visit_lady|Attempt to visit a lady{***}
-mno_visit_lady_door|To the garden.{***}
+mno_visit_lady|Rendre visite à une dame
+mno_visit_lady_door|Jardin
 mno_trade_with_merchants|Trade with locals{***}
 mno_travel|Travel to another port{***}
 mno_travel_door|Outfit your party.{***}
-mno_walled_center_manage|Manage this {reg0?town:castle}{***}
-mno_walled_center_move_court|Move your court here{***}
+mno_walled_center_manage|Gérer {reg0?la ville:le château}
+mno_walled_center_move_court|Déplacer votre cour ici
 mno_castle_station_troops|Manage the garrison{***}
 mno_castle_wait|Wait here for some time{***}
 mno_castle_wait_door|Bed.{***}
@@ -608,15 +608,15 @@ mno_town_leave|Leave{***}
 mno_town_leave_door|Leave Area.{***}
 menu_cannot_enter_court|There is a feast in progress in the lord's hall, but you are not of sufficient status to be invited inside. Perhaps increasing your renown would win you admittance -- or you might also try distinguishing yourself at a tournament while the feast is in progress...{***}
 menu_lady_visit|Whom do you wish to visit?{***}
-mno_visit_lady_1|Visit {s12}{***}
-mno_visit_lady_2|Visit {s12}{***}
-mno_visit_lady_3|Visit {s12}{***}
-mno_visit_lady_3_door|Door to the garden.{***}
-mno_visit_lady_4|Visit {s12}{***}
-mno_visit_lady_5|Visit {s12}{***}
-mno_visit_lady_6|Visit {s12}{***}
-mno_visit_lady_7|Visit {s12}{***}
-mno_visit_lady_8|Visit {s12}{***}
+mno_visit_lady_1|Rendre visite à {s12}
+mno_visit_lady_2|Rendre visite à {s12}
+mno_visit_lady_3|Rendre visite à {s12}
+mno_visit_lady_3_door|Jardin.
+mno_visit_lady_4|Rendre visite à {s12}
+mno_visit_lady_5|Rendre visite à {s12}
+mno_visit_lady_6|Rendre visite à {s12}
+mno_visit_lady_7|Rendre visite à {s12}
+mno_visit_lady_8|Rendre visite à {s12}
 menu_town_tournament_lost|You have been eliminated from the tournament.{s8}{***}
 menu_town_masopciones|The town is a hive of activity. You wish to...{***}
 mno_boar_king|Present the slain boar to the small council.{***}
@@ -653,17 +653,17 @@ menu_tournament_bet_confirm|If you bet {reg1} silver stags, you will earn {reg2}
 mno_tournament_bet_accept|Go ahead.{***}
 mno_tournament_bet_cancel|Forget it.{***}
 menu_tournament_participants|You ask one of the criers for the names of the tournament participants. They are:^{s11}{***}
-menu_collect_taxes|As the party member with the highest trade skill ({reg2}), {reg3?you expect:{s1} expects} that collecting taxes from here will take {reg4} days...{***}
+menu_collect_taxes|En tant que membre du groupe ayant la compétence commerciale la plus élevée ({reg2}), {reg3?Vous vous attendez: {s1} s'attend} à ce que la collecte les impôts prendra {reg4} jours ...
 mno_start_collecting|Start collecting.{***}
 mno_collect_later|Put it off until later.{***}
-menu_collect_taxes_complete|You've collected {reg3} silver stags in taxes from {s3}. {s19} will be expecting you to take the money to him.{***}
-menu_collect_taxes_rebels_killed|Your quick action and strong arm have successfully put down the revolt. Surely, anyone with a mind to rebel against you will think better of it after this.{***}
-menu_collect_taxes_failed|You could collect only {reg3} silver stags as tax from {s3} before the revolt broke out. {s1} won't be happy, but some silver will placate him better than nothing at all...{***}
+menu_collect_taxes_complete|Les impôts que vous avez perçus à {s3} s'élèvent à {reg3} cerfs d'argent. {s19} s'attend certainement à ce que vous les lui ameniez dès que possible.
+menu_collect_taxes_rebels_killed|Sous votre commandement, vos troupes ont maté la révolte jusque dans les chaumières. ^Voilà qui devrait durablement soumettre même les plus rétifs de ces gueux.
+menu_collect_taxes_failed|Vous n'aviez collecté que {reg3} cerfs d'argent d'impôts à {s3} avant que la révolte n'éclate. ^{s1} sera contrarié... mais un peu d'argent le satisfera quand même plus que pas d'argent du tout...
 menu_monasterio_saqueado|The septons blood soaked ground and their bodies are fed to the crows. An easy victory, a great reward ... but you have created new enemies among the Faith.{***}
-menu_collect_taxes_revolt_warning|The people of {s3} are outraged at your demands and decry it as nothing more than extortion. They're getting very restless, and they may react badly if you keep pressing them.{***}
+menu_collect_taxes_revolt_warning|La population de {s3} est scandalisée par vos exigences, et crie à l'extorsion ! ^L'agitation qui règne ici indique que la situation pourrait dégénérer, si vous continuez à les oppresser.
 mno_continue_collecting_taxes|Ignore them and continue.{***}
 mno_halve_taxes|Agree to reduce your collection by half. ({s1} may be upset){***}
-menu_collect_taxes_revolt|You are interrupted while collecting the taxes at {s3}. A large band of angry {reg9?peasants:townsmen} is marching nearer, shouting about the exorbitant taxes and waving torches and weapons. It looks like they aim to fight you!{***}
+menu_collect_taxes_revolt|Alors que vous collectiez les impôts de {s3}, vous êtes interrompu par de nombreux {reg9?paysans:citadins} furieux s'approchant de vous, qui réprouvent le montant exorbitant des taxes en brandissant torches et armes. ^Il semble qu'ils veuillent en découdre avec vous !
 menu_train_peasants_against_bandits|As the party member with the highest training skill ({reg2}), {reg3?you expect:{s1} expects} that getting some peasants ready for practice will take {reg4} hours.{***}
 mno_make_preparation|Train them.{***}
 mno_train_later|Put it off until later.{***}
@@ -688,7 +688,7 @@ mno_back|Back.{***}
 menu_port_encounter|You encounter the port of {s2}. {s3}{***}
 mno_attack|Attack.{***}
 mno_merge|Merge the fleets.{***}
-menu_center_reports|Town Name: {s1}^Rent Income: {reg1} silver stags^Tariff Income: {reg2} silver stags^Food Stock: for {reg3} days{***}
+menu_center_reports|{s1}^Revenus : {reg1} cerfs d'argent^Rentrée des taxes : {reg2} cerfs d'argent^Réserves de nourriture suffisantes pour {reg3} jours.
 mno_to_price_and_productions|Show prices and productions.{***}
 menu_price_and_production|Productions are:^(Note: base/modified by raw materials/modified by materials plus prosperity)^{s1}^^Price factors are:^{s2}{***}
 menu_town_trade|You head towards the marketplace.{***}
@@ -750,19 +750,19 @@ menu_marshall_selection_candidate_ask|{s15} will soon select a new marshal for t
 mno_marshal_candidate_accept|Let {s15} know that you are willing to serve as marshal.{***}
 mno_marshal_candidate_reject|Tell everyone that you are too busy these days.{***}
 menu_captivity_avoid_wilderness|Suddenly all the world goes black around you. Many hours later you regain your conciousness and find yourself at the spot you fell. Your enemies must have taken you up for dead and left you there. However, it seems that none of your wounds were lethal, and although you feel awful, you find out that can still walk. You get up and try to look for any other survivors from your party.{***}
-menu_captivity_start_wilderness|Stub{***}
-menu_captivity_start_wilderness_surrender|Stub{***}
-menu_captivity_start_wilderness_defeat|Your enemies take you prisoner.{***}
-menu_captivity_start_castle_surrender|Stub{***}
-menu_captivity_start_castle_defeat|Stub{***}
-menu_captivity_start_under_siege_defeat|Your enemies take you prisoner.{***}
-menu_captivity_wilderness_taken_prisoner|{s2}{***}
+menu_captivity_start_wilderness|poursuivre
+menu_captivity_start_wilderness_surrender|poursuivre
+menu_captivity_start_wilderness_defeat|Vous êtes {fait prisonnier/faite prisonnière} par l'ennemi.
+menu_captivity_start_castle_surrender|poursuivre
+menu_captivity_start_castle_defeat|poursuivre
+menu_captivity_start_under_siege_defeat|Vous êtes {fait prisonnier/faite prisonnière} par l'ennemi.
+menu_captivity_wilderness_taken_prisoner|Vous êtes {fait prisonnier/faite prisonnière} par l'ennemi.
 mno_continue1|Continue...{***}
-menu_captivity_wilderness_check|stub{***}
+menu_captivity_wilderness_check|poursuivre
 menu_captivity_end_wilderness_escape|After painful days of being dragged about as a prisoner, you find a chance and escape from your captors!{***}
 menu_captivity_castle_taken_prisoner|You are quickly surrounded by guards who take away your weapons. With curses and insults, they throw you into the dungeon where you must while away the miserable days of your captivity.{***}
 menu_captivity_rescue_lord_taken_prisoner|You remain in disguise for as long as possible before revealing yourself. The guards are outraged and beat you savagely before throwing you back into the cell for God knows how long...{***}
-menu_captivity_castle_check|stub{***}
+menu_captivity_castle_check|poursuivre
 menu_captivity_end_exchanged_with_prisoner|After days of imprisonment, you are finally set free when your captors exchange you with another prisoner.{***}
 menu_captivity_end_propose_ransom|You spend long hours in the sunless dank of the dungeon, more than you can count. Suddenly one of your captors enters your cell with an offer; he proposes to free you in return for {reg5} silver stags of your hidden wealth. You decide to...{***}
 mno_captivity_end_ransom_accept|Accept the offer.{***}
@@ -841,7 +841,7 @@ menu_garden|{s12}{***}
 mno_nurse|Go with the nurse{***}
 mno_nurse_1|Wait by the spring{***}
 menu_kill_local_merchant_begin|You spot your victim and follow him, observing as he turns a corner into a dark alley. This will surely be your best opportunity to attack him.{***}
-menu_debug_alert_from_s65|DEBUG ALERT: {s65}{***}
+menu_debug_alert_from_s65|ALERTE DEBUG : {s65}
 menu_skirmish_party|   The skirmishers have returned from their assignment. ^The party leader reports that {reg5} men were lost during the engagement.{***}
 menu_spy_party|   One of your spies has returned.{***}
 menu_spy_report|{s1}{***}
@@ -856,14 +856,14 @@ mno_trade_with_party|Trade{***}
 menu_wilderness_duel_win|You have beaten {s1} in a duel, proving yourself to be an honourable and formidable opponent.^The lords of the realm will surely take note of your victory.{***}
 menu_wilderness_duel_lose|You have been defeated in a duel with {s1}.^Although you have upheld your honour, your reputation with the lords of the realm has suffered.{***}
 menu_messenger_return|stub{***}
-menu_banquete_moral|You order your men to leave their weapons outside and invite them to your Great Hall, to sit at your table by rank. The nearest and dearest close to you.^ Some girls serve meat and mead in large quantities. You've spent a lot of money on this feast because your men deserve it.^ They are the ones who bleed with you, who have helped you conquer your domains. They are your faithful followers.^ The evening progresses, many men are drunk as vats, shouting and singing as loud as their voices will let them. Some run off to vomit and others fight like gamecocks to attract the attention of a girl.^ Others slip off to pay for the company of women, you see your wealthiest generals with three or maybe four whores at a time.^ Behind you a bard sings of your power and deeds. You act like a lord, you are a lord... a 'shepherd of men.'{***}
+menu_banquete_moral|Vous ordonnez à vos hommes de laisser leurs armes à l'extérieur et de les inviter à votre grande salle pour s'asseoir à votre table. Vos compagnons les plus loyales sont à vos côtés.^ Des filles servent de la viande et de l'hydromel en grande quantité. Vous avez dépensé beaucoup d'argent dans cette fête parce que vos hommes le méritent.^ Ce sont eux qui saignent avec vous, qui vous ont aidé à conquérir vos terres. Ils sont vos fidèles disciples.^ La soirée progresse, beaucoup d'hommes sont bourrés, crient et chantent aussi fort que leurs voix leurs permettent. Certains fuient pour vomir et d'autres se battent pour attirer l'attention d'une fille.^ D'autres sortent pour payer la compagnie de femmes, vous voyez vos généraux les plus riches avec trois ou peut-être quatre putains à la fois.^ Derrière vous, un barde chante vos louanges et glorifie vos actes. Vous agissez comme un seigneur, vous êtes un seigneur ... un «berger des hommes».'
 mno_banquete_ok|You drink, laugh and shout as they come.{***}
 mno_banquete_ok2|You stay sober, taste the drink nearest to you, but no more than necessary.{***}
-menu_comprar_cattle2|There are {reg5} heads of cattle, each for {reg6} silver stags. How many do you want to buy?{***}
+menu_comprar_cattle2|Il y a {reg5} têtes de bétail, chacune pour {reg6} cerfs d'argent. Combien voulez-vous en acheter?
 mno_cattle_ok|One.{***}
 mno_cattle_ok2|Five{***}
 mno_cattle_ok3|Forget it.{***}
-menu_auto_return_to_map|stub{***}
+menu_auto_return_to_map|stub
 mno_continue_1|Attack the camp...{***}
 mno_leave_no_attack|Leave...{***}
 mno_leave_victory|Continue...{***}
@@ -906,15 +906,15 @@ mno_revolt|Revolt against the commander!{***}
 mno_revolt_disabled|You cannot revolt now. Bide your time.{***}
 mno_report|Commander's Report{***}
 mno_return_to_duty|Return to duty.{***}
-menu_commander_aud|Your request for a meeting is relayed to your commander's camp, and finally {s6} appears from his tent to speak with you.{***}
+menu_commander_aud|Votre demande est transmise au campement de votre commandant, et enfin {s6} apparaît de sa tente pour vous parler.
 mno_reject_talk_lord|No, nevermind.{***}
-menu_ask_revolt|Are you sure you want to revolt?{***}
+menu_ask_revolt|Vous êtes sûr de vouloir vous révolter?
 mno_confirm_revolt|Yes, {s6} will be the death of us all, it is time to act!{***}
 mno_reject_revolt|No, I am loyal to {s6}.{***}
 menu_revolt|Do you want to release the prisoners to help your men?{***}
 mno_revolt_prisoners|Yes, I will take the risk for a greater advantage.{***}
 mno_revolt_no_prisoners|No, I don't trust the prisoners.{***}
-menu_ask_desert|Do you want to desert?{***}
+menu_ask_desert|Voulez-vous déserter?
 mno_confirm_desert|Yes, this is pointless.{***}
 mno_reject_desert|No, I am loyal to my commander.{***}
 menu_desert|Whilst serving you've made some good friends. Some could possibly follow you.{***}
@@ -942,7 +942,7 @@ mno_dismiss_drowned_man|Dismiss the Drowned Man. You will need to pay him 500 Si
 mno_hire_lol|Hire a Red Priest. This will cost you 1200 Silver Stags.{***}
 mno_dismiss_lol|Dismiss the Red Priest. You shall need to pay him 500 Silver Stags.{***}
 mno_return_principal|Return.{***}
-menu_choose_music|What do you want to do?{***}
+menu_choose_music|Que souhaitez-vous faire?
 mno_simple|I want to perform a simple piece of music.(This will take you 1 hour){***}
 mno_medium|I want to perform a mediocre piece of music.(This will take you 3 hours){***}
 mno_complex|I want to perform a complex piece of music.(This will take you 5 hours){***}
