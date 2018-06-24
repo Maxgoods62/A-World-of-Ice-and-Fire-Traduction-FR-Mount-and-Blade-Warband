@@ -1,9 +1,10 @@
 # [OutDated] Traduction française du mod A World of Ice and Fire du jeu Mount and Blade Warband
 
 La traduction n'est pas  finie ! *La traduction de cette version ne sera probablement jamais finie.*
+
 J'estime que j'ai traduit 60% des fichiers. [09/09/2017]
 
-Version du mod traduit : v1.3
+Version du mod traduit : **v1.3**
 
 Lien du mod : http://www.moddb.com/mods/a-world-of-ice-and-fire
 
