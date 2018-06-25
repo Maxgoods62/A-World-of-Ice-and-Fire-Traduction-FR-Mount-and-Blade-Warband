@@ -18,8 +18,8 @@ mno_Companions_overview|Companions overview{***}
 mno_view_faction_relations_report|Faction relations reports{***}
 mno_view_player_companion_report|Rapport entre le héros et les compagnons
 mno_resume_travelling|Resume travelling.{***}
-menu_custom_battle_scene|(NO TRANS){***}
-menu_custom_battle_end|The battle is over. {s1} Your side killed {reg5} enemies and lost {reg6} troops over the battle. You personally slew {reg7} men in the fighting.{***}
+menu_custom_battle_scene|(Non transcrit)
+menu_custom_battle_end|La bataille est terminée. {s1} {reg5} ennemis ont été vaincus. ^Vos pertes s'élèvent à {reg6}. ^Vous avez personnellement vaincu {reg7} ennemis.
 menu_set_up_game|Please choose your preference. This will change the names and consequences of various outcomes in-game accordingly.{***}
 mno_yara_greyjoy|Je préfère que les personnages soient nommés selon la série télévisée de HBO.
 mno_asha_greyjoy|I prefer the characters to be named according to the ASOIAF book's.{***}
@@ -147,7 +147,7 @@ mno_cattle_kill_3|Three.{***}
 mno_cattle_kill_4|Four.{***}
 mno_cattle_kill_5|Five.{***}
 mno_cattle_kill_20|Twenty.{***}
-menu_arena_duel_fight|A duel is a very serious thing, especially if it is to the death. Two enter the circle, but only one comes out...^^Both mind and body react to stress and danger. You feel the cold sweat under your armpits, the kind that comes regardless of whether it's hot or not. It's the sweat of the fight, and its presence indicates that you... are ready.{***}
+menu_arena_duel_fight|Un duel est une chose très sérieuse, surtout si c'est à la mort. Deux personnes entrent dans le cercle, mais seulement une en ressort...^^Le corps et l'esprit se coordonnent face au stress et au danger. Vous sentez la sueur froide sous vos aisselles, le genre de sueur qui survient qu'il fasse chaud ou non. C'est la sueur du combat, et sa présence indique que vous êtes... prêt.
 menu_duel_menu|{s1}{s2}{***}
 mno_start_fight|Start the duel.{***}
 menu_simple_encounter|{s2}^^ You have {reg10} troops ready to fight in your name against their {reg11}.^^{s7}^{s4}^{s15}{***}
@@ -233,7 +233,7 @@ mno_see_ships|See the ships{***}
 mno_embarkre|Embark{***}
 mno_lair_leave|Leave...{***}
 mno_lair_leave_door|Leave Area{***}
-menu_demoler_lairm|Are you sure you want to demolish your settlement?{***}
+menu_demoler_lairm|Êtes-vous sûr de vouloir démolir votre refuge?
 mno_demoler_yes|Yes ({reg1} stags).{***}
 mno_demoler_no|Return.{***}
 menu_salt_mine|You arrive at a small mining camp. The Westerlands are not the largest, most populous, or most fertile part of the realm, but they are the richest. Full of hills and crags, the land is dotted with mines from which pour gold and silver in astonishing quantities.^^^ {s1}{***}
@@ -245,13 +245,13 @@ menu_slave_labor|{s1}{***}
 menu_iron_mine|You arrive at a small iron mining camp.^^^ {s1}{***}
 menu_slave_labor2|{s1}{***}
 menu_four_ways_inn|You arrive at the Four Ways Inn.{***}
-menu_celidon_forest|You arrive at Hollow Hill.{***}
+menu_celidon_forest|Vous arrivez dans colline creuse (Hollow Hill).
 mno_service_recruit|Ask if anyone is willing to join you and your men.{***}
 menu_wildling_farm|You arrive at a farm.{***}
 menu_wildling_farm_safe|You arrive at a farmstead.{***}
 mno_farm_wait|Rest here for some time.{***}
 menu_crasters_keep_quest|You arrive at Craster's Keep.{***}
-menu_crasters_keep|You arrive at Craster's Keep.{***}
+menu_crasters_keep|Vous arrivez au Manoir de Craster (Craster's Keep).
 mno_crasters_keep_wait|Rest here for some time.{***}
 menu_red_wedding_interior|{s3}{***}
 menu_red_wedding_exterior|You arrive at The Twins.{***}
@@ -273,7 +273,7 @@ menu_brokenarm|You have reached the Broken Arm. A long spur of land that stretch
 menu_naggashill|You have come across Nagga's Ribs, the holiest place in the Iron Islands. Said to be built from the remains of the first sea dragon killed by the Grey King.{***}
 menu_oldstones|You discover the remnants of an ancient castle that once belonged to House Mudd. Its original name has long been lost though the local smallfolk have given it the new name, Oldstones.  {***}
 menu_tower_of_joy|You have arrived at the ruins of the Tower of Joy.{***}
-menu_cueva_odin|You arrive at a cave...{***}
+menu_cueva_odin|Vous arrivez dans une grotte ...
 menu_iniau_hideout|You arrive at the deep forest.{***}
 menu_quarry1|You arrive at a quarry.{***}
 mno_work_quarry|Je souhaite travailler dans la carrière {s1}.
@@ -289,14 +289,14 @@ menu_wolf_den|You arrive at a wolf den. It smells like something has died here r
 mno_enter_player_is_stark|Continue...{***}
 menu_giants_lair|You arrive at a lair. As you move closer you can start to hear noises, large thuds on the ground and huge roaring. Do you dare continue...{***}
 mno_enter_player_is_wildling|Continue...{***}
-menu_Crossroads_visit|You arrive at the Crossroads Inn, also sometimes called the Old Inn.{***}
+menu_Crossroads_visit|Vous arrivez à l'Auberge du carrefour (Crossroads Inn), également appelé parfois La Vieille Auberge (Old Inn).
 menu_test_scene|You enter the test scene.{***}
 mno_jump|Jump to scene{***}
-menu_dhorak_keep|You enter the Dhorak Keep{***}
+menu_dhorak_keep|Vous entrez dans le donjon de Dhorak.
 menu_join_siege_outside|{s1} has come under siege by {s2}.{***}
 mno_approach_besiegers|Approach the siege camp.{***}
 mno_pass_through_siege|Pass through the siege lines and enter {s1}.{***}
-menu_cut_siege_without_fight|The besiegers let you approach the gates without challenge.{***}
+menu_cut_siege_without_fight|Les assiégeants vous permettent d'approcher les portes sans problème.
 menu_besiegers_camp_with_allies|{s1} est toujours en état de siège, les bannières du {s2} flottent au-dessus du camp des assiégeants, où vos hommes et vous êtes les bienvenus.
 mno_talk_to_siege_commander|Request a meeting with the commander.{***}
 mno_change_commander_besiegers_camp_with_allies|Change commander(Current commander: {s7}).{***}
@@ -356,9 +356,9 @@ mno_build_battering_ram|Build a battering ram and equipment to prepare the assau
 menu_siege_attack_meets_sally|The defenders sally out to meet your assault.{***}
 menu_nofood_siege_defenders_sally|The lack of food forces the desperate defenders of {s4} to sally out in an attempt to break the siege.{***}
 menu_surrender_siege_defenders_starved|The defenders of {s4} can hold out no longer. Lack of food has debilitated them. Already the weakest have died of starvation, and in some cases, the need has led to cannibalism.^{s4} is ready to surrender...{***}
-menu_deer_herd|You encounter a herd of deer.{***}
+menu_deer_herd|Vous rencontrez un troupeau de cerf.
 mno_deer_kill|Hunt some of the animals.{***}
-menu_deer_herd_kill_end|You shouldn't be reading this.{***}
+menu_deer_herd_kill_end|Vous ne devriez pas lire ceci.
 menu_coat_herd|Vous rencontrez un troupeau de chèvre. Ils appartiennent au troupeau d'un pasteur qui tient sa fronde dans ses mains jusqu'à ce que vous vous éloigniez.
 menu_coatb_herd_kill_end|Vous ne devriez pas lire ceci.
 menu_coatb_herd|Vous rencontrez un troupeau de chèvre.
@@ -375,9 +375,9 @@ menu_wilddonkey_herd_kill_end|You shouldn't be reading this.{***}
 menu_castle_besiege_inner_battle|{s1}
 menu_build_mantles2|The mantlets help protect your men when they have to use assault equipment. They save many lives. As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build mantlets.{***}
 mno_build_mantles|Do it.{***}
-menu_construct_ladders|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build enough equipment for the assault.{***}
+menu_construct_ladders|En tant que membre du parti avec la compétence Ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estime} qu'il faudra {reg4} heures pour construire suffisamment d'équipement pour le siège.
 mno_build_ladders_cont|Do it.{***}
-menu_construct_siege_tower|As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower and other equipment for assault will take {reg4} hours.{***}
+menu_construct_siege_tower|En tant que membre du parti ayant la compétence Ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estime} que la construction d'une tour de siège et d'autres équipements pour l'assaut prendra {reg4} heures.
 mno_build_siege_tower_cont|Start building.{***}
 menu_battering_ram|En tant que membre du parti ayant la compétence ingénieur la plus élevée ({reg2}), {reg3?vous estimez: {s3} estime} que la construction d'un bélier et d'autres équipements pour l'assaut prendra {reg4} heures.
 mno_build_battering_ram_cont|Start building the battering ram.{***}
@@ -385,9 +385,10 @@ menu_castle_attack_walls_simulate|{s4}^^Vos pertes:{s8}^^Pertes ennemies: {s9}
 menu_castle_attack_walls_with_allies_simulate|{s4}^^Vos pertes: {s8}^^Pertes alliées: {s9}^^Pertes ennemies: {s10}
 menu_castle_attack_walls_simulate2|{s4}^^Vos pertes:{s8}^^Pertes ennemies: {s10}
 menu_sneak_into_town_suceeded2|Disguised and under the cover of darkness, you infiltrate {s4}. It's time to scout out their defenses.{***}
-menu_construct_saneamiento|Sanitation is important for preventing rats and disease. It is possible to construct latrines and pipelines to prevent the accumulation of mud and filth from the rain, and dig a reservoir to have an available water supply. Do you want to do it?^^Doing this will take 4 hours.{***}
+menu_construct_saneamiento|"
+L'assainissement est important pour prévenir les rats et les maladies. Il est possible de construire des latrines et des pipelines pour empêcher l'accumulation de boue et de la saleté provenant de la pluie et creuser une fosse pour assurer l'approvisionnement en eau. Voulez-vous le faire? ^^ Cela prendra 4 heures."
 mno_build_saneamiento|Do it.{***}
-menu_construct_circunvalation|Building defences protects your troops during the siege, helps to avoid some enemy skirmishers, and prevents the entry of food and reinforcements. It also lowers enemy's morale and helps you negotiate the surrender of the place.^^As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that building the defences will take {reg4} hours.{***}
+menu_construct_circunvalation|Construire des défenses protège vos troupes pendant le siège, aide à éviter certaines escarmouches ennemies contre votre camp et empêche l'entrée de nourriture et de renforts. Il diminue également le moral de l'ennemi et vous aide à négocier la reddition de l'ennemi. En tant que membre du parti ayant la compétence ingénieur la plus élevée ({reg2}), {reg3?Vous estimez: {s3} estimations} qu'il faudra {reg4} heures pour construire les défenses.
 mno_build_circun_cont|Do it.{***}
 menu_traicion_interna2|Your siege works begin to demoralize the defenders. Some of your soldiers are willing to contact the garrison or the inhabitants at {s4} and probe if someone would be willing to commit treason and facilitate the conquest. They need 500 stags for the job.{***}
 mno_intentar_traicion|Allow these men to seek out a traitor.{***}
@@ -917,7 +918,7 @@ mno_revolt_no_prisoners|No, I don't trust the prisoners.{***}
 menu_ask_desert|Voulez-vous déserter?
 mno_confirm_desert|Yes, this is pointless.{***}
 mno_reject_desert|No, I am loyal to my commander.{***}
-menu_desert|Whilst serving you've made some good friends. Some could possibly follow you.{***}
+menu_desert|Alors que vous faîtes votre service militaire, vous vous êtes fait de bons amis, dont certains pouraient vous suivre
 mno_desert_party|Try to convince them to follow you.{***}
 mno_desert_alone|No, I have a better chance alone.{***}
 menu_upgrade_path|In recognition of your excellent service, you have been promoted.{***}
@@ -928,7 +929,7 @@ mno_camp_build_watchtower|Build an Outpost. It costs 25000 Silver Stags to build
 mno_fort_rename|Rename your Outpost.{***}
 mno_camp_demolish_watchtower|Remove your Outpost. This will cost 5000 Silver Stags.{***}
 mno_camp_end_watchtower|Return to your camp.{***}
-menu_contratar_personal|Fortification Staff Recruitment Menu.{***}
+menu_contratar_personal|Menu de recrutement du personnel de fortification.
 mno_contratar_hoar|Hire a whore. This will cost you 1500 Silver Stags.{***}
 mno_despedir_hoar|Ask the whore to leave. You shall need to pay her 500 Silver Stags.{***}
 mno_hire_maester|Hire a maester. This will cost you 2000 Silver Stags.{***}
@@ -981,7 +982,7 @@ menu_sacrificio_3|As you thrust the sacrificial knife in the neck of the animal 
 menu_sacrificio_4|Digging into the intestines of the slaughtered animal you discover a silver pendant ring. A good omen. ^You're ready for battle.{***}
 menu_discurso_off|You also step forward and try to make condescending remarks, but it's not convincing, nerves betray you and are unable to articulate a single word.{***}
 mno_defendiendo_1|Back.{***}
-menu_discurso_1|You observe your troops and move between them. While speaking you look each man in the eye, seeking to convey the intensity of the moment:^^'From this day to the ending of the world, but we in it shall be remembered; We few, we brothers of bravery shall prevail; for anyone who sheds his blood with me today shall be my brother.'{***}
+menu_discurso_1|Vous observez vos troupes et vous déplacez entre elles. Tout en parlant, vous regardez chaque homme dans les yeux, cherchant à transmettre l'intensité du moment: «De ce jour à la fin du monde, nous en nous souviendrons; Nous avons peu. Nous, frères de la bravoure, nous l'emporterons; Car quiconque faisant couler son sang avec moi aujourd'hui sera mon frère.'
 menu_discurso_2|You observe your troops and move between them. While speaking you look each man in the eye, seeking to convey the intensity of the moment:^^'When the young men and beautiful women of your village ask you where you got your battle scars, you can tell them, 'under arms in the greatest army, with the greatest general the Known World has ever seen!'{***}
 menu_discurso_3|You observe your troops and move between them. While speaking you look each man in the eye, seeking to convey the intensity of the moment:^^'And to think that right now, across the Known lands, cowards and old men are herding their goats, tending their crops, toiling and sweating for nothing! Yet here we freemen stand, our own toil about to begin - our own sweat and blood poised to run - and for what? For honour! For glory! For your King!'{***}
 menu_discurso_4|You observe your troops and move between them. While speaking you look each man in the eye, seeking to convey the intensity of the moment:^^'From across the known world we have travelled to meet our destinies on this field of battle, in this moment in time. Long after we have all expired, men will sing our names in the songs of our greatness, found here in these fields!'{***}
@@ -990,7 +991,7 @@ menu_discurso_6|You observe your troops and move between them. While speaking yo
 menu_discurso_7|You observe your troops and move between them. While speaking you look each man in the eye, seeking to convey the intensity of the moment:^^'My friends!  Hear me!  Now is the day when the songs of our hearths are written with the blood of our foes! You are the free men! None can assault our lands and stand to tell the tale. The host before us is great, but they do not fight for their homes, but to plunder yours. They will fall! Ready your spears! Hold fast, and never yield! No man will yield his land or his glory to the cowards in the rabble before us. Fight! Die, but never yield! Never, never, never!'{***}
 menu_discurso_8|You observe your troops and move between them. While speaking you look each man in the eye, seeking to convey the intensity of the moment:^^'We stand before our enemy, ready for battle. Draw your sword! Hold your spear! This shield-wall is our home. Let us welcome our enemy! Let him come! Let the shield-walls fall! All that is needed is your own arm and your own heart. Within this shield-wall you stand, my brothers. I know that within the breast of each man here is a fire so bright that I wage these walls protect our foes and not us! Our doom will be glory! No man can take it unless you give it to him.'{***}
 menu_discurso_9|You observe the troops and move between them. While speaking you look each man in the eye, seeking to convey the intensity of the moment:^^'Come, men! Let us go forth and face our foe on the Field of Battle! With men like you, our shield-wall will never break or fall to those craven dogs who come against us here! Like the heroes of old, let us go and make the slaughter, every man a hero, every man a True Man! This day we will gut the ravens!'{***}
-menu_discurso_10|You observe the troops and move between them. While speaking you look each man in the eye, seeking to convey the intensity of the moment:^^'Remember your children and your wives. Remember your homes and your ancestors. Remember your gods and everything for which we fight today. We are here to build a better world! These men facing us know it, and fear our determination. They are so afraid to piss their pants and shake like leaves, unable to hold their spears.  Men! I am with you, with my sword and my shield, bleeding and sweating, proud to stand shoulder to shoulder with my Titans. Men! Fate awaits us, it's time to seize it!'{***}
+menu_discurso_10|Vous observez vos troupes et vous déplacez entre elles. Tout en parlant, vous regardez chaque homme dans les yeux, cherchant à transmettre l'intensité du moment: «Souvenez-vous de vos enfants et de vos femmes. Rappelez-vous vos maisons et vos ancêtres. Rappelez-vous vos dieux et tout ce dont nous luttons aujourd'hui. Nous sommes là pour construire un monde meilleur! Ces hommes qui nous font face le savent et craignent notre détermination. Ils ont tellement peur de pisser dans leurs pantalons et de trembler comme des feuilles, incapables de tenir leurs lances.  Messieurs ! Je suis avec vous, avec mon épée et mon bouclier, sanglant et transpirant, fier de se tenir côte à côte avec mes Titans. Messieurs ! Le destin nous attend, il est temps de le saisir!'.
 menu_discurso_11|You observe the troops and move between them. While speaking you look each man in the eye, seeking to convey the intensity of the moment:^^'Let us go out from this burning place into the open and stand up to our enemies. Who dies, he will be with our god. Who dies not, his name will be honoured. I will go first, and what I do, you do. And God is my witness, I will never leave you, my brothers and knights!'.{***}
 menu_discurso_12|You observe the troops and move between them. While speaking you look each man in the eye, seeking to convey the intensity of the moment:^^'The sun will set on our enemy this evening, and we will rise as rays of sun on a spring day. You may be nervous and trembling now, but your shaking hands is nothing compared to theirs. They are but autumn leaves in the wind, and we are the howling storm that will scatter them across the meadows, never to be seen again. Brandish your spears and be the thunder that topples their tree. This land is ours, these woods, these hills, these fields, and so it will be season after season, year after year, forever and forever!'{***}
 menu_viking_duel_win|The duel is over, and you have defeated {s1}. Bards will talk about your victory, and the fame of your feat will spread by the word of mouth.{***}
@@ -1007,10 +1008,10 @@ menu_refugee_recruit_troops12|Some widows and orphans would like to join you.{**
 menu_refugee_recruit_troops22|Nobody wants to join you.{***}
 menu_refugee_recruit_troops32|There are some shepherds and farmers interested in joining your army. They will cost 60 Stags.{***}
 menu_refugee_recruit_troops42|There's a Septon and some other men who worship the Seven interested in joining your army. They will cost 400 Stags.{***}
-menu_crossroads_recruit_troops12|A local Lord and his retinue are available for hire. You count 11 men in total costing 4000 Stags.{***}
-menu_crossroads_recruit_troops22|It seems nobody wants to join you.{***}
-menu_crossroads_recruit_troops32|There are some shepherds and farmers interested in joining your army. They will cost 60 Stags.{***}
-menu_crossroads_recruit_troops42|A local Lord and his retinue are available for hire. You count 16 mounted men in total costing 7000 Stags.{***}
+menu_crossroads_recruit_troops12|Un seigneur local et son escorte sont disponibles à la location. Vous comptez 11 hommes au total coûtant 4000 Cerfs.
+menu_crossroads_recruit_troops22|Il semble que personne ne souhaite vous rejoindre.
+menu_crossroads_recruit_troops32|Il y a des bergers et des agriculteurs intéressés à rejoindre votre armée. Ils coûteront 60 cerfs.
+menu_crossroads_recruit_troops42|Un seigneur local et son escorte sont disponibles à la location. Vous comptez 16 hommes à cheval au total coûtant 7000 cerfs.
 menu_notification_kingdom_restoration|Rebellion!!!^^ People of the defeated kingdom of {s13} have taken up their weapons and {s14} gets a fief from {s12}, {s13} is restored! Long live the King!{***}
 menu_dplmc_notification_alliance_declared|Alliance Agreement^^{s1} and {s2} have formed an alliance!^{s57}{***}
 mno_dplmc_continue|Continue...{***}
@@ -1336,9 +1337,9 @@ mno_choice_19_2b|Send all the men to protect that part of the circumvallation.{*
 mno_choice_19_3b|Do not worry. Our walls are strong.{***}
 menu_no_defendiendo|The enemy has overcome our defences and burned our small camps and checkpoints.^^Your casualties: {s8}^^Enemy casualties: {s10}{***}
 mno_defendiendo_1bnd|We must build the defences again.{***}
-menu_defendiendo_circunvallation|We have managed to repel the enemy, who returned to the protection of his walls...^^Your casualties: {s8}^^Enemy casualties: {s10}{***}
+menu_defendiendo_circunvallation|Nous avons réussi à repousser l'ennemi. Ils sont maintenant en sécurité dérrière leurs murs... ^^Vos pertes: {s8} ^^Les pertes ennemies : {s10}
 mno_defendiendo_1dcir|Well done.{***}
-menu_defendiendo_mal|Another group of enemies took advantage of our troops being here and set fire to another part of our defences.^^Your casualties: {s8}^^Enemy casualties: {s10}{***}
+menu_defendiendo_mal|Un autre groupe d'ennemis a profité de l'absence de nos troupes et a mis le feu à une autre partie de nos défenses.^^Vos pertes: {s8} ^^Les pertes ennemies : {s10}
 mno_defendiendo_1mal|Damn!{***}
 menu_event_siege_20|The enemy is trying to burn our assault equipment.^^Your casualties: {s8}^^Enemy casualties: {s10}{***}
 mno_choice_20_1b|Send some men while I take others to force them to withdraw.{***}
@@ -1346,9 +1347,9 @@ mno_choice_20_2b|Quickly. Send all men to protect the equipment.{***}
 mno_choice_20_3b|Do not worry. Our men will guard it.{***}
 menu_no_defendiendo_equip|The enemy has overcome our defences and burned down our equipment.^^Your casualties: {s8}^^Enemy casualties: {s10}{***}
 mno_defendiendo_1bnde|We must begin construction again.{***}
-menu_defendiendo_equip|We have managed to repel the enemy, who returned to the protection of his walls.^^Your casualties: {s8}^^Enemy casualties: {s10}{***}
+menu_defendiendo_equip|Nous avons réussi à repousser l'ennemi. Ils sont maintenant en sécurité dérrière leurs murs. ^^Vos pertes: {s8} ^^Les pertes ennemies : {s10}
 mno_defendiendo_1heq|Well done.{***}
-menu_defendiendo_mal_equip|Another group of enemies has surrounded our positions and burned down our siege equipment on the other side.^^Your casualties: {s8}^^Enemy casualties: {s10}{***}
+menu_defendiendo_mal_equip|Une autre vague d'ennemis a entouré nos positions et a brûlé tout notre équipement de siège. ^^ Vos pertes: {s8} ^^ Les pertes ennemies : {s10}
 mno_defendiendo_1vmal|Damn!{***}
 menu_event_siege_21|Your guards discovered several men trying to sneak out at night to escape your defences.{***}
 mno_choice_21_1b|Allow them to escape.{***}
@@ -1359,7 +1360,7 @@ mno_choice_22_1b|Send men to ambush the enemy in sheepskins.{***}
 mno_choice_22_2b|Do nothing.{***}
 menu_victoria_ovejas|Your soldiers surrounded the enemy in sheepskins and fell upon them by surprise, spreading death.^^Your casualties: {s8}^^Enemy casualties: {s10}{***}
 mno_defendiendo_1lovej|Perfect!{***}
-menu_derrota_ovejas|It's a trap! {reg59?Lady:Ser}, the men dressed in sheepskins were a decoy to bring out our men and ambush them. Many were killed before returning to the protection of our circumvallation.^^Your casualties: {s8}^^Enemy casualties: {s10}{***}
+menu_derrota_ovejas|C'est un piège! {reg59?Madame:Sire}, les hommes vêtus de peaux de mouton étaient un leurre pour faire sortir nos hommes et les mener dans un guet-apens. Beaucoup de nos hommes ont été tués avant de revenir derrière nos défenses. ^^ Vos pertes: {s8} ^^ Les pertes ennemies: {s10}
 mno_defendiendo_1poveja|That is terrible.{***}
 menu_tablas_ovejas|Your soldiers were deployed to surround the enemy, but they were too slow and noisy. The men in sheepskins sensed the threat and returned to the settlement quickly.{***}
 mno_defendiendo_1oveja2|Well, next time.{***}
