@@ -1,35 +1,35 @@
-p_burning_buildings|Si vous me voyez, veuillez rapporter le bug.
+ï»¿p_burning_buildings|Si vous me voyez, veuillez rapporter le bug.
 p_ship_colisions|Si vous me voyez, rapporter ce bug de collision.
 p_zendar|Zendar
-p_town_1|Goëville
+p_town_1|GoÃ«ville
 p_town_2|Kayce
 p_town_3|Tertre-Bourg
-p_town_4|Lancehélion
+p_town_4|LancehÃ©lion
 p_town_5|Vivesaigues
-p_town_6|Port-Réal
+p_town_6|Port-RÃ©al
 p_town_7|Pyke
 p_town_8|Winterfell
 p_town_9|Sortonne
 p_town_10|Port-Lannis
 p_town_11|Peyredragon
 p_town_12|Blanc Port
-p_town_13|Château Noir
-p_town_14|Viergétang
+p_town_13|ChÃ¢teau Noir
+p_town_14|ViergÃ©tang
 p_town_15|Herpivoie
 p_town_16|Tyrosh
 p_town_17|Myr
 p_town_18|Salins
 p_town_19|Lys
-p_town_20|Beaumarché
+p_town_20|BeaumarchÃ©
 p_town_21|La Treille
 p_town_22|Villevieille
-p_town_23|Cendregué
+p_town_23|CendreguÃ©
 p_town_24|Bourg-Cabanes
 p_town_25|Vaith
 p_town_26|Pentos
 p_town_27|Sombreval
 p_town_28|Accalmie
-p_town_29|Pierremoûtier
+p_town_29|PierremoÃ»tier
 p_town_30|Lorath
 p_town_31|Crocgivre
 p_town_32|Thenn
@@ -48,10 +48,10 @@ p_castle_2|Corneilla
 p_castle_3|La Veuve
 p_castle_4|Durlieu
 p_castle_5|Karhold
-p_castle_6|Châteauvieux
+p_castle_6|ChÃ¢teauvieux
 p_castle_7|Fort-Griseaux
-p_castle_8|Âtre-lès-Confins
-p_castle_9|Motte-la-Forêt
+p_castle_8|Ã‚tre-lÃ¨s-Confins
+p_castle_9|Motte-la-ForÃªt
 p_castle_10|Quart-Torrhen
 p_castle_11|Pouce-Flint
 p_castle_12|Moat Cailin
@@ -61,35 +61,35 @@ p_castle_15|Porte Sanglante
 p_castle_16|Forchant
 p_castle_17|Roches-aux-runes
 p_castle_18|Froideseaux
-p_castle_19|Chênes-en-fer
+p_castle_19|ChÃªnes-en-fer
 p_castle_20|Rougefort
 p_castle_21|Longarc
 p_castle_22|Poing des Premiers Hommes
-p_castle_23|Combemèche
-p_castle_24|Île-aux-Ours
+p_castle_23|CombemÃ¨che
+p_castle_24|ÃŽle-aux-Ours
 p_castle_25|Accalmie
-p_castle_26|La Vesprée
+p_castle_26|La VesprÃ©e
 p_castle_27|Castel-Cerwyn
-p_castle_28|Les Eyrié
+p_castle_28|Les EyriÃ©
 p_castle_29|Pointe-Vive
 p_castle_30|Danse-des-Pierres
 p_castle_31|Le Fenil
 p_castle_32|Les Bronzes
 p_castle_33|Felbois
-p_castle_34|La Griffonnière
+p_castle_34|La GriffonniÃ¨re
 p_castle_35|Nid de Corbeaux
 p_castle_36|Pierheaume
 p_castle_37|Bosquebrume
 p_castle_38|Rocvert
 p_castle_39|Les Jumeaux
-p_castle_40|Séréna
-p_castle_41|La Glandée
+p_castle_40|SÃ©rÃ©na
+p_castle_41|La GlandÃ©e
 p_castle_42|Mielbois
-p_castle_43|Château-Rosières
+p_castle_43|ChÃ¢teau-RosiÃ¨res
 p_castle_44|Corcolline
 p_castle_45|Longuetable
 p_castle_46|Herbeval
-p_castle_47|Boisdoré
+p_castle_47|BoisdorÃ©
 p_castle_48|Solfoyer
 p_castle_49|Vieux Rouvre
 p_castle_50|Haye-Pierre
@@ -105,7 +105,7 @@ p_castle_59|Dix-Tours
 p_castle_60|Cormartel
 p_castle_62|Holt de Fer
 p_castle_63|La Tombe-du-Roy
-p_castle_64|Météores
+p_castle_64|MÃ©tÃ©ores
 p_castle_65|Ferboys
 p_castle_66|Salrivage
 p_castle_67|Spectremont
@@ -113,7 +113,7 @@ p_castle_68|Boycitre
 p_castle_69|Donjon de Clegane
 p_castle_70|Noirmont
 p_castle_71|Denfert
-p_castle_72|Le Grès
+p_castle_72|Le GrÃ¨s
 p_castle_73|Touche-au-Ciel
 p_castle_74|Perche-Vautour
 p_castle_75|Havrenoir
@@ -128,9 +128,9 @@ p_castle_83|Antrecombe
 p_castle_84|Corval
 p_castle_85|Cendremarc
 p_castle_86|Falaise
-p_castle_87|Fléaufort
+p_castle_87|FlÃ©aufort
 p_castle_88|Rosby
-p_castle_89|Les Épois
+p_castle_89|Les Ã‰pois
 p_castle_90|Belcastel
 p_castle_91|Harrenhal
 p_castle_92|Feux-de-Joie
@@ -138,7 +138,7 @@ p_castle_93|Le Tor
 p_castle_94|Le Mur
 p_castle_95|Tour Ombreuse
 p_castle_96|Fort-Levant
-p_castle_98|Porte-Béline
+p_castle_98|Porte-BÃ©line
 p_castle_99|Corbois
 p_castle_100|Goyhan Drohe
 p_castle_101|Ny Sar
@@ -150,7 +150,7 @@ p_castle_105|Darry
 p_castle_106|Fawnton
 p_castle_107|Rooks Rest
 p_castle_108|Lamarck
-p_castle_109|Longuesœur
+p_castle_109|LonguesÅ“ur
 p_castle_110|Sarschamp
 p_castle_111|Lac Rouge
 p_castle_112|Castelpluie
@@ -285,31 +285,31 @@ p_village_110|Lowly Hall{***}
 p_village_111|Wineholt{***}
 p_village_112|Byrn
 p_village_113|Pont de pierre
-p_village_114|La route de l'Océan
-p_village_115|Prairie de Cendregué
+p_village_114|La route de l'OcÃ©an
+p_village_115|Prairie de CendreguÃ©
 p_village_116|Bois-la-Pluie
-p_village_117|Bouclier de Chêne
-p_village_118|Vue du Crépuscule
+p_village_117|Bouclier de ChÃªne
+p_village_118|Vue du CrÃ©puscule
 p_village_119|Cornhall
 p_village_120|Lonely Slo
-p_village_121|Fièvre
+p_village_121|FiÃ¨vre
 p_village_122|Ultime
 p_village_123|Port Pourpre
 p_village_124|Baie de Lorath
 p_village_125|Sorcefangier
 p_village_126|Marches de Dorne
-p_village_127|Village de pêcheurs
+p_village_127|Village de pÃªcheurs
 p_village_128|Vue du bouclier
 p_village_129|Le Sommet du Coq
 p_village_130|Culbute
-p_village_131|Petitesœur
+p_village_131|PetitesÅ“ur
 p_village_132|Claquepince
 p_village_133|Fool's Folly{***}
-p_village_134|Néra
+p_village_134|NÃ©ra
 p_village_135|Trident
 p_village_136|Bourgfaon
 p_village_137|Dale Head{***}
-p_village_138|Belle Île
+p_village_138|Belle ÃŽle
 p_village_139|Hard's Own{***}
 p_village_140|La route de la Rose
 p_village_141|Herndon{***}
@@ -351,62 +351,62 @@ p_village_176|Antler River{***}
 p_village_177|Storrold's Point{***}
 p_salt_mine|Mine d'Or
 p_iron_mine|Mine de Fer
-p_quarry1|Carrière
+p_quarry1|CarriÃ¨re
 p_four_ways_inn|L'auberge des quatres chemins
 p_test_scene|test scene
 p_battlefields|champs de bataille
 p_celidon_forest|Colline Creuse
-p_iniau_hideout|Bois Sacré
+p_iniau_hideout|Bois SacrÃ©
 p_hadrian_wall1|Mur d'Hadrien
 p_odin_cave|Grotte
-p_river_delta|Delta de la rivière
-p_quarry|Carrière
-p_desert_oasis|Oasis du désert
+p_river_delta|Delta de la riviÃ¨re
+p_quarry|CarriÃ¨re
+p_desert_oasis|Oasis du dÃ©sert
 p_swamps|Les marais
 p_wildling_farm|Ferme
 p_wildling_farm_safe|Ferme
 p_multi_indigo_cradle|Berceau
-p_multi_indigo_frontier|Frontière
+p_multi_indigo_frontier|FrontiÃ¨re
 p_of_multi_caravan_ambush|Embuscade de caravane
-p_of_multi_crezy|Passage de la forêt
+p_of_multi_crezy|Passage de la forÃªt
 p_of_multi_fjord|Fjord
 p_of_multi_hastings|Hastings
 p_of_multi_hot_gates|Hot Gates
 p_of_multi_mini_circles|Cercle
-p_of_multi_rock_valley|Vallée de pierre
+p_of_multi_rock_valley|VallÃ©e de pierre
 p_of_multi_small_ruins|ouvert
 p_of_multi_stone_circles|Cercles de pierre
 p_of_multi_thingvellir|Thingvellir
-p_battle_stones|Rangée de Pierre
+p_battle_stones|RangÃ©e de Pierre
 p_roman_fort|Forteresse romaine
 p_hadrian_wall|Mur d'Hadrien
 p_farmland|Terres agricoles
 p_stonemonumento|Monument de pierre
-p_forestbattle|Bataille de la forêt
+p_forestbattle|Bataille de la forÃªt
 p_multi_scene_dam_10|Dam
 p_dhorak_keep|Donjon Dhorak
-p_training_ground|Terrain d'entraînement
-p_training_ground_1|Terrain d'entraînement
-p_training_ground_2|Terrain d'entraînement
-p_training_ground_3|Terrain d'entraînement
-p_training_ground_4|Terrain d'entraînement
-p_training_ground_5|Terrain d'entraînement
-p_septry1|Monastère
-p_monasterio2|L'Auberge de la Croisée
-p_septry2|Monastère
-p_septry3|Monastère
-p_septry4|Monastère
-p_septry5|Monastère
-p_septry6|Monastère
-p_septry7|Monastère
-p_septry8|Monastère
-p_septry9|Monastère
+p_training_ground|Terrain d'entraÃ®nement
+p_training_ground_1|Terrain d'entraÃ®nement
+p_training_ground_2|Terrain d'entraÃ®nement
+p_training_ground_3|Terrain d'entraÃ®nement
+p_training_ground_4|Terrain d'entraÃ®nement
+p_training_ground_5|Terrain d'entraÃ®nement
+p_septry1|MonastÃ¨re
+p_monasterio2|L'Auberge de la CroisÃ©e
+p_septry2|MonastÃ¨re
+p_septry3|MonastÃ¨re
+p_septry4|MonastÃ¨re
+p_septry5|MonastÃ¨re
+p_septry6|MonastÃ¨re
+p_septry7|MonastÃ¨re
+p_septry8|MonastÃ¨re
+p_septry9|MonastÃ¨re
 p_yourlair|Campement
 p_outpost_1|Avant-poste
 p_outpost_2|Avant-poste
 p_fort|Fort
 p_ferry_1a|Port de Bosquebrume
-p_ferry_2a|Port de l'Île-aux-Ours
+p_ferry_2a|Port de l'ÃŽle-aux-Ours
 p_ferry_3a|Port de Redwyne
 p_ferry_4a|Port de Sorcefangier
 p_ferry_5a|Port de Griseffroy
@@ -414,56 +414,56 @@ p_ferry_6a|Port de Lamarck
 p_ferry_7a|Port
 p_ferry_8a|Port
 p_ferry_1b|Port de Dorne
-p_ferry_2b|Port de Motte-la-Forêt
+p_ferry_2b|Port de Motte-la-ForÃªt
 p_ferry_3b|Port-Ryam
 p_ferry_4b|Port de Harloi
 p_ferry_5b|Port
 p_ferry_6b|Port Point
 p_ferry_7b|Port
 p_ferry_8b|Port
-p_jetty_1|Port de La Vesprée
+p_jetty_1|Port de La VesprÃ©e
 p_jetty_2|Port de Vieux Rouvre
 p_jetty_3|Port de Vertepierre
 p_jetty_4|Port du Vieux Wyk
-p_jetty_5|Port de Belle Île
-p_jetty_6|Port de Longuesœur
-p_jetty_7|Port de Dolcesœur
+p_jetty_5|Port de Belle ÃŽle
+p_jetty_6|Port de LonguesÅ“ur
+p_jetty_7|Port de DolcesÅ“ur
 p_jetty_8d|Port naturel
 p_jetty_8h|Port naturel
 p_jetty_8i|Port naturel
 p_jetty_8j|Port naturel
 p_jetty_8k|Port naturel
 p_jetty_8l|Port de Fort-Levant
-p_jetty_9|Port de la Côte d'Orange
+p_jetty_9|Port de la CÃ´te d'Orange
 p_jetty_10|Port de Grimston Harbour
-p_jetty_11|Port d'Oakenshield
+"p_jetty_11|""Port d'Oakenshield """
 p_jetty_12|Port de Bouclier Gris
 p_jetty_13|Port de Holt de Fer
 p_jetty_14|Port d'Orkmont
-p_jetty_15|Port de Noirmarées
+p_jetty_15|Port de NoirmarÃ©es
 p_jetty_16|Port de Pince-Isle
 p_jetty_17|Port de Repos-des-Freux
 p_jetty_18|Port de Pouce-Flint
 p_jetty_8|Port de Harloi
 p_jetty_8b|Port de Sorcefangier
 p_jetty_8c|Port de Bosquebrume
-p_jetty_8e|Port de l'Île-aux-Ours
-p_jetty_8f|Port de Motte-la-Forêt
+p_jetty_8e|Port de l'ÃŽle-aux-Ours
+p_jetty_8f|Port de Motte-la-ForÃªt
 p_jetty_8g|Port Point
 p_jetty_8m|Port de Lamarck
-p_inn_of_the_kneeling_man|Auberge de l'Homme à genoux
+p_inn_of_the_kneeling_man|Auberge de l'Homme Ã  genoux
 p_old_stone_bridge|Le vieux pont de pierre
-p_ruined_castle|Château ruiné
+p_ruined_castle|ChÃ¢teau ruinÃ©
 p_crasters_keep|Manoir de Craster
 p_queenscrown|Reine-Couronne
 p_illyrios_manse|Maison d'Illyrio
-p_the_bridge_of_skulls|Le Pont des Crânes
+p_the_bridge_of_skulls|Le Pont des CrÃ¢nes
 p_the_titan|Le Titan
 p_tower_of_joy|Tour de la Joie
-p_shandystone|Roche Panachée
+p_shandystone|Roche PanachÃ©e
 p_boneway|Les Osseux
-p_brokenarm|Le Bras Cassé
-p_naggashill|Les côtes de Nagga
+p_brokenarm|Le Bras CassÃ©
+p_naggashill|Les cÃ´tes de Nagga
 p_oldstones|Vieilles-Pierres
 p_wolf_den|Wolf Den{***}
 p_giants_lair|Giants Lair{***}
@@ -483,9 +483,9 @@ p_northern_clansmen_spawn_point7|Les Montagnes
 p_northern_clansmen_spawn_point8|Les Montagnes
 p_westeros_raiders_spawn_point|the tundra{***}
 p_westeros_raiders_spawn_point2|the tundra{***}
-p_sea_raider_spawn_point|la côte
-p_ironborn_raiders_spawn_point|et cherchent à attaquer
-p_pirates_spawn_point|et cherchent à attaquer
+p_sea_raider_spawn_point|la cÃ´te
+p_ironborn_raiders_spawn_point|et cherchent Ã  attaquer
+p_pirates_spawn_point|et cherchent Ã  attaquer
 p_hill_tribesman_spawn_point|Camp des Clans des montagnes de la Lune
 p_black_ears_spawn_point|Les Montagnes
 p_sons_of_the_mist_spawn_point|Les Montagnes
@@ -496,10 +496,10 @@ p_whitewalkers_spawn_point_3|Marcheurs Blancs
 p_whitewalkers_spawn_point_4|Marcheurs Blancs
 p_slavers_spawn_point|cherchent des esclaves
 p_essos_raiders_spawn_point|the plains
-p_exiled_knight_spawn_point|Camp des chevaliers exilés
+p_exiled_knight_spawn_point|Camp des chevaliers exilÃ©s
 p_windblown_spawn_point|The Windblown{***}
 p_wild_hares_spawn_point|The Wild Hares{***}
-p_second_sons_spawn_point|Les Puînés
+p_second_sons_spawn_point|Les PuÃ®nÃ©s
 p_stormcrows_spawn_point|Les Corbeaux Tornade
 p_dagger_lake_pirates_1_spawn_point|Urho l'Infect
 p_dagger_lake_pirates_2_spawn_point|Korra la Cruelle
@@ -524,8 +524,8 @@ p_ff_raiders1|ff raiding party{***}
 p_ff_raiders2|ff raiding party{***}
 p_ship_pirates_spawn_point|Pirates
 p_sea_raiders_Spawn_point|Pirates
-p_ship_ironborn_raiders|Pirates Fer-nés
-p_landing_point|point de débarquement
+p_ship_ironborn_raiders|Pirates Fer-nÃ©s
+p_landing_point|point de dÃ©barquement
 p_transporter|Transporteur
 p_troop_camp_1|Quartiers des troupes
 p_troop_camp_2|Quartiers des troupes
