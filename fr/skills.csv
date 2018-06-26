@@ -1,84 +1,84 @@
-skl_trade|Marchandage
-skl_trade_desc|Chaque niveau de cette compétence vous offre un bonus de commerce de 5%%. (Compétence de groupe)
+ï»¿skl_trade|Marchandage
+skl_trade_desc|Chaque niveau de cette compÃ©tence vous offre un bonus de commerce de 5%%. (CompÃ©tence de groupe)
 skl_leadership|Commandement
-skl_leadership_desc|Chaque point augmente le nombre maximum de soldats que vous pouvez commander de 5, augmente le moral du groupe et diminue la solde des troupes de 5%%. (Compétence de commandant)
+skl_leadership_desc|Chaque point augmente le nombre maximum de soldats que vous pouvez commander de 5, augmente le moral du groupe et diminue la solde des troupes de 5%%. (CompÃ©tence de commandant)
 skl_prisoner_management|Gestion prisonniers
-skl_prisoner_management_desc|Chaque niveau de cette compétence augmente le nombre maximum de prisonniers de 10 et réduit les chances que les seigneurs emprisonnés s'échappent de 2%%. Chance que les seigneurs s'échappent chaque semaine : 30%% si retenu dans le groupe, 15%% si retenu dans une ville/un château, 5% si retenu dans une ville/un château avec une prison (Compétence de commandant)
+skl_prisoner_management_desc|Chaque niveau de cette compÃ©tence augmente le nombre maximum de prisonniers de 10 et rÃ©duit les chances que les seigneurs emprisonnÃ©s s'Ã©chappent de 2%%. Chance que les seigneurs s'Ã©chappent chaque semaine : 30%% si retenu dans le groupe, 15%% si retenu dans une ville/un chÃ¢teau, 5% si retenu dans une ville/un chÃ¢teau avec une prison (CompÃ©tence de commandant)
 skl_entertain|Divertissement
-skl_entertain_desc|Chaque jour, chaque héros avec cette compétence augmente le morale du groupe. Cela vous aide également pour mendier ou jouer sur scène. Amenez cette compétence au dessus de 10 et vous deviendrez le prochain barde sensationnel ! (Compétence personnelle)
-skl_reserved_2|Compétence réservée 2
-skl_reserved_2_desc|Cette compétence est réservée.
-skl_reserved_3|Compétence réservée 3
-skl_reserved_3_desc|Cette compétence est réservée.
-skl_reserved_4|Compétence réservée 4
-skl_reserved_4_desc|Cette compétence est réservée.
+skl_entertain_desc|Chaque jour, chaque hÃ©ros avec cette compÃ©tence augmente le morale du groupe. Cela vous aide Ã©galement pour mendier ou jouer sur scÃ¨ne. Amenez cette compÃ©tence au dessus de 10 et vous deviendrez le prochain barde sensationnel ! (CompÃ©tence personnelle)
+skl_reserved_2|CompÃ©tence rÃ©servÃ©e 2
+skl_reserved_2_desc|Cette compÃ©tence est rÃ©servÃ©e.
+skl_reserved_3|CompÃ©tence rÃ©servÃ©e 3
+skl_reserved_3_desc|Cette compÃ©tence est rÃ©servÃ©e.
+skl_reserved_4|CompÃ©tence rÃ©servÃ©e 4
+skl_reserved_4_desc|Cette compÃ©tence est rÃ©servÃ©e.
 skl_persuasion|Persuasion
-skl_persuasion_desc|Cette compétence permet d'imposer son point de vue à autrui. Augmente la capacité de négocier l'abandon durnat les sièges. Chaque point augmente le nombre de troupes recrutable depuis les villages de 1 et réduit le prix de chaque villageois recruté de 1 Cerf d'argent. Augmente le nombre de provisions que les villageois vous remette lors des pillages de 3%. (Compétence personnelle)
-skl_engineer|Ingénierie
-skl_engineer_desc|Cette compétence vous permet de construire des équipements de siège et d'aménager vos fiefs plus efficacement. (Compétence de groupe)
+skl_persuasion_desc|Cette compÃ©tence permet d'imposer son point de vue Ã  autrui. Augmente la capacitÃ© de nÃ©gocier l'abandon durnat les siÃ¨ges. Chaque point augmente le nombre de troupes recrutable depuis les villages de 1 et rÃ©duit le prix de chaque villageois recrutÃ© de 1 Cerf d'argent. Augmente le nombre de provisions que les villageois vous remette lors des pillages de 3%. (CompÃ©tence personnelle)
+skl_engineer|IngÃ©nierie
+skl_engineer_desc|Cette compÃ©tence vous permet de construire des Ã©quipements de siÃ¨ge et d'amÃ©nager vos fiefs plus efficacement. (CompÃ©tence de groupe)
 skl_first_aid|Premiers soins
-skl_first_aid_desc|Les héros récupèrent 5%% des points de vie perdus au cours de la bataille par niveau de compétence. (Compétence de groupe)
+skl_first_aid_desc|Les hÃ©ros rÃ©cupÃ¨rent 5%% des points de vie perdus au cours de la bataille par niveau de compÃ©tence. (CompÃ©tence de groupe)
 skl_surgery|Chirurgie
-skl_surgery_desc|Les chances qu'un soldat survive à un coup mortel sont augmentées de 4%% par niveau de compétence. (Compétence de groupe)
-skl_wound_treatment|Guérison
-skl_wound_treatment_desc|La vitesse de guérison du groupe est augmentée de 20%% par niveau de compétence. De plus, chaque point augmente la probabilité que les blesssures profondes guérissent mieux de 5 %%. (Compétence de groupe)
+skl_surgery_desc|Les chances qu'un soldat survive Ã  un coup mortel sont augmentÃ©es de 4%% par niveau de compÃ©tence. (CompÃ©tence de groupe)
+skl_wound_treatment|GuÃ©rison
+skl_wound_treatment_desc|La vitesse de guÃ©rison du groupe est augmentÃ©e de 20%% par niveau de compÃ©tence. De plus, chaque point augmente la probabilitÃ© que les blesssures profondes guÃ©rissent mieux de 5 %%. (CompÃ©tence de groupe)
 skl_inventory_management|Gestion inventaire
-skl_inventory_management_desc|Augmente la capacité de l'inventaire de 6 cases par niveau de compétence. (Compétence de commandant)
-skl_spotting|Repérage
-skl_spotting_desc|La distance de vision du groupe est augmentée de 10%% par niveau de compétence. (Compétence de groupe)
-skl_pathfinding|Déplacement
-skl_pathfinding_desc|La vitesse de voyage sur la carte est augmentée de 3%% par niveau de compétence. (Compétence de groupe)
+skl_inventory_management_desc|Augmente la capacitÃ© de l'inventaire de 6 cases par niveau de compÃ©tence. (CompÃ©tence de commandant)
+skl_spotting|RepÃ©rage
+skl_spotting_desc|La distance de vision du groupe est augmentÃ©e de 10%% par niveau de compÃ©tence. (CompÃ©tence de groupe)
+skl_pathfinding|DÃ©placement
+skl_pathfinding_desc|La vitesse de voyage sur la carte est augmentÃ©e de 3%% par niveau de compÃ©tence. (CompÃ©tence de groupe)
 skl_tactics|Tactique
-skl_tactics_desc|Tous les deux niveaux de compétence, l'avantage tactique du groupe augmente d'un point. (Compétence de groupe)
+skl_tactics_desc|Tous les deux niveaux de compÃ©tence, l'avantage tactique du groupe augmente d'un point. (CompÃ©tence de groupe)
 skl_tracking|Pistage
-skl_tracking_desc|Les empreintes révèlent plus d'informations, et sont visibles plus longtemps. (Compétence de groupe)
+skl_tracking_desc|Les empreintes rÃ©vÃ¨lent plus d'informations, et sont visibles plus longtemps. (CompÃ©tence de groupe)
 skl_trainer|Mentor
-skl_trainer_desc|Chaque jour, chaque héros avec cette compétence ajoute de l'expérience à tous les autres membres du groupe dont le niveau est inférieur au leur. L'expérience gagnée augmente ainsi : 0, 4, 10, 16, 23, 30, 38, 46, 55, 65, 80. (Compétence personnelle)
+skl_trainer_desc|Chaque jour, chaque hÃ©ros avec cette compÃ©tence ajoute de l'expÃ©rience Ã  tous les autres membres du groupe dont le niveau est infÃ©rieur au leur. L'expÃ©rience gagnÃ©e augmente ainsi : 0, 4, 10, 16, 23, 30, 38, 46, 55, 65, 80. (CompÃ©tence personnelle)
 skl_navigating|Navigation
-skl_navigating_desc|Chaque point investi dans cette compétence augmente la rapidité de votre navire de 3%%. Fournit aussi des avantages dans le combat naval. (Compétence de groupe)
+skl_navigating_desc|Chaque point investi dans cette compÃ©tence augmente la rapiditÃ© de votre navire de 3%%. Fournit aussi des avantages dans le combat naval. (CompÃ©tence de groupe)
 skl_sailing_master|Roi des mers
-skl_sailing_master_desc|Chaque point augmente le maximum de navires que vous pouvez commander. (Compétence de commandant)
-skl_reserved_7|Compétence réservée 7
-skl_reserved_7_desc|Cette compétence est réservée.
+skl_sailing_master_desc|Chaque point augmente le maximum de navires que vous pouvez commander. (CompÃ©tence de commandant)
+skl_reserved_7|CompÃ©tence rÃ©servÃ©e 7
+skl_reserved_7_desc|Cette compÃ©tence est rÃ©servÃ©e.
 skl_foraging|Provisions
-skl_foraging_desc|Permet au groupe d'obtenir 5 produits alimentaires par niveau de compétence (campement, siège, pillage) et d'accroître sa quête de nourriture (Compétence de groupe)
+skl_foraging_desc|Permet au groupe d'obtenir 5 produits alimentaires par niveau de compÃ©tence (campement, siÃ¨ge, pillage) et d'accroÃ®tre sa quÃªte de nourriture (CompÃ©tence de groupe)
 skl_looting|Pillage
-skl_looting_desc|Cette compétence augmente le butin obtenu de 10%% par niveau de compétence. (Compétence de groupe)
-skl_horse_archery|Archerie montée
-skl_horse_archery_desc|Réduit les pénalités de dégâts et de précision lors de l'utilisation en selle d'une arme à distance. Niveau max : 8 (Compétence personnelle)
-skl_riding|Équitation
-skl_riding_desc|Permet de monter des chevaux plus fougueux et augmente la vitesse et la manoeuvrabilité de la monture. (Compétence personnelle)
-skl_athletics|Athlétisme
-skl_athletics_desc|Augmente la vitesse de course. Si vous avez une armure lourde, vous serez plus lent. Niveau max 10 (Compétence personnelle)
+skl_looting_desc|Cette compÃ©tence augmente le butin obtenu de 10%% par niveau de compÃ©tence. (CompÃ©tence de groupe)
+skl_horse_archery|Archerie montÃ©e
+skl_horse_archery_desc|RÃ©duit les pÃ©nalitÃ©s de dÃ©gÃ¢ts et de prÃ©cision lors de l'utilisation en selle d'une arme Ã  distance. Niveau max : 8 (CompÃ©tence personnelle)
+skl_riding|Ã‰quitation
+skl_riding_desc|Permet de monter des chevaux plus fougueux et augmente la vitesse et la manoeuvrabilitÃ© de la monture. (CompÃ©tence personnelle)
+skl_athletics|AthlÃ©tisme
+skl_athletics_desc|Augmente la vitesse de course. Si vous avez une armure lourde, vous serez plus lent. Niveau max 10 (CompÃ©tence personnelle)
 skl_shield|Bouclier
-skl_shield_desc|Réduit les dégâts infligés aux boucliers de 8%% par niveau de compétence et améliore la surface couverte par le bouclier ainsi que sa vitesse. (Compétence personnelle)
-skl_weapon_master|Maître d'armes
-skl_weapon_master_desc|Rend l'apprentissage des maîtrises d'armes plus facile et en augmente les limites de maîtrise. Les limites augmentent ainsi : 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. Augmente également la durabilité de vos armes. (Compétence personnelle)
-skl_reserved_9|Compétence réservée 9
-skl_reserved_9_desc|Cette compétence est réservée.
-skl_reserved_10|Compétence réservée 10
-skl_reserved_10_desc|Cette compétence est réservée.
-skl_reserved_11|Compétence réservée 11
-skl_reserved_11_desc|Cette compétence est réservée.
-skl_reserved_12|Compétence réservée 12
-skl_reserved_12_desc|Cette compétence est réservée.
-skl_reserved_13|Compétence réservée 13
-skl_reserved_13_desc|Cette compétence est réservée.
+skl_shield_desc|RÃ©duit les dÃ©gÃ¢ts infligÃ©s aux boucliers de 8%% par niveau de compÃ©tence et amÃ©liore la surface couverte par le bouclier ainsi que sa vitesse. (CompÃ©tence personnelle)
+skl_weapon_master|MaÃ®tre d'armes
+skl_weapon_master_desc|Rend l'apprentissage des maÃ®trises d'armes plus facile et en augmente les limites de maÃ®trise. Les limites augmentent ainsi : 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. Augmente Ã©galement la durabilitÃ© de vos armes. (CompÃ©tence personnelle)
+skl_reserved_9|CompÃ©tence rÃ©servÃ©e 9
+skl_reserved_9_desc|Cette compÃ©tence est rÃ©servÃ©e.
+skl_reserved_10|CompÃ©tence rÃ©servÃ©e 10
+skl_reserved_10_desc|Cette compÃ©tence est rÃ©servÃ©e.
+skl_reserved_11|CompÃ©tence rÃ©servÃ©e 11
+skl_reserved_11_desc|Cette compÃ©tence est rÃ©servÃ©e.
+skl_reserved_12|CompÃ©tence rÃ©servÃ©e 12
+skl_reserved_12_desc|Cette compÃ©tence est rÃ©servÃ©e.
+skl_reserved_13|CompÃ©tence rÃ©servÃ©e 13
+skl_reserved_13_desc|Cette compÃ©tence est rÃ©servÃ©e.
 skl_power_draw|Puissance de tension
-skl_power_draw_desc|Permet au personnage d'utiliser des arcs plus puissants. Chaque point investi dans cette compétence (jusqu'à 4 en plus du prérequis en puissance de tension de l'arc) augmente les dégâts infligés par l'arc de 14%%. (Compétence personnelle)
+skl_power_draw_desc|Permet au personnage d'utiliser des arcs plus puissants. Chaque point investi dans cette compÃ©tence (jusqu'Ã  4 en plus du prÃ©requis en puissance de tension de l'arc) augmente les dÃ©gÃ¢ts infligÃ©s par l'arc de 14%%. (CompÃ©tence personnelle)
 skl_power_throw|Puissance de jet
-skl_power_throw_desc|Chaque point investi dans cette compétence augmente les dégâts des armes de jet de 10%%. (Compétence personnelle)
+skl_power_throw_desc|Chaque point investi dans cette compÃ©tence augmente les dÃ©gÃ¢ts des armes de jet de 10%%. (CompÃ©tence personnelle)
 skl_power_strike|Puissance de frappe
-skl_power_strike_desc|Chaque point investi dans cette compétence augmente les dégâts au corps-à-corps de 8%%. (Compétence personnelle)
+skl_power_strike_desc|Chaque point investi dans cette compÃ©tence augmente les dÃ©gÃ¢ts au corps-Ã -corps de 8%%. (CompÃ©tence personnelle)
 skl_ironflesh|Vigueur
-skl_ironflesh_desc|Chaque point investi dans cette compétence augmente les points de vie de 2. (Compétence personnelle)
-skl_reserved_14|Compétence réservée 14
-skl_reserved_14_desc|Cette compétence est réservée.
-skl_reserved_15|Compétence réservée 15
-skl_reserved_15_desc|Cette compétence est réservée.
-skl_reserved_16|Compétence réservée 16
-skl_reserved_16_desc|Cette compétence est réservée.
-skl_reserved_17|Compétence réservée 17
-skl_reserved_17_desc|Cette compétence est réservée.
-skl_reserved_18|Compétence réservée 18
-skl_reserved_18_desc|Cette compétence est réservée.
+skl_ironflesh_desc|Chaque point investi dans cette compÃ©tence augmente les points de vie de 2. (CompÃ©tence personnelle)
+skl_reserved_14|CompÃ©tence rÃ©servÃ©e 14
+skl_reserved_14_desc|Cette compÃ©tence est rÃ©servÃ©e.
+skl_reserved_15|CompÃ©tence rÃ©servÃ©e 15
+skl_reserved_15_desc|Cette compÃ©tence est rÃ©servÃ©e.
+skl_reserved_16|CompÃ©tence rÃ©servÃ©e 16
+skl_reserved_16_desc|Cette compÃ©tence est rÃ©servÃ©e.
+skl_reserved_17|CompÃ©tence rÃ©servÃ©e 17
+skl_reserved_17_desc|Cette compÃ©tence est rÃ©servÃ©e.
+skl_reserved_18|CompÃ©tence rÃ©servÃ©e 18
+skl_reserved_18_desc|Cette compÃ©tence est rÃ©servÃ©e.
