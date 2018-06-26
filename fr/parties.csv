@@ -1,37 +1,37 @@
 p_burning_buildings|If you see me, report the fire bug.{***}
 p_ship_colisions|If you see me, report the colision bug.{***}
-p_zendar|Zendar{***}
-p_town_1|Gulltown{***}
-p_town_2|Kayce{***}
-p_town_3|Barrowton{***}
-p_town_4|Sunspear{***}
-p_town_5|Riverrun{***}
-p_town_6|King's Landing{***}
-p_town_7|Lordsport{***}
-p_town_8|Winterfell{***}
-p_town_9|Sisterton{***}
-p_town_10|Lannisport{***}
-p_town_11|Dragonstone{***}
-p_town_12|White Harbour{***}
-p_town_13|Castle Black{***}
-p_town_14|Maidenpool{***}
-p_town_15|Lord Harroway's Town{***}
-p_town_16|Tyrosh{***}
-p_town_17|Myr{***}
-p_town_18|Saltpans{***}
-p_town_19|Lys{***}
-p_town_20|Fairmarket{***}
-p_town_21|The Arbor{***}
-p_town_22|Oldtown{***}
-p_town_23|Ashford{***}
-p_town_24|Planky Town{***}
-p_town_25|Vaith{***}
-p_town_26|Pentos{***}
-p_town_27|Duskendale{***}
+p_zendar|Zendar
+p_town_1|Goëville
+p_town_2|Kayce
+p_town_3|Tertre-Bourg
+p_town_4|Lancehélion
+p_town_5|Vivesaigues
+p_town_6|Port-Réal
+p_town_7|Pyke
+p_town_8|Winterfell
+p_town_9|Sortonne
+p_town_10|Port-Lannis
+p_town_11|Peyredragon
+p_town_12|Blanc Port
+p_town_13|Château Noir
+p_town_14|Viergétang
+p_town_15|Herpivoie
+p_town_16|Tyrosh
+p_town_17|Myr
+p_town_18|Salins
+p_town_19|Lys
+p_town_20|Beaumarché
+p_town_21|La Treille
+p_town_22|Villevieille
+p_town_23|Cendregué
+p_town_24|Bourg-Cabanes
+p_town_25|Vaith
+p_town_26|Pentos
+p_town_27|Sombreval
 p_town_28|Storms End{***}
-p_town_29|Stoney Sept{***}
+p_town_29|Pierremoûtier
 p_town_30|Lorath{***}
-p_town_31|Frostfang's Camp{***}
+p_town_31|Crocgivre
 p_town_32|Thenn{***}
 p_town_33|Norvos{***}
 p_town_34|Ashefa Athaozar{***}
@@ -40,123 +40,123 @@ p_town_36|Volantis{***}
 p_town_37|Volon Therys{***}
 p_town_38|Valysar{***}
 p_town_39|Selhorys{***}
-p_town_40|Weeping Town{***}
-p_town_41|Highgarden{***}
-p_town_42|Braavos{***}
-p_castle_1|The Dreadfort{***}
-p_castle_2|Raventree Hall{***}
-p_castle_3|Widows Watch{***}
-p_castle_4|Hardhome{***}
+p_town_40|Ville-en-Pleurs
+p_town_41|Hautjardin
+p_town_42|Braavos
+p_castle_1|Fort-Terreur
+p_castle_2|Corneilla
+p_castle_3|La Veuve
+p_castle_4|Durlieu
 p_castle_5|Karhold{***}
-p_castle_6|Old Castle{***}
-p_castle_7|Greywater Watch{***}
-p_castle_8|Last Hearth{***}
-p_castle_9|Deepwood Motte{***}
-p_castle_10|Torrhens Square{***}
+p_castle_6|Châteauvieux
+p_castle_7|Fort-Griseaux
+p_castle_8|Âtre-lès-Confins
+p_castle_9|Motte-la-Forêt
+p_castle_10|Quart-Torrhen
 p_castle_11|Flint's Finger{***}
 p_castle_12|Moat Cailin{***}
 p_castle_13|Wyl{***}
-p_castle_14|Hearts Home{***}
-p_castle_15|The Bloody Gate{***}
-p_castle_16|Strongsong{***}
-p_castle_17|Runestone{***}
-p_castle_18|Coldwater{***}
-p_castle_19|Ironoaks{***}
-p_castle_20|Redfort{***}
+p_castle_14|Cordial
+p_castle_15|Porte Sanglante
+p_castle_16|Forchant
+p_castle_17|Roches-aux-runes
+p_castle_18|Froideseaux
+p_castle_19|Chênes-en-fer
+p_castle_20|Rougefort
 p_castle_21|Longbow Hall{***}
-p_castle_22|Fist of the First Men{***}
+p_castle_22|Poing des Premiers Hommes
 p_castle_23|Wickenden{***}
-p_castle_24|Bear Island{***}
-p_castle_25|Pyke{***}
-p_castle_26|Evenfall Hall{***}
+p_castle_24|Île-aux-Ours
+p_castle_25|Accalmie
+p_castle_26|La Vesprée
 p_castle_27|Cerwyn{***}
-p_castle_28|The Eyrie{***}
-p_castle_29|Sharp Point{***}
+p_castle_28|Les Eyrié
+p_castle_29|Pointe-Vive
 p_castle_30|Stonedance{***}
 p_castle_31|Haystack Hall{***}
 p_castle_32|Bronzegate{***}
 p_castle_33|Felwood{***}
-p_castle_34|Griffin's Roost{***}
-p_castle_35|Crow's Nest{***}
-p_castle_36|Stonehelm{***}
-p_castle_37|Mistwood{***}
-p_castle_38|Greenstone{***}
-p_castle_39|The Twins{***}
-p_castle_40|Nightsong{***}
-p_castle_41|Acorn Hall{***}
+p_castle_34|La Griffonnière
+p_castle_35|Nid de Corbeaux
+p_castle_36|Pierheaume
+p_castle_37|Bosquebrume
+p_castle_38|Rocvert
+p_castle_39|Les Jumeaux
+p_castle_40|Séréna
+p_castle_41|La Glandée
 p_castle_42|Honeyholt{***}
-p_castle_43|Pinkmaiden{***}
-p_castle_44|Horn Hill{***}
+p_castle_43|Château-Rosières
+p_castle_44|Corcolline
 p_castle_45|Longtable{***}
 p_castle_46|Grassy Vale{***}
-p_castle_47|Golden Grove{***}
+p_castle_47|Boisdoré
 p_castle_48|Sunhouse{***}
-p_castle_49|Old Oak{***}
-p_castle_50|Stone Hedge{***}
-p_castle_51|Three Towers{***}
-p_castle_52|Uplands{***}
+p_castle_49|Vieux Rouvre
+p_castle_50|Haye-Pierre
+p_castle_51|Trois Tours
+p_castle_52|Hautes Terres
 p_castle_53|Blackcrown{***}
 p_castle_54|Bandallon{***}
-p_castle_55|Brightwater Keep{***}
-p_castle_56|Bitterbridge{***}
+p_castle_55|Rubriant
+p_castle_56|Pont-l'Amer
 p_castle_57|Cider Hall{***}
 p_castle_58|Tumbleton{***}
-p_castle_59|Ten Towers{***}
-p_castle_60|Hammerhorn{***}
+p_castle_59|Dix-Tours
+p_castle_60|Cormartel
 p_castle_62|Iron Holt{***}
 p_castle_63|Kingsgrave{***}
-p_castle_64|Starfall{***}
-p_castle_65|Yronwood{***}
-p_castle_66|Salt Shore{***}
-p_castle_67|Ghost Hill{***}
-p_castle_68|Lemonwood{***}
-p_castle_69|Clegane's Keep{***}
-p_castle_70|Blackmont{***}
-p_castle_71|Hellholt{***}
-p_castle_72|Sandstone{***}
-p_castle_73|Skyreach{***}
-p_castle_74|Vultures Roost{***}
-p_castle_75|Blackhaven{***}
-p_castle_76|Ghaston Grey{***}
-p_castle_77|High Hermitage{***}
-p_castle_78|Casterly Rock{***}
-p_castle_79|Golden Tooth{***}
+p_castle_64|Météores
+p_castle_65|Ferboys
+p_castle_66|Salrivage
+p_castle_67|Spectremont
+p_castle_68|Boycitre
+p_castle_69|Donjon de Clegane
+p_castle_70|Noirmont
+p_castle_71|Denfert
+p_castle_72|Le Grès
+p_castle_73|Touche-au-Ciel
+p_castle_74|Perche-Vautour
+p_castle_75|Havrenoir
+p_castle_76|Griseffroy
+p_castle_77|Haut Hermitage
+p_castle_78|Castral Roc
+p_castle_79|La Dent d'Or
 p_castle_80|Crakehall{***}
 p_castle_81|Cornfield{***}
 p_castle_82|Silver Hall{***}
 p_castle_83|Deep Den{***}
-p_castle_84|Hornvale{***}
-p_castle_85|Ashemark{***}
-p_castle_86|The Crag{***}
-p_castle_87|Banefort{***}
+p_castle_84|Corval
+p_castle_85|Cendremarc
+p_castle_86|Falaise
+p_castle_87|Fléaufort
 p_castle_88|Rosby{***}
 p_castle_89|Antlers{***}
-p_castle_90|Faircastle{***}
+p_castle_90|Belcastel
 p_castle_91|Harrenhal{***}
-p_castle_92|Feastfires{***}
+p_castle_92|Feux-de-Joie
 p_castle_93|The Tor{***}
-p_castle_94|The Wall{***}
-p_castle_95|Shadow Tower{***}
-p_castle_96|Eastwatch{***}
+p_castle_94|Le Mur
+p_castle_95|Tour Ombreuse
+p_castle_96|Fort-Levant
 p_castle_98|Ramsgate{***}
-p_castle_99|Hornwood{***}
+p_castle_99|Corbois
 p_castle_100|Goyhan Drohe{***}
 p_castle_101|Ny Sar{***}
 p_castle_102|Ar Noy{***}
-p_castle_103|Chroyane{***}
+p_castle_103|Les Chagrins
 p_built_castle|Qarthigar{***}
 p_castle_104|Sar Mell{***}
 p_castle_105|Darry{***}
 p_castle_106|Fawnton{***}
 p_castle_107|Rook's Rest{***}
-p_castle_108|Driftmark{***}
+p_castle_108|Lamarck
 p_castle_109|Longsister{***}
 p_castle_110|Sarsfield{***}
-p_castle_111|Red Lake{***}
+p_castle_111|Lac Rouge
 p_castle_112|Rain House{***}
-p_castle_113|Seagard{***}
+p_castle_113|Salvemer
 p_castle_114|Grimston{***}
-p_castle_115|Wayfarer's Rest{***}
+p_castle_115|Bel Accueil
 p_castle_116|Snakewood{***}
 p_castle_117|Castle Wrath{***}
 p_essos_castle_1|Gongaeron{***}
@@ -349,25 +349,25 @@ p_village_174|Timber Bay{***}
 p_village_175|Giant's Stair{***}
 p_village_176|Antler River{***}
 p_village_177|Storrold's Point{***}
-p_salt_mine|Gold Mine{***}
-p_iron_mine|Iron Mine{***}
-p_quarry1|Quarry{***}
+p_salt_mine|Mine d'Or
+p_iron_mine|Mine de Fer
+p_quarry1|Carrière
 p_four_ways_inn|four ways inn{***}
 p_test_scene|test scene{***}
-p_battlefields|battlefields{***}
-p_celidon_forest|Hollow Hill{***}
-p_iniau_hideout|Sacred Grove{***}
-p_hadrian_wall1|Hadrian Wall{***}
-p_odin_cave|Cave{***}
-p_river_delta|River Delta{***}
-p_quarry|Quarry{***}
-p_desert_oasis|desert oasis{***}
-p_swamps|Swamps{***}
-p_wildling_farm|Farmstead{***}
-p_wildling_farm_safe|Farmstead{***}
+p_battlefields|champs de bataille
+p_celidon_forest|Colline Creuse
+p_iniau_hideout|Bois Sacré
+p_hadrian_wall1|Mur d'Hadrien
+p_odin_cave|Grotte
+p_river_delta|Delta de la rivière
+p_quarry|Carrière
+p_desert_oasis|Oasis du désert
+p_swamps|Les marais
+p_wildling_farm|Ferme
+p_wildling_farm_safe|Ferme
 p_multi_indigo_cradle|Cradle{***}
-p_multi_indigo_frontier|Frontier{***}
-p_of_multi_caravan_ambush|Caravan ambush{***}
+p_multi_indigo_frontier|Frontière
+p_of_multi_caravan_ambush|Embuscade de caravane
 p_of_multi_crezy|Forest Pass{***}
 p_of_multi_fjord|Fjord{***}
 p_of_multi_hastings|Hastings{***}
@@ -377,33 +377,33 @@ p_of_multi_rock_valley|Rock Valley{***}
 p_of_multi_small_ruins|open{***}
 p_of_multi_stone_circles|Stone Circles{***}
 p_of_multi_thingvellir|Thingvellir{***}
-p_battle_stones|Stone Row{***}
+p_battle_stones|Rangée de Pierre
 p_roman_fort|Roman Fort{***}
-p_hadrian_wall|Hadrian Wall{***}
-p_farmland|Farmland{***}
-p_stonemonumento|stonemonumento{***}
-p_forestbattle|Forest Battle{***}
+p_hadrian_wall|Mur d'Hadrien
+p_farmland|Terres agricoles
+p_stonemonumento|Monument de pierre
+p_forestbattle|Bataille de la forêt
 p_multi_scene_dam_10|Dam{***}
-p_dhorak_keep|Dhorak Keep{***}
+p_dhorak_keep|Donjon Dhorak
 p_training_ground|Training Ground{***}
-p_training_ground_1|Training Field{***}
-p_training_ground_2|Training Village{***}
-p_training_ground_3|Training Field{***}
-p_training_ground_4|Training Lake{***}
-p_training_ground_5|Training Camp{***}
-p_septry1|Septry{***}
-p_monasterio2|The Crossroads Inn{***}
-p_septry2|Septry{***}
-p_septry3|Septry{***}
-p_septry4|Septry{***}
-p_septry5|Septry{***}
-p_septry6|Septry{***}
-p_septry7|Septry{***}
-p_septry8|Septry{***}
-p_septry9|Septry{***}
-p_yourlair|Settlement{***}
-p_outpost_1|Outpost{***}
-p_outpost_2|Outpost{***}
+p_training_ground_1|Terrain d'entraînement
+p_training_ground_2|Terrain d'entraînement
+p_training_ground_3|Terrain d'entraînement
+p_training_ground_4|Terrain d'entraînement
+p_training_ground_5|Terrain d'entraînement
+p_septry1|Monastère
+p_monasterio2|L'Auberge de la Croisée
+p_septry2|Monastère
+p_septry3|Monastère
+p_septry4|Monastère
+p_septry5|Monastère
+p_septry6|Monastère
+p_septry7|Monastère
+p_septry8|Monastère
+p_septry9|Monastère
+p_yourlair|Campement
+p_outpost_1|Avant-poste
+p_outpost_2|Avant-poste
 p_fort|Fort{***}
 p_ferry_1a|Mistwood Ferry{***}
 p_ferry_2a|Bear Island Ferry{***}
@@ -411,16 +411,16 @@ p_ferry_3a|Redwyne Ferry{***}
 p_ferry_4a|Hags Mire Ferry{***}
 p_ferry_5a|Ghaston Grey Ferry{***}
 p_ferry_6a|Driftmark Ferry{***}
-p_ferry_7a|Ferry{***}
-p_ferry_8a|Ferry{***}
+p_ferry_7a|Port
+p_ferry_8a|Port
 p_ferry_1b|Dorne Ferry{***}
 p_ferry_2b|Deepwood Ferry{***}
 p_ferry_3b|Ryamsport Ferry{***}
 p_ferry_4b|Harlaw Ferry{***}
-p_ferry_5b|Ferry{***}
+p_ferry_5b|Port
 p_ferry_6b|Point Ferry{***}
-p_ferry_7b|Ferry{***}
-p_ferry_8b|Ferry{***}
+p_ferry_7b|Port
+p_ferry_8b|Port
 p_jetty_1|Evenfall Harbour{***}
 p_jetty_2|Oldoak Harbour{***}
 p_jetty_3|Greenstone Harbour{***}
@@ -454,7 +454,7 @@ p_jetty_8m|Driftmark Ferry{***}
 p_inn_of_the_kneeling_man|Inn of the Kneeling Man{***}
 p_old_stone_bridge|The Old Stone Bridge{***}
 p_ruined_castle|Ruined Castle{***}
-p_crasters_keep|Craster's Keep{***}
+p_crasters_keep|Manoir de Craster
 p_queenscrown|Queenscrown{***}
 p_illyrios_manse|Illyrio's Manse{***}
 p_the_bridge_of_skulls|The Bridge of Skulls{***}
@@ -468,11 +468,11 @@ p_oldstones|Oldstones{***}
 p_wolf_den|Wolf Den{***}
 p_giants_lair|Giants Lair{***}
 p_looter_spawn_point|looter sp{***}
-p_dothraki_raiders_spawn_point|Dothraki Camps{***}
+p_dothraki_raiders_spawn_point|Camp Dothraki
 p_robber_knight_spawn_point|Robber Knights Camps{***}
-p_forest_bandit_spawn_point|Bandit Camps{***}
-p_forest_bandit_spawn_point2|Bandit Camps{***}
-p_forest_bandit_spawn_point3|Bandit Camps{***}
+p_forest_bandit_spawn_point|Camp de Bandit
+p_forest_bandit_spawn_point2|Camp de Bandit
+p_forest_bandit_spawn_point3|Camp de Bandit
 p_northern_clansmen_spawn_point1|the Mountains{***}
 p_northern_clansmen_spawn_point2|the Mountains{***}
 p_northern_clansmen_spawn_point3|the Mountains{***}
@@ -490,10 +490,10 @@ p_hill_tribesman_spawn_point|The Moon Brothers camps{***}
 p_black_ears_spawn_point|The Mountains{***}
 p_sons_of_the_mist_spawn_point|The Mountains{***}
 p_hill_tribes_spawn_point|the Mountains{***}
-p_whitewalkers_spawn_point_1|White Walkers{***}
-p_whitewalkers_spawn_point_2|White Walkers{***}
-p_whitewalkers_spawn_point_3|White Walkers{***}
-p_whitewalkers_spawn_point_4|White Walkers{***}
+p_whitewalkers_spawn_point_1|Marcheurs Blancs
+p_whitewalkers_spawn_point_2|Marcheurs Blancs
+p_whitewalkers_spawn_point_3|Marcheurs Blancs
+p_whitewalkers_spawn_point_4|Marcheurs Blancs
 p_slavers_spawn_point|looking for slaves{***}
 p_essos_raiders_spawn_point|the plains{***}
 p_exiled_knight_spawn_point|Exiled Knights camps{***}
@@ -511,15 +511,15 @@ p_fos2|fos2{***}
 p_fos3|fos3{***}
 p_old_gods|old gods{***}
 p_rhllor_spawn|rhllor spawn{***}
-p_drowned_men_spawn|drowned men spawn{***}
-p_deer_spawn_point|deer sp{***}
+p_drowned_men_spawn|drowned men spawn
+p_deer_spawn_point|deer sp
 p_boar_spawn_point|boar sp{***}
-p_wolf_spawn_point|wolf sp{***}
+p_wolf_spawn_point|spawn loup
 p_goat_spawn_point|goat sp{***}
 p_goatb_spawn_point|goatb sp{***}
-p_wilddonkey_spawn_point|wilddonkey sp{***}
+p_wilddonkey_spawn_point|wilddonkey spawn
 p_nw_ranger_patrol|nw ranger patrol{***}
-p_ff_raiding_party|ff raiding party{***}
+p_ff_raiding_party|ff raiding party
 p_ff_raiders1|ff raiding party{***}
 p_ff_raiders2|ff raiding party{***}
 p_ship_pirates_spawn_point|Pirates{***}
@@ -527,6 +527,6 @@ p_sea_raiders_Spawn_point|Sea Raiders{***}
 p_ship_ironborn_raiders|Ironborn Pirates{***}
 p_landing_point|landing point{***}
 p_transporter|Transporter{***}
-p_troop_camp_1|Troop Quarters{***}
-p_troop_camp_2|Troop Quarters{***}
+p_troop_camp_1|Quartiers des troupes
+p_troop_camp_2|Quartiers des troupes
 p_whitewalker_quest|whitewalker quest{***}

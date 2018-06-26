@@ -1,7 +1,7 @@
 fac_no_faction|Pas de faction
 fac_commoners|Roturiers
 fac_outlaws|Hors-la-Loi
-fac_neutral|Neutral{***}
+fac_neutral|Mercenaire
 fac_innocents|Innocents
 fac_merchants|Marchands
 fac_wild_animals|Animaux sauvages
@@ -34,8 +34,8 @@ fac_astapor|Astapor
 fac_hill_tribes|Tribu de Montagnards
 fac_windblown|Erre-au-Vent
 fac_golden_company|Compagnie Dorée
-fac_second_sons|The Second Sons{***}
-fac_stormcrows|The Stormcrows{***}
+fac_second_sons|Puînés
+fac_stormcrows|Corbeaux Tornade
 fac_the_faith_of_the_seven|Religion des Sept
 fac_old_gods_of_the_forest|Religion des Ancien Dieux
 fac_drowned_gods|Religion du Dieu Noyé

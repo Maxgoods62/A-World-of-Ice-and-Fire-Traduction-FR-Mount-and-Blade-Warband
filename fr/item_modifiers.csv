@@ -1,43 +1,43 @@
-imod_plain|Plain %s{***}
-imod_cracked|Cracked %s{***}
-imod_rusty|Rusty %s{***}
-imod_bent|Bent %s{***}
-imod_chipped|Chipped %s{***}
-imod_battered|Battered %s{***}
-imod_poor|Poor %s{***}
-imod_crude|Crude %s{***}
-imod_old|Old %s{***}
-imod_cheap|Cheap %s{***}
-imod_fine|Fine %s{***}
-imod_well_made|Well Made %s{***}
-imod_sharp|Sharp %s{***}
-imod_balanced|Balanced %s{***}
-imod_tempered|Tempered %s{***}
-imod_deadly|Deadly %s{***}
-imod_exquisite|Exquisite %s{***}
-imod_masterwork|Masterwork %s{***}
-imod_heavy|Heavy %s{***}
-imod_strong|Strong %s{***}
-imod_powerful|Powerful %s{***}
-imod_tattered|Tattered %s{***}
-imod_ragged|Ragged %s{***}
-imod_rough|Rough %s{***}
-imod_sturdy|Sturdy %s{***}
-imod_thick|Thick %s{***}
-imod_hardened|Hardened %s{***}
-imod_reinforced|Reinforced %s{***}
-imod_superb|Superb %s{***}
-imod_lordly|Lordly %s{***}
-imod_lame|Lame %s{***}
-imod_swaybacked|Swaybacked %s{***}
-imod_stubborn|Stubborn %s{***}
-imod_timid|Timid %s{***}
-imod_meek|Meek %s{***}
-imod_spirited|Spirited %s{***}
-imod_champion|Champion %s{***}
-imod_fresh|Fresh %s{***}
-imod_day_old|Day-old %s{***}
-imod_two_day_old|Two Days-old %s{***}
-imod_smelling|Smelling %s{***}
-imod_rotten|Rotten %s{***}
-imod_large_bag|Large Bag of %s{***}
+imod_plain|%s quelconque
+imod_cracked|%s craquelé(e)
+imod_rusty|%s rouillé(e)
+imod_bent|%s en mauvais état
+imod_chipped|%s usé(e)
+imod_battered|%s cabossé(e)
+imod_poor|%s médiocre
+imod_crude|%s sommaire
+imod_old|%s âgé(e)
+imod_cheap|%s au rabais
+imod_fine|%s de qualité
+imod_well_made|%s bien fait(e)
+imod_sharp|%s d'un bon tranchant
+imod_balanced|%s équilibré(e)
+imod_tempered|%s trempé(e)
+imod_deadly|%s mortel(le)
+imod_exquisite|%s admirable
+imod_masterwork|%s de maître
+imod_heavy|%s robuste
+imod_strong|%s solide
+imod_powerful|%s puissant(e)
+imod_tattered|%s en loques
+imod_ragged|%s en morceaux
+imod_rough|%s rustique
+imod_sturdy|%s très robuste
+imod_thick|%s épais(se)
+imod_hardened|%s rigide
+imod_reinforced|%s très solide
+imod_superb|Superbe %s
+imod_lordly|%s grandiose
+imod_lame|%s boiteux
+imod_swaybacked|%s courbé
+imod_stubborn|%s borné
+imod_timid|%s craintif
+imod_meek|%s docile
+imod_spirited|%s fougueux
+imod_champion|%s de champion
+imod_fresh|%s du jour
+imod_day_old|%s de la veille
+imod_two_day_old|%s de l'avant veille
+imod_smelling|%s avec une forte odeur
+imod_rotten|%s en décomposition
+imod_large_bag|Grand carquois de %s
