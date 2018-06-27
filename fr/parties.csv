@@ -166,105 +166,105 @@ p_essos_castle_4|Narralis
 p_essos_castle_5|Celraenos
 p_essos_castle_6|Aritheos
 p_village_1|Village de l'Ours
-p_village_2|Crofters Village{***}
+p_village_2|Village de paysans nordiens
 p_north_village|Respite
-p_village_3|Stony Shore{***}
-p_village_4|Shipbreaker{***}
+p_village_3|Les Roches
+p_village_4|Naufrageurs
 p_village_5|L'arbre Blanc
-p_village_6|Moles Town{***}
+p_village_6|La Mole
 p_village_7|Sea Dragon Neck{***}
-p_village_8|Red Dunes{***}
+p_village_8|Dunes rouges
 p_village_9|Torn Red{***}
 p_village_10|Les Jardins Aquatiques
 p_village_11|Col Museux
 p_village_12|Doigts
 p_village_13|Eau de lait
 p_village_14|Vieux Havre
-p_village_15|Bay of Crabs{***}
-p_village_16|Storrold{***}
-p_village_17|Giant's Lance{***}
-p_village_18|Sheep's Head{***}
-p_village_19|Crescent{***}
-p_village_20|Quiet Isle{***}
-p_village_21|Wendwater{***}
-p_village_22|Blazewater{***}
-p_village_23|Farsfog{***}
-p_village_24|Pennyhill{***}
-p_village_25|Aenar's Rest{***}
-p_village_26|Massey's Hook{***}
-p_village_27|Gates of the Moon{***}
-p_village_28|Grey Garden{***}
-p_village_29|Pebbleton{***}
-p_village_30|Blacktyde{***}
-p_village_31|River's Edge{***}
-p_village_32|Cape Wrath{***}
-p_village_33|Cutters Grove{***}
-p_village_34|Harroway{***}
-p_village_35|Monger's Hog{***}
-p_village_36|Grey Cliffs{***}
-p_village_37|Weeping Water{***}
-p_village_38|Mander{***}
-p_village_39|Headwater{***}
-p_village_40|High Heart{***}
-p_village_41|Whispering{***}
-p_village_42|Myrth{***}
-p_village_43|Thenn Valley{***}
-p_village_44|Rockford{***}
-p_village_45|Sweetsister{***}
-p_village_46|Honeywine{***}
-p_village_47|Rushing Falls{***}
-p_village_48|Whispering Wood{***}
-p_village_49|Tumblers Falls{***}
-p_village_50|Followfork{***}
-p_village_51|Kingsmoot{***}
-p_village_52|Red Fork{***}
-p_village_53|Oxcross{***}
-p_village_54|Norrey{***}
-p_village_55|Moon Mountain{***}
-p_village_56|Claw Isle{***}
-p_village_57|Brindlewood{***}
-p_village_58|River Road{***}
-p_village_59|Craggy Rock{***}
-p_village_60|Sherrer{***}
-p_village_61|Wendish Town{***}
-p_village_62|Tarbeck{***}
-p_village_63|Lefforton{***}
-p_village_64|Longbow{***}
-p_village_65|Saltcliffe{***}
-p_village_66|Shatterstone{***}
-p_village_67|Shepstow{***}
-p_village_68|Oldenoak{***}
-p_village_69|Roseawn{***}
-p_village_70|Free Folk Camp{***}
-p_village_71|Broken Arm{***}
-p_village_72|Scourge{***}
-p_village_73|Sandsdeep{***}
-p_village_74|Princes Pass{***}
-p_village_75|Boneway{***}
-p_village_76|Grapegrove{***}
-p_village_77|Wide Way{***}
-p_village_78|Palestone{***}
-p_village_79|Red Cliffs{***}
+p_village_15|Baie des crabes
+p_village_16|Storrold
+p_village_17|Lance du Géant
+p_village_18|Les Toisonnées
+p_village_19|Croissant
+p_village_20|Île de Repose
+p_village_21|Wend
+p_village_22|L'enfer
+p_village_23|Farsfog
+p_village_24|Pennyhill
+p_village_25|Le repos d'Aenar
+p_village_26|Bec de Massey
+p_village_27|Les Portes de la Lune
+p_village_28|Grisjardin
+p_village_29|Pebbleton
+p_village_30|Noirmarées
+p_village_31|Bord de rivière
+p_village_32|Cap de l'Ire
+p_village_33|Bosquet des tailleurs
+p_village_34|Herpivoie
+p_village_35|Le cochon de Monger
+p_village_36|Falaises grises
+p_village_37|Larmoyante
+p_village_38|Mander
+p_village_39|Headwater
+p_village_40|Noblecœur
+p_village_41|Murmure
+p_village_42|Myrth
+p_village_43|Vallé de Thenn
+p_village_44|Rockford
+p_village_45|Dolcesœur
+p_village_46|Hydromel
+p_village_47|Cataractes
+p_village_48|Bois-aux-Murmures
+p_village_49|Sauts Périlleux
+p_village_50|Followfork
+p_village_51|Kingsmoot
+p_village_52|Ruffurque
+p_village_53|Croixbœuf
+p_village_54|Norroit
+p_village_55|Montagne de la Lune
+p_village_56|Pince-Isle
+p_village_57|Bois-Mouchy
+p_village_58|La route de la rivière
+p_village_59|Roche escarpée
+p_village_60|Sherrer
+p_village_61|Warbourg
+p_village_62|Tarbeck
+p_village_63|Lefforton
+p_village_64|Longarc
+p_village_65|Salfalaise
+p_village_66|Shatterstone
+p_village_67|Shepstow
+p_village_68|Oldenoak
+p_village_69|Roseawn
+p_village_70|Campu du Peuple libre
+p_village_71|Bras Cassé
+p_village_72|Fléau
+p_village_73|Sable Profond
+p_village_74|Passe-du-Prince
+p_village_75|Les Osseux
+p_village_76|Grapegrove
+p_village_77|Voie Large
+p_village_78|Sabrecaux
+p_village_79|Falaises rouges
 p_village_80|Clegane's Folley{***}
-p_village_81|Silver Hill{***}
-p_village_82|Greyshield{***}
-p_village_83|Whoreson{***}
+p_village_81|Colline d'Argent
+p_village_82|Bouclier Gris
+p_village_83|Fils-de-Putain
 p_village_84|Crab Bay Point{***}
-p_village_85|Rhaesh Dahaan{***}
-p_village_86|White Knife{***}
-p_village_87|Saltspear{***}
-p_village_88|Broken Branch{***}
-p_village_89|Long Lake{***}
-p_village_90|Ryamsport{***}
-p_village_91|Torentine{***}
-p_village_92|Ghaston{***}
-p_village_93|Grandure{***}
-p_village_94|Greenblood{***}
-p_village_95|Sandsore{***}
-p_village_96|Brimstone{***}
-p_village_97|Bloodstone{***}
-p_village_98|Gallow Grey{***}
-p_village_99|Greygarth{***}
+p_village_85|Rhaesh Dahaan
+p_village_86|Blanchedague
+p_village_87|Le fjord de Piquesel
+p_village_88|Brèchesaigue
+p_village_89|Lonlac
+p_village_90|Port-Ryam
+p_village_91|Torentine
+p_village_92|Griseffroy
+p_village_93|Grandure
+p_village_94|Sang-vert
+p_village_95|Sandsore
+p_village_96|Soufre
+p_village_97|Pierre sanglante
+p_village_98|Gallowsgrey
+p_village_99|Greygarth
 p_village_100|Voleana
 p_essos_village_1|Laertigar
 p_essos_village_2|Veleneos
@@ -288,18 +288,18 @@ p_village_113|Pont de pierre
 p_village_114|La route de l'Océan
 p_village_115|Prairie de Cendregué
 p_village_116|Bois-la-Pluie
-p_village_117|Bouclier de Chêne
-p_village_118|Vue du Crépuscule
+p_village_117|Oakenshield
+p_village_118|Sunset View
 p_village_119|Cornhall
 p_village_120|Lonely Slo
-p_village_121|Fièvre
+p_village_121|Fever
 p_village_122|Ultime
 p_village_123|Port Pourpre
 p_village_124|Baie de Lorath
 p_village_125|Sorcefangier
 p_village_126|Marches de Dorne
 p_village_127|Village de pêcheurs
-p_village_128|Vue du bouclier
+p_village_128|Shieldview
 p_village_129|Le Sommet du Coq
 p_village_130|Culbute
 p_village_131|Petitesœur
@@ -312,43 +312,43 @@ p_village_137|Dale Head{***}
 p_village_138|Belle Île
 p_village_139|Hard's Own{***}
 p_village_140|La route de la Rose
-p_village_141|Herndon{***}
-p_village_142|Estermont{***}
-p_village_143|Tarth{***}
+p_village_141|Herndon
+p_village_142|Estermont
+p_village_143|Torth
 p_village_144|Queens Head{***}
-p_village_145|Redwyne Bay{***}
+p_village_145|Baie de Redwyne
 p_village_146|High Sunset{***}
-p_village_147|Berrybush{***}
+p_village_147|Berrybush
 p_village_148|Stoney Top{***}
 p_village_149|Breakers Bay{***}
-p_village_150|Hunters Pass{***}
-p_village_151|Salty Bay{***}
-p_village_152|Velvet Hills{***}
-p_village_153|Golden Fields{***}
-p_village_154|Raenion{***}
-p_village_155|Qhoyne{***}
-p_village_156|Lhorulu{***}
+p_village_150|Col des chasseurs
+p_village_151|Baie salée
+p_village_152|Collines de Velours
+p_village_153|Champs dorés
+p_village_154|Raenion
+p_village_155|Qhoyne
+p_village_156|Lhorulu
 p_makeshift_village|Taelon
-p_village_157|Maiden's Fair{***}
-p_village_158|Salt Sore{***}
-p_village_159|Haysfen{***}
-p_village_160|Lowbrow{***}
-p_village_161|High Rock{***}
+p_village_157|La belle
+p_village_158|Salrivage
+p_village_159|Haysfen
+p_village_160|Lowbrow
+p_village_161|Hauteroche
 p_village_162|Watery View{***}
 p_village_163|Far's End{***}
-p_village_164|Wildwood{***}
-p_village_165|Spicetown{***}
+p_village_164|Forêt sauvage
+p_village_165|Port-d'Épice
 p_village_166|Dying Lance{***}
-p_village_167|Land's End{***}
+p_village_167|Bout des terres
 p_village_168|Wrathwood{***}
 p_village_169|Daemon's Rest{***}
-p_village_170|Sarath{***}
-p_village_171|Ar Mynar{***}
-p_village_172|Moredo{***}
-p_village_174|Timber Bay{***}
-p_village_175|Giant's Stair{***}
-p_village_176|Antler River{***}
-p_village_177|Storrold's Point{***}
+p_village_170|Sarath
+p_village_171|Ar Mynar
+p_village_172|Moredo
+p_village_174|Baie des bois
+p_village_175|La chaussée du Géant
+p_village_176|Épois
+p_village_177|Cap Storrold
 p_salt_mine|Mine d'Or
 p_iron_mine|Mine de Fer
 p_quarry1|Carrière
@@ -436,7 +436,7 @@ p_jetty_8k|Port naturel
 p_jetty_8l|Port de Fort-Levant
 p_jetty_9|Port de la Côte d'Orange
 p_jetty_10|Port de Grimston Harbour
-"p_jetty_11|""Port d'Oakenshield """
+p_jetty_11|Port d'Oakenshield
 p_jetty_12|Port de Bouclier Gris
 p_jetty_13|Port de Holt de Fer
 p_jetty_14|Port d'Orkmont
@@ -465,8 +465,8 @@ p_boneway|Les Osseux
 p_brokenarm|Le Bras Cassé
 p_naggashill|Les côtes de Nagga
 p_oldstones|Vieilles-Pierres
-p_wolf_den|Wolf Den{***}
-p_giants_lair|Giants Lair{***}
+p_wolf_den|Antre du Loup
+p_giants_lair|Repaire des géants
 p_looter_spawn_point|looter spawn
 p_dothraki_raiders_spawn_point|Camp Dothraki
 p_robber_knight_spawn_point|Camp de chevaliers voleurs
@@ -481,8 +481,8 @@ p_northern_clansmen_spawn_point5|Les Montagnes
 p_northern_clansmen_spawn_point6|Les Montagnes
 p_northern_clansmen_spawn_point7|Les Montagnes
 p_northern_clansmen_spawn_point8|Les Montagnes
-p_westeros_raiders_spawn_point|the tundra{***}
-p_westeros_raiders_spawn_point2|the tundra{***}
+p_westeros_raiders_spawn_point|la toundra
+p_westeros_raiders_spawn_point2|la toundra
 p_sea_raider_spawn_point|la côte
 p_ironborn_raiders_spawn_point|et cherchent à attaquer
 p_pirates_spawn_point|et cherchent à attaquer
@@ -497,8 +497,8 @@ p_whitewalkers_spawn_point_4|Marcheurs Blancs
 p_slavers_spawn_point|cherchent des esclaves
 p_essos_raiders_spawn_point|the plains
 p_exiled_knight_spawn_point|Camp des chevaliers exilés
-p_windblown_spawn_point|The Windblown{***}
-p_wild_hares_spawn_point|The Wild Hares{***}
+p_windblown_spawn_point|Erre-au-Vent
+p_wild_hares_spawn_point|Bouquins sauvages
 p_second_sons_spawn_point|Les Puînés
 p_stormcrows_spawn_point|Les Corbeaux Tornade
 p_dagger_lake_pirates_1_spawn_point|Urho l'Infect
@@ -529,4 +529,4 @@ p_landing_point|point de débarquement
 p_transporter|Transporteur
 p_troop_camp_1|Quartiers des troupes
 p_troop_camp_2|Quartiers des troupes
-p_whitewalker_quest|whitewalker quest{***}
+p_whitewalker_quest|Quête Marcheurs Blancs
