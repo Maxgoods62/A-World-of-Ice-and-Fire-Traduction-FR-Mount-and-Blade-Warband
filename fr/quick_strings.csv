@@ -140,7 +140,7 @@ qstr_This_is_the_gambling|Voici l'écran de jeu. Maintenez la touche CTRL enfonc
 qstr_Money:_{s1}|Argent: {s1}
 qstr_You_don_t_have_enoug|Vous n'avez pas assez d'argent pour acheter un bâteau.
 qstr_He_don_t_have_enough|Il n'a pas assez d'argent.
-qstr_Sovereign_colour_of_|Couleur souveraine de {s0}:
+qstr_Sovereign_colour_of_|Couleur de la faction {s0}:
 qstr_Red:|Rouge :
 qstr_Green:|Vert :
 qstr_Blue:|Bleu :
@@ -323,90 +323,90 @@ qstr_The_North|Le Nord
 qstr_The_Riverlands|The Riverlands{***};;;;
 qstr_The_Reach|The Reach{***};;;;
 qstr_All_Sovereignties|Toutes Factions
-qstr_Braavos|Braavos{***};;;;
+qstr_Braavos|Braavos
 qstr_The_Iron_Islands|The Iron Islands{***};;;;
-qstr_Dorne|Dorne{***};;;;
+qstr_Dorne|Dorne
 qstr_Night_s_Watch|Night's Watch{***};;;;
 qstr_Free_Folk|Free Folk{***};;;;
 qstr_The_Khalasar|The Khalasar{***};;;;
 qstr_Pentos|Pentos{***};;;;
-qstr_House_Targaryen|House Targaryen{***};;;;
-qstr_Myr|Myr{***};;;;
-qstr_Tyrosh|Tyrosh{***};;;;
+qstr_House_Targaryen|Maison Targaryen
+qstr_Myr|Myr
+qstr_Tyrosh|Tyrosh
 qstr_The_Westerlands|The Westerlands{***};;;;
 qstr_lorath|lorath{***};;;;
-qstr_Lys|Lys{***};;;;
-qstr_Qohor|Qohor{***};;;;
-qstr_Volantis|Volantis{***};;;;
+qstr_Lys|Lys
+qstr_Qohor|Qohor
+qstr_Volantis|Volantis
 qstr_The_Stormlands|The Stormlands{***};;;;
-qstr_My_Boats|My Boats{***};;;;
-qstr_Boats_for_Sale|Boats for Sale{***};;;;
-qstr_No_ships_for_sale^in|No ships for sale^in this town.{***};;;;
+qstr_My_Boats|Mes bâteaux
+qstr_Boats_for_Sale|Bateaux à vendre
+qstr_No_ships_for_sale^in|Il n'y a pas de bateaux à vendre^dans cette ville.
 qstr_No_Name|Pas de nom
-qstr_{reg7}._Ship|{reg7}. Ship{***};;;;
-qstr_Flagship|Flagship{***};;;;
-qstr_Very_Good|Very Good{***};;;;
-qstr_Good|Good{***};;;;
-qstr_Acceptable|Acceptable{***};;;;
-qstr_Bad|Bad{***};;;;
-qstr_Very_Bad|Very Bad{***};;;;
-qstr_Dangerous|Dangerous{***};;;;
-qstr_Repair:_{reg8}_stags|Repair: {reg8} stags{***};;;;
-qstr_Type:_{s7}^Wood:_{s6|Type: {s7}^Wood: {s6}^Condition: {s1}^Speed: {reg1} knots^Crew: {reg6} men^Price: {reg7} stags^{s2}{***};;;;
-qstr_Repair_Ship|Repair Ship{***};;;;
-qstr_Customize_Ship|Customize Ship{***};;;;
-qstr_Sell_Ship|Sell Ship{***};;;;
-qstr_Buy_Ship|Buy Ship{***};;;;
-qstr_Are_you_sure_you_wan|Are you sure you want to do this transaction?{***};;;;
-qstr_Leave_ship_at_the_sh|Leave ship at the shore{***};;;;
-qstr_Next_ship|Next ship{***};;;;
-qstr_Fleet_Capacity:|Fleet Capacity:{***};;;;
-qstr_{reg1}/{reg2}|{reg1}/{reg2}{***};;;;
-qstr_You_cannot_buy_this_|You cannot buy this boat, as it requires a sailing master skill to manage boats.{***};;;;
-qstr_You_cannot_buy_this_b|You cannot buy this boat, because you don't have any sailing master skill.{***};;;;
-qstr_You_cannot_buy_this_bo|You cannot buy this boat, as it requires a higher sailing master skill to manage more boats.{***};;;;
-qstr_You_cannot_buy_this_boa|You cannot buy this boat, because you don't have enough money.{***};;;;
-qstr_You_can_t_leave_your|You can't leave your last ship at the shore.{***};;;;
-qstr_You_can_t_leave_this|You can't leave this ship at the shore, because otherwise your crew wouldn't fit any more in the rest of the ships.{***};;;;
-qstr_{s1}_s_Ships|{s1}'s Ships{***};;;;
-qstr_You_need_to_get_clos|You need to get closer to the shore if you want to leave ships there.{***};;;;
-qstr_You_cannot_repair_th|You cannot repair this boat, because you don't have enough money.{***};;;;
-qstr_No_ships_for_sell^in|No ships for sell^in this Town.{***};;;;
-qstr_Wood:_{s0}^|Wood: {s0}^{***};;;;
-qstr_Custom|Custom{***};;;;
-qstr_Red|Red{***};;;;
-qstr_Black|Black{***};;;;
-qstr_Red_and_white|Red and white{***};;;;
-qstr_Blue_and_white|Blue and white{***};;;;
-qstr_White_stripes|White stripes{***};;;;
-qstr_White|White{***};;;;
-qstr_Rich_white|Rich white{***};;;;
-qstr_Cheap_white|Cheap white{***};;;;
-qstr_Greyjoy_sigil|Greyjoy sigil{***};;;;
-qstr_Sail:_{s0}^|Sail: {s0}^{***};;;;
-qstr_Tarred|Tarred{***};;;;
-qstr_Black_and_yellow|Black and yellow{***};;;;
-qstr_Varnished|Varnished{***};;;;
-qstr_Red_and_yellow|Red and yellow{***};;;;
-qstr_Green_and_yellow|Green and yellow{***};;;;
-qstr_Red_and_orange|Red and orange{***};;;;
-qstr_Green_and_white|Green and white{***};;;;
-qstr_Plain|Plain{***};;;;
-qstr_Finish:_{s0}^|Finish: {s0}^{***};;;;
-qstr_Price:_{reg7}_stags|Price: {reg7} stags{***};;;;
-qstr_{s1}{s2}{s3}{s4}|{s1}{s2}{s3}{s4}{***};;;;
-qstr_Change_Finish|Change Finish{***};;;;
-qstr_Change_Sail|Change Sail{***};;;;
-qstr_Apply|Apply{***};;;;
-qstr_Only_ships_made_of_o|Only ships made of oak are considered to deserve a special finish.{***};;;;
-qstr_F4___Advanced_format|F4 - Advanced formations{***};;;;
-qstr_F7___Memorize_div._p|F7 - Memorize div. placement{***};;;;
-qstr_F8___Default_divisio|F8 - Default division placement{***};;;;
-qstr_F4___Ranks|F4 - Ranks{***};;;;
-qstr_F5___Shield_Wall|F5 - Shield Wall{***};;;;
-qstr_F6___Wedge|F6 - Wedge{***};;;;
-qstr_F7___Square|F7 - Square{***};;;;
-qstr_F8___No_Formation|F8 - No Formation{***};;;;
+qstr_{reg7}._Ship|{reg7}. Navire
+qstr_Flagship|Vaisseau amiral
+qstr_Very_Good|Très bon
+qstr_Good|Bon
+qstr_Acceptable|Acceptable
+qstr_Bad|Mauvais
+qstr_Very_Bad|Très mauvais
+qstr_Dangerous|Dangereux
+qstr_Repair:_{reg8}_stags|Réparer: {reg8} cerfs d'argent
+qstr_Type:_{s7}^Wood:_{s6|Type: {s7}^Bois: {s6}^Condition: {s1}^Vitesse: {reg1} noeuds^Equipage: {reg6} hommes^Prix: {reg7} cerfs d'argent^{s2}
+qstr_Repair_Ship|Repérer Navire
+qstr_Customize_Ship|Customiser Navire
+qstr_Sell_Ship|Vendre Navire
+qstr_Buy_Ship|Acheter Navire
+qstr_Are_you_sure_you_wan|Êtes-vous sûr de vouloir faire cette transaction?
+qstr_Leave_ship_at_the_sh|Laisser le navire sur la rive
+qstr_Next_ship|Prochain Navire
+qstr_Fleet_Capacity:|Capacité de la flotte :
+qstr_{reg1}/{reg2}|{reg1}/{reg2}
+qstr_You_cannot_buy_this_|Vous ne pouvez pas acheter ce bateau, car il nécessite une compétence "maîtrise de voile" plus élevée pour gérer ce bateau.
+qstr_You_cannot_buy_this_b|Vous ne pouvez pas acheter ce bateau, parce que vous n'avez aucune compétence de "maîtrise de voile".
+qstr_You_cannot_buy_this_bo|Vous ne pouvez pas acheter ce bateau, car il nécessite une plus grande "maîtrise de voile" pour gérer plus de bateaux.
+qstr_You_cannot_buy_this_boa|Vous ne pouvez pas acheter ce bateau, parce que vous n'avez pas assez d'argent.
+qstr_You_can_t_leave_your|Vous ne pouvez pas laisser votre dernier bateau au rivage.
+qstr_You_can_t_leave_this|Vous ne pouvez pas quitter ce navire au rivage, parce que sinon votre équipage ne tiendrait pas dans le reste des navires.
+qstr_{s1}_s_Ships|Bateaux de {s1}
+qstr_You_need_to_get_clos|Vous devez vous rapprocher de la rive si vous voulez y laisser des bateaux.
+qstr_You_cannot_repair_th|Vous ne pouvez pas réparer ce bateau, parce que vous n'avez pas assez d'argent.
+qstr_No_ships_for_sell^in|Pas de bateaux à vendre^dans cette ville.
+qstr_Wood:_{s0}^|Bois: {s0}^
+qstr_Custom|Personnalisé
+qstr_Red|Rouge
+qstr_Black|Noir
+qstr_Red_and_white|Rouge et blanc
+qstr_Blue_and_white|Bleu et blanc
+qstr_White_stripes|Bandes blanches
+qstr_White|Blanc
+qstr_Rich_white|Rich white{***}
+qstr_Cheap_white|Cheap white{***}
+qstr_Greyjoy_sigil|Sigil Greyjoy
+qstr_Sail:_{s0}^|Voile: {s0}^
+qstr_Tarred|Goudronné
+qstr_Black_and_yellow|Noir et jaune
+qstr_Varnished|Verni
+qstr_Red_and_yellow|Rouge et jaune
+qstr_Green_and_yellow|Vert et rouge
+qstr_Red_and_orange|Rouge et orange
+qstr_Green_and_white|Vert et blanc
+qstr_Plain|Uni
+qstr_Finish:_{s0}^|Finition: {s0}^
+qstr_Price:_{reg7}_stags|Prix: {reg7} cerfs d'argent
+qstr_{s1}{s2}{s3}{s4}|{s1}{s2}{s3}{s4}
+qstr_Change_Finish|Changer Finition
+qstr_Change_Sail|Changer Voile
+qstr_Apply|Appliquer
+qstr_Only_ships_made_of_o|Seuls les navires en chêne sont considérés comme méritant une finition spéciale.
+qstr_F4___Advanced_format|F4 - Formations avancées
+qstr_F7___Memorize_div._p|F7 - Mémoriser le placement division
+qstr_F8___Default_divisio|F8 - Placement division par défault
+qstr_F4___Ranks|F4 - Rangs
+qstr_F5___Shield_Wall|F5 - Mur de Bouclier
+qstr_F6___Wedge|F6 - Wedge{***}
+qstr_F7___Square|F7 - Carré
+qstr_F8___No_Formation|F8 - Pas de formation
 qstr_F1___Movement_orders|F1 - Movement orders{***};;;;
 qstr_F2___Formation_order|F2 - Formation orders{***};;;;
 qstr_F3___Fire_orders|F3 - Fire orders{***};;;;
