@@ -2,7 +2,7 @@
 
 **Une nouvelle traduction est en cours de developpement, l'ancienne traduction est disponible dans la branche "v1.3"**
 
-La traduction vient de commencer ! J'estime que j'ai traduit 5% des fichiers. [26/06/2018]
+La traduction vient de commencer ! J'estime que j'ai traduit 10% des fichiers. [29/06/2018]
 
 Version du mod traduit : v3.6
 
