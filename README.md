@@ -10,7 +10,7 @@ Lien du mod : http://www.moddb.com/mods/a-world-of-ice-and-fire
 
 ## Installation
 
-Pour installer la traduction, il faut que vous telechargiez ces fichiers puis allez dans le répertoire du mode puis dans le dossier "languages" et mettez le dossier "fr" dedans.
+Pour installer la traduction, il faut que vous telechargiez ces fichiers puis allez dans le répertoire du mod puis dans le dossier "languages" et mettez le dossier "fr" dedans.
 
 ## Remarques
 
