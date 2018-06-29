@@ -1,16 +1,16 @@
 ﻿qstr_{reg61}.0{reg62}|{reg61}.0{reg62}
 qstr_{reg61}.{reg62}|{reg61}.{reg62}
 qstr_Shot_distance:_{s1}_|Distance de tir : {s1} mètres.
-qstr_Gate_was_destroyed.|Gate was destroyed.{***};;;;
-qstr_drawbridge_was_destr|drawbridge was destroyed.{***};;;;
-qstr_Battering_ram_was_de|Battering ram was destroyed.{***};;;;
-qstr_Portcullis_was_destr|Portcullis was destroyed.{***};;;;
-qstr_Draw_bridge_was_dest|Draw bridge was destroyed.{***};;;;
-qstr_{reg1}.0|{reg1}.0{***};;;;
-qstr_{reg1}.00{reg2}|{reg1}.00{reg2}{***};;;;
-qstr_{reg1}.0{reg2}|{reg1}.0{reg2}{***};;;;
-qstr_{reg1}.{reg2}|{reg1}.{reg2}{***};;;;
-qstr_A_World_of_Ice_and_F|A World of Ice and Fire 3.5 (DEV BUILD 3){***};;;;
+qstr_Gate_was_destroyed.|La porte a été détruite.
+qstr_drawbridge_was_destr|Le pont-levis a été détruit.
+qstr_Battering_ram_was_de|Le bélier a été détruit.
+qstr_Portcullis_was_destr|La Herse a été détruite.
+qstr_Draw_bridge_was_dest|Le pont-levis a été détruit.
+qstr_{reg1}.0|{reg1}.0
+qstr_{reg1}.00{reg2}|{reg1}.00{reg2}
+qstr_{reg1}.0{reg2}|{reg1}.0{reg2}
+qstr_{reg1}.{reg2}|{reg1}.{reg2}
+qstr_A_World_of_Ice_and_F|A World of Ice and Fire 3.5 (DEV BUILD 3)
 qstr_Next_Page|Page suivante
 qstr_Game_Rules:^|Règles du jeu :^
 qstr_0|0
@@ -18,7 +18,7 @@ qstr_Show_game_rules|Afficher les règles du jeu
 qstr_Continue...|Continuer...
 qstr_Candidate_#1:_{s1}|Candidat #1 : {s1}
 qstr_Candidate_#2:_{s1}|Candidat #2 : {s1}
-qstr_{s3}_of_{s4}_wishes_|{s3} of {s4} wishes to select a new marshall and invites his vassals for a counsel. {s1} and {s2} are the likely candidates.{***};;;;
+qstr_{s3}_of_{s4}_wishes_|{s3} du {s4} souhaite sélectionner un nouveau maréchal et invite ses vassaux à un conseil. {s1} et {s2} sont les candidats probables.
 qstr_Who_do_you_wish_to_s|Qui voulez-vous soutenir ?
 qstr_{s1}_gives_his_suppo|{s1} vote pour {s2}.
 qstr_Number_of_Supporters|Nombre de partisans : {reg0}
@@ -29,48 +29,48 @@ qstr_Centralization:|Centralisation :
 qstr_Aristocracy:|Aristocratie :
 qstr_Serfdom:|Servage :
 qstr_Troop_quality:|Qualité troupes :
-qstr_Mercantile:|Mercantile:{***};;;;
+qstr_Mercantile:|Marchande:
 qstr_High_centralization_|Une centralisation importante réduira l'inefficacité des impôts pour le monarque et augmentera pour les vassaux. Interfére les relations monarque/vassaux.
 qstr_High_aristocracy_wil|La haute aristocratie permettra d'améliorer les relations monarque/vassaux, + d'armées pour les vassaux mais cela diminuera le commerce.
 qstr_High_serfdom_reduces|Un servage important réduira l'inefficacité des impôts pour le monarque et ses vassaux et les vassaux peuvent entretenir une armée plus grande mais avec un moral en baisse.
 qstr_High_troop_quality_i|Une grande qualité des troupes augmentera la résistance des soldats mais limitera leur nombre.
-qstr_Mercantile_policies_|Mercantile policies maximize exports while minimizing imports, and increase government regulation of industry.{***};;;;
+qstr_Mercantile_policies_|La politique marchande maximise les exportations tout en minimisant les importations, et augmentent la réglementation gouvernementale de l'industrie.
 qstr_Cancel|Annuler
 qstr_Dictate_the_peace_te|Dicter les conditions de la paix
 qstr_Select_the_castle_an|Sélectionner le château et le montant, et cocher les cases pour activer la demande. Les demandes sont combinées si deux cases sont cochées.
-qstr_1000_silver_stags|1000 silver stags{***};;;;
+qstr_1000_silver_stags|1000 cerfs dargent
 qstr__Continue_|Continuer
-qstr_Select_the_number_of|Select the number of skirmishers you wish to deploy.{***};;;;
-qstr_____SPY_REPORTS____|    SPY REPORTS    {***};;;;
-qstr_Based_on_your_curren|Based on your current leadership skill, you may deploy up to {reg2} spies.{***};;;;
-qstr_You_currently_have_{|You currently have {reg3} spies deployed.{***};;;;
-qstr___No_spy_selected.__|  No spy selected.  {***};;;;
-qstr___CONTINUE__|  CONTINUE  {***};;;;
+qstr_Select_the_number_of|Sélectio'nnez le nombre de tirailleurs que vous souhaitez déployer.
+qstr_____SPY_REPORTS____|    RAPPORTS D'ESPIONNAGE   
+qstr_Based_on_your_curren|En fonction de votre compétence de "commandement" actuelle, vous pouvez déployer jusqu'à {reg2} espions.
+qstr_You_currently_have_{|Vous avez actuellement {esp3} espions déployés.
+qstr___No_spy_selected.__|  Aucun espion sélectionné.
+qstr___CONTINUE__|  CONTINUER  
 qstr_castle|le château
-qstr_food_stores.|food stores.{***};;;;
+qstr_food_stores.|magasin alimentaires.
 qstr_town|la ville
 qstr_village|le village
-qstr_cattle.|cattle.{***};;;;
-qstr_You_prepare_a_messag|You prepare a message for your spy in {s1}, ordering him to ..{***};;;;
-qstr__Return_| Return {***};;;;
-qstr__poison_{s2}_well._| poison {s2} well. {***};;;;
-qstr__poison_{s2}_{s3}._| poison {s2} {s3}. {***};;;;
-qstr__cause_dissent._| cause dissent. {***};;;;
-qstr_____
-qstr_Do_it.|Do it.{***};;;;
+qstr_cattle.|château.
+qstr_You_prepare_a_messag|Vous préparez un message pour votre espion à {s1}, en lui ordonnant de ..
+qstr__Return_| Retour 
+qstr__poison_{s2}_well._| empoisonne {s2} correctement.
+qstr__poison_{s2}_{s3}._| empoisonne {s2} {s3}
+qstr__cause_dissent._| provoque la dissidence. 
+qstr_____|
+qstr_Do_it.|Faites-le.
 qstr_Make_it_so.|Make it so.{***};;;;
-qstr_Have_your_fun.|Have your fun.{***};;;;
-qstr_I_shall_mix_the_conc|I shall mix the concoction and have it in the well within 12 hours, my {Lord/Lady}.{***};;;;
-qstr_I_ll_have_the_cattle|I'll have the cattle feverish within the next 12 hours my {Lord/Lady}.{***};;;;
-qstr_Within_the_next_12_h|Within the next 12 hours, I'll have the grainery looking like a refuse pile.{***};;;;
-qstr_It_will_take_12_hour|It will take 12 hours or more, my {Lord/Lady},^but I shall have every man, woman and child fighting in the streets.{***};;;;
-qstr__You_do_not_have_the| You do not have the 500 silver stags to finance this mission.{***};;;;
+qstr_Have_your_fun.|Amusez-vous.
+qstr_I_shall_mix_the_conc|Je vais mélanger la concoction et la mettre dans le puit dans 12 heures,{Monseigneur/Madame}.
+qstr_I_ll_have_the_cattle|Je vais avoir le bétail fiévreux dans les 12 heures {Monseigneur/Madame}.
+qstr_Within_the_next_12_h|Dans les prochaines 12 heures, le grenier va ressembler à une pile de déchets.
+qstr_It_will_take_12_hour|Cela prendra 12 heures ou plus, {Monseigneur/Madame},^mais il devrait avoir tous les hommes, toutes les femmes et tous les enfants qui se batteront dans les rues.
+qstr__You_do_not_have_the|Vous n'avez pas les 500 cerfs d'argent pour financer cette mission.
 qstr_Number_of_men_knocke|Nombre d'hommes blessés : {reg1}
 qstr_Number_of_men_left:_|Nombre d'hommes perdus : {reg1}
 qstr_Opponents_Beaten:_{r|Ennemis vaincus : {reg1}
 qstr_Opponents_Remaining:|Ennemis restants : {reg1}
 qstr_Remain_in_retirement|Rester en retrait.
-qstr_Go_back_to_adventuri|Go back to adventuring.{***};;;;
+qstr_Go_back_to_adventuri|Retournez à l'aventure.
 qstr_You_have_retired_at_|Vous avez pris votre retraite au niveau {reg4} après {reg5} jours d'aventure.
 qstr_Effect_on_Score|Effet sur le score
 qstr_Settlements_owned_by|Domaines en votre possession : {reg0}
@@ -83,31 +83,31 @@ qstr_Defeats:_{reg0}|Défaites : {reg0}
 qstr_Quests_Completed:_{r|Quêtes accomplies : {reg0}
 qstr_Companions_Found:_{r|Compagnons trouvés : {reg0}
 qstr_Companions_Lost/Depa|Compagnons perdus/partis : {reg0}
-qstr_Wealth:_{reg0}_silve|Wealth: {reg0} silver stags{***};;;;
-qstr_Inventory:_{reg0}_si|Inventory: {reg0} silver stags{***};;;;
+qstr_Wealth:_{reg0}_silve|Fortune: {reg0} cerfs d'argent
+qstr_Inventory:_{reg0}_si|Inventaire: {reg0} cerfs d'argent
 qstr_Renown:_{reg0}|Renommée : {reg0}
 qstr_Experience:_{reg0}|Expérience : {reg0}
 qstr_Days_Passed:_{reg0}|Jours écoulés : {reg0}
 qstr_Difficulty:_{reg0}%|Difficulté : {reg0}%
 qstr_TOTAL_SCORE:_{reg0}|SCORE TOTAL : {reg0}
-qstr_Unpaid|Unpaid{***};;;;
+qstr_Unpaid|Impayé
 qstr_None|Rien
 qstr_{s55}__{reg0}%_|{s55} ({reg0}%)
 qstr_{s55}|{s55}
 qstr_Staff:|Personnel :
-qstr_Kingdom_Tributes:|Kingdom Tributes:{***};;;;
+qstr_Kingdom_Tributes:|Hommages du Royaume:
 qstr_You_paid_{reg0}_cash|Vous payez {reg0} en espèces pour liquider une dette
 qstr_Earlier_cash:|Liquidités antérieures :
 qstr_New_cash:|Nouvelles liquidités :
-qstr_Your_troops_are_unpa|Your troops are unpaid!  Morale has dropped.{***};;;;
-qstr_{s30}{reg1}{reg2}{re|{s30}{reg1},{reg2},{reg3},{reg4},{reg5},{reg6},{reg7},{reg8},{reg9},{reg10},{reg11},{reg12},{reg13},{reg14},{reg15},{reg16},{reg17},{reg18},{reg19},{reg20},{reg21},{reg22},{reg23},{reg24}/{***};;;;
-qstr_The_Iron_Bank_of_Bra|The Iron Bank of Braavos is the main bank in Braavos and arguably the most powerful financial institution in the Known World.^^ You can see the banks ships docked at The Purple Harbour and the front court looks as grand as the people inside.  The bank is famous for its discretion and secrecy, though one would be wise to remember if debts are not paid back when promised, the Iron Bank will have its due.{***};;;;
+qstr_Your_troops_are_unpa|Vos troupes ne sont pas payées! Le moral a chuté.
+qstr_{s30}{reg1}{reg2}{re|{s30}{reg1},{reg2},{reg3},{reg4},{reg5},{reg6},{reg7},{reg8},{reg9},{reg10},{reg11},{reg12},{reg13},{reg14},{reg15},{reg16},{reg17},{reg18},{reg19},{reg20},{reg21},{reg22},{reg23},{reg24}/
+qstr_The_Iron_Bank_of_Bra|La Banque de Fer de Braavos est la banque principale de Braavos et sans doute l'institution financière la plus puissante du Monde Connu. ^^ Vous pouvez voir les navires de la banque amarrés au Port Pourpre et la cour avant semble aussi grande que les gens à l'intérieur. La banque est réputée pour sa discrétion et son secret, bien qu'il soit judicieux de se rappeler que si les dettes ne sont pas remboursées, la Banque de fer aura son dû, quoi qu'il arrive.
 qstr_Choose_how_much_mone|Choisissez quelle quantité d'argent vous souhaitez emprunter :
-qstr_Borrow|Borrow{***};;;;
-qstr_Pay_off_your_debt|Pay off your debt{***};;;;
-qstr_Make_Payment|Make Payment{***};;;;
+qstr_Borrow|Emprunter
+qstr_Pay_off_your_debt|Rembourser votre dette
+qstr_Make_Payment|Effectuer le paiement
 qstr_{reg6}|{reg6}
-qstr_You_must_select_an_a|You must select an amount to borrow.{***};;;;
+qstr_You_must_select_an_a|Vous devez sélectionner un montant à emprunter.
 qstr_You_cant_buy_0_acres|Vous ne pouvez pas acheter 0 Hectares!
 qstr_{reg8}|{reg8}
 qstr_You_cant_pay_back_0_|Vous ne pouvez pas rembourser 0 Hectares!
@@ -136,11 +136,11 @@ qstr_Current_Wage:_{reg23|Salaire actuel: {reg23} cerfs d'argent.
 qstr_Next_Pay/Promotion_d|Prochain salaire: {s25}
 qstr_Army_size:_{reg26}|Taille d'armée: {reg26}
 qstr_Commander_s_Army|Armée du commandant
-qstr_This_is_the_gambling|This is the gambling screen. Hold down control key while clicking on an item to purchase or sell it.{***};;;;
-qstr_Money:_{s1}|Money: {s1}{***};;;;
+qstr_This_is_the_gambling|Voici l'écran de jeu. Maintenez la touche CTRL enfoncée tout en cliquant sur un article pour l'acheter ou le vendre.
+qstr_Money:_{s1}|Argent: {s1}
 qstr_You_don_t_have_enoug|Vous n'avez pas assez d'argent pour acheter un bâteau.
-qstr_He_don_t_have_enough|He don't have enough money.{***};;;;
-qstr_Sovereign_colour_of_|Sovereign colour of the {s0}:{***};;;;
+qstr_He_don_t_have_enough|Il n'a pas assez d'argent.
+qstr_Sovereign_colour_of_|Couleur souveraine de {s0}:
 qstr_Red:|Rouge :
 qstr_Green:|Vert :
 qstr_Blue:|Bleu :
@@ -148,53 +148,53 @@ qstr__
 qstr_HTML_code:_{s0}|Code HTML : {s0}
 qstr_Default|Par défaut
 qstr_Randomize|Aléatoire
-qstr_We_believe_the_enemy|We believe the enemy has {reg1} troops ready for battle.{***};;;;
-qstr_We_ve_paid_a_bit_of_|We've paid a bit of gold to assure that {s1} aids us. Their party is {reg1} troops strong.{***};;;;
-qstr_We_ve_paid_a_bit_of_g|We've paid a bit of gold to assure that {s1} aids us, but we must be watchful for possible betrayal. Their party is {reg1} troops strong.{***};;;;
-qstr_{s1}_will_most_assur|{s1} will most assuredly aid the enemy, bringing {reg1} troops to battle.{***};;;;
-qstr_We_believe_{s1}_will|We believe {s1} will withdraw from the coming battle. All {reg1} of them faint at the sight of blood.{***};;;;
-qstr_{s1}_is_obligated_to|{s1} is obligated to join us, bringing {reg1} troops to battle.{***};;;;
-qstr_{s1}_will_join_us_br|{s1} will join us, bringing {reg1} troops to battle.{***};;;;
-qstr_{s1}_feels_no_obliga|{s1} feels no obligation to aid us. We have not done them many favours in the past.{***};;;;
-qstr__Report_^_Dispositio| Report ^ Disposition of nearby parties in a position to join in battle.{***};;;;
-qstr___Continue__|  Continue  {***};;;;
-qstr__of_the_{s2}.| of the {s2}.{***};;;;
-qstr__Insult_{s1}.| Insult {s1}.{***};;;;
-qstr__Buy_food_supplies_f| Buy food supplies from {s1}.{***};;;;
-qstr__Challenge_{s1}_to_a| Challenge {s1} to a duel.{***};;;;
-qstr__Send_an_amphorae_of| Send an amphorae of wine to {s1}, as a gift.{***};;;;
-qstr__Send_a_poisoned_amp| Send a poisoned amphorae of wine to {s1}, as a gift.{***};;;;
-qstr__Compose_a_message_t| Compose a message to {s1}{s9}{***};;;;
-qstr_View_Current_Message|View Current Message{***};;;;
-qstr__Cancel_Message__| Cancel Message  {***};;;;
+qstr_We_believe_the_enemy|Nous croyons que l'ennemi a {reg1} troupes prêtes pour la bataille.
+qstr_We_ve_paid_a_bit_of_|Nous avons payé un peu d'or pour nous assurer que {s1} nous aide. Leur groupe a {reg1} troupes fortes.
+qstr_We_ve_paid_a_bit_of_g|Nous avons payé un peu d'or pour nous assurer que {s1} nous aide, mais nous devons être vigilant à une éventuelle trahison. Leur groupe est composé de {reg1} troupes fortes.
+qstr_{s1}_will_most_assur|{s1} aidera sûrement l'ennemi, amenant {reg1} troupes au combat.
+qstr_We_believe_{s1}_will|Nous croyons que {s1} va se retirer de la bataille à venir. Les {reg1} d'entre eux risquent de s'évanouir à la vue du sang.
+qstr_{s1}_is_obligated_to|{s1} est obligé de nous rejoindre, amenant {reg1} des troupes au combat.
+qstr_{s1}_will_join_us_br|{{s1} nous rejoindra, amenant {reg1} des troupes au combat.
+qstr_{s1}_feels_no_obliga|{s1} ne ressent aucune obligation de nous aider. Nous ne leur avons pas fait beaucoup de faveurs par le passé.
+qstr__Report_^_Dispositio| Rapport ^ Disposition des groupes à proximité en mesure de se joindre à la bataille.
+qstr___Continue__|  Continuer  
+qstr__of_the_{s2}.| du {s2}.
+qstr__Insult_{s1}.| Insulter {s1}.
+qstr__Buy_food_supplies_f| Acheter de la nourriture à {s1}.
+qstr__Challenge_{s1}_to_a| Défiez {s1} en duel.
+qstr__Send_an_amphorae_of| Envoyez une amphore de vin à {s1} en cadeau.
+qstr__Send_a_poisoned_amp| Envoyer une amphore de vin empoisonnée à {s1} en "cadeau".
+qstr__Compose_a_message_t| Ecrire un message à {s1}{s9}
+qstr_View_Current_Message|Voir le message actuel
+qstr__Cancel_Message__| Annuler le message
 qstr_{s3}|{s3}
 qstr_{s8}|{s8}
-qstr__Send_Message_| Send Message {***};;;;
-qstr__Cancel_Message_| Cancel Message {***};;;;
-qstr__RETURN_| RETURN {***};;;;
-qstr_Gazing_at_the_maimed|Gazing at the maimed and the dead of your latest victory. You order your troops to{***};;;;
-qstr_Bury_the_dead_gather|Bury the dead, gather and share any loot as is common.{***};;;;
-qstr_You_estimate_this_wi|You estimate this will take 3 hours.{***};;;;
-qstr_Leave_the_dead_to_ro|Leave the dead to rot but take first claim on the looted corpses.{***};;;;
-qstr_You_estimate_this_wil|You estimate this will take 2 hour.{***};;;;
-qstr_Bury_the_dead_and_le|Bury the dead and leave all the loot.{***};;;;
-qstr_You_estimate_this_will|You estimate this will take 2 hours.{***};;;;
-qstr_Leave_quickly_and_pr|Leave quickly and press on with your journey.{***};;;;
-qstr_Your_victory_has_inc|Your victory has increased the morale of your men.{***};;;;
-qstr_You_estimate_this_will_|You estimate this will take 1 hour.{***};;;;
-qstr_Burn_the_dead_in_an_|Burn the dead in an offering to R'hllor, gather and share any loot as is common.{***};;;;
-qstr_Burn_the_dead_in_an_o|Burn the dead in an offering to R'hllor and leave all the loot.{***};;;;
-qstr_Drown_the_dead_in_an|Drown the dead in an offering to the Drowned God, gather and share any loot as is common.{***};;;;
-qstr_Drown_the_dead_in_an_|Drown the dead in an offering to the Drowned God and leave all the loot.{***};;;;
-qstr_Bury_or_burn_the_dea|Bury or burn the dead, gather and share any loot as is common.{***};;;;
-qstr_After_the_bloody_bat|After the bloody battle you decide to:{***};;;;
-qstr_Deal_with_any_women_|Deal with any women, children and some companions of the wounded and dead.{***};;;;
-qstr_Join_some_of_the_oth|Join some of the others and try to gather as much gold as possible.{***};;;;
-qstr_The_wealth_provided_|The wealth provided by your master is enough. You fall in line and do as your told.{***};;;;
-qstr_Your_lord_is_not_hap|Your lord is not happy and expresses this openly with you. He does not associate with sycophants.{***};;;;
-qstr_Your_lord_gifts_you_|Your lord gifts you some iron rings and a few stags as a symbol of your bravery.{***};;;;
-qstr_Your_lord_gifts_you_a|Your lord gifts you a warriors bracelet as a reward for your courage.{***};;;;
-qstr_You_and_your_lord_sh|You and your lord share some cheers and he congratulates you on the victory.{***};;;;
+qstr__Send_Message_| Envoyer le message
+qstr__Cancel_Message_| Annuler le message
+qstr__RETURN_| RETOUR 
+qstr_Gazing_at_the_maimed|Vous contemplez les mutilés et les morts de votre dernière victoire. Vours ordonnez à vos troupes de 
+qstr_Bury_the_dead_gather|Enterrer les morts, rassembler et partager tout le butin comme cela est courant.
+qstr_You_estimate_this_wi|Vous estimez que cela prendra 3 heures.
+qstr_Leave_the_dead_to_ro|Laisser les morts pourrir mais prendre une partie du butin sur les cadavres.
+qstr_You_estimate_this_wil|Vous estimez que cela prendra 2 heures.
+qstr_Bury_the_dead_and_le|Enterrer les morts et laisser tout le butin.
+qstr_You_estimate_this_will|Vous estimez que cela prendra 2 heures.
+qstr_Leave_quickly_and_pr|Quitter rapidement et continuer votre voyage.
+qstr_Your_victory_has_inc|Votre victoire a augmenté le moral de vos hommes.
+qstr_You_estimate_this_will_|Vous estimez que cela prendra 1 heure.
+qstr_Burn_the_dead_in_an_|Enterrer les morts en faisant un offrande à R'hllor, rassembler et partager tout le butin comme cela est courant.
+qstr_Burn_the_dead_in_an_o|Enterrer les morts en faisant un offrande à R'hllor et laisser tout le butin.
+qstr_Drown_the_dead_in_an|Noyer les morts dans une offrande au Dieu noyé, rassembler et partager tout le butin comme cela est courant.
+qstr_Drown_the_dead_in_an_|Noyer les morts dans une offrande au Dieu noyé et laisser tout le butin.
+qstr_Bury_or_burn_the_dea|Enterrer ou brûler les morts, rassembler et partager tout le butin comme cela est courant.
+qstr_After_the_bloody_bat|Après la bataille sanglante, vous décidez de:
+qstr_Deal_with_any_women_|Parler avec les femmes, les enfants et les compagnons des personnes blessés et mortes.
+qstr_Join_some_of_the_oth|Rejoignez les autres et essayez de récolter le plus d'or possible.
+qstr_The_wealth_provided_|La richesse fournie par votre maître est suffisante. Vous rejoignez les rangs et faites comme on vous dit.
+qstr_Your_lord_is_not_hap|Votre seigneur n'est pas heureux et exprime cela ouvertement avec vous. Il ne s'associe pas avec des charognards.
+qstr_Your_lord_gifts_you_|Votre seigneur vous offre des anneaux de fer et quelques cerfs d'argent comme symbole de votre bravoure.
+qstr_Your_lord_gifts_you_a|Votre seigneur vous offre un bracelet guerrier en récompense de votre courage.
+qstr_You_and_your_lord_sh|Vous et votre seigneur partagez des félicitations et il vous félicite pour la victoire.
 qstr_Name:_{s1}^Level:_{r|Nom : {s1}^Niv : {reg1}
 qstr_{s1}^HP:_{reg0}|{s1}^PV : {reg0}
 qstr_{s1}|{s1}
@@ -207,13 +207,13 @@ qstr_{s4}^Ironflesh:_{reg|{s4}^Vigueur : {reg1}^Athlétisme : {reg2}^Bouclier : 
 qstr_{s4}^Archery:_{reg1}|{s4}^Archerie : {reg1}^Arbalète : {reg2}^Jet : {reg3}
 qstr_{s4}|{s4}
 qstr_Equipments:_|Équipements :
-qstr_Please_select_a_comp|Please select a companion as the commander for the coming battle.^^Current commander: {s0}.{***};;;;
+qstr_Please_select_a_comp|Veuillez choisir un compagnon comme commandant pour la bataille à venir. ^^ Commandant actuel: {s0}.
 qstr_{s1}^HP:_{reg1}/{reg|{s1}^PV : {reg1}/{reg2}
 qstr_Arms:|Armes :
 qstr_{s2}^None|{s2}^Rien
 qstr_{s2}^{s3}|{s2}^{s3}
 qstr_{s2}^{s4}{s3}|{s2}^{s4}{s3}
-qstr_{s2}^^Gear:|{s2}^^Gear:{***};;;;
+qstr_{s2}^^Gear:|{s2}^^Équipement:
 qstr_{s2}^^Horse:|{s2}^^Cheval :
 qstr_{s2}|{s2}
 qstr__Back_to_shop_|Retour magasin
@@ -227,13 +227,13 @@ qstr_Polearm|Bras
 qstr_Archery|Archerie
 qstr__X_bow_| X-bow {***};;;;
 qstr_Throwing_|Lancer
-qstr___Others|  Others{***};;;;
+qstr___Others|  Autres
 qstr__Mode|Mode
 qstr__to_next_lvl_|(Niv suiv)
 qstr__1.3_|1.3
 qstr_If_you_can_see_this_|Si vous voyez cela, achetez un nouveau cpu. Sans rigoler
 qstr___Weapons_|-Armes-
-qstr___Armour_| -Armour-{***};;;;
+qstr___Armour_| -Armure-
 qstr_________________n/a_|n/a
 qstr_{reg1}|{reg1}
 qstr_Rides|Monté
@@ -265,7 +265,7 @@ qstr__100%__|100%
 qstr__30_|30
 qstr__3333333333_|3333333333
 qstr__Weapons_|-Armes-
-qstr__Armour_|-Armour-{***};;;;
+qstr__Armour_|-Armure-
 qstr_n/a_________________|n/a
 qstr_{s9}_feels...|{s9} s'estime...
 qstr_{s6}|{s6}
@@ -278,16 +278,16 @@ qstr_State:______________|État :
 qstr_Start_page_set__Exte|Start page set (Extended View){***};;;;
 qstr__Faction_Relations_R|Rapport relations entre factions
 qstr_Player^Relation|Relation^Joueur
-qstr_Status|Status{***};;;;
-qstr_Relation|Relation{***};;;;
+qstr_Status|Statut
+qstr_Relation|Relation
 qstr_War|Guerre
 qstr_Casus_Belli|Suspicion
 qstr_Peace|Paix
 qstr_Truce|Trêve
 qstr_Alliance|Alliance
-qstr_Defence_Pact|Defence Pact{***};;;;
-qstr_Trade_Agreement|Trade Agreement{***};;;;
-qstr_{s60}|{s60}{***};;;;
+qstr_Defence_Pact|Pacte de défense
+qstr_Trade_Agreement|Accord commercial
+qstr_{s60}|{s60}
 qstr_{reg59?{reg59}_days:|{reg59?{reg59} jours:}
 qstr_{reg61}|{reg61}
 qstr_Loyal|Idéale
@@ -296,7 +296,7 @@ qstr_Fond|Excellente
 qstr_Gracious|Très bonne
 qstr_Friendly|Amicale
 qstr_Supportive|Cordiale
-qstr_Favourable|Favourable{***};;;;
+qstr_Favourable|Favorable
 qstr_Cooperative|Coopérative
 qstr_Accepting|Tolérante
 qstr_Indifferent|Neutre
@@ -317,9 +317,9 @@ qstr__Character_&_Compani|Héros et Compagnons
 qstr__Done_|Continuer
 qstr_Your_supporters|Vos alliés
 qstr_The_Vale|The Vale{***};;;;
-qstr_Dragonstone|Dragonstone{***};;;;
-qstr_Norvos|Norvos{***};;;;
-qstr_The_North|The North{***};;;;
+qstr_Dragonstone|Peyredragon
+qstr_Norvos|Norvos
+qstr_The_North|Le Nord
 qstr_The_Riverlands|The Riverlands{***};;;;
 qstr_The_Reach|The Reach{***};;;;
 qstr_All_Sovereignties|Toutes Factions
@@ -342,7 +342,7 @@ qstr_The_Stormlands|The Stormlands{***};;;;
 qstr_My_Boats|My Boats{***};;;;
 qstr_Boats_for_Sale|Boats for Sale{***};;;;
 qstr_No_ships_for_sale^in|No ships for sale^in this town.{***};;;;
-qstr_No_Name|No Name{***};;;;
+qstr_No_Name|Pas de nom
 qstr_{reg7}._Ship|{reg7}. Ship{***};;;;
 qstr_Flagship|Flagship{***};;;;
 qstr_Very_Good|Very Good{***};;;;
@@ -526,7 +526,7 @@ qstr_Back_to_Siege|Back to Siege{***};;;;
 qstr_Your_Siege_Camp|Your Siege Camp{***};;;;
 qstr_You_are_besieging_th|You are besieging the enemy.^Here you can manage your camp's resources.{***};;;;
 qstr_Send_Foragers:|Send Foragers:{***};;;;
-qstr_^Send_men_to_forage_|^Send men to forage nearby. They return with extra food every half day.{***};;;;
+qstr_^Send_men_to_forage_|^Envoyer des hommes chercher de la nourriture à proximité. Ils reviennendront avec de la nourriture supplémentaire chaque demi-journée.
 qstr_Forty_men_are_needed|Forty men are needed.{***};;;;
 qstr_Fortify_Camp:|Fortify Camp:{***};;;;
 qstr_^Fortify_your_camp_w|^Fortifiez votre camp avec des défenses de base. Les hommes engagés dans ce travail difficile auront besoin d'une récompense de 200 cerfs d'argent, ou vous pourriez faire face à des problèmes.
@@ -737,9 +737,9 @@ qstr_{reg11}_{reg12}_{reg|{reg11}, {reg12}, {reg13}{***};;;;
 qstr_Your_Camp|Your Camp{***};;;;
 qstr_You_stop_to_rest.^He|You stop to rest.^Here you can manage your camp's resources.{***};;;;
 qstr_Send_Scouts:|Send Scouts:{***};;;;
-qstr_^Sending_scouts_ahea|^Sending scouts ahead of the army will increase your chances of spotting enemies. However, these men always move very exposed, so their life expectancy is low.{***};;;;
+qstr_^Sending_scouts_ahea|^Envoyer des éclaireurs avant l'armée augmentera vos chances de repérer les ennemis. Cependant, ces hommes sont très exposés, donc leur espérance de vie est faible.
 qstr_Thirty_men_are_neede|Thirty men are needed.{***};;;;
-qstr_^Send_men_to_forage_a|^Send men to forage as your army travels. They return with extra food every half day.{***};;;;
+qstr_^Send_men_to_forage_a|^Envoyer des hommes chercher de la nourriture pendant que votre armée voyage. Ils reviennendront avec de la nourriture supplémentaire chaque demi-journée.
 qstr_Twenty_men_are_neede|Twenty men are needed.{***};;;;
 qstr_^Fortify_your_camp_wi|^Fortifiez votre camp avec des défenses de base. Les hommes engagés dans ce travail difficile auront besoin d'une récompense de 200 cerfs d'argent, ou vous pourriez vous retrouver en difficulté.
 qstr_Your_Settlement|Your Settlement{***};;;;
@@ -991,7 +991,7 @@ qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?était:est} prisonnier à {s3}.
 qstr_{s2}_{reg3?was:has_b|{s2} {reg3?était:est} aux mains de ses ennemis.
 qstr_{reg3?{s2}_s_locatio|{reg3?L'endroit où {s2} se trouvait était inconnu: Je ne sais pas où est {s2}}.
 qstr_{s6}_has_joined_your|{s6} a rejoint votre groupe.
-qstr_You_now_owe_{reg2}_s|You now owe {reg2} silver stags to {s1}.{***};;;;
+qstr_You_now_owe_{reg2}_s|You now owe {reg2} cerfs d'argent to {s1}.{***};;;;
 qstr_Royal_guardian|Royal guardian{***};;;;
 qstr_Renown_value_for_thi|La victoire augmente votre renommée de {reg8}.
 qstr_You_have_run_into_a_|Vous êtes tombé dans une embuscade !
@@ -1112,8 +1112,8 @@ qstr_You_lost_{reg12}_rig|You lost {reg12} right to rule.{***};;;;
 qstr_Your_claims_to_rule_|Your claims to rule fall on deaf ears.{***};;;;
 qstr_You_gained_{reg12}_b|You gained {reg12} bardic reputation.{***};;;;
 qstr_You_lost_{reg12}_bar|You lost {reg12} bardic reputation.{***};;;;
-qstr_You_received_{reg12}|You received {reg12} silver stags.{***};;;;
-qstr_This_performance_cos|This performance cost you {reg12} silver stags.{***};;;;
+qstr_You_received_{reg12}|You received {reg12} cerfs d'argent.{***};;;;
+qstr_This_performance_cos|This performance cost you {reg12} cerfs d'argent.{***};;;;
 qstr_lack_of_room|lack of room{***};;;;
 qstr_A_{s1}_dies|A {s1} dies{***};;;;
 qstr_A_{s1}_is_wounded|A {s1} is wounded{***};;;;
@@ -1213,8 +1213,8 @@ qstr_Missi_Dominici_{s65}|Missi Dominici {s65}
 qstr_{s65}|{s65}
 qstr_{s10}{reg0?__who{s60|{s10}{reg0? (qui{s60}):}
 qstr_{s11}__{s61}_|{s11} ({s61})
-qstr_{reg0}_silver_stags_|{reg0} silver stags added to treasury.{***};;;;
-qstr_{reg0}_silver_stags_r|{reg0} silver stags removed from treasury.{***};;;;
+qstr_{reg0}_silver_stags_|{reg0} cerfs d'argent added to treasury.{***};;;;
+qstr_{reg0}_silver_stags_r|{reg0} cerfs d'argent removed from treasury.{***};;;;
 qstr_{s1}_and_{s2}_have_e|{s1} et {s2} ont conclu une alliance.
 qstr_{s15}_complies_with_|{s15} complies with the new alliance by attacking {s16}.{***};;;;
 qstr_{s1}_and_{s2}_have_c|{s1} et {s2} ont conclu une alliance.
@@ -1225,18 +1225,18 @@ qstr_{s5}_patrol|{s5} en patrouille
 qstr_Transfer_to_{s5}|Transféré {s5}
 qstr_{s5}_scout|{s5} en repérage
 qstr_.|.
-qstr_^The_village_has_a_h|^The village has a herd of {reg4} cattle.^{***};;;;
-qstr_^The_village_has_{re|^The village has {reg4} sickly auroch.^{***};;;;
-qstr_^The_poor_villagers_|^The poor villagers have no cattle.^{***};;;;
+qstr_^The_village_has_a_h|^Le village a un troupeau de {reg4} bovins.^
+qstr_^The_village_has_{re|^Le village a {reg4} auroch malades.^
+qstr_^The_poor_villagers_|^Les pauvres villageois n'ont pas de bétail.
 qstr_^I_write_this_from_a|Je vous écris ceci d'une colline voisine, car le village est en train d'être attaqué.
-qstr_^The_village_has_bee|^The village has been burnt to the ground ^and the inhabitants scattered. There is no reason for me to remain here, my lord.{***};;;;
+qstr_^The_village_has_bee|^Le village a été incendié ^et les habitants dispersés. Il n'y a aucune raison pour moi de rester ici, mon seigneur.
 qstr_^and_food_for_{reg7}|^et de nourriture pour {reg7} jours.
 qstr_^|^
 qstr_{s7}_{s6}|{s7} {s6},{***};;;;
 qstr_The_following_lords_a|The following lords are held prisoner here:^{s7}{***};;;;
 qstr_I_am_aware_of_no_lor|I am aware of no lords being held prisoner here.{***};;;;
 qstr_The_drink_in_{s21}_s|The drink in {s21}'s draughty castle is good enough,^though the company leaves much to be desired.^The guard is ever watchful and I fear they suspect me.{***};;;;
-qstr_^Tonight_I_shall_tak|^Tonight I shall take care of that business we had discussed earlier.{***};;;;
+qstr_^Tonight_I_shall_tak|^Ce soir, je m'occuperai de cette affaire dont nous avons discuté plus tôt.
 qstr_^I_am_awaiting_furth|^J'attends d'autres ordres, mon seigneur.
 qstr__day.| day.{***};;;;
 qstr__days.| days.{***};;;;
@@ -1294,7 +1294,7 @@ qstr_{s5}_I_would_test_my|{s5} I would test myself against thy sword, if you are
 qstr_{s5}_Your_renown_in_|{s5} Your renown in battle is such that I would be well schooled to have fought against you. Shall we duel for the pleasure of a good challenge?{***};;;;
 qstr_{s5}_I_have_heard_yo|{s5} I have heard you are a lowly opponent and not fit for sport. Yet your presence offends me. Let us duel so that I may carve the stench away from thee.{***};;;;
 qstr_{s5}__Please_except_|{s5}  Please except this gift to comfort you on your journeys.{***};;;;
-qstr___The_road_ahead_is_|  The road ahead is hostile, and I am in need of assistance for any altercations that may arise. I would pay you {reg16} silver stags for such assistance.{***};;;;
+qstr___The_road_ahead_is_|  The road ahead is hostile, and I am in need of assistance for any altercations that may arise. I would pay you {reg16} cerfs d'argent for such assistance.{***};;;;
 qstr_{s5}__choice_5|{s5}  choice 5{***};;;;
 qstr_{s4}{s5}|{s4}{s5}{***};;;;
 qstr_Ser_Errand_boy|Ser Errand boy,{***};;;;
@@ -1559,7 +1559,7 @@ qstr_Build_your_personal_|Build your personal settlement.{***};;;;
 qstr_You_already_have_a_s|You already have a settlement built. Destroy your current settlement if you want to move it here.{***};;;;
 qstr_You_don_t_have_enough|Vous n'avez pas assez d'argent.
 qstr_You_need_to_have_mor|You need to have more than thirty men to start this job.{***};;;;
-qstr_Your_men_await_your_|Your men await your orders to start building the settlement. There is enough material collected so far, and what may be missing can be purchased in nearby villages.^^Total Cost: 5000 silver stags.^Time needed: 6 hours.{***};;;;
+qstr_Your_men_await_your_|Your men await your orders to start building the settlement. There is enough material collected so far, and what may be missing can be purchased in nearby villages.^^Total Cost: 5000 cerfs d'argent.^Time needed: 6 hours.{***};;;;
 qstr_{s2}^^_{s3}|{s2}^^ {s3}{***};;;;
 qstr_Wait_here_for_some_t|Wait here for some time.{***};;;;
 qstr_Camping_allows_your_|Camping allows your men to rest for a while and recover from the hard life of travels. It also allows you to forage, increasing your food supplies. This is particularly helpful when campaigning in enemy territory, where it is difficult to buy supplies.{***};;;;
@@ -1685,7 +1685,7 @@ qstr_Scars:^^{s1}These_in|Scars:^^{s1}These injuries have become permanent. They
 qstr_Lifetime_wounds:_{re|Lifetime wounds: {reg1} so far.{***};;;;
 qstr_Current_party_size_l|L'effectif maximal du groupe est actuellement de {reg0}.^^Renommée : {s34}^Commandement : {s2}{reg32}^Charisme : {s3}{reg33}^Fiefs: {s6}{reg35}^Bateaux (only in sea): {s7}{reg2}^^{playername} peut commander efficacement {reg36} troupes.^{reg59?Elle:Il} a actuellement {reg37}.
 qstr_^No_food:___{reg7}|^Pas de nourriture : -{reg7}
-qstr_^Wage_debt:___{reg7}|^Wage debt:  -{reg7}{***};;;;
+qstr_^Wage_debt:___{reg7}|^Dette salariale:  -{reg7}
 qstr_Currently_falling_fr|Currently falling from: +{***};;;;
 qstr_Currently_rising_fro|Currently rising from: {***};;;;
 qstr_^^Player_currently_h|^^Le joueur a actuellement plus de troupes que ce qu'il peut gérer efficacement.
@@ -1876,7 +1876,7 @@ qstr__Your_own_life_seems| Your own life seems not so bad, as you see these poor
 qstr__Time_and_neglect_ha| Time and neglect has ruined what once was. in Roman times this was the main wall defending the southern towns from the ravages of Caledonia. But life can still be found in the rubble...^^(Press K){***};;;;
 qstr__The_magnificence_of| The magnificence of this place still surprises you. When will men return to build defences like this?.^^(Press K){***};;;;
 qstr_You_visit_a_septry.|You visit a septry.{***};;;;
-qstr_You_arrive_at_an_Inn|You arrive at an Inn. Here you can talk to the locals or hire men.^^(Press K){***};;;;
+qstr_You_arrive_at_an_Inn|Vous arrivez à an Inn. Here you can talk to the locals or hire men.^^(Press K){***};;;;
 qstr_Spawned_{s13}|Spawned {s13}{***};;;;
 qstr_You_must_stay_behind|Vous devez rester derrière la ligne, le point ne compte pas.
 qstr_End_the_sparring_mat|Fin du combat d'entraînement ?
@@ -1884,11 +1884,11 @@ qstr_Do_you_wish_to_give_|Do you wish to give up the fight?{***};;;;
 qstr_You_ve_lost_a_total_|You've lost a total number of {reg2} duels.{***};;;;
 qstr_You_ve_won_a_total_n|You've won a total number of {reg2} duels{***};;;;
 qstr_Tutorial|Tutoriel
-qstr__________Keys_______| --------Keys---------- ^- Shield Bash (Right Click + Left Click)^- Fire Arrow (Key H) ^Warcry (Key B) ^- Horn (Key U, heal allies a little and at long distance) ^- Battlecry (Key U) ^- Banner Heal (Key J, heal allies a lot and at short distance)^- See all Names (Key Down Alt) ^- Suggestion: You deal more damage by striking from behind, and if you attack a horse with spear.^^(Press K){***};;;;
-qstr__________Keys________| --------Keys---------- ^- Shield Bash (Right Click + Left Click)^- Fire Arrow (Key H) ^Warcry (Key B) ^- Horn (Key U, heal allies a little and at long distance) ^- Battlecry (Key U) ^- Banner Heal (Key J, heal allies a lot and at short distance)^- See all Names (Key Down Alt) ^- Suggestion: You deal more damage by striking from behind, and if you attack a horse with spear.^^(press K to finish reading){***};;;;
+qstr__________Keys_______|--------Touches---------- ^- Coup de Bouclier (Clic droit + Clic gauche)^- Flèche de feu (Touche H) ^Cri de guerre (Touche B) ^- Corne (Touche U, soigne les alliés un peu - longue distance) ^- Cri de bataille (Touche U) ^- Bannière de soin (Touche J, soigne beaucoup les alliés - courte distance)^- Voir tous les noms (Touche Alt) ^- Suggestion: Vous infligez plus de dégâts en frappant par derrière, et si vous attaquez un cheval avec une lance.^^(Appuyez sur K)
+qstr__________Keys________|--------Touches---------- ^- Coup de Bouclier (Clic droit + Clic gauche)^- Flèche de feu (Touche H) ^Cri de guerre (Touche B) ^- Corne (Touche U, soigne les alliés un peu - longue distance) ^- Cri de bataille (Touche U) ^- Bannière de soin (Key J, soigne beaucoup les alliés - courte distance)^- Voir tous les noms (Touche Alt) ^- Suggestion: Vous infligez plus de dégâts en frappant par derrière, et si vous attaquez un cheval avec une lance.^^(Appuyez sur K pour terminer la lecture)
 qstr__Dun_Taruo_is_today_| Dun Taruo is today known as Burghead, a small fishing village. But back then it was the largest known Pictish fort.^ Placed on a peninsula stretching into the North Sea. It's believed to have been one of the 'capitals' of the Picts.^The earliest ramparts at Burghead were probably built around 400AD, and were wooden palisades.^^(Press K){***};;;;
 qstr____EARLIEST_RECORD:_| - EARLIEST RECORD: Duin Ollaigh^-DATE: 685. In the Annals of Ulster^- MEANING: possibly of GOIDELIC dun 'fort' of Ollach.^- Actual Place: DUNOLLY (Scotland)^- In Annals of Ulster is described as 'Duin Ollaich meic Briuin in the territory of the Cruithentuath' in the 'Cattle Raid of Cooley'.^^(Press K){***};;;;
-qstr__________Keys_________| --------Keys---------- ^- Shield Bash (Right Click + Left Click)^- Fire Arrow (Key H) ^Warcry (Key B) ^- Horn (Key U, heal allies a little and at long distance) ^- Battlecry (Key U)^- See all Names (Key Down Alt) ^- Banner Heal (Key J, heal allies a lot and at short distance) ^- Suggestion: You deal more damage by striking from behind, and if you attack a horse with spear.^^(press K to finish reading){***};;;;
+qstr__________Keys_________|--------Touches---------- ^- Coup de Bouclier (Clic droit + Clic gauche)^- Flèche de feu (Touche H) ^Cri de guerre (Touche B) ^- Corne (Touche U, soigne les alliés un peu - longue distance) ^- Cri de bataille (Touche U)^- Voir tous les noms (Touche Alt) ^- Bannière de soin (Touche J, soigne beaucoup les alliés - courte distance) ^- Suggestion: Vous infligez plus de dégâts en frappant par derrière, et si vous attaquez un cheval avec une lance.^^(Appuyez sur K pour terminer la lecture)
 qstr__Crannogs_are_partia| Crannogs are partially or entirely artificial islands, usually built in lakes, rivers and estuarine waters.^ Typically constructed with layers of stone, brushwood, tree trunks and soil,^a good place to hunt wildfowl and fish, as well as keep livestock safe from marauders.^^(press K to finish reading){***};;;;
 qstr__Legend_and_mystery_| Legend and mystery is born here.^ The birthplace of King Arthur and^ the home of Merlin the Magician^whose cave is below at the sandy shore.^^(press K to finish reading){***};;;;
 qstr__He_who_once_ruled_a| He who once ruled a nation^ was encircled by fire;^no troop of friends,^strong princes,^stood around him:^they ran to the woods^to save their lives.^-Beowulf-^^(press K to finish reading){***};;;
@@ -1967,12 +1967,12 @@ qstr_Villagers|Villageois
 qstr_The_time_for_talk_is|The time for talk is over. {s1} is waiting to begin the duel.{***};;;;
 qstr_Ambush!_The_enemy_ha|Ambush! The enemy has manoeuvred to gain a good position, and you fell into an ambush.^^Being ambushed puts you in a poor and disorganized defensive position, and your men will have morale problems and reduced ability to cause damage to your enemies.^^{***};;;;
 qstr_You_have_encountered|Vous avez rencontré {s1}.^^Le seigneur de guerre encourage ses hommes avec un discours vibrant. Vos ennemis ont un moral très élevé.^^
-qstr_You_have_encountered_|You have encountered {s1}.^^The warlord gathers his men to pray and invoke the protection of their god. Your enemies have high morale.^^{***};;;;
-qstr_You_have_encountered_{|You have encountered {s1}.^^Before we were prepared, we were surprised by enemy missile troops. They caused some casualties.^^{***};;;;
-qstr_You_have_encountered_{s|You have encountered {s1}.{***};;;;
+qstr_You_have_encountered_|Vous avez rencontré{s1}.^^The warlord gathers his men to pray and invoke the protection of their god. Your enemies have high morale.^^{***};;;;
+qstr_You_have_encountered_{|Vous avez rencontré{s1}.^^Before we were prepared, we were surprised by enemy missile troops. They caused some casualties.^^{***};;;;
+qstr_You_have_encountered_{s|Vous avez rencontré{s1}.{***};;;;
 qstr_You_have_engaged_{s1|Vous attaquez {s1} tandis qu'ils pillent {s3}.
 qstr_You_were_caught_by_{|Vous avez été {attaqué/attaquée} par {s1} tandis que vos forces pillaient {s3}.
-qstr_You_have_encountered_{s1|You have encountered {s1}. You have {reg10} troops fit for battle.{***};;;;
+qstr_You_have_encountered_{s1|Vous avez rencontré{s1}. You have {reg10} troops fit for battle.{***};;;;
 qstr_{s2}^^You_overhear_o|{s2}^^You overhear one of your more experienced men grumbling about the lack of a battle plan, and you make a mental note to find someone that can make one.^^{***};;;;
 qstr_Your_men_feel_uneasy|Your men feel uneasy about attacking innocents.{***};;;;
 qstr_Your_men_feel_uneasy_|Your men feel uneasy about attacking traders.{***};;;;
@@ -2023,60 +2023,60 @@ qstr_You_do_not_have_enoug|You do not have enough money to pay men to demolish y
 qstr_settlement_demolishe|settlement demolished!{***};;;;
 qstr_You_estimate_your_pr|You estimate your prisoners here have a {reg2}% chance of escape.{***};;;;
 qstr_Currently_{reg1}_pri|Currently {reg1} prisoners are working here and {reg2} guards are on duty.{***};;;;
-qstr___{reg1}_silver_stag| ({reg1} silver stags per day){***};;;;
+qstr___{reg1}_silver_stag| ({reg1} cerfs d'argent per day){***};;;;
 qstr_You_are_in_no_condit|You are in no condition to work.{***};;;;
 qstr_You_are_paid_for_you|You are paid for your labour.{***};;;;
-qstr_Some_of_the_prisoner|Some of the prisoners you have working in the mine managed to escape.^The remaining prisoners earned you {reg1} silver stags this week.{***};;;;
-qstr_The_prisoners_you_ha|The prisoners you have working in the mine earned you {reg1} silver stags this week.{***};;;;
-qstr_Some_of_the_prisoners|Some of the prisoners you have working in the iron mine managed to escape.^The remaining prisoners earned you {reg1} silver stags this week.{***};;;;
-qstr_The_prisoners_you_hav|The prisoners you have working in the iron mine earned you {reg1} silver stags this week.{***};;;;
-qstr_You_have_discovered_|You have discovered Hollow Hill. You gained 200xp.{***};;;;
+qstr_Some_of_the_prisoner|Some of the prisoners you have working in the mine managed to escape.^The remaining prisoners earned you {reg1} cerfs d'argent this week.{***};;;;
+qstr_The_prisoners_you_ha|The prisoners you have working in the mine earned you {reg1} cerfs d'argent this week.{***};;;;
+qstr_Some_of_the_prisoners|Some of the prisoners you have working in the iron mine managed to escape.^The remaining prisoners earned you {reg1} cerfs d'argent this week.{***};;;;
+qstr_The_prisoners_you_hav|The prisoners you have working in the iron mine earned you {reg1} cerfs d'argent this week.{***};;;;
+qstr_You_have_discovered_|Vous avez découvert Hollow Hill. You gained 200xp.{***};;;;
 qstr_You_have_dealt_with_|You have dealt with the Wildling threat. You must return to King Robb Stark.{***};;;;
 qstr_You_have_failed_to_d|You have failed to deal with the Wildling threat. You must return to King Robb Stark.{***};;;;
-qstr_You_have_discovered_C|You have discovered Craster's Keep. You gained 200xp.{***};;;;
+qstr_You_have_discovered_C|Vous avez découvert Craster's Keep. You gained 200xp.{***};;;;
 qstr_Even_though_you_were|Even though you were injured, you still manage to find your way to the castle halls.{***};;;;
 qstr_You_finally_manage_t|You finally manage to find your way to the hall.{***};;;;
 qstr_You_manage_to_make_i|You manage to make it out alive.{***};;;;
-qstr_You_have_discovered_t|You have discovered the Inn of the Kneeling Man. You gained 200xp.{***};;;;
-qstr___{reg1}_silver_stags| ({reg1} silver stags per night){***};;;;
-qstr_You_have_discovered_th|You have discovered the Old Stone Bridge. You gained 200xp.{***};;;;
-qstr_You_have_discovered_I|You have discovered Illyrio's Manse. You gained 200xp.{***};;;;
+qstr_You_have_discovered_t|Vous avez découvert the Inn of the Kneeling Man. You gained 200xp.{***};;;;
+qstr___{reg1}_silver_stags| ({reg1} cerfs d'argent per night){***};;;;
+qstr_You_have_discovered_th|Vous avez découvert the Old Stone Bridge. You gained 200xp.{***};;;;
+qstr_You_have_discovered_I|Vous avez découvert Illyrio's Manse. You gained 200xp.{***};;;;
 qstr_The_castle_has_been_|The castle has been re-built!{***};;;;
 qstr_It_seems_some_slaver|It seems some slavers was using this as a hideout. Be prepared for a battle!{***};;;;
-qstr_You_arrive_at_Evenfa|You arrive at Evenfall harbour.{***};;;;
-qstr_You_arrive_at_the_ha|You arrive at the harbour of Oldoak.{***};;;;
-qstr_You_arrive_at_Greens|You arrive at Greenstone harbour.{***};;;;
-qstr_You_arrive_at_Old_Wy|You arrive at Old Wyk harbour.{***};;;;
-qstr_You_arrive_at_Fair_I|You arrive at Fair Isle harbour.{***};;;;
-qstr_You_arrive_at_Long_S|You arrive at Long Sister harbour.{***};;;;
-qstr_You_arrive_at_Sweet_|You arrive at Sweet Sister harbour.{***};;;;
-qstr_You_arrive_at_a_natu|You arrive at a natural harbour.{***};;;;
-qstr_You_arrive_at_Eastwa|You arrive at Eastwatch harbour.{***};;;;
-qstr_You_arrive_at_Orange|You arrive at Orange Shore harbour.{***};;;;
-qstr_You_arrive_at_Grimst|You arrive at Grimston harbour.{***};;;;
-qstr_You_arrive_at_Oakens|You arrive at Oakenshield harbour.{***};;;;
-qstr_You_arrive_at_Greysh|You arrive at Greyshield harbour.{***};;;;
-qstr_You_arrive_at_the_har|You arrive at the harbour of Iron Holt.{***};;;;
-qstr_You_arrive_at_Orkmon|You arrive at Orkmont harbour.{***};;;;
-qstr_You_arrive_at_Blackt|You arrive at Blacktyde harbour.{***};;;;
-qstr_You_arrive_at_Claw_I|You arrive at Claw Isle harbour.{***};;;;
-qstr_You_arrive_at_Rook_s|You arrive at Rook's Rest harbour.{***};;;;
-qstr_You_arrive_at_a_harb|You arrive at a harbour.{***};;;;
-qstr_You_have_discovered_S|You have discovered Shandystone. You gained 200xp.{***};;;;
-qstr_You_have_discovered_Q|You have discovered Queenscrown. You gained 200xp.{***};;;;
-qstr_You_have_discovered_the|You have discovered the Boneway. You gained 200xp.{***};;;;
-qstr_You_have_discovered_the_|You have discovered the Broken Arm. You gained 200xp.{***};;;;
-qstr_You_have_discovered_N|You have discovered Nagga's Ribs. You gained 200xp.{***};;;;
+qstr_You_arrive_at_Evenfa|Vous arrivez à Evenfall harbour.{***};;;;
+qstr_You_arrive_at_the_ha|Vous arrivez à the harbour of Oldoak.{***};;;;
+qstr_You_arrive_at_Greens|Vous arrivez à Greenstone harbour.{***};;;;
+qstr_You_arrive_at_Old_Wy|Vous arrivez à Old Wyk harbour.{***};;;;
+qstr_You_arrive_at_Fair_I|Vous arrivez à Fair Isle harbour.{***};;;;
+qstr_You_arrive_at_Long_S|Vous arrivez à Long Sister harbour.{***};;;;
+qstr_You_arrive_at_Sweet_|Vous arrivez à Sweet Sister harbour.{***};;;;
+qstr_You_arrive_at_a_natu|Vous arrivez à a natural harbour.{***};;;;
+qstr_You_arrive_at_Eastwa|Vous arrivez à Eastwatch harbour.{***};;;;
+qstr_You_arrive_at_Orange|Vous arrivez à Orange Shore harbour.{***};;;;
+qstr_You_arrive_at_Grimst|Vous arrivez à Grimston harbour.{***};;;;
+qstr_You_arrive_at_Oakens|Vous arrivez à Oakenshield harbour.{***};;;;
+qstr_You_arrive_at_Greysh|Vous arrivez à Greyshield harbour.{***};;;;
+qstr_You_arrive_at_the_har|Vous arrivez à the harbour of Iron Holt.{***};;;;
+qstr_You_arrive_at_Orkmon|Vous arrivez à Orkmont harbour.{***};;;;
+qstr_You_arrive_at_Blackt|Vous arrivez à Blacktyde harbour.{***};;;;
+qstr_You_arrive_at_Claw_I|Vous arrivez à Claw Isle harbour.{***};;;;
+qstr_You_arrive_at_Rook_s|Vous arrivez à Rook's Rest harbour.{***};;;;
+qstr_You_arrive_at_a_harb|Vous arrivez à a harbour.{***};;;;
+qstr_You_have_discovered_S|Vous avez découvert Shandystone. You gained 200xp.{***};;;;
+qstr_You_have_discovered_Q|Vous avez découvert Queenscrown. You gained 200xp.{***};;;;
+qstr_You_have_discovered_the|Vous avez découvert the Boneway. You gained 200xp.{***};;;;
+qstr_You_have_discovered_the_|Vous avez découvert the Broken Arm. You gained 200xp.{***};;;;
+qstr_You_have_discovered_N|Vous avez découvert Nagga's Ribs. You gained 200xp.{***};;;;
 qstr_Searching_through_th|Searching through the ruins you found 250 coins.{***};;;;
-qstr_You_have_discovered_O|You have discovered Oldstones. You gained 200xp.{***};;;;
-qstr_You_have_discovered_the_T|You have discovered the Tower of Joy. You gained 200xp.{***};;;;
+qstr_You_have_discovered_O|Vous avez découvert Oldstones. You gained 200xp.{***};;;;
+qstr_You_have_discovered_the_T|Vous avez découvert the Tower of Joy. You gained 200xp.{***};;;;
 qstr_The_rescued_prisoner|The rescued prisoners join your party.{***};;;;
 qstr_It_is_night_and_the_|It is night, and the septry seems quiet.{***};;;;
 qstr_You_feel_good_for_he|You feel good for helping.{***};;;;
 qstr_You_don_t_have_enough_|Vous n'avez pas assez de place.
 qstr_The_Septons_bless_yo|The Septons bless you and you continue on your way.{***};;;;
 qstr_You_need_to_have_more|You need to have more men for this.{***};;;;
-qstr_You_have_discovered_the_C|You have discovered the Crossroads Inn. You gained 200xp{***};;;;
+qstr_You_have_discovered_the_C|Vous avez découvert the Crossroads Inn. You gained 200xp{***};;;;
 qstr_{s9}_wants_you_to_fo|{s9} souhaite que vous suiviez son armée jusqu'à nouvel ordre.
 qstr_{s8}_of_{s9}|{s8} du {s9}
 qstr__Your_own_banner_fli|Votre bannière flotte au-dessus de la porte du château.
@@ -2155,23 +2155,23 @@ qstr_However_since_you_ar|Cependant, puisque que vous n'avez pas prêté allége
 qstr_The_enemy_has_been_f|Les ennemis ont été contraints de battre en retraite. L'assaut est terminé mais le siège continue.
 qstr_As_you_approach_you_|Les gardes du château vous voient arriver, ils souhaitent la bienvenue à leur {souverain/souveraine} et vous ouvrent les portes.
 qstr_As_you_approach_you_a|Les gardes du château vous voient arriver, ils souhaitent la bienvenue à leur {seigneur/dame} et vous ouvrent les portes.
-qstr_^The_Old_Gods_are_wo|^The Old Gods are worshipped by very few here.{***};;;;
-qstr_^The_Old_Gods_are_wor|^The Old Gods are worshipped here, though not by many.{***};;;;
-qstr_^The_Old_Gods_are_wors|^The Old Gods are worshipped by the majority here.{***};;;;
-qstr_^The_Old_Gods_are_do|^The Old Gods are dominantly worshipped here.{***};;;;
-qstr_^The_population_cont|^The population continues to worship other gods...{***};;;;
+qstr_^The_Old_Gods_are_wo|^Les Anciens Dieux sont vénérés par très peu de gens par ici.
+qstr_^The_Old_Gods_are_wor|^Les Anciens Dieux sont vénérés ici, mais pas par beaucoup de monde.
+qstr_^The_Old_Gods_are_wors|^Les Anciens Dieux sont vénérés par la majorité ici.
+qstr_^The_Old_Gods_are_do|^Les Anciens Dieux sont majoritairement vénérés ici.
+qstr_^The_population_cont|^La population continue d'adorer d'autres dieux...
 qstr_^R_hllor_are_worship|^R'hllor est vénéré par très peu de personne ici.
 qstr_^R_hllor_are_worshipp|^R'hllor est vénéré ici, mais pas par beaucoup de monde.
 qstr_^R_hllor_are_worshippe|^R'hllor est vénéré par la majorité ici.
-qstr_^R_hllor_are_dominan|^R'hllor est principalement vénéré ici.
-qstr_^The_Faith_of_the_Se|^The Faith of the Seven are worshipped by very few here.{***};;;;
-qstr_^The_Faith_of_the_Sev|^The Faith of the Seven are worshipped here, though not by many.{***};;;;
-qstr_^The_Faith_of_the_Seve|^The Faith of the Seven are worshipped by the majority here.{***};;;;
-qstr_^The_Faith_of_the_Seven|^The Faith of the Seven are dominantly worshipped here.{***};;;;
-qstr_^The_Drowned_Gods_ar|^The Drowned Gods are worshipped by very few here.{***};;;;
-qstr_^The_Drowned_Gods_are|^The Drowned Gods are worshipped here, though not by many.{***};;;;
-qstr_^The_Drowned_Gods_are_|^The Drowned Gods are worshipped by the majority here.{***};;;;
-qstr_^The_Drowned_Gods_are_d|^The Drowned Gods are dominantly worshipped here.{***};;;;
+qstr_^R_hllor_are_dominan|^R'hllor est majoritairement vénéré ici.
+qstr_^The_Faith_of_the_Se|^La Religion des Sept est vénéré par très peu de gens par ici.
+qstr_^The_Faith_of_the_Sev|^La Religion des Sept est vénéré ici, mais pas par beaucoup de monde.
+qstr_^The_Faith_of_the_Seve|^La Religion des Sept est vénéré par la majorité ici.
+qstr_^The_Faith_of_the_Seven|^La Religion des Sept est majoritairement vénéré ici.
+qstr_^The_Drowned_Gods_ar|^Les dieux noyés sont vénérés par très peu de gens par ici.
+qstr_^The_Drowned_Gods_are|^Les dieux noyés sont vénérés ici, mais pas par beaucoup.
+qstr_^The_Drowned_Gods_are_|^Les dieux noyés sont vénérés par la majorité ici.
+qstr_^The_Drowned_Gods_are_d|^Les dieux noyés sont majoritairement vénérés ici.
 qstr_^No_gods_are_worship|^Aucun dieu n'est adoré ici.
 qstr__This_village_and_th|Ce village et ses alentours vous appartiennent.
 qstr__You_remember_this_v| You remember this village and the surrounding lands belong to {s7}.{***};;;;
@@ -2207,8 +2207,8 @@ qstr_You_fail_to_steal_an|Vous ne parvenez pas à voler de bétail.
 qstr_You_drive_away_{reg1|Vous emportez {reg17} {reg12?têtes:tête} de bétail du troupeau du village.
 qstr_^R_hllor_is_dominant|^R'hllor est principalement vénéré ici.
 qstr_^R_hllor_is_worshipp|^R'hllor est vénéré par très peu de personne ici.
-qstr_^The_Faith_of_the_Seven_|^The Faith of the Seven is dominantly worshipped here.{***};;;;
-qstr_^The_Faith_of_the_Seven_i|^The Faith of the Seven is worshipped here, though not by many.{***};;;;
+qstr_^The_Faith_of_the_Seven_|^La Religion des Sept est majoritairement vénéré ici.
+qstr_^The_Faith_of_the_Seven_i|^La Religion des Sept est vénéré ici, mais pas par beaucoup de monde.
 qstr__As_you_reach_the_ca| As you reach the castle, you are greeted by your men.^{s15}{***};;;;
 qstr_{s11}^{s15}|{s11}^{s15}{***};;;;
 qstr__As_you_reach_the_cas| As you reach the castle, you are greeted by men loyal to {s7}.^{s15}{***};;;;
@@ -2301,14 +2301,14 @@ qstr_{s0}^{s1}_villages_with_|{s0}^Villages avec une prospérité de 0-19 : {reg
 qstr_You_have_deserted_an|Vous avez déserté et êtes maintenant recherch{é/ee}!
 qstr_Your_Outpost_is_buil|Your Outpost is built!{***};;;;
 qstr_You_already_have_an_O|You already have an Outpost built.{***};;;;
-qstr_You_don_t_have_enough_s|You don't have enough silver stags to build a Outpost!{***};;;;
+qstr_You_don_t_have_enough_s|You don't have enough cerfs d'argent to build a Outpost!{***};;;;
 qstr_Your_Outpost_has_bee|Your Outpost has been dismantled!{***};;;;
 qstr_You_don_t_have_an_Ou|You don't have an Outpost built!{***};;;;
-qstr_You_don_t_have_enough_si|You don't have enough silver stags to pay to dismantle your Outpost.{***};;;;
+qstr_You_don_t_have_enough_si|You don't have enough cerfs d'argent to pay to dismantle your Outpost.{***};;;;
 qstr_A_whore_has_been_hir|A whore has been hired.{***};;;;
-qstr_You_don_t_have_enough_sil|You don't have enough silver stags.{***};;;;
+qstr_You_don_t_have_enough_sil|You don't have enough cerfs d'argent.{***};;;;
 qstr_You_pay_the_Whore_an|You pay the Whore and she leaves.{***};;;;
-qstr_You_don_t_have_enough_silv|You don't have enough silver stags!{***};;;;
+qstr_You_don_t_have_enough_silv|You don't have enough cerfs d'argent!{***};;;;
 qstr_A_maester_has_been_h|A maester has been hired.{***};;;;
 qstr_A_Septon_has_been_hi|A Septon has been hired.{***};;;;
 qstr_The_Septon_has_been_|The Septon has been dismissed.{***};;;;
@@ -2416,7 +2416,7 @@ qstr_Harassing_helpless_p|Harassing helpless peasants is certainly not honourabl
 qstr_They_depart_praising|They depart praising your name.{***};;;;
 qstr_It_turns_out_the_fam|It turns out the family's related to the Lannisters. They surely will not be pleased.{***};;;;
 qstr_You_carry_on_your_pa|You carry on your path passing a young boy having the blood drained from his throat.{***};;;;
-qstr_The_family_are_thank|The family are thankful and give you their last silver stags. As they depart they tell you a Lannister always pays his debts.{***};;;;
+qstr_The_family_are_thank|The family are thankful and give you their last cerfs d'argent. As they depart they tell you a Lannister always pays his debts.{***};;;;
 qstr_They_depart_praising_|They depart praising your name. They refuse the gold and instead cite that the Lannisters always pay their debts.{***};;;;
 qstr_You_welcome_the_easy|You welcome the easy victory. You never liked Qohorik's anyway.{***};;;;
 qstr_They_pay_and_go_on_th|They pay and go on their way poorer than before.{***};;;;
@@ -2552,7 +2552,7 @@ qstr_AMBUSH_CANCELLED_DON|AMBUSH CANCELLED, DON'T MOVE WHILE AMBUSHING.{***};;;;
 qstr_Your_troops_enjoy_th|Your troops enjoy the entertainment you and your companions provide.{***};;;;
 qstr_Your_troops_would_be|Your troops would be happier if they had some entertainment.{***};;;;
 qstr_1|1{***};;;;
-qstr_You_gain_{reg0}_silv|You gain {reg0} silver stags from begging. You lose {s2} reputation and {s3} renown{***};;;;
+qstr_You_gain_{reg0}_silv|You gain {reg0} cerfs d'argent from begging. You lose {s2} reputation and {s3} renown{***};;;;
 qstr_You_have_very_bad_fe|You have very bad feelings about this ambush...{***};;;;
 qstr_You_have_bad_feeling|You have bad feelings about this ambush.{***};;;;
 qstr_You_have_good_feelin|You have good feelings about this ambush.{***};;;;
@@ -2642,7 +2642,7 @@ qstr_You_happen_across_an|You happen across an abandoned house. You find some lo
 qstr_Abandoned_house.|Abandoned house.{***};;;;
 qstr_The_adventure_life_i|The adventure, life in the field, the constant training makes you feel strong and well. You are ready to face any challenge.{***};;;;
 qstr_Heal_improved:|Heal improved:{***};;;;
-qstr_Whilst_clambering_in|Whilst clambering in the bushes to take a shit you see a small bag. Inside the bag you find 300 silver stags.{***};;;;
+qstr_Whilst_clambering_in|Whilst clambering in the bushes to take a shit you see a small bag. Inside the bag you find 300 cerfs d'argent.{***};;;;
 qstr_Found_Gold_bag:|Found Gold bag:{***};;;;
 qstr_You_see_a_small_shin|You see a small shiny object on the ground in front of you. Thinking it to be something of use it turns out to be a worthless piece of metal.{***};;;;
 qstr_Found_some_crap:|Found some crap:{***};;;;
@@ -2652,7 +2652,7 @@ qstr_Ditched_in_a_field_w|Ditched in a field with only one wheel you find an aba
 qstr_Wagon_of_Mead.|Wagon of Mead.{***};;;;
 qstr_Loyalist_supporters_|Loyalist supporters from a nearby village have gathered a bounty of food for your troops.{***};;;;
 qstr_Bounty_of_food.|Bounty of food.{***};;;;
-qstr_You_find_a_group_of_|You find a group of men lying dead on the road ahead of you. Searching the bodies you find 200 silver stags.{***};;;;
+qstr_You_find_a_group_of_|You find a group of men lying dead on the road ahead of you. Searching the bodies you find 200 cerfs d'argent.{***};;;;
 qstr_Minor_accident:|Minor accident:{***};;;;
 qstr_The_defected_kingdom|The defected kingdoms seem calm and your reports will confirm that there is no rebellion plot.{***};;;;
 qstr__Possible_Rebellion_|(Possible Rebellion) Rumours say that {s14} is still alive.{***};;;;
@@ -2738,32 +2738,32 @@ qstr_Lord_Varys_has_request|Lord Varys has requested that you meet him behind th
 qstr_Lord_Varys_has_asked|Lord Varys has asked you to deliver a message to Ellaria Sand. You can find her at the {s23}.{***};;;;
 qstr_Quest_updated:_The_M|Quest updated: The Message{***};;;;
 qstr_Lord_Varys_has_asked_|Lord Varys has asked you to deliver a message to Doran Martell, the actual ruler of Dorne. You can find him at the {s23}.{***};;;;
-qstr_You_have_paid_9000_S|You have paid 9,000 Silver Stags.{***};;;;
+qstr_You_have_paid_9000_S|You have paid 9,000 cerfs d'argent.{***};;;;
 qstr_You_ve_received_9_po|You've received 9 pots of Wildfire.{***};;;;
-qstr_You_have_paid_5000_s|You have paid 5,000 silver stags to Ser Bartimus.{***};;;;
+qstr_You_have_paid_5000_s|You have paid 5,000 cerfs d'argent to Ser Bartimus.{***};;;;
 qstr_You_have_received_10|You have received 10 White Harbour Knights.{***};;;;
-qstr_You_have_paid_6000_s|You have paid 6,000 silver stags to Ser Vortimer Crane.{***};;;;
+qstr_You_have_paid_6000_s|You have paid 6,000 cerfs d'argent to Ser Vortimer Crane.{***};;;;
 qstr_You_have_received_10_|You have received 10 Tyrell House Guardsmen.{***};;;;
-qstr_You_have_paid_6000_si|You have paid 6,000 silver stags.{***};;;;
+qstr_You_have_paid_6000_si|You have paid 6,000 cerfs d'argent.{***};;;;
 qstr_You_have_received_9_|You have received 9 Queen's Men{***};;;;
-qstr_You_have_paid_10000_|You have paid 10,000 silver stags.{***};;;;
+qstr_You_have_paid_10000_|You have paid 10,000 cerfs d'argent.{***};;;;
 qstr_A_Faceless_Man_has_j|A Faceless Man has joined your party.{***};;;;
-qstr_You_have_paid_5000_si|You have paid 5,000 silver stags.{***};;;;
+qstr_You_have_paid_5000_si|You have paid 5,000 cerfs d'argent.{***};;;;
 qstr_You_have_received_10_K|You have received 10 Kraken Guards.{***};;;;
 qstr_15_Gold_cloaks_have_|15 Gold cloaks have been added to the Garrison.{***};;;;
-qstr_You_have_paid_5000_sil|You have paid 5,000 silver stags to Steelshanks.{***};;;;
+qstr_You_have_paid_5000_sil|You have paid 5,000 cerfs d'argent to Steelshanks.{***};;;;
 qstr_You_have_received_40|You have received 40 Bolton Levies.{***};;;;
-qstr_You_have_paid_5000_silv|You have paid 5,000 silver stags to Ser Rodrik Cassel.{***};;;;
+qstr_You_have_paid_5000_silv|You have paid 5,000 cerfs d'argent to Ser Rodrik Cassel.{***};;;;
 qstr_You_have_received_40_|You have received 40 Stark Levies.{***};;;;
-qstr_You_have_paid_5000_silve|You have paid 5,000 silver stags to Ser Cregan Karstark.{***};;;;
+qstr_You_have_paid_5000_silve|You have paid 5,000 cerfs d'argent to Ser Cregan Karstark.{***};;;;
 qstr_You_have_received_40_K|You have received 40 Karstark Levies.{***};;;;
-qstr_You_have_paid_5000_silver|You have paid 5,000 silver stags to Ser Franklyn Frey.{***};;;;
+qstr_You_have_paid_5000_silver|You have paid 5,000 cerfs d'argent to Ser Franklyn Frey.{***};;;;
 qstr_You_have_received_40_F|You have received 40 Frey Levies.{***};;;;
-qstr_You_have_paid_5000_silver_|You have paid 5,000 silver stags to Ser Benedict Broom.{***};;;;
+qstr_You_have_paid_5000_silver_|You have paid 5,000 cerfs d'argent to Ser Benedict Broom.{***};;;;
 qstr_You_have_received_40_L|You have received 40 Lannister Levies.{***};;;;
-qstr_Ser_Janis_Lyren_has_a|Ser Janis Lyren has asked you to help find his ancestral home somewhere in or around Essos. He says you will need some tools, at least 50 men and 10,000 silver stags to rebuild it. Be wary of slavers and pirates near to the castle.{***};;;;
+qstr_Ser_Janis_Lyren_has_a|Ser Janis Lyren has asked you to help find his ancestral home somewhere in or around Essos. He says you will need some tools, at least 50 men and 10,000 cerfs d'argent to rebuild it. Be wary of slavers and pirates near to the castle.{***};;;;
 qstr_You_have_now_learnt_|You have now learnt how to read.{***};;;;
-qstr_You_have_paid_2500_s|You have paid 2,500 silver stags to Novice Mollander.{***};;;;
+qstr_You_have_paid_2500_s|You have paid 2,500 cerfs d'argent to Novice Mollander.{***};;;;
 qstr_It_s_the_infamous_cr|It's the infamous criminal, {playername}. Men, we'll arrest this varmint, prepare for battle!{***};;;;
 qstr_Foolish_of_you_to_ge|Foolish of you to get caught like this, {playername}.  Now you shall feel the full wrath of the Brotherhood.{***};;;;
 qstr_Hands_up!__We_re_goi|Hands up!  We're going to bring you in, {playername}... dead or alive.{***};;;;
@@ -2831,13 +2831,13 @@ qstr_{s6}_In_addition_you|{s6} Au total nous avons {reg2} soldats dans votre gro
 qstr_{reg59?She:He}_field|{reg59?She:He} fields {reg2} soldiers.{***};;;;
 qstr_We_currently_have_{re|Nous avons actuellement {reg2} soldats en garnison à {s60}.
 qstr_We_currently_have_an|Nous avons actuellement un revenu de {reg0} cerfs d'argent et un coût de {reg1} cerfs d'argent pour les fiefs et autres.
-qstr_{s6}_We_re_losing_{r|{s6} We're losing {reg0} silver stags due to tax inefficiency. That means {reg1} percent.{***};;;;
+qstr_{s6}_We_re_losing_{r|{s6} We're losing {reg0} cerfs d'argent due to tax inefficiency. That means {reg1} percent.{***};;;;
 qstr_{s6}_Overall_this_su|{s6} Pour l'ensemble, cela représente une somme de {reg0} cerfs d'argent.
-qstr_{reg0}_silver_stags|{reg0} silver stags{***};;;;
+qstr_{reg0}_silver_stags|{reg0} cerfs d'argent{***};;;;
 qstr_no|non
 qstr__We_are_expecting_{r|Nous attendons {reg0} cerfs d'argent de rentes
 qstr__The_troop_wages_for|Les salaires pour {reg0} troupes nous coûtent {reg1} cerfs d'argent.
-qstr_{s61}_and_{reg0}_sil|{s61} and {reg0} silver stags for tariffs{***};;;;
+qstr_{s61}_and_{reg0}_sil|{s61} and {reg0} cerfs d'argent for tariffs{***};;;;
 qstr_Well_{s60}.|Bien, {s60}.
 qstr_{s4}_{s3}._The_tax_r|{s4} {s3}. Le taux des taxes est {s50}.{s59}{s61}. Pour l'ensemble, cela représente une somme de {s62} cerfs d'argent.
 qstr_Tax_rate_for_{s6}:_{|Taux des taxes pour {s6} : {s11}
@@ -2979,10 +2979,10 @@ qstr_{s9}_of_{s3}_asked_y|{s9} de {s3} vous a demandé de livrer {reg5} {s6} à 
 qstr_Escort_the_bishop_to|Escort the bishop to the town of {s8}.{***};;;;
 qstr_Escort_the_merchant_|Escortez la caravane marchande jusqu'à {s8}.
 qstr_Merchant_{s9}_of_{s4|Merchant {s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of the town.{***};;;;
-qstr_The_Guild_master_of_{|The Guild master of {s4} gave you {reg12} silver stags to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the girl back to {s4}.{***};;;;
-qstr_The_Guild_master_of_{s|The Guild master of {s4} promised you {reg12} silver stags if you can make sure that {s12} and {s13} no longer pose a threat to a peace settlement between {s15} and {s14}. In order to do that, you must either convince them or make sure they fall captive and remain so until a peace agreement is made.{***};;;;
+qstr_The_Guild_master_of_{|The Guild master of {s4} gave you {reg12} cerfs d'argent to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the girl back to {s4}.{***};;;;
+qstr_The_Guild_master_of_{s|The Guild master of {s4} promised you {reg12} cerfs d'argent if you can make sure that {s12} and {s13} no longer pose a threat to a peace settlement between {s15} and {s14}. In order to do that, you must either convince them or make sure they fall captive and remain so until a peace agreement is made.{***};;;;
 qstr_The_Guild_master_of_{s1|The Guild master of {s14} has asked you to deal with a group of bandits terrorising the streets of {s14}. They only come out at night, and only attack lone travellers on the streets.{***};;;;
-qstr_The_Guild_master_of_{s10|The Guild master of {s10} asked you to move a cattle herd to {s13}. You will earn {reg8} silver stags in return.{***};;;;
+qstr_The_Guild_master_of_{s10|The Guild master of {s10} asked you to move a cattle herd to {s13}. You will earn {reg8} cerfs d'argent in return.{***};;;;
 qstr__May_I_remind_you_th| May I remind you that currently we are paying medium taxes to your {reg59?ladyship:lordship}?{***};;;;
 qstr__May_I_remind_you_tha| May I remind you that currently we are paying low taxes to your {reg59?ladyship:lordship}? We are infinitely grateful for such generosity.{***};;;;
 qstr__May_I_remind_you_that| May I remind you that currently we are paying high taxes to your {reg59?ladyship:lordship}? Many people are cursing you for your greed.{***};;;;
