@@ -527,11 +527,11 @@ qstr_Your_Siege_Camp|Votre camp de siège
 qstr_You_are_besieging_th|Vous assiégiez l'ennemi. ^ Ici vous pouvez gérer les ressources de votre camp.
 qstr_Send_Foragers:|Envoyer des hommes chercher de la nourriture.
 qstr_^Send_men_to_forage_|^Envoyer des hommes chercher de la nourriture à proximité. Ils reviennendront avec de la nourriture supplémentaire chaque demi-journée.
-qstr_Forty_men_are_needed|Forty men are needed.{***};;;;
-qstr_Fortify_Camp:|Fortify Camp:{***};;;;
+qstr_Forty_men_are_needed|Quarante hommes sont nécessaires.
+qstr_Fortify_Camp:|Fortifier le camp:
 qstr_^Fortify_your_camp_w|^Fortifiez votre camp avec des défenses de base. Les hommes engagés dans ce travail difficile auront besoin d'une récompense de 200 cerfs d'argent, ou vous pourriez faire face à des problèmes.
-qstr_Sixty_men_are_needed|Sixty men are needed.{***};;;;
-qstr_Troop_Tree|Troop Tree{***};;;;
+qstr_Sixty_men_are_needed|Soixante hommes sont nécessaires.
+qstr_Troop_Tree|Arbre de troupes
 qstr_Recruit_Prisoners|Recruit Prisoners{***};;;;
 qstr_Visit_Camp|Visit Camp{***};;;;
 qstr_No_one_is_interested|No one is interested this time.{***};;;;
@@ -649,20 +649,20 @@ qstr_Set_how_much_damage_is_|Set how much damage is dealt from all lords and com
 qstr_Set_how_well_troops_|Set how well troops fight. They fight worst at Beginner level.{***};;;;
 qstr_Campaign_AI_affects_|Campaign AI affects many aspects of the game, like:^- size of bandit parties^- renown loss in battles^- chance of recruiting lords^- taxes^- how lords get reinforcements^- how lords respond to the player's requests{***};;;;
 qstr_Set_the_running_spee|Set the running speed of troops in battle.^^{s8}{***};;;;
-qstr_{s2}_{reg0}|{s2} {reg0}{***};;;;
+qstr_{s2}_{reg0}|{s2} {reg0}
 qstr_Wounded_troops_take_|Wounded troops take damage from blood loss.^^{s8}{***};;;;
 qstr_The_player_will_have|The player will have bodyguards in certain locations.^^{s8}{***};;;;
 qstr_You_can_turn_off_the|You can turn off the invading White Walker armies. Be warned: White Walkers and Wights can only be killed with certain weapons. Novice players or cowards should probably have this turned off.{***};;;;
 qstr_Sets_the_player_as_c|Sets the player as commander of the chosen division. This division will set up immediately left and behind the player on Hold and Follow commands (Wedge will put player on the point). Consider it for bodyguard divisions.{***};;;;
 qstr_Your_player_has_the_|Your player has the chance of falling backwards in battles. This enables a realistic way to overcome the walking backwards exploit.^^{s8}{***};;;;
-qstr_{s3}^^{s4}|{s3}^^{s4}{***};;;;
-qstr_Your_Kingdom|Your Kingdom{***};;;;
-qstr_Name_^{playername}|Name ^{playername}{***};;;;
-qstr_Renown:|Renown:{***};;;;
-qstr_Reputation:|Reputation:{***};;;;
-qstr_Right_to_Rule:|Right to Rule:{***};;;;
-qstr_Money:|Money:{***};;;;
-qstr_Religion:|Religion:{***};;;;
+qstr_{s3}^^{s4}|{s3}^^{s4}
+qstr_Your_Kingdom|Votre Royaume
+qstr_Name_^{playername}|Nom ^{playername}
+qstr_Renown:|Renom:
+qstr_Reputation:|Reputation:
+qstr_Right_to_Rule:|Légitimité à régner:
+qstr_Money:|Argent:
+qstr_Religion:|Religion:
 qstr_Atheist|Atheist{***};;;;
 qstr_Old_Gods_of_the_Fore|Old Gods of the Forest{***};;;;
 qstr_R_hllor|R'hllor{***};;;;
@@ -680,19 +680,19 @@ qstr_Enemies_Killed:|Enemies Killed:{***};;;;
 qstr_Enemies_Wounded:|Enemies Wounded:{***};;;;
 qstr_Allies_Killed:|Allies Killed:{***};;;;
 qstr_Allies_Wounded:|Allies Wounded:{***};;;;
-qstr_Story|Story{***};;;;
+qstr_Story|Histoire
 qstr_Attributes/Skills|Attributes/Skills{***};;;;
 qstr_Wounds|Wounds{***};;;;
-qstr_Quest|Quest{***};;;;
+qstr_Quest|Quêtes
 qstr_Party|Party{***};;;;
-qstr_Relations|Relations{***};;;;
-qstr_Budget|Budget{***};;;;
+qstr_Relations|Relations
+qstr_Budget|Budget
 qstr_Statistics|Statistics{***};;;;
 qstr_Companions|Companions{***};;;;
-qstr_Factions|Factions{***};;;;
+qstr_Factions|Factions
 qstr_Known_Lords|Seigneurs connus
 qstr_Courtship|Courtship{***};;;;
-qstr_Ships|Ships{***};;;;
+qstr_Ships|Bateaux
 qstr_Level:_{reg4}_^Days_|Level: {reg4} ^Days of Adventuring: {reg5}.{***};;;;
 qstr_Settlements_Owned_by|Settlements Owned by You: {reg0}{***};;;;
 qstr_Hostile_Lords:_{reg0|Hostile Lords: {reg0}{***};;;;
