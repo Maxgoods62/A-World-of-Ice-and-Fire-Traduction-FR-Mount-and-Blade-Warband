@@ -20,7 +20,7 @@ qstr_Candidate_#1:_{s1}|Candidat #1 : {s1}
 qstr_Candidate_#2:_{s1}|Candidat #2 : {s1}
 qstr_{s3}_of_{s4}_wishes_|{s3} du {s4} souhaite sélectionner un nouveau maréchal et invite ses vassaux à un conseil. {s1} et {s2} sont les candidats probables.
 qstr_Who_do_you_wish_to_s|Qui voulez-vous soutenir ?
-qstr_{s1}_gives_his_suppo|{s1} vote pour {s2}.
+qstr_{s1}_gives_his_suppo|{s1} apporte son aide à {s2}.
 qstr_Number_of_Supporters|Nombre de partisans : {reg0}
 qstr_{s2}_has_heard_his_v|{s2} a écouté le conseil de ses vassaux. Il nomme {s1} maréchal du {s3}.
 qstr_Done|Quitter
@@ -46,10 +46,10 @@ qstr_Based_on_your_curren|En fonction de votre compétence de "commandement" act
 qstr_You_currently_have_{|Vous avez actuellement {esp3} espions déployés.
 qstr___No_spy_selected.__|  Aucun espion sélectionné.
 qstr___CONTINUE__|  CONTINUER  
-qstr_castle|le château
+qstr_castle|château
 qstr_food_stores.|magasin alimentaires.
 qstr_town|la ville
-qstr_village|le village
+qstr_village|village
 qstr_cattle.|château.
 qstr_You_prepare_a_messag|Vous préparez un message pour votre espion à {s1}, en lui ordonnant de ..
 qstr__Return_| Retour 
@@ -65,18 +65,18 @@ qstr_I_ll_have_the_cattle|Je vais avoir le bétail fiévreux dans les 12 heures 
 qstr_Within_the_next_12_h|Dans les prochaines 12 heures, le grenier va ressembler à une pile de déchets.
 qstr_It_will_take_12_hour|Cela prendra 12 heures ou plus, {Monseigneur/Madame},^mais il devrait avoir tous les hommes, toutes les femmes et tous les enfants qui se batteront dans les rues.
 qstr__You_do_not_have_the|Vous n'avez pas les 500 cerfs d'argent pour financer cette mission.
-qstr_Number_of_men_knocke|Nombre d'hommes blessés : {reg1}
-qstr_Number_of_men_left:_|Nombre d'hommes perdus : {reg1}
+qstr_Number_of_men_knocke|Nombre d'hommes inconscients : {reg1}
+qstr_Number_of_men_left:_|Nombre d'hommes restants : {reg1}
 qstr_Opponents_Beaten:_{r|Ennemis vaincus : {reg1}
 qstr_Opponents_Remaining:|Ennemis restants : {reg1}
-qstr_Remain_in_retirement|Rester en retrait.
+qstr_Remain_in_retirement|Rester à la retraite.
 qstr_Go_back_to_adventuri|Retournez à l'aventure.
 qstr_You_have_retired_at_|Vous avez pris votre retraite au niveau {reg4} après {reg5} jours d'aventure.
 qstr_Effect_on_Score|Effet sur le score
-qstr_Settlements_owned_by|Domaines en votre possession : {reg0}
-qstr_Friendly_Settlements|Villages amis : {reg0}
-qstr_Hostile_Settlements:|Villages hostiles : {reg0}
-qstr_Friendly_Lords:_{reg|Seigneurs amis : {reg0}
+qstr_Settlements_owned_by|Territoires en votre possession : {reg0}
+qstr_Friendly_Settlements|Territoires alliés : {reg0}
+qstr_Hostile_Settlements:|Territoires hostiles : {reg0}
+qstr_Friendly_Lords:_{reg|Seigneurs alliés : {reg0}
 qstr_Enemy_Lords:_{reg0}|Seigneurs ennemis : {reg0}
 qstr_Victories:_{reg0}|Victoires : {reg0}
 qstr_Defeats:_{reg0}|Défaites : {reg0}
@@ -91,7 +91,7 @@ qstr_Days_Passed:_{reg0}|Jours écoulés : {reg0}
 qstr_Difficulty:_{reg0}%|Difficulté : {reg0}%
 qstr_TOTAL_SCORE:_{reg0}|SCORE TOTAL : {reg0}
 qstr_Unpaid|Impayé
-qstr_None|Rien
+qstr_None|Aucun
 qstr_{s55}__{reg0}%_|{s55} ({reg0}%)
 qstr_{s55}|{s55}
 qstr_Staff:|Personnel :
@@ -290,24 +290,24 @@ qstr_Trade_Agreement|Accord commercial
 qstr_{s60}|{s60}
 qstr_{reg59?{reg59}_days:|{reg59?{reg59} jours:}
 qstr_{reg61}|{reg61}
-qstr_Loyal|Idéale
-qstr_Devoted|Exceptionnelle
-qstr_Fond|Excellente
-qstr_Gracious|Très bonne
-qstr_Friendly|Amicale
-qstr_Supportive|Cordiale
+qstr_Loyal|Fidèles
+qstr_Devoted|Exceptionnelles
+qstr_Fond|Excellentes
+qstr_Gracious|Bienveillantes
+qstr_Friendly|Amicales
+qstr_Supportive|Cordiales
 qstr_Favourable|Favorable
-qstr_Cooperative|Coopérative
+qstr_Cooperative|Coopératives
 qstr_Accepting|Tolérante
-qstr_Indifferent|Neutre
-qstr_Suspicious|Mitigée
-qstr_Grumbling|Tendue
-qstr_Hostile|Hostile
-qstr_Resentful|Rancunière
-qstr_Angry|Agressive
+qstr_Indifferent|Neutres
+qstr_Suspicious|Mitigées
+qstr_Grumbling|Tendues
+qstr_Hostile|Hostiles
+qstr_Resentful|Malveillantes
+qstr_Angry|Belliqueuses
 qstr_Hateful|Haineuse
-qstr_Revengeful|Exécrable
-qstr_Vengeful|Atroce
+qstr_Revengeful|Épouvantables
+qstr_Vengeful|Exécrables
 qstr_{reg61}_{reg58?_{reg|{reg61} {reg58?({reg58} U) :}Fiefs
 qstr_{reg62}_Caravans|{reg62} Caravanes
 qstr_{reg60}_{reg59?_{reg|{reg60} {reg59?({reg59} P) :}Seigneurs
@@ -427,26 +427,26 @@ qstr_____Y^Cancel|    Y^Cancel{***};;;;
 qstr_____X^__Trait|    X^  Trait{***};;;;
 qstr_____B^_Horse|    B^ Horse{***};;;;
 qstr_____A^_Creep|    A^ Creep{***};;;;
-qstr_Orders|Orders{***};;;;
-qstr_Mount|En selle
-qstr_Attack_Order|Attack Order{***};;;;
+qstr_Orders|Ordes
+qstr_Mount|Montez
+qstr_Attack_Order|Ordres d'attaque
 qstr_Retreat|Retraite
-qstr_Stand_Ground|Restez là
+qstr_Stand_Ground|Défendez vos positions
 qstr_Charge|À l'assaut
-qstr_Follow_Me|Suivez moi
-qstr_Hold_This_Position|Tenez la position
-qstr_Spread_Out|Dispersez les rangs
+qstr_Follow_Me|Suivez-moi
+qstr_Hold_This_Position|Tenez cette position
+qstr_Spread_Out|Déployez-vous
 qstr_Stand_Closer|Resserrez les rangs
-qstr_Fall_Back|Reculez
+qstr_Fall_Back|Repliez-vous
 qstr_Advance|Avancez
-qstr_Dismount|Pied à terre
+qstr_Dismount|Descendez
 qstr_Fire_At_Will|Feu à volonté
 qstr_Hold_Your_Fire|Cessez le feu
 qstr_Use_Blunt_Weapons|Utilisez des armes contondantes
 qstr_Use_Any_Weapon|Utilisez tous les types d'armes
-qstr_Ready|Prêts
-qstr_Wounded|Blessés
-qstr_Dead|Morts
+qstr_Ready|Prêt(s)
+qstr_Wounded|Blessé(s)
+qstr_Dead|Mort(s)
 qstr_What_will_your_party|Votre compagnie ?
 qstr_By_the_name_entered_|Par le nom entré ci-dessus.
 qstr_Simply_by_my_name:_{|Simplement par mon nom : {s5}.
@@ -522,10 +522,10 @@ qstr_No|Non
 qstr_You_learn_your_new_f|You learn your new faith quickly and you are taught to recite the Seven Pointed Star - the holy text of the Faith of The Seven - After a week, you are indicted into your new religion.^^ This will require you to stay a week at the septry. Do you still want to covert your religion?{***};;;;
 qstr_Yes.|Yes.
 qstr_No.|No.
-qstr_Back_to_Siege|Back to Siege{***};;;;
-qstr_Your_Siege_Camp|Your Siege Camp{***};;;;
-qstr_You_are_besieging_th|You are besieging the enemy.^Here you can manage your camp's resources.{***};;;;
-qstr_Send_Foragers:|Send Foragers:{***};;;;
+qstr_Back_to_Siege|Retour au siège
+qstr_Your_Siege_Camp|Votre camp de siège
+qstr_You_are_besieging_th|Vous assiégiez l'ennemi. ^ Ici vous pouvez gérer les ressources de votre camp.
+qstr_Send_Foragers:|Envoyer des hommes chercher de la nourriture.
 qstr_^Send_men_to_forage_|^Envoyer des hommes chercher de la nourriture à proximité. Ils reviennendront avec de la nourriture supplémentaire chaque demi-journée.
 qstr_Forty_men_are_needed|Forty men are needed.{***};;;;
 qstr_Fortify_Camp:|Fortify Camp:{***};;;;
@@ -811,7 +811,7 @@ qstr_Your_caravan_sending|Votre caravane envoyée de {s12} à {s13} a été déf
 qstr_Your_messenger_on_th|Votre messager en route pour {s13} a été défait{s10} !
 qstr_Your_soldiers_patrol|Vos soldats en patrouille à {s13} ont été défaits{s10} !
 qstr_A_scout_trying_to_ga|Un éclaireur qui essayait d'obtenir des informations sur {s13} a été tué{s10} !
-qstr_{s1}_of_{s3}_was_def|{s1} of {s3} was defeated in battle but managed to escape.{***};;;;
+qstr_{s1}_of_{s3}_was_def|{s1} de {s3} a été vaincu au combat mais est parvenu à s'enfuir.
 qstr_{s49}{s12}|{s49}{s12}{***};;;;
 qstr_Trying_to_improve_yo|Trying to improve your relations with {s44}{***};;;;
 qstr_Is_imprisoned_in_the|Is imprisoned in the dungeon of {s44}{***};;;;
@@ -825,7 +825,7 @@ qstr_{s51}_belongs_to_{s1|{s51} appartient à {s1} du {s2}.^^
 qstr_{s7}_and_{s8}|{s7} et {s8}
 qstr_{s2}It_has_no_villag|{s2} n'a pas de village.^
 qstr_{s2}{reg0?Its_villag|{s2}{reg0?Ses fiefs sont:Son fief est} {s8}.^
-qstr_{s2}Its_prosperity_i|{s2}Sa Prospérité est : {s50}
+qstr_{s2}Its_prosperity_i|{s2}Sa prospérité est : {s50}
 qstr_{s9}_and_{s10}|{s9} et {s10}
 qstr_{s7}_opened_the_gate|{s7} a ouvert les portes
 qstr_{s7}_closed_the_gate|{s7} a fermé les portes
@@ -846,10 +846,10 @@ qstr_The_ancestral_Valyria|The ancestral Valyrian steel sword of House Mormont.^
 qstr_Just_a_random_sword|Just a random sword{***};;;;
 qstr_A_sword_made_of_ice|A sword made of ice{***};;;;
 qstr_Requires_{reg1}_inte|Comprendre ce livre nécessite {reg1} en intelligence
-qstr_Reading_Progress:_{r|Reading Progress: {reg1}%{***};;;;
+qstr_Reading_Progress:_{r|Progression de la lecture : {reg1}%
 qstr_wound_treatment|wound treatment{***};;;;
 qstr_training|training{***};;;;
-qstr_surgery|Chirurgie
+qstr_surgery|chirurgie
 qstr_persuasion|persuasion
 qstr_+1_to_{s1}_while_in_|+1 à la compétence {s1} si dans l'inventaire
 qstr__^|^
@@ -915,8 +915,8 @@ qstr_+13%_max_ammo|+13% max munitions
 qstr_+2_damage^_2_speed{r|+2 dégâts^-2 vitesse{reg3?^+1 nécessité puissance de jet:}
 qstr_+3_damage^+3_speed|+3 dégâts^+3 vitesse
 qstr__3_damage|-3 dégâts
-qstr_Move_here|Aller ici
-qstr_View_notes|Voir notes
+qstr_Move_here|Allez ici
+qstr_View_notes|Voir les notes
 qstr_Send_Spy|Send Spy{***};;;;
 qstr_Retrieve_Spy|Retrieve Spy{***};;;;
 qstr_Order_Sabotage|Order Sabotage{***};;;;
@@ -953,7 +953,7 @@ qstr_{s9}_wants_you_to_re|{s9} veut que vous suiviez son armée jusqu'à nouvel 
 qstr__Being_Raided_|(En train d'être pillé)
 qstr__Looted_|(Pillé)
 qstr__Under_Siege_|(Assiégé)
-qstr_The_village_of_{s1}_|{s1} a été pillé par les {s2}.
+qstr_The_village_of_{s1}_|Le village de {s1} a été pillé par les {s2}.
 qstr_{s3}_is_no_longer_un|Le siège de {s3} a été levé.
 qstr_Some_enemy_straggler|Some enemy stragglers have been spotted near {s1}.{***};;;;
 qstr_Small_enemy_patrols_|Small enemy patrols have been spotted near {s1}.{***};;;;
@@ -962,18 +962,18 @@ qstr_Large_enemy_patrols_|Large enemy patrols spotted near {s1}.{***};;;;
 qstr_Significant_group_of|Important groupe d'ennemis repéré près de {s1}.
 qstr_Army_of_enemies_spot|Armée ennemie repérée près de {s1}.
 qstr_Large_army_of_enemie|Grande armée ennemie repérée près de {s1}.
-qstr_Great_host_of_enemie|Gigantesque armée ennemie repérée près de {s1}.
+qstr_Great_host_of_enemie|Immense armée ennemie repérée près de {s1}.
 qstr__{s10}_of_{s13}_recr|{s10} du {s13} recrute {s11} {s12} à {s14}
 qstr_Your_duel_with_{s1}_|Your duel with {s1} was cancelled due to unforeseen circumstances.{***};;;;
 qstr_debug:__party_is_hir|debug:  party is hired to engage army.{***};;;;
-qstr_{s1}_has_been_besieg|{s1} est assiégée par le {s2} du {s3}.
+qstr_{s1}_has_been_besieg|{s1} a été assiégé par {s2} du {s3}.
 qstr__{s1}__{s11}:_{s14}|({s1}) {s11} : {s14}
 qstr_{s14}__{s21}_|{s14} ({s21})
 qstr_{s5}_has_the_greates|{s5} a le plus grand soutien parmi les seigneurs du {s4} pour être le prochain maréchal. Cela contrarie {s0} mais ne peut invalider leur choix.
 qstr_{s5}_has_the_greatest|{s5} a le plus grand soutien parmi les seigneurs du {s4} pour recevoir {s1}. Cela contrarie {s0} mais ne peut invalider leur choix.
 qstr_{s1}_is_the_new_mars|{s1} est le nouveau maréchal du {s2}.
 qstr_You_gained_{reg12}_r|Votre renommée augmente de {reg12}.
-qstr_You_lose_{reg12}_ren|Votre renommée diminue de {reg12}.
+qstr_You_lose_{reg12}_ren|Votre renommée à diminué de {reg12}.
 qstr_Your_relation_with_{|Vos relations avec {s1} se sont améliorées.
 qstr_Your_relation_with_{s|Vos relations avec {s1} se sont détériorées.
 qstr_You_have_angered_the|You have angered them.{***};;;;
@@ -1000,13 +1000,13 @@ qstr_Holding|Tenir la position
 qstr_Following|Suivre
 qstr_Charging|Charger
 qstr_Advancing|Avancer
-qstr_Falling_Back|Reculer
+qstr_Falling_Back|Se replier
 qstr_Standing_Closer|Resserrer les rangs
-qstr_Spreading_Out|Disperser les rangs
-qstr_Standing|Rester en position
+qstr_Spreading_Out|Se déployer
+qstr_Standing|Défendre la position
 qstr_Free|Libre
 qstr_Any_Weapon|Toutes les armes
-qstr_Blunt_Weapons|Armes non-léthales
+qstr_Blunt_Weapons|Armes contondantes
 qstr_Your_soldiers_patroll|{s6}, votre patrouille est dissoute parce que vous avez perdu la faction !
 qstr_{s1}_Rebels|{s1} Rebelles
 qstr_Given_by:_{s62}|Donnée par : {s62}
@@ -1038,7 +1038,7 @@ qstr_School|École
 qstr_A_school_increases_t|A school increases the loyalty of the villagers to you by +1 every week.{***};;;;
 qstr_Messenger_Post|Poste de messager
 qstr_A_messenger_post_let|Un poste de messager permet aux habitants de vous envoyer un message quand des ennemis sont à proximité, même si vous êtes très loin d'ici.
-qstr_Prison_Tower|Tour de prison
+qstr_Prison_Tower|Prison fortifiée
 qstr_A_prison_tower_reduc|Une tour de prison permet de mieux surveiller les prisonniers et réduit les chances d'évasions.
 qstr_You_invite_a_drowned|You invite a drowned man to influence the people here to worship the Drowned God.{***};;;;
 qstr_Weirwood_tree|Weirwood tree{***};;;;
@@ -1936,25 +1936,25 @@ qstr_Only_you_know_exactly|Il n'y a que vous qui sachiez pourquoi vous avez aban
 qstr_Only_you_know_exactly_|Il n'y a que vous qui sachiez pourquoi vous avez abandonné votre ancienne vie et êtes {reg3?devenue une aventurière:devenu un aventurier}. Vous ne vous souvenez plus trop bien à partir de quel moment votre maison est devenue trop petite pour vous, ni quand votre quotidien vous a semblé insupportable. Votre soif de découverte fut la plus forte. En quête de grands espaces, de nouvelles découvertes, de nouveaux horizons, vous ne pouviez plus rester en place. Vous partîtes sans même un regard derrière vous...
 qstr_Only_you_know_exactly_w|Il n'y a que vous qui sachiez pourquoi vous avez abandonné votre ancienne vie et êtes {reg3?devenue une aventurière:devenu un aventurier}. Cependant, vous savez que vous ne pouvez pas faire marche arrière. Il n'existe pas d'endroit où vous puissiez revenir. Votre vie d'antan n'est plus. Désormais, vous devrez affronter par vous-même le monde dans son immensité, solitaire dans l'échec comme dans la gloire...
 qstr_Only_you_know_exactly_wh|Il n'y a que vous qui sachiez pourquoi vous avez abandonné votre ancienne vie et êtes {reg3?devenue une aventurière:devenu un aventurier}. Mais aux yeux de tous, seul compte pour vous l'appât du gain. Vous voulez tout, la richesse, le pouvoir et les honneurs. Vous voulez que l'on s'empresse de vous obéir, que l'on connaisse votre nom et que l'on tremble rien qu'en le prononçant. Vous voulez tout, et rien ne vous arrêtera...
-qstr_Back_to_the_beginnin|Retour au début...
+qstr_Back_to_the_beginnin|Revenir au commencement...
 qstr_View_next_segment...|Suivant...
 qstr_Current_party_morale_|Current party morale is {reg5}.^Current party morale modifiers are:^^Base morale:  +{reg6}^Party size unmanageable: {s2}{reg1}^Lack of rest: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^Recent events: {s7}{reg4}^TOTAL:  {reg5}^^^{***};;;;
 qstr_No_one|Aucun
 qstr_Selected_faction_is:|La faction sélectionnée est : {s10}^^{s9}
-qstr_You_are_currently_re|You are currently reading {s8}{***};;;;
-qstr_You_are_not_reading_|You are not reading any books{***};;;;
-qstr_{s5}_and_{s6}|{s5} and {s6}{***};;;;
+qstr_You_are_currently_re|Vous lisez actuellement {s8}.
+qstr_You_are_not_reading_|Vous ne lisez aucun livre en ce moment.
+qstr_{s5}_and_{s6}|{s5} et {s6}
 qstr_Renown:_{reg2}_^Bard|Renown: {reg2} ^Bardic Reputation: {reg1} ^Honour rating: {reg3} {s12}^Friends: {s8}.^Enemies: {s6}.^{s9}.^^^Injuries^ Minor: {s10}.^ Major: {s11}.^^Your Religion^ {s13}.^^Trait: {s14}.{***};;;;
-qstr_Your_estates_are:_{s|Your estates are: {s8}.^{s9}{***};;;;
+qstr_Your_estates_are:_{s|Vos fiefs sont : {s8}.^{s9}
 qstr_Current_party_size_li|Current party size limit is {reg0}.^Current party size modifiers are:^^Base size: {s5}{reg31}^Combined leadership: {s2}{reg32}^Charisma: {s3}{reg33}^Renown: {s4}{reg34}^TOTAL:  {reg0}{***};;;;
 qstr_Your_relation_with_t|Vos relations avec les factions sont :^{s2}
 qstr_You_don_t_have_the_m|You don't have the money to pay your men to fortify the camp. They do the job, but angrily.{***};;;;
 qstr_After_you_buy_the_ma|After you buy the materials, your men build a permanent shelter for you.{***};;;;
-qstr_Player_renown_is_inc|Player renown is increased by 100. {***};;;;
+qstr_Player_renown_is_inc|La renommée du joueur est augmentée de 100.
 qstr_Player_reputation_is|Player reputation is increased by 1 and is now {reg7}.{***};;;;
 qstr_Player_reputation_is_|Player reputation is decreased by 5, and it is now {reg7}.{***};;;;
 qstr_Reseted.|Reseted.{***};;;;
-qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} {reg2?acceptent:accepte} votre offre.
+qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} {reg2?ont accepté:a accepté} l'offre.
 qstr_No_one_accepts_the_o|Personne n'accepte votre offre.
 qstr_You_start_reading_{s|Vous commencez à lire {s2}. Vous le gardez près de vous afin d'en lire quelques pages à chaque fois que vous en aurez l'occasion.
 qstr_You_flip_through_the|Après avoir lu quelques pages du livre, vous vous apercevez que malgré vos efforts vous n'y comprenez pas grand chose, et une violente migraine met un terme à la lecture.
@@ -1992,16 +1992,16 @@ qstr_You_were_victorious!|Vous êtes victorieux !
 qstr_The_battle_was_lost.|The battle was lost. Your forces were utterly crushed.{***};;;;
 qstr_Your_companions_carr|Vos compagnons vous traînent hors du champs de bataille.
 qstr_You_have_defeated_th|Vous avez vaincu l'ennemi.
-qstr_You_have_retreated_f|Vous avez rompu l'engagement.
+qstr_You_have_retreated_f|Vous vous êtes retiré du combat.
 qstr_^^Ally_Casualties:{s|^^Pertes alliées :{s0}
-qstr_{s1}_of_{s3}_managed|{s1} of {s3} managed to escape.{***};;;;
+qstr_{s1}_of_{s3}_managed|Le {s1} de {s3} a réussi à s'échapper.
 qstr_TEST:_Loot_value_bef|TEST: Loot value before: {reg1} and after: {reg2}{***};;;;
 qstr_Your_party_gained_{r|Your party gained {reg1} morale for the loot you shared.{***};;;;
 qstr_Your_party_lost_{reg|Your party lost {reg1} morale, because your troops think you keep too much loot for yourself.{***};;;;
 qstr_Some_of_your_tendons|Vos bras vous font souffrir le martyre. Vous perdez 1 en force.
 qstr_You_took_a_nasty_wou|Vous avez reçu une vilaine blessure qui vous fera boiter, même après sa guérison. Vous perdez 1 en agilité.
 qstr_You_have_trouble_thi|Vous avez du mal à vous concentrer après la bataille, peut-être à cause d'un coup particulièrement violent à la tête, et de fréquents maux de tête vous gâchent l'existence. Vous perdez 1 en intelligence.
-qstr_Perhaps_I_m_getting_|Peut-être que la chance m'abandonne...
+qstr_Perhaps_I_m_getting_|Peut-être que la chance m'abandonne peu à peu...
 qstr_Retirement_is_starti|La retraite semble s'imposer.
 qstr_No_matter!_I_will_pe|Peu importe ! Je persévère !
 qstr_What_did_I_do_to_des|Qu'ai-je fait pour mériter cela ?
@@ -2173,12 +2173,12 @@ qstr_^The_Drowned_Gods_are|^Les dieux noyés sont vénérés ici, mais pas par b
 qstr_^The_Drowned_Gods_are_|^Les dieux noyés sont vénérés par la majorité ici.
 qstr_^The_Drowned_Gods_are_d|^Les dieux noyés sont majoritairement vénérés ici.
 qstr_^No_gods_are_worship|^Aucun dieu n'est adoré ici.
-qstr__This_village_and_th|Ce village et ses alentours vous appartiennent.
+qstr__This_village_and_th|Le village et ses terres avoisinantes vous appartiennent.
 qstr__You_remember_this_v| You remember this village and the surrounding lands belong to {s7}.{***};;;;
 qstr__These_lands_belong_|Ces terres n'appartiennent à personne.
-qstr__The_village_is_infe|Le village est occupé par {reg8} {s35}.
+qstr__The_village_is_infe|Le village est envahi par les {reg8} {s35}.
 qstr__The_peasants_hired_|Les paysans ont fait appel à des mercenaires et se rebellent contre vous.
-qstr__The_village_has_bee|Le village a été pillé. Une poignée de survivants erre sans but tandis que vous avancez parmi les restes calcinés des maisons.
+qstr__The_village_has_bee|Le village a été pillé. Une poignée de survivants se disperse à mesure que vous avancez parmi les restes calcinés des maisons.
 qstr__The_village_is_bein|Le village est en train d'être pillé !
 qstr_Only_brothers_of_the|Only brothers of the Watch can recruit Night's Watch troops from here{***};;;;
 qstr_You_need_more_renown|You need more renown or to ask the Village Elder for help.{***};;;;
@@ -2253,7 +2253,7 @@ qstr_{reg3?You_find:{s1}_|{reg3?Votre groupe:{s1}} découvre ceci :^{s3}
 qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1} {s1} ont gagné {reg0} points d'expérience.
 qstr_{s2}^{s1}_earned_an_|{s2}^{s1} a gagné {reg0} points d'expérience.
 qstr_^You_earned_{reg0}_e|^Vous avez gagné {reg0} points d'expérience.{s2}
-qstr_The_training_didn_t_|L'entraînement s'est mal passé.
+qstr_The_training_didn_t_|L'entraînement s'est très mal passé.
 qstr_The_training_didn_t_g|L'entraînement ne s'est pas très bien passé.
 qstr_The_training_went_qu|L'entraînement s'est plutôt bien passé.
 qstr_The_training_went_ve|L'entraînement s'est très bien passé.
@@ -2575,10 +2575,10 @@ qstr_{reg0}_of_your_prison|{reg0} of your prisoners escaped from the gold mine!{
 qstr_{reg0}_of_your_prisone|{reg0} of your prisoners escaped from the iron mine!{***};;;;
 qstr_Your_party_has_been_|Your party has been spotted by {s1}.{***};;;;
 qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?ont:a} profité de la nuit pour s'enfuir.
-qstr_{s1}_of_{s3}_has_bee|{s1} of {s3} has been released from captivity.{***};;;;
-qstr_Building_of_{s0}_in_|La construction de {s0} à {s4} est terminée.
+qstr_{s1}_of_{s3}_has_bee|{s1} de {s3} a été relâché.
+qstr_Building_of_{s0}_in_|La construction de la {s0} de {s4} est terminée.
 qstr_{s1}_is_no_longer_in|{s1} n'a plus rien à craindre des bandits.
-qstr_{s1}_has_won_the_tou|{s1} a remporté le tournoi à {s2}.
+qstr_{s1}_has_won_the_tou|{s1} a remporté le tournoi de {s2}.
 qstr_You_are_within_the_w|Vous êtes dans les murs d'un membre allié de la famille et vous n'avez rien à payer pour l'hébergement.
 qstr_You_pay_for_accommod|Vous payez des frais d'hébergement.
 qstr_Betrothal_to_{s5}_ex|Les fiançailles de {s5} expirent.
@@ -2589,7 +2589,7 @@ qstr_Your_intelligence_ha|Your intelligence has increased by 1.{***};;;;
 qstr_Your_trade_skill_has|Your trade skill has increased by 1.{***};;;;
 qstr_Your_weapon_master_s|Your weapon master skill has increased by 1.{***};;;;
 qstr_Your_engineer_skill_|Your engineer skill has increased by 1.{***};;;;
-qstr_You_have_finished_re|Vous avez terminé {s1}. {s2}
+qstr_You_have_finished_re|Vous avez fini de lire {s1}.{s2}
 qstr_Book_Read|Livre terminé.
 qstr_{s1}_is_scouted.|Vous avez exploré {s1}.
 qstr_{s1}_has_switched_fr|{s1} est passé du {s2} au {s3}.
@@ -2781,7 +2781,7 @@ qstr_Beric_Dondarrion_has|Beric Dondarrion has asked you to despatch a Lannister
 qstr_The_elder_{s9}_asked|The elder {s9} asked you to deal with bandits{***};;;;
 qstr_{s9}_asked_you_to_{s|{s9} asked you to {s10} to lower taxes{***};;;;
 qstr_{s5}__Persuasion_str|{s5} (Facteur de persuasion : {reg5})
-qstr_Persuasion_Attempt|Tentative de Persuasion
+qstr_Persuasion_Attempt|Tentative de persuasion
 qstr_{s9}_asked_you_to_br|{s9} asked you to bring {s10}{***};;;;
 qstr_A_duel?_That_sounds_|A duel? That sounds like an interesting idea. We could keep score and see who's the better fighter!{***};;;;
 qstr_Ah_so_you_wish_to_be|Ah, so you wish to be beaten by me again, eh? I'll teach you another lesson in the art of duelling!{***};;;;
@@ -2911,10 +2911,10 @@ qstr_Our_marshal_{s1}|Notre maréchal, {s1}
 qstr_Our_liege_{s1}|Notre suzerain, {s1}
 qstr_We_are_not_at_war_wi|Nous profitons enfin de la paix.
 qstr_We_are_at_war_with_{|Nous sommes en guerre avec le {s12}.
-qstr_go_on_the_offensive_|Attaquez maintenant.
+qstr_go_on_the_offensive_|poursuit l'offensive.
 qstr_act_to_defend_our_la|Défendez nos terres.
 qstr_take_more_time_to_ga|Prenez un peu plus de temps pour recruter plus d'hommes.
-qstr_You_promised_to_help|Vous avez promis d'aider {s13} à récupérer le trône de {s14}.
+qstr_You_promised_to_help|Vous avez promis d'aider {s13} à revendiquer le trône de {s14}.
 qstr_What_do_you_say_to_e|Que diriez-vous d'entrer au service de {s9} en tant que capitaine mercenaires ? Il ne fait pour moi aucun doute que vous serez à la hauteur de cette tâche.
 qstr_{s9}_asked_you_to_ta|{s9} vous a demandé de porter un message à {s13}. {s13} se trouvait à {s4} au moment où cette quête vous a été confiée.
 qstr_{s9}_asked_you_to_tak|{s9} vous a demandé de transmettre une lettre à {s13} du {s15}. {s13} se trouvait à {s4} au moment où cette quête vous a été confiée.
@@ -2941,9 +2941,9 @@ qstr_Time_flies_away_from|Time flies away from war, fear and the rigours of trav
 qstr_You_take_your_better|You take your better half from behind, whom screams with pleasure.{***};;;;
 qstr_Not_much_interest_is|Not much interest is shown, perhaps you should improve your relationship with your wife before considering having a child.{***};;;;
 qstr_Then_take_it_with_my|Tenez, avec ma gratitude éternelle. J'admire votre noblesse de coeur. Je n'oublierai jamais ce que vous avez fait pour moi.
-qstr_Forgive_me_{playerna|Pardonnez-moi, {playername}, mais j'insiste pour que vous acceptiez. Cet argent ne représente pas grand chose pour moi et je vous dois tant... Prenez-le et n'en parlons plus.
-qstr_{playername}_what_a_|{playername}, de quelle noblesse vous faites preuve ! Mais je ne vous autorise pas à refuser. Vous avez fait bien plus pour moi que vous ne le pensez et je suis sûr que vous ferez un meilleur usage que moi de cet argent.
-qstr_{s11}_asked_you_to_r|{s11} vous a demandé de sauver son {s17}, {s13}, retenu à {s14}, en échangeant vos vêtements afin que vous puissiez prendre sa place en prison.
+qstr_Forgive_me_{playerna|Pardonnez-moi, {playername}, mais je me dois d'insister pour que vous acceptiez. L'argent n'est pas le centre de mes préoccupations et je vous dois tant. Tenez, prenez-le et n'en parlons plus.
+qstr_{playername}_what_a_|{playername}, votre noblesse vous honore, mais je n'accepterai aucun refus. Je vous dois bien plus que je ne saurais l'exprimer et je suis sûr que vous saurez faire usage de cet argent bien mieux que moi.
+qstr_{s11}_asked_you_to_r|{s11} vous a demandé de sauver son {s17}, {s13}, retenu à {s14}, en échangeant vos vêtements et en prenant sa place en prison.
 qstr_{s11}_asked_you_to_re|{s11} vous a demandé de sauver sa {s17}, {s13}, retenue à {s14}.
 qstr_{s11}_asked_you_to_d|{s11} vous a demandé de transmettre un message à {s13}, qui est emprisonné à {s14}.
 qstr_You_agreed_to_challe|Vous avez accepté de défier {s13} pour défendre l'honneur de {s11}.
@@ -2978,7 +2978,7 @@ qstr_The_Guild_master_of_|The Guild master of {s13} has asked you to deal with b
 qstr_{s9}_of_{s3}_asked_y|{s9} de {s3} vous a demandé de livrer {reg5} {s6} à la taverne de {s4} dans les 7 jours.
 qstr_Escort_the_bishop_to|Escort the bishop to the town of {s8}.{***};;;;
 qstr_Escort_the_merchant_|Escortez la caravane marchande jusqu'à {s8}.
-qstr_Merchant_{s9}_of_{s4|Merchant {s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of the town.{***};;;;
+qstr_Merchant_{s9}_of_{s4|Le marchand {s9} de {s4} vous a demandé de pourchasser les bandits qui sévissent aux alentours de la ville.
 qstr_The_Guild_master_of_{|The Guild master of {s4} gave you {reg12} cerfs d'argent to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the girl back to {s4}.{***};;;;
 qstr_The_Guild_master_of_{s|The Guild master of {s4} promised you {reg12} cerfs d'argent if you can make sure that {s12} and {s13} no longer pose a threat to a peace settlement between {s15} and {s14}. In order to do that, you must either convince them or make sure they fall captive and remain so until a peace agreement is made.{***};;;;
 qstr_The_Guild_master_of_{s1|The Guild master of {s14} has asked you to deal with a group of bandits terrorising the streets of {s14}. They only come out at night, and only attack lone travellers on the streets.{***};;;;
