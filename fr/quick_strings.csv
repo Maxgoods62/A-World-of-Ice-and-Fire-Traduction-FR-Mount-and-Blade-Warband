@@ -407,22 +407,22 @@ qstr_F5___Shield_Wall|F5 - Mur de Bouclier
 qstr_F6___Wedge|F6 - Wedge{***}
 qstr_F7___Square|F7 - Carré
 qstr_F8___No_Formation|F8 - Pas de formation
-qstr_F1___Movement_orders|F1 - Movement orders{***};;;;
-qstr_F2___Formation_order|F2 - Formation orders{***};;;;
+qstr_F1___Movement_orders|F1 - Ordres de mouvements
+qstr_F2___Formation_order|F2 - Ordres de Formation orders
 qstr_F3___Fire_orders|F3 - Fire orders{***};;;;
-qstr_F4___Complex_formati|F4 - Complex formations{***};;;;
+qstr_F4___Complex_formati|F4 - Formations Complexes
 qstr_Ranks|En lignes
-qstr_Five_Rows|Five Rows{***};;;;
-qstr_Shield_Wall|Shield Wall{***};;;;
-qstr_Four_Rows|Four Rows{***};;;;
+qstr_Five_Rows|Cinq rangées
+qstr_Shield_Wall|Mur de Bouclier
+qstr_Four_Rows|Quatre rangées
 qstr_Wedge|En pique
-qstr_Three_Rows|Three Rows{***};;;;
+qstr_Three_Rows|Trois rangées
 qstr_Square|En carré
-qstr_Two_Rows|Two Rows{***};;;;
-qstr_No_Formation|No Formation{***};;;;
-qstr_Single_Line|Single Line{***};;;;
-qstr_Memorize_div._placem|Memorize div. placement{***};;;;
-qstr_Default_division_pla|Default division placement{***};;;;
+qstr_Two_Rows|Deux rangées
+qstr_No_Formation|Pas de formation
+qstr_Single_Line|Une seule rangée
+qstr_Memorize_div._placem|Memoriser placement division
+qstr_Default_division_pla|Placement division par défaut
 qstr_____Y^Cancel|    Y^Cancel{***};;;;
 qstr_____X^__Trait|    X^  Trait{***};;;;
 qstr_____B^_Horse|    B^ Horse{***};;;;
@@ -430,7 +430,7 @@ qstr_____A^_Creep|    A^ Creep{***};;;;
 qstr_Orders|Orders{***};;;;
 qstr_Mount|En selle
 qstr_Attack_Order|Attack Order{***};;;;
-qstr_Retreat|Retreat{***};;;;
+qstr_Retreat|Retraite
 qstr_Stand_Ground|Restez là
 qstr_Charge|À l'assaut
 qstr_Follow_Me|Suivez moi
@@ -450,17 +450,17 @@ qstr_Dead|Morts
 qstr_What_will_your_party|Votre compagnie ?
 qstr_By_the_name_entered_|Par le nom entré ci-dessus.
 qstr_Simply_by_my_name:_{|Simplement par mon nom : {s5}.
-qstr_What_will_your_fort_|What will your fort be known as?{***};;;;
-qstr_Simply_by:_{s5}.|Simply by: {s5}.{***};;;;
+qstr_What_will_your_fort_|Comment votre fort sera-t-il nommé ?
+qstr_Simply_by:_{s5}.|Simplement par: {s5}.
 qstr__{s2}_siege_camp.|{s2} camp du siège.
-qstr_Stamina:|Stamina:{***};;;;
-qstr_Exhausted|Exhausted{***};;;;
-qstr_Very_Tired|Very Tired{***};;;;
-qstr_Tired|Tired{***};;;;
+qstr_Stamina:|Endurance:
+qstr_Exhausted|Épuisé
+qstr_Very_Tired|Très fatigué
+qstr_Tired|Fatigué
 qstr_Normal|Normal
 qstr_High|Haut
-qstr_What_name_would_you_|What name would you like to give to your settlement?{***};;;;
-qstr_Save_it_as:_{s5}.|Save it as: {s5}.{***};;;;
+qstr_What_name_would_you_|Quel nom aimeriez-vous donner à votre colonie ?
+qstr_Save_it_as:_{s5}.|Enregistrez-le en tant que:: {s5}.
 qstr_Plan_Deployment|Plan de déploiement
 qstr_You_will_have_{reg1}|Vous aurez {reg1} troupes en état de combattre au début de la bataille
 qstr_Troop|Troupe
@@ -509,19 +509,19 @@ qstr_Split_Active|Répartition Active
 qstr_Clear_All|Tout Effacer
 qstr_Discard_Changes|Annuler les changements
 qstr_Save|Sauvegarder
-qstr_0000|00,00{***};;;;
-qstr_Bet:_{reg51}_Stag|Bet: {reg51} Stag{***};;;;
-qstr_Money:_{reg1}_Stag|Money: {reg1} Stag{***};;;;
-qstr_{reg1}{reg2}|{reg1},{reg2}{***};;;;
-qstr_Start_Game|Start Game{***};;;;
-qstr_Find_the_Lady|Find the Lady{***};;;;
-qstr_You_win!_Try_again?|You win! Try again?{***};;;;
-qstr_You_lose._Try_again?|You lose. Try again?{***};;;;
-qstr_Yes|Yes{***};;;;
-qstr_No|No{***};;;;
+qstr_0000|00,00
+qstr_Bet:_{reg51}_Stag|Pari: {reg51} Cerfs d'argent
+qstr_Money:_{reg1}_Stag|Argent: {reg1} Cerfs d'argent
+qstr_{reg1}{reg2}|{reg1},{reg2}
+qstr_Start_Game|Démarrer le jeu
+qstr_Find_the_Lady|Trouver la dame
+qstr_You_win!_Try_again?|Vous avez gagné! Réessayer ?
+qstr_You_lose._Try_again?|Vous avez perdu. Réessayer ?
+qstr_Yes|Oui
+qstr_No|Non
 qstr_You_learn_your_new_f|You learn your new faith quickly and you are taught to recite the Seven Pointed Star - the holy text of the Faith of The Seven - After a week, you are indicted into your new religion.^^ This will require you to stay a week at the septry. Do you still want to covert your religion?{***};;;;
-qstr_Yes.|Yes.{***};;;;
-qstr_No.|No.{***};;;;
+qstr_Yes.|Yes.
+qstr_No.|No.
 qstr_Back_to_Siege|Back to Siege{***};;;;
 qstr_Your_Siege_Camp|Your Siege Camp{***};;;;
 qstr_You_are_besieging_th|You are besieging the enemy.^Here you can manage your camp's resources.{***};;;;
