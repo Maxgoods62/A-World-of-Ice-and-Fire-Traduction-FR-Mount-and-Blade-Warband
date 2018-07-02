@@ -519,7 +519,7 @@ qstr_You_win!_Try_again?|Vous avez gagné! Réessayer ?
 qstr_You_lose._Try_again?|Vous avez perdu. Réessayer ?
 qstr_Yes|Oui
 qstr_No|Non
-qstr_You_learn_your_new_f|You learn your new faith quickly and you are taught to recite the Seven Pointed Star - the holy text of the Faith of The Seven - After a week, you are indicted into your new religion.^^ This will require you to stay a week at the septry. Do you still want to covert your religion?{***};;;;
+qstr_You_learn_your_new_f|Vous apprenez rapidement votre nouvelle foi et on vous apprend à réciter l'Etoile à Sept Branches - le texte sacré de la Foi des Sept - Après une semaine, vous êtes initié à nouvelle religion. ^^ Cela vous obligera à rester une semaine au septuaire. Voulez-vous toujours cacher votre religion ? 
 qstr_Yes.|Yes.
 qstr_No.|No.
 qstr_Back_to_Siege|Retour au siège
@@ -532,129 +532,129 @@ qstr_Fortify_Camp:|Fortifier le camp:
 qstr_^Fortify_your_camp_w|^Fortifiez votre camp avec des défenses de base. Les hommes engagés dans ce travail difficile auront besoin d'une récompense de 200 cerfs d'argent, ou vous pourriez faire face à des problèmes.
 qstr_Sixty_men_are_needed|Soixante hommes sont nécessaires.
 qstr_Troop_Tree|Arbre de troupes
-qstr_Recruit_Prisoners|Recruit Prisoners{***};;;;
-qstr_Visit_Camp|Visit Camp{***};;;;
-qstr_No_one_is_interested|No one is interested this time.{***};;;;
-qstr_Resume_Travelling|Resume Travelling{***};;;;
-qstr_Your_Sea_Camp|Your Sea Camp{***};;;;
-qstr_The_ship_is_at_the_m|The ship is at the mercy of the wind when you stop to rest.^Here you can manage your camp's resources.{***};;;;
-qstr_Calm^^The_sails_like|Calm^^The sails, like the sea, are flat.{***};;;;
-qstr_Light_breeze^^On_the|Light breeze^^On the sea, you notice some small wavelets.^The sails swell a little.{***};;;;
-qstr_Moderate_breeze^^Sma|Moderate breeze^^Small waves with breaking crests are rolling on the sea.^The sails fill with wind.{***};;;;
-qstr_Strong_breeze^^Moder|Strong breeze^^Moderate waves begin to form larger ones.^The sails are swollen tight and will need to be reefed soon.{***};;;;
-qstr_High_wind^^There_are|High wind^^There are many breaking waves visible. The sails are reefed.^There is some chance now that ships will be damaged.{***};;;;
-qstr_Gale^^The_sea_is_vio|Gale^^The sea is violent. The sails are almost completely reefed.^There is a high risk of a damaged hull.{***};;;;
-qstr_Storm^^The_waves_tos|Storm^^The waves toss about the ships, which threaten to capsize.{***};;;;
-qstr_Number_of_sailors:|Number of sailors:{***};;;;
-qstr_Speed_from_sailors:|Speed from sailors:{***};;;;
-qstr_{reg6}%|{reg6}%{***};;;;
-qstr_Fleet|Fleet{***};;;;
-qstr_Second_Outfit|Second Outfit{***};;;;
-qstr_Read_Book|Read Book{***};;;;
-qstr_Retire|Retire{***};;;;
-qstr_Options|Options{***};;;;
-qstr_Check_Location|Check Location{***};;;;
-qstr_You_cannot_read._You|You cannot read. You can learn to do so at a citadel.{***};;;;
-qstr_Accept|Accept{***};;;;
-qstr_Dismiss_Staff|Dismiss Staff{***};;;;
-qstr_Recruit_staff_for_yo|Recruit staff for your settlement:{***};;;;
+qstr_Recruit_Prisoners|Recruter des prisonniers
+qstr_Visit_Camp|Visiter Camp
+qstr_No_one_is_interested|Personne n'est intéressé cette fois.
+qstr_Resume_Travelling|Reprendre le voyage
+qstr_Your_Sea_Camp|Votre camp en mer
+qstr_The_ship_is_at_the_m|Le navire est à la merci du vent quand vous vous arrêtez pour vous reposer. ^ Ici, vous pouvez gérer les ressources de votre camp.
+qstr_Calm^^The_sails_like|Calme ^^ Les voiles, comme la mer, sont plates.
+qstr_Light_breeze^^On_the|Brise légère ^^ Sur la mer, vous remarquez de petites ondelettes. Les voiles gonflent un peu.
+qstr_Moderate_breeze^^Sma|Brise modérée ^^ De petites vagues avec des crêtes cassantes roulent sur la mer. Les voiles se remplissent de vent.
+qstr_Strong_breeze^^Moder|Brise forte ^^ Les vagues modérées commencent à former de plus grandes. ^ Les voiles sont gonflées et devront bientôt être réduites.
+qstr_High_wind^^There_are|Vent fort ^^ Il y a beaucoup de vagues déferlantes visibles. Les voiles sont réduites. Il y a des chances que les navires soient endommagés.
+qstr_Gale^^The_sea_is_vio|Tempête ^^ La mer est violente. Les voiles sont presque entièrement réduites. Il y a un risque élevé de coque endommagée.
+qstr_Storm^^The_waves_tos|Violente Tempête ^^ Les vagues s'agitent sur les navires, qui menacent de chavirer.
+qstr_Number_of_sailors:|Nombre de marins:
+qstr_Speed_from_sailors:|Vitesse des marins:
+qstr_{reg6}%|{reg6}%
+qstr_Fleet|Flotte
+qstr_Second_Outfit|Deuxième tenue
+qstr_Read_Book|Lire un livre
+qstr_Retire|Se retirer
+qstr_Options|Options
+qstr_Check_Location|Vérifier l'emplacement
+qstr_You_cannot_read._You|Vous ne pouvez pas lire. Vous pouvez apprendre à le faire dans une citadelle.
+qstr_Accept|Accepter
+qstr_Dismiss_Staff|Renvoyer le personnel
+qstr_Recruit_staff_for_yo|Recruter du personnel pour votre pavillon:
 qstr_^Hiring_staff_has_bo|^L'embauche de personnel a des coûts initiaux et continus. Une bonne réputation et une puissance impressionnant attireront une plus grande variété de candidats.
-qstr_Description:|Description:{***};;;;
-qstr_Captain:|Captain:{***};;;;
-qstr_Religious_Figure:|Religious Figure:{***};;;;
-qstr_Bard:|Bard:{***};;;;
-qstr_Bottler:|Bottler:{***};;;;
-qstr_Whore:|Whore:{***};;;;
-qstr_Master_at_Arms:|Master at Arms:{***};;;;
-qstr_Smith:|Smith:{***};;;;
-qstr_Armourer:|Armourer:{***};;;;
-qstr_Maester:|Maester:{***};;;;
-qstr_Cook:|Cook:{***};;;;
-qstr_Captain_Yoren|Captain Yoren{***};;;;
-qstr_Dismiss/No_Captain|Dismiss/No Captain{***};;;;
+qstr_Description:|Description:
+qstr_Captain:|Capitaine:
+qstr_Religious_Figure:|Figure religieuse:
+qstr_Bard:|Barde:
+qstr_Bottler:|Embouteilleur
+qstr_Whore:|Prostituée:
+qstr_Master_at_Arms:|Maître d'Armes:
+qstr_Smith:|Forgeron
+qstr_Armourer:|Armurier:
+qstr_Maester:|Mestre:
+qstr_Cook:|Cuisinier:
+qstr_Captain_Yoren|Captain Yoren
+qstr_Dismiss/No_Captain|Rejeter/Pas de capitaine
 qstr_Septon|Septon{***};;;;
 qstr_Old_Gods_Priest|Old Gods Priest{***};;;;
 qstr_Red_Priest|Red Priest{***};;;;
 qstr_Drowned_Priest|Drowned Priest{***};;;;
-qstr_Dismiss/No_Priest|Dismiss/No Priest{***};;;;
-qstr_No_bard_wants_to_ser|No bard wants to serve you.{***};;;;
-qstr_Bard|Bard{***};;;;
-qstr_Dismiss/No_Bard|Dismiss/No Bard{***};;;;
-qstr_Alfred|Alfred{***};;;;
-qstr_Dismiss/No_Bottler|Dismiss/No Bottler{***};;;;
-qstr_No_whore_s_are_avail|No whore's are available.{***};;;;
-qstr_Marei|Marei{***};;;;
-qstr_Genna|Genna{***};;;;
-qstr_Kayla|Kayla{***};;;;
-qstr_Rosa|Rosa{***};;;;
-qstr_Dismiss/No_Whore|Dismiss/No Whore{***};;;;
-qstr_Master_at_Arms|Master at Arms{***};;;;
-qstr_Dismiss/No_Master_at|Dismiss/No Master at arms{***};;;;
-qstr_Gunthred|Gunthred{***};;;;
-qstr_Dismiss/No_Smith|Dismiss/No Smith{***};;;;
-qstr_Gregor|Gregor{***};;;;
-qstr_Dismiss/No_Armourer|Dismiss/No Armourer{***};;;;
-qstr_No_maesters_are_avai|No maesters are available.{***};;;;
-qstr_Jaqen|Jaqen{***};;;;
-qstr_Daario|Daario{***};;;;
-qstr_Melwyn|Melwyn{***};;;;
-qstr_Janos|Janos{***};;;;
-qstr_Dismiss/No_Maester|Dismiss/No Maester{***};;;;
-qstr_Alliser|Alliser{***};;;;
-qstr_Dismiss/No_Cook|Dismiss/No Cook{***};;;;
-qstr_{s10}|{s10}{***};;;;
-qstr_You_do_not_have_enou|You do not have enough money to increase your staff by this amount. Please reduce the number of people to hire!{***};;;;
-qstr_More|More{***};;;;
-qstr_Campaign_Type|Campaign Type{***};;;;
-qstr_ROYAL_SANDBOX_CAMPAI|ROYAL SANDBOX CAMPAIGN{***};;;;
-qstr_LORDLY_SANDBOX_CAMPA|LORDLY SANDBOX CAMPAIGN{***};;;;
-qstr_STATIC_WARS_CAMPAIGN|STATIC WARS CAMPAIGN{***};;;;
-qstr_SANDBOX_CAMPAIGN|SANDBOX CAMPAIGN{***};;;;
-qstr_Difficulty_Type|Difficulty Type{***};;;;
-qstr_Impossible|Impossible{***};;;;
-qstr_Full_Realism|Full Realism{***};;;;
-qstr_These_options_can_be|These options can be changed later in the camp menu.{***};;;;
-qstr_Reduced_to_1/4__Easi|Reduced to 1/4 (Easiest){***};;;;
-qstr_Reduced_to_1/2__Easy|Reduced to 1/2 (Easy){***};;;;
-qstr_Reduced_to_1/2__Easi|Reduced to 1/2 (Easiest){***};;;;
-qstr_Reduced_to_3/4__Easy|Reduced to 3/4 (Easy){***};;;;
-qstr_Reduced_to_1/4__Hard|Reduced to 1/4 (Hardest){***};;;;
-qstr_Reduced_to_1/2__Hard|Reduced to 1/2 (Hard){***};;;;
-qstr_Increased_to_3x_dama|Increased to 3x damage (Hardest){***};;;;
-qstr_Increased_to_2x_dama|Increased to 2x damage (Hard){***};;;;
-qstr_Slowest|Slowest{***};;;;
-qstr_Slower|Slower{***};;;;
-qstr_Faster|Faster{***};;;;
-qstr_Fastest|Fastest{***};;;;
-qstr_Warning:_The__{s1}__|Warning: The '{s1}' and '{s2}' options for this setting can't be disabled any more after you click '{s3}.'{***};;;;
-qstr_Choose_a_campaign_ty|Choose a campaign type!{***};;;;
-qstr_Static_Wars_Campaign|Static Wars Campaign: Westerosi factions will be locked in diplomacy according to the Wars of the Five Kings.^^Sandbox Campaign: The same as above but all factions (except the Nights Watch) are free to declare war and peace as they choose. Much like normal Warband..{***};;;;
-qstr_Choose_a_difficulty_|Choose a difficulty type!{***};;;;
-qstr_Stamina_is_calculate|Stamina is calculated from Health and Athletic skills and affects physical endurance during battle. When a character's stamina is exhausted, he or she won't be able to run and his or her weapons' damage will be halved.^^{s8}{***};;;;
-qstr_Your_skill_points_wi|Your skill points will deteriorate when you equip heavy armour. This skill brings better balance to the game, as light troops become more important. Other equipment may have positive effect on skills.^^{s8}{***};;;;
-qstr_Your_army_needs_regu|Your army needs regular rest at an inn, your camp site or a settlement from time to time. Lack of rest will lower your troops morale, while resting will improve it.{***};;;;
-qstr_Your_enemies_will_ca|Your enemies will cause double damage while you cause only half.{***};;;;
-qstr_Add_decapitation_to_|Add decapitation to battles.{***};;;;
-qstr_Disable_the_3D_view_|Disable the 3D view in settlement/village menus to improve the loading time for slower machines.{***};;;;
-qstr_Attack_while_holding|Attack while holding your shield (default: hold Right Mouse Button + Left Mouse Button). The short delay is meant to keep the player from mistakenly executing a shield bash during normal fighting.^^The AI will also be able to use this ability.{***};;;;
-qstr_The_divisions_of_the|The divisions of the player's army will not adopt the formations of shield wall, wedge, or square. Moreover, the F4 menu that contains these selections will no longer appear.^^The default ranks formations will always be adopted when the player closes ranks beyond the point needed to make a shoulder-to-shoulder line.{***};;;;
-qstr_When_multiple_divisi|When multiple divisions are placed, they will set up to face the centre of the enemy forces. Without this option, they will set up along the facing that the player has when he/she places them, although individual divisions will still turn to face the enemy.^^For example, with the option OFF and the player facing AWAY from the attacker, infantry will set up on the RIGHT flank rather than the LEFT.{***};;;;
-qstr_The_army_opposing_th|The army opposing the player never takes a defensive position at the back of the map, but will always charge the armies of the player and his/her allies.{***};;;;
-qstr_Turning_this_on_allo|Turning this on allows your character to perform a warcry animation when telling your troops to charge.{***};;;;
-qstr_Turning_this_on_allow|Turning this on allows you to see the distance your projectile has travelled.{***};;;;
-qstr_Set_how_much_damage_|Set how much damage is done to your character.{***};;;;
-qstr_Set_how_much_damage_i|Set how much damage is done to your army.{***};;;;
-qstr_Set_how_much_damage_is|Set how much damage is done to all lords and companions (heroes).{***};;;;
-qstr_Set_how_much_damage_is_|Set how much damage is dealt from all lords and companions (heroes).{***};;;;
-qstr_Set_how_well_troops_|Set how well troops fight. They fight worst at Beginner level.{***};;;;
-qstr_Campaign_AI_affects_|Campaign AI affects many aspects of the game, like:^- size of bandit parties^- renown loss in battles^- chance of recruiting lords^- taxes^- how lords get reinforcements^- how lords respond to the player's requests{***};;;;
-qstr_Set_the_running_spee|Set the running speed of troops in battle.^^{s8}{***};;;;
+qstr_Dismiss/No_Priest|Rejeter/Pas de prêtre
+qstr_No_bard_wants_to_ser|Aucun barde ne veut vous servir.
+qstr_Bard|Barde
+qstr_Dismiss/No_Bard|Rejeter/Pas de Barde
+qstr_Alfred|Alfred
+qstr_Dismiss/No_Bottler|Rejeter/Pas d'embouteilleur
+qstr_No_whore_s_are_avail|Aucune prostituée n'est disponible.
+qstr_Marei|Marei
+qstr_Genna|Genna
+qstr_Kayla|Kayla
+qstr_Rosa|Rosa
+qstr_Dismiss/No_Whore|Rejeter/Pas de prostituée
+qstr_Master_at_Arms|Maître d'Armes:
+qstr_Dismiss/No_Master_at|Rejeter/Pas de Maître d'Armes:
+qstr_Gunthred|Gunthred
+qstr_Dismiss/No_Smith|Rejeter/Pas de forgeron
+qstr_Gregor|Gregor
+qstr_Dismiss/No_Armourer|Rejeter/Pas d'armurier
+qstr_No_maesters_are_avai|Aucun mestre n'est disponible.
+qstr_Jaqen|Jaqen
+qstr_Daario|Daario
+qstr_Melwyn|Melwyn
+qstr_Janos|Janos
+qstr_Dismiss/No_Maester|Rejeter/Pas de Mestre
+qstr_Alliser|Alliser
+qstr_Dismiss/No_Cook|Rejeter/Pas de cuisinier
+qstr_{s10}|{s10}
+qstr_You_do_not_have_enou|Vous n'avez pas assez d'argent pour augmenter votre personnel de ce montant. Réduisez le nombre de personnes à embaucher!
+qstr_More|Plus
+qstr_Campaign_Type|Type de campagne
+qstr_ROYAL_SANDBOX_CAMPAI|CAMPAGNE ROYAL SANDBOX
+qstr_LORDLY_SANDBOX_CAMPA|CAMPAGNE SEIGNEURIAL SANDBOX
+qstr_STATIC_WARS_CAMPAIGN|CAMPAGNE GUERRES STATIQUES
+qstr_SANDBOX_CAMPAIGN|CAMPAGNE SANDBOX
+qstr_Difficulty_Type|Type de difficulté
+qstr_Impossible|Impossible
+qstr_Full_Realism|Réalisme complet
+qstr_These_options_can_be|Ces options peuvent être modifiées plus tard dans le menu du camp.
+qstr_Reduced_to_1/4__Easi|Réduit à 1/4 (Plus facile)
+qstr_Reduced_to_1/2__Easy|Réduit à 1/2 (Facile)
+qstr_Reduced_to_1/2__Easi|Réduit à 1/2 (Plus facile)
+qstr_Reduced_to_3/4__Easy|Réduit à 3/4 (Facile)
+qstr_Reduced_to_1/4__Hard|Réduit à 1/4 (Plus dur)
+qstr_Reduced_to_1/2__Hard|Réduit à 1/2 (Dur)
+qstr_Increased_to_3x_dama|Increased to 3x damage (Plus dur)
+qstr_Increased_to_2x_dama|Increased to 2x damage (Dur)
+qstr_Slowest|Plus lent
+qstr_Slower|Lent
+qstr_Faster|Rapide
+qstr_Fastest|Plus rapide
+qstr_Warning:_The__{s1}__|Avertissement: Les options '{s1}' et '{s2}' de ce paramètre ne peuvent plus être désactivées après que vous avez cliqué sur '{s3}'.
+qstr_Choose_a_campaign_ty|Choisissez un type de campagne !
+qstr_Static_Wars_Campaign|Campagne guerres statiques: Les factions de Westeros seront enfermées dans la diplomatie selon les guerres des Cinq Rois. Campagne Sandbox: Idem mais toutes les factions (excepté la Garde de Nuit) sont libres de déclarer la guerre et la paix comme elles le souhaitent. Tout comme Warband de base.
+qstr_Choose_a_difficulty_|Choisissez un type de difficulté !
+qstr_Stamina_is_calculate|L'endurance est calculée à partir des compétences de santé et d'athlétisme et affecte l'endurance physique pendant la bataille. Quand l'endurance d'un personnage est épuisée, il ne pourra plus courir et les dégâts de ses armes seront réduits de moitié. ^^ {s8}
+qstr_Your_skill_points_wi|Vos points de compétence se détérioreront lorsque vous équiperez une armure lourde. Cette compétence apporte un meilleur équilibre au jeu, car les troupes légères deviennent plus importantes. D'autres équipements peuvent avoir un effet positif sur les compétences. ^^ {s8}
+qstr_Your_army_needs_regu|Votre armée a besoin de repos régulier dans une auberge, dans votre camp ou dans une colonie de temps en temps. Le manque de repos diminuera le moral de vos troupes, tandis que le repos l'améliorera.
+qstr_Your_enemies_will_ca|Vos ennemis infligeront des dégâts doubles alors que vous n'en causerez que la moitié.
+qstr_Add_decapitation_to_|Ajoutez de la décapitation aux batailles.
+qstr_Disable_the_3D_view_|Désactivez la vue 3D dans les menus de colonie/village pour améliorer le temps de chargement des machines plus lentes.
+qstr_Attack_while_holding|Attaquez en tenant votre bouclier (par défaut: maintenez le bouton droit de la souris + le bouton gauche de la souris). Le court retard est destiné à empêcher le joueur d'exécuter par erreur un coup de bouclier pendant un combat normal. ^^ L'IA pourra également utiliser cette capacité.
+qstr_The_divisions_of_the|Les divisions de l'armée du joueur n'adopteront pas les formations de mur de bouclier, coin ou carré. De plus, le menu F4 qui contient ces sélections n'apparaîtra plus. ^^ The default ranks formations will always be adopted when the player closes ranks beyond the point needed to make a shoulder-to-shoulder line.
+qstr_When_multiple_divisi|Lorsque plusieurs divisions sont placées, elles seront placées pour faire face au centre des forces ennemies. Sans cette option, ils seront placés du côté du joueur lorsqu'il les place, bien que les divisions individuelles se tourneront toujours pour faire face à l'ennemi. ^^ Par exemple, avec l'option OFF et le joueur faisant face à l'attaquant, l'infanterie s'installe sur le flanc DROIT plutôt que sur la GAUCHE.
+qstr_The_army_opposing_th|L'armée qui s'oppose au joueur ne prend jamais une position défensive à la limite de la carte, mais charge toujours les armées du joueur et de ses alliés.
+qstr_Turning_this_on_allo|Activer cette fonction permet à votre personnage d'exécuter une animation de cri de guetre lorsque vous dites à vos troupes de charger.
+qstr_Turning_this_on_allow|L'activation de cette option vous permet de voir la distance de votre projectile a parcouru.
+qstr_Set_how_much_damage_|Définissez le nombre de dégâts infligés à votre personnage.
+qstr_Set_how_much_damage_i|Définissez le nombre de dégâts infligés à votre armée.
+qstr_Set_how_much_damage_is|Définir combien de dégâts sont faits à tous les seigneurs et compagnons (héros).
+qstr_Set_how_much_damage_is_|Définir combien de dégâts sont infligés par tous les seigneurs et compagnons (héros).
+qstr_Set_how_well_troops_|Définir comment les troupes se battent. Ils se battent très mal au niveau débutant.
+qstr_Campaign_AI_affects_|L'IA de campagne  affecte de nombreux aspects du jeu, comme: ^ - la taille des groupes de bandits ^ - la perte de renommée dans les batailles ^ - la chance de recruter des seigneurs ^ - les taxes ^ - comment les seigneurs obtiennent des renforts ^ - comment les seigneurs répondent aux demandes du joueur
+qstr_Set_the_running_spee|Réglez la vitesse de course des troupes au combat. ^^ {s8}
 qstr_{s2}_{reg0}|{s2} {reg0}
-qstr_Wounded_troops_take_|Wounded troops take damage from blood loss.^^{s8}{***};;;;
-qstr_The_player_will_have|The player will have bodyguards in certain locations.^^{s8}{***};;;;
-qstr_You_can_turn_off_the|You can turn off the invading White Walker armies. Be warned: White Walkers and Wights can only be killed with certain weapons. Novice players or cowards should probably have this turned off.{***};;;;
-qstr_Sets_the_player_as_c|Sets the player as commander of the chosen division. This division will set up immediately left and behind the player on Hold and Follow commands (Wedge will put player on the point). Consider it for bodyguard divisions.{***};;;;
-qstr_Your_player_has_the_|Your player has the chance of falling backwards in battles. This enables a realistic way to overcome the walking backwards exploit.^^{s8}{***};;;;
+qstr_Wounded_troops_take_|Les troupes blessées subissent des dégâts suite à une perte de sang.^^{s8}
+qstr_The_player_will_have|Le joueur aura des gardes du corps à certains endroits.^^{s8}
+qstr_You_can_turn_off_the|Vous pouvez désactiver l'invasion des Marcheurs Blancs. Soyez averti: les Marcheurs Blancs et spectres peuvent seulement être tués avec certaines armes. Les joueurs novices ou les lâches devraient probablement desactiver cette option.
+qstr_Sets_the_player_as_c|Définit le joueur comme commandant de la division choisie. Cette division sera mise en place immédiatement à gauche et derrière le joueur sur les commandes TENIR et SUIVRE (Wedge mettra le joueur sur le point). Considérez-le pour les divisions de garde du corps.
+qstr_Your_player_has_the_|Votre joueur a une chance de tomber en arrière dans les batailles. Cela permet un moyen réaliste d'eviter de trop marcher en arrière^^{s8}
 qstr_{s3}^^{s4}|{s3}^^{s4}
 qstr_Your_Kingdom|Votre Royaume
 qstr_Name_^{playername}|Nom ^{playername}
@@ -663,146 +663,146 @@ qstr_Reputation:|Reputation:
 qstr_Right_to_Rule:|Légitimité à régner:
 qstr_Money:|Argent:
 qstr_Religion:|Religion:
-qstr_Atheist|Atheist{***};;;;
+qstr_Atheist|Athée
 qstr_Old_Gods_of_the_Fore|Old Gods of the Forest{***};;;;
 qstr_R_hllor|R'hllor{***};;;;
 qstr_The_Faith_of_the_Sev|The Faith of the Seven{***};;;;
 qstr_The_Drowned_God|The Drowned God{***};;;;
-qstr_Can_read:|Can read:{***};;;;
-qstr_Reading:|Reading:{***};;;;
-qstr_No_books.|No books.{***};;;;
-qstr_Trait:|Trait:{***};;;;
-qstr_Natural_Leader__Pres|Natural Leader (Press Key U in battle){***};;;;
-qstr_Warrior__Press_Key_B|Warrior (Press Key B in battle){***};;;;
-qstr_Scars:|Scars:{***};;;;
-qstr_Wounds:|Wounds:{***};;;;
-qstr_Enemies_Killed:|Enemies Killed:{***};;;;
-qstr_Enemies_Wounded:|Enemies Wounded:{***};;;;
-qstr_Allies_Killed:|Allies Killed:{***};;;;
-qstr_Allies_Wounded:|Allies Wounded:{***};;;;
+qstr_Can_read:|Peut lire:
+qstr_Reading:|Entrain de lire:
+qstr_No_books.|Pas de livres.
+qstr_Trait:|Trait:
+qstr_Natural_Leader__Pres|Leader naturel (appuyez sur la touche U au cours d'une bataille)
+qstr_Warrior__Press_Key_B|Guerrier (appuyez sur la touche B au cours d'une bataille)
+qstr_Scars:|Cicatrices:
+qstr_Wounds:|Blessures:
+qstr_Enemies_Killed:|Ennemis tués:
+qstr_Enemies_Wounded:|Ennemis blessés
+qstr_Allies_Killed:|Alliés tués:
+qstr_Allies_Wounded:|Alliés blessés:
 qstr_Story|Histoire
-qstr_Attributes/Skills|Attributes/Skills{***};;;;
-qstr_Wounds|Wounds{***};;;;
+qstr_Attributes/Skills|Attributs/Compétences
+qstr_Wounds|Blessures
 qstr_Quest|Quêtes
-qstr_Party|Party{***};;;;
+qstr_Party|Groupe
 qstr_Relations|Relations
 qstr_Budget|Budget
-qstr_Statistics|Statistics{***};;;;
-qstr_Companions|Companions{***};;;;
+qstr_Statistics|Statistiques
+qstr_Companions|Compagnons
 qstr_Factions|Factions
 qstr_Known_Lords|Seigneurs connus
-qstr_Courtship|Courtship{***};;;;
+qstr_Courtship|Relation de séduction
 qstr_Ships|Bateaux
-qstr_Level:_{reg4}_^Days_|Level: {reg4} ^Days of Adventuring: {reg5}.{***};;;;
-qstr_Settlements_Owned_by|Settlements Owned by You: {reg0}{***};;;;
-qstr_Hostile_Lords:_{reg0|Hostile Lords: {reg0}{***};;;;
-qstr_Inventory:_{reg0}_st|Inventory: {reg0} stags{***};;;;
-qstr_You_need_to_be_the_r|You need to be the ruler of your faction in order to access your kingdom control panel.{***};;;;
+qstr_Level:_{reg4}_^Days_|Niveau: {reg4} ^Nombre de jours d'aventures: {reg5}.
+qstr_Settlements_Owned_by|Territoires qui vous appartiennent: {reg0}
+qstr_Hostile_Lords:_{reg0|Seigneurs hostiles: {reg0}
+qstr_Inventory:_{reg0}_st|Inventaire: {reg0} cerfs d'argent
+qstr_You_need_to_be_the_r|Vous devez être le dirigeant de votre faction afin d'accéder à votre panneau de contrôle du royaume.
 qstr_^^^^Wounds_Informati|^^^^Informations sur les blessures:^^{s3}^^----------^^{s4}^^----------^^{s5}^^----------^^{s6}
-qstr_Kingdom_Report|Kingdom Report{***};;;;
-qstr_{reg59?Queen:King}:|{reg59?Queen:King}:{***};;;;
-qstr_{reg59?Queen:King}_s|{reg59?Queen:King}'s Towns:{***};;;;
-qstr_{reg59?Queen:King}_s_|{reg59?Queen:King}'s Castles:{***};;;;
-qstr_{reg59?Queen:King}_s_V|{reg59?Queen:King}'s Villages:{***};;;;
-qstr_Lords:|Lords:{***};;;;
-qstr_Caravans:|Caravans:{***};;;;
-qstr_Kingdom_Towns:|Kingdom Towns:{***};;;;
-qstr_Kingdom_Castles:|Kingdom Castles:{***};;;;
-qstr_Kingdom_Villages:|Kingdom Villages:{***};;;;
-qstr_Places_without_Lord:|Places without Lord:{***};;;;
-qstr_Prisoner_Lords:|Prisoner Lords:{***};;;;
-qstr_Minister:|Minister:{***};;;;
-qstr_Tax_Enforcement:|Tax Enforcement:{***};;;;
-qstr_No__tax_revenue_lowe|No (tax revenue lower){***};;;;
-qstr_{reg59?Queen:King}_s_A|{reg59?Queen:King}'s Army Size:{***};;;;
-qstr_Royal_Decree|Royal Decree{***};;;;
-qstr_Summary|Summary{***};;;;
-qstr_Lords|Lords{***};;;;
+qstr_Kingdom_Report|Rapport du Royaume
+qstr_{reg59?Queen:King}:|{reg59?Reine:Roi}:
+qstr_{reg59?Queen:King}_s|Villes {reg59?de la Reine:du Roi}:
+qstr_{reg59?Queen:King}_s_|Châteaux {reg59?de la Reine:du Roi}:
+qstr_{reg59?Queen:King}_s_V|Villages {reg59?de la Reine:du Roi}:
+qstr_Lords:|Seigneurs:
+qstr_Caravans:|Caravanes:
+qstr_Kingdom_Towns:|Villes du Royaume:
+qstr_Kingdom_Castles:|Châteaux du Royaume:
+qstr_Kingdom_Villages:|Villages du Royaume:
+qstr_Places_without_Lord:|Lieux sans Seigneur:
+qstr_Prisoner_Lords:|Seigneurs emprisonnés:
+qstr_Minister:|Ministre:
+qstr_Tax_Enforcement:|Impôts:
+qstr_No__tax_revenue_lowe|Non (baisse des recettes fiscales)
+qstr_{reg59?Queen:King}_s_A|Taille de l'armée {reg59?de la Reine:du Roi}:
+qstr_Royal_Decree|Décret royal
+qstr_Summary|Résumé
+qstr_Lords|Seigneurs
 qstr_Diplomacy|Diplomacie
-qstr_Armies|Armies{***};;;;
-qstr_Centers|Centers{***};;;;
-qstr_Rename|Rename{***};;;;
-qstr_Map_Colour|Map Colour{***};;;;
-qstr_Make_a_Royal_Decree:|Make a Royal Decree:^^Changing orders will take a few hours,^as messengers need time to reach your vassals.^Once you select your order click DONE for confirmation.{***};;;;
-qstr_Gather_Our_Forces|Gather Our Forces{***};;;;
-qstr_Defend_the_Kingdom|Defend the Kingdom{***};;;;
-qstr_Current_decree:_{s4}|Current decree: {s4}{***};;;;
-qstr_You_order_the_lords_|You order the lords to present themselves with their household armies.{***};;;;
-qstr_You_order_the_kingdo|You order the kingdom to be defended.{***};;;;
-qstr_You_cannot_do_this_n|You cannot do this now.{***};;;;
-qstr_Choose_a_colour_for_|Choose a colour for your kingdom!{***};;;;
-qstr_Green|Green{***};;;;
-qstr_Blue|Blue{***};;;;
-qstr_{reg11}_{reg12}_{reg|{reg11}, {reg12}, {reg13}{***};;;;
-qstr_Your_Camp|Your Camp{***};;;;
-qstr_You_stop_to_rest.^He|You stop to rest.^Here you can manage your camp's resources.{***};;;;
-qstr_Send_Scouts:|Send Scouts:{***};;;;
+qstr_Armies|Armées
+qstr_Centers|Centres
+qstr_Rename|Renommer
+qstr_Map_Colour|Couleur sur la carte
+qstr_Make_a_Royal_Decree:|Faire un Décret Royal:^^La modification des ordres prendra quelques heures,^car les messagers ont besoin de temps pour atteindre vos vassaux.^Une fois que vous avez sélectionné votre ordre, cliquez sur OK pour confirmation.
+qstr_Gather_Our_Forces|Rassemblez nos forces
+qstr_Defend_the_Kingdom|Défendre le Royaume
+qstr_Current_decree:_{s4}|Décret en vigueur: {s4}
+qstr_You_order_the_lords_|Vous ordonnez aux seigneurs de se présenter avec leurs armées domestiques.
+qstr_You_order_the_kingdo|Vous ordonnez que le royaume soit défendu.
+qstr_You_cannot_do_this_n|Vous ne pouvez pas faire ça maintenant.
+qstr_Choose_a_colour_for_|Choisissez une couleur pour votre royaume !
+qstr_Green|Vert
+qstr_Blue|Bleu
+qstr_{reg11}_{reg12}_{reg|{reg11}, {reg12}, {reg13}
+qstr_Your_Camp|Votre camp
+qstr_You_stop_to_rest.^He|Vous vous arrêtez pour vous reposer. ^ Ici, vous pouvez gérer les ressources de votre camp.
+qstr_Send_Scouts:|Envoyer des éclaireurs:
 qstr_^Sending_scouts_ahea|^Envoyer des éclaireurs avant l'armée augmentera vos chances de repérer les ennemis. Cependant, ces hommes sont très exposés, donc leur espérance de vie est faible.
-qstr_Thirty_men_are_neede|Thirty men are needed.{***};;;;
+qstr_Thirty_men_are_neede|Trente hommes sont nécessaires.
 qstr_^Send_men_to_forage_a|^Envoyer des hommes chercher de la nourriture pendant que votre armée voyage. Ils reviennendront avec de la nourriture supplémentaire chaque demi-journée.
-qstr_Twenty_men_are_neede|Twenty men are needed.{***};;;;
+qstr_Twenty_men_are_neede|Vingt hommes sont nécessaires.
 qstr_^Fortify_your_camp_wi|^Fortifiez votre camp avec des défenses de base. Les hommes engagés dans ce travail difficile auront besoin d'une récompense de 200 cerfs d'argent, ou vous pourriez vous retrouver en difficulté.
-qstr_Your_Settlement|Your Settlement{***};;;;
-qstr_Wait_Here|Wait Here{***};;;;
-qstr_Visit_your_Camp|Visit your Camp{***};;;;
-qstr_You_cannot_build_you|You cannot build your settlement so close to another settlement.{***};;;;
-qstr_You_are_too_close_to|You are too close to a settlement to camp.{***};;;;
-qstr_Your_army_morale_is_|Your army morale is low!{***};;;;
-qstr_{reg1}_{reg2}|{reg1}, {reg2}{***};;;;
-qstr_From_Troop:_|From Troop: {***};;;;
-qstr__Click_on_a_unit_for|(Click on a unit for details){***};;;;
-qstr_fort|fort{***};;;;
-qstr_Infiltration|Infiltration{***};;;;
-qstr_A_good_way_to_hasten|A good way to hasten the fall of the {s2} is to infiltrate it with a group of men to damage the defences, food stores, water supplies or loyalty of the defenders. It is a difficult and risky manoeuvre, almost suicidal. Those you send in have low chances of returning, but if successful, they could cause great damage to the enemy. They need 600 stags for their troubles. What type of sabotage would you like them to cause?{***};;;;
-qstr_Poison_the_{s2}_s_wa|Poison the {s2}'s water.{***};;;;
-qstr_Kill_the_{s2}_s_live|Kill the {s2}'s livestock.{***};;;;
-qstr_Burn_the_{s2}_s_food|Burn the {s2}'s food.{***};;;;
-qstr_Subvert_the_defender|Subvert the defenders.{***};;;;
-qstr_A_group_of_chosen_me|A group of chosen men will be sent to poison the water supplies.{***};;;;
-qstr_A_group_of_chosen_men|A group of chosen men will be sent to kill the cattle.{***};;;;
-qstr_A_group_of_chosen_men_|A group of chosen men will be sent to burn the granaries.{***};;;;
-qstr_A_group_of_chosen_men_w|A group of chosen men will be sent to subvert the defenders.{***};;;;
-qstr_You_do_not_have_the_|You do not have the 600 stags to pay for this mission.{***};;;;
+qstr_Your_Settlement|Votre colonie
+qstr_Wait_Here|Attendre ici
+qstr_Visit_your_Camp|Visiter votre camp
+qstr_You_cannot_build_you|Vous ne pouvez pas construire votre colonie si près d'une autre colonie.
+qstr_You_are_too_close_to|Vous êtes trop près d'une colonie pour camper.
+qstr_Your_army_morale_is_|Le moral de votre armée est bas!
+qstr_{reg1}_{reg2}|{reg1}, {reg2}
+qstr_From_Troop:_|Des troupes:
+qstr__Click_on_a_unit_for|(Cliquez sur une unité pour plus de détails)
+qstr_fort|fort
+qstr_Infiltration|Infiltration
+qstr_A_good_way_to_hasten|Un bon moyen d'accélérer la chute du {s2} est de l'infiltrer avec un groupe d'hommes pour endommager les défenses, les magasins d'alimentation, l'approvisionnement en eau ou la loyauté des défenseurs. C'est une manœuvre difficile et risquée, presque suicidaire. Ceux que vous envoyez ont de faibles chances de revenir, mais s'ils réussissent, ils peuvent causer de grands dégâts à l'ennemi. Ils ont besoin de 600 cerfs d'argent. Quel type de sabotage voudriez-vous qu'ils provoquent?
+qstr_Poison_the_{s2}_s_wa|Empoisonner l'eau de {s2}.
+qstr_Kill_the_{s2}_s_live|Tuer le bétail de {s2}.
+qstr_Burn_the_{s2}_s_food|Brûler la nourriture de {s2}.
+qstr_Subvert_the_defender|Détourner les défenseurs.
+qstr_A_group_of_chosen_me|Un groupe d'hommes choisis sera envoyé pour empoisonner l'approvisionnement en eau.
+qstr_A_group_of_chosen_men|Un groupe d'hommes choisis sera envoyé pour tuer le bétail.
+qstr_A_group_of_chosen_men_|Un groupe d'hommes choisis sera envoyé pour brûler les greniers.
+qstr_A_group_of_chosen_men_w|Un groupe d'hommes choisis sera envoyé pour subvertir les défenseurs.
+qstr_You_do_not_have_the_|Vous n'avez pas les 600 cerfs d'argent à payer pour cette mission.
 qstr_{s1}_of_the_{s2}|{s1} of the {s2}{***};;;;
-qstr_Send|Send{***};;;;
-qstr_You_are_sending_a_ra|You are sending a raven.^You can do three kinds of things with a raven: give Orders, change Relations and make Diplomacy.{***};;;;
-qstr_Message_Type:|Message Type:{***};;;;
-qstr_Select_a_Place_for_y|Select a Place for your orders:{***};;;;
-qstr_>>_Orders:^_You_cann|>> Orders:^ You cannot give orders to a lord who doesn't belong to your kingdom.{***};;;;
-qstr_Orders:_None.|Orders: None.{***};;;;
-qstr_Orders:_Meet_and_Fol|Orders: Meet and Follow You.{***};;;;
-qstr_Orders:_Go_to_a_Plac|Orders: Go to a Place.{***};;;;
-qstr_Orders:_Patrol_an_Ar|Orders: Patrol an Area.{***};;;;
-qstr_Orders:_Besiege_a_Pl|Orders: Besiege a Place.{***};;;;
-qstr_>>_Relations:^This_l|>> Relations:^This lord belongs to your kingdom.{***};;;;
-qstr_Relations:_None.|Relations: None.{***};;;;
-qstr_Relations:_Insult_an|Relations: Insult and Provoke.{***};;;;
-qstr_Relations:_Send_a_Gi|Relations: Send a Gift.{***};;;;
-qstr_>>Diplomacy:^It_is_o|>>Diplomacy:^It is only possible to negotiate between faction leaders.^You aren't a king.{***};;;;
-qstr_>>Diplomacy:^It_is_on|>>Diplomacy:^It is only possible to negotiate between faction leaders.^{s1} isn't a king.{***};;;;
-qstr_Diplomacy:_None.|Diplomacy: None.{***};;;;
-qstr_Diplomacy:_Suggest_a|Diplomacy: Suggest an Alliance.{***};;;;
-qstr_Diplomacy:_Suggest_P|Diplomacy: Suggest Peace.{***};;;;
-qstr_Diplomacy:_Declare_W|Diplomacy: Declare War.{***};;;;
-qstr_You_want_to_order_{s|You want to order {s9} to meet and follow you.{***};;;;
-qstr_You_want_to_order_{s9|You want to order {s9} to go to...{***};;;;
-qstr_You_want_to_order_{s9}|You want to order {s9} to patrol around....{***};;;;
-qstr_You_want_to_order_{s9}_|You want to order {s9} to besiege...{***};;;;
-qstr_You_want_to_send_a_m|You want to send a message to insult and provoke {s9}. Perhaps this will make him attack you.{***};;;;
-qstr_You_want_to_send_a_g|You want to send a gift of rings, bracelets and other jewellery valued at 2000 stags to {s9}, with the intention of improving your relationship.{***};;;;
-qstr_You_want_to_invite_{|You want to invite {s9} to make an alliance with you.{***};;;;
-qstr_You_want_to_make_pea|You want to make peace with {s9}.{***};;;;
-qstr_You_want_to_declare_|You want to declare war on {s9}. Remember that declaring a war without bad relations can cause other realms discomfort with and mistrust of you, especially if your kingdom has a truce or alliance with the other kingdom.{***};;;;
-qstr_No_message_chosen.|No message chosen.{***};;;;
-qstr_>_You_are_sending_a_|> You are sending a raven to {s9}^^> Distance: {reg2} km.^^> Messenger services will cost {reg3} stags.^^^> {s10}{***};;;;
-qstr_You_have_not_chosen_|You have not chosen a message to send.{***};;;;
-qstr_This_place_is_alread|This place is already besieged by another realm.{***};;;;
-qstr_You_have_good_relati|You have good relations with this kingdom. Your lord won't attack it.{***};;;;
-qstr_You_re_already_at_pe|You're already at peace with this kingdom. It isn't necessary to send a raven.{***};;;;
-qstr_You_need_to_improve_|You need to improve your relationship with this kingdom before proposing an alliance.{***};;;;
-qstr_You_already_have_an_|You already have an alliance with this kingdom. Wait until the current alliance finishes before you send your petition.{***};;;;
-qstr_You_are_already_at_w|You are already at war with this kingdom.{***};;;;
-qstr_You_do_not_have_the_n|You do not have the needed stags to pay to messenger.{***};;;;
+qstr_Send|Envoyer
+qstr_You_are_sending_a_ra|Vous envoyez un corbeau. ^ Vous pouvez faire trois sortes de choses avec un corbeau: donner des ordres, changer les relations et faire de la diplomatie.
+qstr_Message_Type:|Type de message
+qstr_Select_a_Place_for_y|Sélectionnez un lieu pour vos ordres:
+qstr_>>_Orders:^_You_cann|>> Ordres:^Vous ne pouvez pas donner des ordres à un seigneur qui n'appartient pas à votre royaume.
+qstr_Orders:_None.|Ordre: Aucun.
+qstr_Orders:_Meet_and_Fol|Ordre: Se rencontrer et vous suivre
+qstr_Orders:_Go_to_a_Plac|Ordre: Aller à un endroit.
+qstr_Orders:_Patrol_an_Ar|Ordre: Patrouiller une zone.
+qstr_Orders:_Besiege_a_Pl|Ordre: Assiéger un lieu.
+qstr_>>_Relations:^This_l|>> Relations: ^ Ce seigneur appartient à votre royaume.
+qstr_Relations:_None.|Relations: Aucun.
+qstr_Relations:_Insult_an|Relations: Insulter et Provoquer.
+qstr_Relations:_Send_a_Gi|Relations: Envoyer un cadeau.
+qstr_>>Diplomacy:^It_is_o|>>Diplomatie:^Il est seulement possible de négocier entre chefs de faction. ^ Vous n'êtes pas un roi.
+qstr_>>Diplomacy:^It_is_on|>> Diplomatie:^Il est seulement possible de négocier entre chefs de faction.^{S1} n'est pas un roi.
+qstr_Diplomacy:_None.|Diplomatie: Rien.
+qstr_Diplomacy:_Suggest_a|Diplomatie: Suggérer une alliance.
+qstr_Diplomacy:_Suggest_P|Diplomatie: Suggérer la paix.
+qstr_Diplomacy:_Declare_W|Diplomatie: Déclarer la guerre.
+qstr_You_want_to_order_{s|Vous voulez ordonner à {s9} de vous rencontrer et de vous suivre.
+qstr_You_want_to_order_{s9|Vous voulez ordonner à {s9} d'aller à...
+qstr_You_want_to_order_{s9}|Vous voulez ordonner à {s9} de patrouiller autour....
+qstr_You_want_to_order_{s9}_|Vous voulez ordonner à d'assiéger...
+qstr_You_want_to_send_a_m|Vous voulez envoyer un message à {s9} pour l'insulter et le provoquer. Peut-être qu'il vous attaquera par la suite.
+qstr_You_want_to_send_a_g|Vous voulez envoyer des bagues, bracelets et autres bijoux évalués à 2000 cerfs d'argent à {s9}, avec l'intention d'améliorer votre relation.
+qstr_You_want_to_invite_{|Vous voulez inviter {s9} à faire une alliance avec vous.
+qstr_You_want_to_make_pea|Vous voulez faire la paix avec {s9}.
+qstr_You_want_to_declare_|Vous voulez déclarer la guerre sur {s9}. Rappelez-vous que déclarer une guerre sans mauvaises relations peut causer d'autres malheurs et provoquer de la méfiance à votre égard, surtout si votre royaume a une trêve ou une alliance avec l'autre royaume.
+qstr_No_message_chosen.|Aucun message choisi.
+qstr_>_You_are_sending_a_|> Vous envoyez un corbeau à {s9}^^> Distance: {reg2} km.^^> Les services de messageries coûteront {reg3} cerfs d'argent.^^^> {s10}
+qstr_You_have_not_chosen_|Vous n'avez pas choisi de message à envoyer.
+qstr_This_place_is_alread|Cet endroit est déjà assiégé par un autre royaume.
+qstr_You_have_good_relati|Vous avez de bonnes relations avec ce royaume. Votre seigneur ne l'attaquera pas.
+qstr_You_re_already_at_pe|Vous êtes déjà en paix avec ce royaume. Il n'est pas nécessaire d'envoyer un corbeau.
+qstr_You_need_to_improve_|Vous devez améliorer votre relation avec ce royaume avant de proposer une alliance. 
+qstr_You_already_have_an_|Vous avez déjà une alliance avec ce royaume. Attendez la fin de l'alliance en cours avant d'envoyer votre pétition.
+qstr_You_are_already_at_w|Vous êtes déjà en guerre avec ce royaume.
+qstr_You_do_not_have_the_n|Vous n'avez pas assez de cerfs d'argent pour payer le messenger.
 qstr_Port_of_{s1}|Port of {s1}{***};;;;
 qstr_vSeason|vSeason{***};;;;
 qstr__near_{s10}|près de {s10}
@@ -812,9 +812,9 @@ qstr_Your_messenger_on_th|Votre messager en route pour {s13} a été défait{s10
 qstr_Your_soldiers_patrol|Vos soldats en patrouille à {s13} ont été défaits{s10} !
 qstr_A_scout_trying_to_ga|Un éclaireur qui essayait d'obtenir des informations sur {s13} a été tué{s10} !
 qstr_{s1}_of_{s3}_was_def|{s1} de {s3} a été vaincu au combat mais est parvenu à s'enfuir.
-qstr_{s49}{s12}|{s49}{s12}{***};;;;
-qstr_Trying_to_improve_yo|Trying to improve your relations with {s44}{***};;;;
-qstr_Is_imprisoned_in_the|Is imprisoned in the dungeon of {s44}{***};;;;
+qstr_{s49}{s12}|{s49}{s12}
+qstr_Trying_to_improve_yo|Essayer d'améliorer vos relations avec {s44}
+qstr_Is_imprisoned_in_the|Est emprisonné dans le donjon de {s44}
 qstr_{s54}_is_a_claimant_|{s54} est prétendant au trône du {s56}.
 qstr_nowhere|Nulle part
 qstr_{s57}_and_{s58}|{s57} et {s58}
@@ -829,45 +829,45 @@ qstr_{s2}Its_prosperity_i|{s2}Sa prospérité est : {s50}
 qstr_{s9}_and_{s10}|{s9} et {s10}
 qstr_{s7}_opened_the_gate|{s7} a ouvert les portes
 qstr_{s7}_closed_the_gate|{s7} a fermé les portes
-qstr_You_are_hurt_close_t|You are hurt, close to death, weak and blood soaked. You need to be healed quickly.{***};;;;
-qstr_As_life_fades_you_re|As life fades you're struck with the fury of combat and refuse to die. Adrenalin takes hold and today, you say no to death.{***};;;;
-qstr_You_re_so_tired_you_|You're so tired you can barely move a muscle.{***};;;;
-qstr_You_heal.|You heal.{***};;;;
-qstr_{s0}_|{s0} {***};;;;
+qstr_You_are_hurt_close_t|Vous êtes blessé, proche de la mort, faible et vos vetêments sont trempés de sang. Vous devez être guéri rapidement.
+qstr_As_life_fades_you_re|Comme la vie s'estompe, vous êtes frappé par la fureur du combat et refusez de mourir. L'adrénaline prend le contrôle et aujourd'hui, vous dites non à la mort.
+qstr_You_re_so_tired_you_|Vous êtes si fatigué que vous pouvez à peine bouger un muscle.
+qstr_You_heal.|Vous guérissez.
+qstr_{s0}_|{s0}
 qstr_+{reg1}_to_party_mor|+{reg1} au moral du groupe
-qstr_Increases_party_mora|Increases party morale^ and improves leadership and tactics skills{***};;;;
-qstr_Musical_Instruments:|Musical Instruments: Increases entertainment{***};;;;
-qstr_Also_known_as_Dragon|Also known as Dragonglass,^formed from a volcanic gas{***};;;;
+qstr_Increases_party_mora|Augmente le moral du groupe^ et améliore les compétences en leadership et en tactique 
+qstr_Musical_Instruments:|Instruments de musique: Augmente le divertissement
+qstr_Also_known_as_Dragon|Aussi connu sous le nom de Verredragon ,^formé à partir d'un gaz volcanique
 qstr_The_ancestral_sword_|The ancestral sword of House Dayne.^Said to be made from metal forged from the heart of a fallen star{***};;;;
 qstr_Valyrian_steel.^Exce|Valyrian steel.^Exceptionally sharp and tremendously strong, yet light,^keeping its edge and requiring no maintenance.^This weapon will never break{***};;;;
 qstr_A_Valyrian_Warhammer|A Valyrian Warhammer once owned by King Robert Baratheon.^This weapon will never break{***};;;;
 qstr_The_ancestral_Valyri|The ancestral Valyrian steel sword of House Stark.^Exceptionally sharp and tremendously strong, yet light.^This weapon will never break{***};;;;
 qstr_The_ancestral_Valyria|The ancestral Valyrian steel sword of House Mormont.^Exceptionally sharp and tremendously strong, yet light.^This weapon will never break{***};;;;
-qstr_Just_a_random_sword|Just a random sword{***};;;;
-qstr_A_sword_made_of_ice|A sword made of ice{***};;;;
+qstr_Just_a_random_sword|Juste une épée aléatoire
+qstr_A_sword_made_of_ice|Une épée faite de glace
 qstr_Requires_{reg1}_inte|Comprendre ce livre nécessite {reg1} en intelligence
 qstr_Reading_Progress:_{r|Progression de la lecture : {reg1}%
-qstr_wound_treatment|wound treatment{***};;;;
-qstr_training|training{***};;;;
+qstr_wound_treatment|traitement des plaies
+qstr_training|entraînement
 qstr_surgery|chirurgie
 qstr_persuasion|persuasion
 qstr_+1_to_{s1}_while_in_|+1 à la compétence {s1} si dans l'inventaire
 qstr__^|^
-qstr__2_speed^_2_manoeuvr|-2 speed^-2 manoeuvre^{***};;;;
-qstr__5_speed^_5_manoeuvr|-5 speed^-5 manoeuvre^{***};;;;
-qstr_+3_armour^+4_charge^|+3 armour^+4 charge^+10 hit points^{***};;;;
+qstr__2_speed^_2_manoeuvr|-2 vitesse^-2 manœuvre ^ 
+qstr__5_speed^_5_manoeuvr|-5 vitesse^-5 manœuvre^
+qstr_+3_armour^+4_charge^|+3 armure^+4 charge^+10 points dégats^
 qstr__1_requirement_of_ri|-1 nécessité cavalerie
 qstr_+1_requirement_of_ri|+1 nécessité cavalerie^+5 points dégats
-qstr_+1_speed^+1_armour^+|+1 speed^+1 armour^+1 charge^{***};;;;
+qstr_+1_speed^+1_armour^+|+1 vitesse^+1 armure^+1 charge^
 qstr_+2_requirement_of_ri|+2 nécessité cavalerie^+2 vitesse^+2 armure^+2 charge
-qstr_{s1}_Improves_foragi|{s1} Improves foraging skill{***};;;;
-qstr_{s1}_Increases_inven|{s1} Increases inventory capacity{***};;;;
+qstr_{s1}_Improves_foragi|{s1} Améliore la compétence de "chercheur de nourriture"
+qstr_{s1}_Increases_inven|{s1} Augmente la compétence "inventaire"
 qstr__56_hit_points^_4_re|-56 points dégats^-4 résistance
 qstr__26_hit_points^_2_re|-26 points dégats^-2 résistance
 qstr_+47_hit_points^+2_re|+47 points dégats^+2 résistance
 qstr_+83_hit_points^+4_re|+83 points dégats^+4 résistance
-qstr_{s2}_Heavy_Equipment|{s2} Heavy Equipment: Penalties in certain skills{***};;;;
-qstr_{s2}_Medium_Equipmen|{s2} Medium Equipment: Penalties in certain skills{***};;;;
+qstr_{s2}_Heavy_Equipment|{s2} Équipement lourd: pénalités dans certaines compétences
+qstr_{s2}_Medium_Equipmen|{s2} Équipement moyen: pénalités dans certaines compétences
 qstr___4_to_body_armour^| -4 to body armour^{***};;;;
 qstr___3_to_body_armour^| -3 to body armour^{***};;;;
 qstr___2_to_body_armour^| -2 to body armour^{***};;;;
@@ -877,28 +877,28 @@ qstr__+2_to_body_armour^| +2 to body armour^{***};;;;
 qstr__+3_to_body_armour^| +3 to body armour^{***};;;;
 qstr__+4_to_body_armour^| +4 to body armour^{***};;;;
 qstr__+6_to_body_armour^| +6 to body armour^{***};;;;
-qstr_{s1}_Heavy_Armour:_H|{s1} Heavy Armour: High Penalties in certain skills{***};;;;
-qstr_{s1}_Medium_Armour:_|{s1} Medium Armour: Penalties in certain skills{***};;;;
-qstr_{s1}_Religious_Equip|{s1} Religious Equipment: Increases persuasion{***};;;;
-qstr_{s1}_Gives_advantage|{s1} Gives advantages in certain skills{***};;;;
-qstr___4_to_head_armour^| -4 to head armour^{***};;;;
-qstr___3_to_head_armour^| -3 to head armour^{***};;;;
-qstr___2_to_head_armour^| -2 to head armour^{***};;;;
-qstr___1_to_head_armour^| -1 to head armour^{***};;;;
-qstr__+1_to_head_armour^| +1 to head armour^{***};;;;
-qstr__+2_to_head_armour^| +2 to head armour^{***};;;;
-qstr__+3_to_head_armour^| +3 to head armour^{***};;;;
-qstr__+4_to_head_armour^| +4 to head armour^{***};;;;
-qstr__+6_to_head_armour^| +6 to head armour^{***};;;;
-qstr___4_to_leg_armour^| -4 to leg armour^{***};;;;
-qstr___3_to_leg_armour^| -3 to leg armour^{***};;;;
-qstr___2_to_leg_armour^| -2 to leg armour^{***};;;;
-qstr___1_to_leg_armour^| -1 to leg armour^{***};;;;
-qstr__+1_to_leg_armour^| +1 to leg armour^{***};;;;
-qstr__+2_to_leg_armour^| +2 to leg armour^{***};;;;
-qstr__+3_to_leg_armour^| +3 to leg armour^{***};;;;
-qstr__+4_to_leg_armour^| +4 to leg armour^{***};;;;
-qstr__+6_to_leg_armour^| +6 to leg armour^{***};;;;
+qstr_{s1}_Heavy_Armour:_H|{s1} Armure lourde: Pénalités élevées dans certaines compétences
+qstr_{s1}_Medium_Armour:_|{s1} Armure moyenne: Pénalités dans certaines compétences
+qstr_{s1}_Religious_Equip|{s1} Équipement religieux: Augmente la persuasion
+qstr_{s1}_Gives_advantage|{s1} Donne des avantages dans certaines compétences
+qstr___4_to_head_armour^| -4 au casque^
+qstr___3_to_head_armour^| -3 au casque^
+qstr___2_to_head_armour^| -2 au casque^
+qstr___1_to_head_armour^| -1 au casque^
+qstr__+1_to_head_armour^| +1 au casque^
+qstr__+2_to_head_armour^| +2 au casque^
+qstr__+3_to_head_armour^| +3 au casque^
+qstr__+4_to_head_armour^| +4 au casque^
+qstr__+6_to_head_armour^| +6 au casque^
+qstr___4_to_leg_armour^| -4 aux jambières^
+qstr___3_to_leg_armour^| -3 aux jambières^
+qstr___2_to_leg_armour^| -2 aux jambières^
+qstr___1_to_leg_armour^| -1 aux jambières^
+qstr__+1_to_leg_armour^| +1 aux jambières^
+qstr__+2_to_leg_armour^| +2 aux jambières^
+qstr__+3_to_leg_armour^| +3 aux jambières^
+qstr__+4_to_leg_armour^| +4 aux jambières^
+qstr__+6_to_leg_armour^| +6 aux jambières^
 qstr_{reg1?_5_swing_damag|{reg1?-5 estoc^:}{reg2?-5 coup^:}
 qstr_{reg1?_3_swing_damag|{reg1?-3 estoc^:}{reg2?-3 coup^:}
 qstr_{reg1?_3_swing_damage|{reg1?-3 estoc^:}{reg2?-3 coup^:}-3 vitesse
@@ -917,17 +917,17 @@ qstr_+3_damage^+3_speed|+3 dégâts^+3 vitesse
 qstr__3_damage|-3 dégâts
 qstr_Move_here|Allez ici
 qstr_View_notes|Voir les notes
-qstr_Send_Spy|Send Spy{***};;;;
-qstr_Retrieve_Spy|Retrieve Spy{***};;;;
-qstr_Order_Sabotage|Order Sabotage{***};;;;
-qstr_Add_custom_note|Add custom note{***};;;;
-qstr_Send_messenger|Send messenger{***};;;;
+qstr_Send_Spy|Envoyer un espion
+qstr_Retrieve_Spy|Récupérer l'espion
+qstr_Order_Sabotage|Ordonner le sabotage
+qstr_Add_custom_note|Ajouter une note personnalisée
+qstr_Send_messenger|Envoyer un messager
 qstr_Accompany|Accompagner
-qstr_Find_landing_point|Find landing point{***};;;;
-qstr_Select_as_target|Select as target{***};;;;
+qstr_Find_landing_point|Trouver un point d'atterrissage
+qstr_Select_as_target|Sélectionnez comme cible
 qstr__{s61}_{s62}_|{s61}({s62})
-qstr_killed_or_seriously_|killed or seriously wounded{***};;;;
-qstr_minor_wounded|minor wounded{***};;;;
+qstr_killed_or_seriously_|tué ou grièvement blessé
+qstr_minor_wounded|blessé legèrement
 qstr_{s0}^TOTAL:_{reg3}__|{s0}^TOTAL: {reg3} ({s2})
 qstr_^None|^Aucune
 qstr_nothing|Rien
@@ -940,14 +940,14 @@ qstr_{reg0}_town{reg1?s:}_{|{reg0} ville{reg1?s:}, {s0}
 qstr_Your_opponents_are_r|Vos adversaires sont prêts à se battre.
 qstr_Try_to_destroy_as_ma|Essayez de détruire autant de cibles que possible. Vous avez deux minutes et demie pour finir.
 qstr_Stay_behind_the_line|Restez derrière la ligne au sol et visez les cibles. Essayez de ne pas rater de tir.
-qstr_Garrison_Troops|Garrison Troops{***};;;;
-qstr_Camp_Troops|Camp Troops{***};;;;
-qstr_Settlement_Troops|Settlement Troops{***};;;;
-qstr_Even_though_nearby_{|Even though nearby, {s1} does not come to your aid.{***};;;;
-qstr___AMBUSH_BONUS:_6_| (AMBUSH BONUS: 6){***};;;;
-qstr___AMBUSH_BONUS:_3_| (AMBUSH BONUS: 3){***};;;;
-qstr___AMBUSH_MALUS:_6_| (AMBUSH MALUS: 6){***};;;;
-qstr___AMBUSH_MALUS:_10_| (AMBUSH MALUS: 10){***};;;;
+qstr_Garrison_Troops|Troupes de garnison
+qstr_Camp_Troops|Troupes du camp
+qstr_Settlement_Troops|Troupes de colonie
+qstr_Even_though_nearby_{|Même si il est à proximité, {s1} ne vient pas à votre aide.
+qstr___AMBUSH_BONUS:_6_| (BONUS EMBUSCADE: 6)
+qstr___AMBUSH_BONUS:_3_| (BONUS EMBUSCADE: 3)
+qstr___AMBUSH_MALUS:_6_| (MALUS EMBUSCADE: 6)
+qstr___AMBUSH_MALUS:_10_| (MALUS EMBUSCADE: 10)
 qstr_Battle_Advantage_=_{|Avantage tactique = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9} veut que vous suiviez son armée jusqu'à nouvel ordre.
 qstr__Being_Raided_|(En train d'être pillé)
@@ -955,17 +955,17 @@ qstr__Looted_|(Pillé)
 qstr__Under_Siege_|(Assiégé)
 qstr_The_village_of_{s1}_|Le village de {s1} a été pillé par les {s2}.
 qstr_{s3}_is_no_longer_un|Le siège de {s3} a été levé.
-qstr_Some_enemy_straggler|Some enemy stragglers have been spotted near {s1}.{***};;;;
-qstr_Small_enemy_patrols_|Small enemy patrols have been spotted near {s1}.{***};;;;
+qstr_Some_enemy_straggler|Quelques traînards ennemis ont été repérés près de {s1}.
+qstr_Small_enemy_patrols_|De petites patrouilles ennemies ont été repérées près de {s1}.
 qstr_Enemy_patrols_spotte|Patrouille ennemie repérée près de {s1}.
-qstr_Large_enemy_patrols_|Large enemy patrols spotted near {s1}.{***};;;;
+qstr_Large_enemy_patrols_|De grandes patrouilles ennemies repérées près de {s1}. 
 qstr_Significant_group_of|Important groupe d'ennemis repéré près de {s1}.
 qstr_Army_of_enemies_spot|Armée ennemie repérée près de {s1}.
 qstr_Large_army_of_enemie|Grande armée ennemie repérée près de {s1}.
 qstr_Great_host_of_enemie|Immense armée ennemie repérée près de {s1}.
 qstr__{s10}_of_{s13}_recr|{s10} du {s13} recrute {s11} {s12} à {s14}
-qstr_Your_duel_with_{s1}_|Your duel with {s1} was cancelled due to unforeseen circumstances.{***};;;;
-qstr_debug:__party_is_hir|debug:  party is hired to engage army.{***};;;;
+qstr_Your_duel_with_{s1}_|Votre duel avec {s1} a été annulé en raison de circonstances imprévues.
+qstr_debug:__party_is_hir|debug: le groupe est embaucher pour engager l'armée.
 qstr_{s1}_has_been_besieg|{s1} a été assiégé par {s2} du {s3}.
 qstr__{s1}__{s11}:_{s14}|({s1}) {s11} : {s14}
 qstr_{s14}__{s21}_|{s14} ({s21})
@@ -976,13 +976,13 @@ qstr_You_gained_{reg12}_r|Votre renommée augmente de {reg12}.
 qstr_You_lose_{reg12}_ren|Votre renommée à diminué de {reg12}.
 qstr_Your_relation_with_{|Vos relations avec {s1} se sont améliorées.
 qstr_Your_relation_with_{s|Vos relations avec {s1} se sont détériorées.
-qstr_You_have_angered_the|You have angered them.{***};;;;
-qstr_You_have_appeased_th|You have appeased them.{***};;;;
-qstr_You_gain_reputation.|You gain reputation.{***};;;;
-qstr_You_lose_reputation.|You lose reputation.{***};;;;
-qstr_Now_player_reputatio|Now player reputation is {reg1}{***};;;;
-qstr_The_{s1}_has_declare|The {s1} has declared war against the {s2}.{***};;;;
-qstr_The_{s15}_complies_w|The {s15} complies with its alliance with the {s17} by attacking the {s16}.{***};;;;
+qstr_You_have_angered_the|Vous les avez mis en colère.
+qstr_You_have_appeased_th|Vous les avez apaisés.
+qstr_You_gain_reputation.|Vous gagnez de la réputation.
+qstr_You_lose_reputation.|Vous perdez de la réputation.
+qstr_Now_player_reputatio|Maintenant, la réputation du joueur est de {reg1}
+qstr_The_{s1}_has_declare|Le {s1} a déclaré la guerre contre {s2}.
+qstr_The_{s15}_complies_w|Le {s15} se conforme à son alliance avec le {s17} en attaquant le {s16}.
 qstr_{s1}_and_{s2}_have_m|{s1} et {s2} ont signé un traité de paix.
 qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?était:est en ce moment} à {s3}.
 qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?était:est} en route pour {s3} et {reg4?elle:il} {reg3?était:devrait être} près de {s4}{reg3?: en ce moment}.
@@ -991,8 +991,8 @@ qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?était:est} prisonnier à {s3}.
 qstr_{s2}_{reg3?was:has_b|{s2} {reg3?était:est} aux mains de ses ennemis.
 qstr_{reg3?{s2}_s_locatio|{reg3?L'endroit où {s2} se trouvait était inconnu: Je ne sais pas où est {s2}}.
 qstr_{s6}_has_joined_your|{s6} a rejoint votre groupe.
-qstr_You_now_owe_{reg2}_s|You now owe {reg2} cerfs d'argent to {s1}.{***};;;;
-qstr_Royal_guardian|Royal guardian{***};;;;
+qstr_You_now_owe_{reg2}_s|Vous devez maintenant {reg2} cerfs d'argent à {s1}.
+qstr_Royal_guardian|Gardien royal
 qstr_Renown_value_for_thi|La victoire augmente votre renommée de {reg8}.
 qstr_You_have_run_into_a_|Vous êtes tombé dans une embuscade !
 qstr_You_are_attacked_by_|Vous êtes assailli par un groupe de bandits !
