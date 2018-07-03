@@ -23,7 +23,7 @@ Vous pouvez m'aider en répertoriant ces anomalies en créant une nouvelle issue
 J’en profite pour donner une petite astuce à ceux qui traduisent des mods de Mount And Blade. En ce qui concerne le fichier troops.csv, il est assez chiant et répétitif de traduire de l’Anglais au Français. En effet, dans la plupart des cas, les adjectifs en français se trouvent après le nom alors qu’en anglais, c’est l’inverse.
 
 
-Par exemple “Nord Spearman” en anglais devient “Nord Lancier” en français si on traduit automatiquement tous les “Spearman” en “Lancier”. On remplace alors “Nord” par “du Nord”. Jusqu'ici, c’est automatique. 
+Par exemple “Nord Spearman” en anglais devient “Nord Lancier” en français si on traduit automatiquement tous les “Spearman” en “Lancier”. On remplace alors “Nord” par “du Nord” pour que ça soit un peu plus français. Jusqu'ici, c’est automatique. 
 
 Enfin, on doit donc passer à la main pour mettre “du Nord” après “Lancier” pour CHAQUE LIGNE de ce type.
 
