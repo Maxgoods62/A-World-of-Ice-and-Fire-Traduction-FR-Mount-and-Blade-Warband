@@ -136,8 +136,8 @@ trp_begging_brothers|Frère mendiant
 trp_begging_brothers_pl|Frères mendiants
 trp_poor_fellows|Pauvre Compagnon
 trp_poor_fellows_pl| Pauvres Compagnons
-trp_warriors_sons|Warriors Son{***}
-trp_warriors_sons_pl|Warriors Sons{***}
+trp_warriors_sons|Guerriers Son{***}
+trp_warriors_sons_pl|Guerriers Sons{***}
 trp_sparrow|Sparrow{***}
 trp_sparrow_pl|Sparrows{***}
 trp_lord_of_light|Red Priest{***}
@@ -345,7 +345,7 @@ trp_wild_hare_pl|Wild Hares{***}
 trp_wild_hare_vet|Vétéran Wild Hare{***}
 trp_wild_hare_vet_pl|Vétéran Wild Hares{***}
 trp_benfred_tallhart|Benfred Tallhart{***}
-trp_benfred_tallhart_pl|Benfred Tallhart{***}
+trp_benfred_tallhart_pl|Benfred Tallhart{***}!
 trp_north_hornman|Trompettiste Nord
 trp_north_hornman_pl|Trompettistes Nord
 trp_north_messenger|Messager Nord
@@ -368,140 +368,140 @@ trp_north_karstark_archer|Archer Karstark
 trp_north_karstark_archer_pl|Archers Karstark
 trp_north_karstark_guardsman|Homme d'armes Karstark
 trp_north_karstark_guardsman_pl|Hommes d'armes Karstark
-trp_north_karstark_hunting_archers|Karstark Vétéran Archer{***}
-trp_north_karstark_hunting_archers_pl|Karstark Vétéran Archers{***}
-trp_north_karstark_horseman|Karstark Cavalier{***}
-trp_north_karstark_horseman_pl|Karstark Cavaliers{***}
-trp_north_karstark_cavalry|Karstark Cavalerie{***}
-trp_north_karstark_cavalry_pl|Karstark Cavalerie{***}
-trp_north_karstark_guard|Karstark Guard{***}
-trp_north_karstark_guard_pl|Karstark Guards{***}
-trp_north_karstark_pikeman|Karstark Lancier{***}
-trp_north_karstark_pikeman_pl|Karstark Lanciers{***}
-trp_north_karstark_household_guard|Karstark Chevalier{***}
-trp_north_karstark_household_guard_pl|Karstark Chevalier{***}
-trp_north_karstark_hornman|Karstark Trompettiste{***}
-trp_north_karstark_hornman_pl|Karstark Trompettistes{***}
-trp_north_karstark_messenger|Karstark Messager{***}
-trp_north_karstark_messenger_pl|Karstark messengers{***}
-trp_north_karstark_deserter|Karstark Déserteur{***}
-trp_north_karstark_deserter_pl|Karstark Déserteurs{***}
-trp_north_karstark_prison_guard|Karstark Geôlier{***}
-trp_north_karstark_prison_guard_pl|Karstark Geôliers{***}
-trp_north_karstark_castle_guard|Karstark Chevalier{***}
-trp_north_karstark_castle_guard_pl|Karstark Chevaliers{***}
-trp_north_karstark_standard_bearer|Karstark Porte-étendard{***}
-trp_north_karstark_standard_bearer_pl|Karstark Porte-étendards{***}
-trp_north_karstark_local_lord|Karstark Seigneur{***}
-trp_north_karstark_local_lord_pl|Karstark Seigneurs{***}
-trp_north_stark_recruit|Stark Recrue{***}
-trp_north_stark_recruit_pl|Stark Recrue{***}
-trp_north_stark_footman|Stark Fantassin{***}
-trp_north_stark_footman_pl|Stark Fantassins{***}
-trp_north_stark_archer|Stark Archer de chasse{***}
-trp_north_stark_archer_pl|Stark Archers de chasse{***}
-trp_north_stark_guardsman|Stark Homme d'armes{***}
-trp_north_stark_guardsman_pl|Stark Hommes d'armes{***}
-trp_north_stark_hunting_archers|Stark Archer{***}
-trp_north_stark_hunting_archers_pl|Stark Archers{***}
-trp_north_stark_horseman|Stark Cavalier{***}
-trp_north_stark_horseman_pl|Stark Cavaliers{***}
-trp_north_stark_cavalry|Stark Cavalerie{***}
-trp_north_stark_cavalry_pl|Stark Cavalerie{***}
-trp_north_stark_guard|Stark Guard{***}
-trp_north_stark_guard_pl|Stark Guards{***}
-trp_north_stark_pikeman|Stark Lancier{***}
-trp_north_stark_pikeman_pl|Stark Lanciers{***}
-trp_north_stark_household_guard|Stark Chevalier{***}
-trp_north_stark_household_guard_pl|Stark Chevalier{***}
-trp_north_stark_hornman|Stark Trompettiste{***}
-trp_north_stark_hornman_pl|Stark Trompettistes{***}
-trp_north_stark_messenger|Stark Messager{***}
-trp_north_stark_messenger_pl|Stark messengers{***}
-trp_north_stark_deserter|Stark Déserteur{***}
-trp_north_stark_deserter_pl|Stark Déserteurs{***}
-trp_north_stark_prison_guard|Stark Geôlier{***}
-trp_north_stark_prison_guard_pl|Stark Geôliers{***}
-trp_north_stark_castle_guard|Stark Chevalier{***}
-trp_north_stark_castle_guard_pl|Stark Chevaliers{***}
-trp_north_stark_standard_bearer|Stark Porte-étendard{***}
-trp_north_stark_standard_bearer_pl|Stark Porte-étendards{***}
-trp_north_stark_local_lord|Stark Seigneur{***}
-trp_north_stark_local_lord_pl|Stark Seigneurs{***}
-trp_north_bolton_recruit|Bolton Recrue{***}
-trp_north_bolton_recruit_pl|Bolton Recrue{***}
-trp_north_bolton_footman|Bolton Fantassin{***}
-trp_north_bolton_footman_pl|Bolton Fantassins{***}
-trp_north_bolton_archer|Bolton Archer{***}
-trp_north_bolton_archer_pl|Bolton Archers{***}
-trp_north_bolton_guardsman|Bolton Homme d'armes{***}
-trp_north_bolton_guardsman_pl|Bolton Hommes d'armes{***}
-trp_north_bolton_hunting_archers|Bolton Vétéran Archer{***}
-trp_north_bolton_hunting_archers_pl|Bolton Vétéran Archers{***}
-trp_north_bolton_horseman|Bolton Cavalier{***}
-trp_north_bolton_horseman_pl|Bolton Cavaliers{***}
-trp_north_bolton_cavalry|Bolton Cavalerie{***}
-trp_north_bolton_cavalry_pl|Bolton Cavalerie{***}
-trp_north_bolton_guard|Bolton Guard{***}
-trp_north_bolton_guard_pl|Bolton Guards{***}
-trp_north_bolton_pikeman|Bolton Lancier{***}
-trp_north_bolton_pikeman_pl|Bolton Lanciers{***}
-trp_north_bolton_household_guard|Bolton Chevalier{***}
-trp_north_bolton_household_guard_pl|Bolton Chevalier{***}
-trp_north_bolton_hornman|Bolton Trompettiste{***}
-trp_north_bolton_hornman_pl|Bolton Trompettistes{***}
-trp_north_bolton_messenger|Bolton Messager{***}
-trp_north_bolton_messenger_pl|Bolton messengers{***}
-trp_north_bolton_deserter|Bolton Déserteur{***}
-trp_north_bolton_deserter_pl|Bolton Déserteurs{***}
-trp_north_bolton_prison_guard|Bolton Geôlier{***}
-trp_north_bolton_prison_guard_pl|Bolton Geôliers{***}
-trp_north_bolton_castle_guard|Bolton Chevalier{***}
-trp_north_bolton_castle_guard_pl|Bolton Chevaliers{***}
-trp_north_bolton_standard_bearer|Bolton Porte-étendard{***}
-trp_north_bolton_standard_bearer_pl|Bolton Porte-étendards{***}
-trp_north_bolton_local_lord|Bolton Seigneur{***}
-trp_north_bolton_local_lord_pl|Bolton Seigneurs{***}
-trp_wildling_female_peasant|Wildling{***}
-trp_wildling_female_peasant_pl|Wildlings{***}
-trp_wildling_peasant|Wildling{***}
-trp_wildling_peasant_pl|Wildlings{***}
-trp_wildling_warrior|Wildling Warrior{***}
-trp_wildling_warrior_pl|Wildling Warriors{***}
-trp_wildling_hunter|Wildling Hunter{***}
-trp_wildling_hunter_pl|Wildling Hunters{***}
-trp_wildling_huntress|Wildling Huntress{***}
-trp_wildling_huntress_pl|Wildling Huntress{***}
-trp_wildling_champion|Wildling Champion{***}
-trp_wildling_champion_pl|Wildling champions{***}
-trp_wildling_stalker|Wildling Stalker{***}
-trp_wildling_stalker_pl|Wildling Stalkers{***}
-trp_wildling_spearwives|Wildling Spearwife{***}
-trp_wildling_spearwives_pl|Wildling Spearwives{***}
-trp_wildling_horseman|Wildling Cavalier{***}
-trp_wildling_horseman_pl|Wildling Cavaliers{***}
-trp_wildling_raider|Wildling Raider{***}
-trp_wildling_raider_pl|Wildling Raiders{***}
-trp_wildling_hornman|Wildling Trompettiste{***}
-trp_wildling_hornman_pl|Wildling Trompettistes{***}
-trp_wildling_standard_bearer|Wildling Porte-étendard{***}
-trp_wildling_standard_bearer_pl|Wildling Standard bearers{***}
-trp_wildling_messenger|Wildling Messager{***}
-trp_wildling_messenger_pl|Wildling Messagers{***}
-trp_wildling_deserter|Wildling Raider{***}
-trp_wildling_deserter_pl|Wildling Raiders{***}
-trp_wildling_prison_guard|Wildling Geôlier{***}
-trp_wildling_prison_guard_pl|Wildling Geôliers{***}
-trp_wildling_castle_guard|Wildling Guard{***}
-trp_wildling_castle_guard_pl|Wildling Guards{***}
-trp_giant|Giant{***}
-trp_giant_pl|Giant{***}
+trp_north_karstark_hunting_archers|Archer Vétéran Karstark
+trp_north_karstark_hunting_archers_pl|Archers Vétérans Karstark
+trp_north_karstark_horseman|Cavalier Karstark
+trp_north_karstark_horseman_pl|Cavaliers Karstark
+trp_north_karstark_cavalry|Cavalerie Karstark
+trp_north_karstark_cavalry_pl|Cavalerie Karstark
+trp_north_karstark_guard|Garde Karstark
+trp_north_karstark_guard_pl|Gardes Karstark
+trp_north_karstark_pikeman|Lancier Karstark
+trp_north_karstark_pikeman_pl|Lanciers Karstark
+trp_north_karstark_household_guard|Chevalier Karstark
+trp_north_karstark_household_guard_pl|Chevalier Karstark
+trp_north_karstark_hornman|Trompettiste Karstark
+trp_north_karstark_hornman_pl|Trompettistes Karstark
+trp_north_karstark_messenger|Messager Karstark
+trp_north_karstark_messenger_pl|Messagers Karstark
+trp_north_karstark_deserter|Déserteur Karstark
+trp_north_karstark_deserter_pl|Déserteurs Karstark
+trp_north_karstark_prison_guard|Geôlier Karstark
+trp_north_karstark_prison_guard_pl|Geôliers Karstark
+trp_north_karstark_castle_guard|Chevalier Karstark
+trp_north_karstark_castle_guard_pl|Chevaliers Karstark
+trp_north_karstark_standard_bearer|Porte-étendard Karstark
+trp_north_karstark_standard_bearer_pl|Porte-étendards Karstark
+trp_north_karstark_local_lord|Seigneur Karstark
+trp_north_karstark_local_lord_pl|Seigneurs Karstark
+trp_north_stark_recruit|Recrue Stark
+trp_north_stark_recruit_pl|Recrue Stark
+trp_north_stark_footman|Fantassin Stark
+trp_north_stark_footman_pl|Fantassins Stark
+trp_north_stark_archer|Archer de chasse Stark
+trp_north_stark_archer_pl|Archers de chasse Stark
+trp_north_stark_guardsman|Homme d'armes Stark
+trp_north_stark_guardsman_pl|Hommes d'armes Stark
+trp_north_stark_hunting_archers|Archer Stark
+trp_north_stark_hunting_archers_pl|Archers Stark
+trp_north_stark_horseman|Cavalier Stark
+trp_north_stark_horseman_pl|Cavaliers Stark
+trp_north_stark_cavalry|Cavalerie Stark
+trp_north_stark_cavalry_pl|Cavalerie Stark
+trp_north_stark_guard|Garde Stark
+trp_north_stark_guard_pl|Gardes Stark
+trp_north_stark_pikeman|Lancier Stark
+trp_north_stark_pikeman_pl|Lanciers Stark
+trp_north_stark_household_guard|Chevalier Stark
+trp_north_stark_household_guard_pl|Chevalier Stark
+trp_north_stark_hornman|Trompettiste Stark
+trp_north_stark_hornman_pl|Trompettistes Stark
+trp_north_stark_messenger|Messager Stark
+trp_north_stark_messenger_pl|messengers Stark
+trp_north_stark_deserter|Déserteur Stark
+trp_north_stark_deserter_pl|Déserteurs Stark
+trp_north_stark_prison_guard|Geôlier Stark
+trp_north_stark_prison_guard_pl|Geôliers Stark
+trp_north_stark_castle_guard|Chevalier Stark
+trp_north_stark_castle_guard_pl|Chevaliers Stark
+trp_north_stark_standard_bearer|Porte-étendard Stark
+trp_north_stark_standard_bearer_pl|Porte-étendards Stark
+trp_north_stark_local_lord|Seigneur Stark
+trp_north_stark_local_lord_pl|Seigneurs Stark
+trp_north_bolton_recruit|Recrue Bolton
+trp_north_bolton_recruit_pl|Recrue Bolton
+trp_north_bolton_footman|Fantassin Bolton
+trp_north_bolton_footman_pl|Fantassins Bolton
+trp_north_bolton_archer|Archer Bolton
+trp_north_bolton_archer_pl|Archers Bolton
+trp_north_bolton_guardsman|Homme d'armes Bolton
+trp_north_bolton_guardsman_pl|Hommes d'armes Bolton
+trp_north_bolton_hunting_archers|Archer Vétéran Bolton
+trp_north_bolton_hunting_archers_pl|Archers Vétérans Bolton
+trp_north_bolton_horseman|Cavalier Bolton
+trp_north_bolton_horseman_pl|Cavaliers Bolton
+trp_north_bolton_cavalry|Cavalerie Bolton
+trp_north_bolton_cavalry_pl|Cavalerie Bolton
+trp_north_bolton_guard|Garde Bolton
+trp_north_bolton_guard_pl|Gardes Bolton
+trp_north_bolton_pikeman|Lancier Bolton
+trp_north_bolton_pikeman_pl|Lanciers Bolton
+trp_north_bolton_household_guard|Chevalier Bolton
+trp_north_bolton_household_guard_pl|Chevalier Bolton
+trp_north_bolton_hornman|Trompettiste Bolton
+trp_north_bolton_hornman_pl|Trompettistes Bolton
+trp_north_bolton_messenger|Messager Bolton
+trp_north_bolton_messenger_pl|messengers Bolton
+trp_north_bolton_deserter|Déserteur Bolton
+trp_north_bolton_deserter_pl|Déserteurs Bolton
+trp_north_bolton_prison_guard|Geôlier Bolton
+trp_north_bolton_prison_guard_pl|Geôliers Bolton
+trp_north_bolton_castle_guard|Chevalier Bolton
+trp_north_bolton_castle_guard_pl|Chevaliers Bolton
+trp_north_bolton_standard_bearer|Porte-étendard Bolton
+trp_north_bolton_standard_bearer_pl|Porte-étendards Bolton
+trp_north_bolton_local_lord|Seigneur Bolton
+trp_north_bolton_local_lord_pl|Seigneurs Bolton
+trp_wildling_female_peasant|Sauvageon{***}
+trp_wildling_female_peasant_pl|Sauvageons{***}
+trp_wildling_peasant|Sauvageon{***}
+trp_wildling_peasant_pl|Sauvageons{***}
+trp_wildling_warrior|Sauvageon Guerrier{***}
+trp_wildling_warrior_pl|Sauvageon Guerriers{***}
+trp_wildling_hunter|Sauvageon Chasseur{***}
+trp_wildling_hunter_pl|Sauvageon Chasseurs{***}
+trp_wildling_huntress|Sauvageon Chasseuse{***}
+trp_wildling_huntress_pl|Sauvageon Chasseuses{***}
+trp_wildling_champion|Sauvageon Champion{***}
+trp_wildling_champion_pl|Sauvageon champions{***}
+trp_wildling_stalker|Sauvageon Stalker{***}
+trp_wildling_stalker_pl|Sauvageon Stalkers{***}
+trp_wildling_spearwives|Sauvageon Piqueuse{***}
+trp_wildling_spearwives_pl|Sauvageon Piqueuses{***}
+trp_wildling_horseman|Sauvageon Cavalier{***}
+trp_wildling_horseman_pl|Sauvageon Cavaliers{***}
+trp_wildling_raider|Sauvageon Raider{***}
+trp_wildling_raider_pl|Sauvageon Raiders{***}
+trp_wildling_hornman|Sauvageon Trompettiste{***}
+trp_wildling_hornman_pl|Sauvageon Trompettistes{***}
+trp_wildling_standard_bearer|Sauvageon Porte-étendard{***}
+trp_wildling_standard_bearer_pl|Sauvageon Standard bearers{***}
+trp_wildling_messenger|Sauvageon Messager{***}
+trp_wildling_messenger_pl|Sauvageon Messagers{***}
+trp_wildling_deserter|Sauvageon Raider{***}
+trp_wildling_deserter_pl|Sauvageon Raiders{***}
+trp_wildling_prison_guard|Sauvageon Geôlier{***}
+trp_wildling_prison_guard_pl|Sauvageon Geôliers{***}
+trp_wildling_castle_guard|Sauvageon Garde{***}
+trp_wildling_castle_guard_pl|Sauvageon Gardes{***}
+trp_giant|Géant{***}
+trp_giant_pl|Géant{***}
 trp_thenn_peasant|Thenn{***}
 trp_thenn_peasant_pl|Thenns{***}
-trp_thenn_warrior|Thenn Warrior{***}
-trp_thenn_warrior_pl|Thenn Warriors{***}
+trp_thenn_warrior|Thenn Guerrier{***}
+trp_thenn_warrior_pl|Thenn Guerriers{***}
 trp_thenn_hunter|Thenn Hunter{***}
-trp_thenn_hunter_pl|Thenn Hunters{***}
+trp_thenn_hunter_pl|Thenn Chasseur{***}
 trp_thenn_champion|Thenn Champion{***}
 trp_thenn_champion_pl|Thenn Champions{***}
 trp_thenn_stalker|Thenn Stalker{***}
@@ -520,48 +520,48 @@ trp_thenn_prison_guard|Thenn Geôlier{***}
 trp_thenn_prison_guard_pl|Thenn Geôliers{***}
 trp_thenn_castle_guard|Thenn Guard{***}
 trp_thenn_castle_guard_pl|Thenn Guards{***}
-trp_ironborn_peasant|Ironman{***}
-trp_ironborn_peasant_pl|Ironmen{***}
-trp_ironborn_sailor|Ironborn Sailor{***}
-trp_ironborn_sailor_pl|Ironborn Sailors{***}
-trp_ironborn_seafarer|Ironborn Seafarer{***}
-trp_ironborn_seafarer_pl|Ironborn Seafarer's{***}
-trp_ironborn_raider|Ironborn Raider{***}
-trp_ironborn_raider_pl|Ironborn Raiders{***}
-trp_ironborn_skirmisher|Ironborn Tirailleur{***}
-trp_ironborn_skirmisher_pl|Ironborn Tirailleurs{***}
-trp_ironborn_warrior|Ironborn Warrior{***}
-trp_ironborn_warrior_pl|Ironborn Warrior{***}
-trp_ironborn_scout|Ironborn Éclaireur{***}
-trp_ironborn_scout_pl|Ironborn Éclaireurs{***}
+trp_ironborn_peasant|Homme de fer{***}
+trp_ironborn_peasant_pl|Hommes de fer{***}
+trp_ironborn_sailor|Fer-né Sailor{***}
+trp_ironborn_sailor_pl|Fer-nés Sailors{***}
+trp_ironborn_seafarer|Fer-né Seafarer{***}
+trp_ironborn_seafarer_pl|Fer-nés Seafarer's{***}
+trp_ironborn_raider|Fer-né Raider{***}
+trp_ironborn_raider_pl|Fer-nés Raiders{***}
+trp_ironborn_skirmisher|Fer-né Tirailleur{***}
+trp_ironborn_skirmisher_pl|Fer-nés Tirailleurs{***}
+trp_ironborn_warrior|Fer-né Guerrier{***}
+trp_ironborn_warrior_pl|Fer-nés Guerrier{***}
+trp_ironborn_scout|Fer-né Éclaireur{***}
+trp_ironborn_scout_pl|Fer-nés Éclaireurs{***}
 trp_ironborn_finger_dancer|Finger Dancer{***}
 trp_ironborn_finger_dancer_pl|Finger Dancers{***}
-trp_ironborn_marauder|Ironborn Marauder{***}
-trp_ironborn_marauder_pl|Ironborn Marauders{***}
-trp_ironborn_hornman|Ironborn Trompettiste{***}
-trp_ironborn_hornman_pl|Ironborn Trompettistes{***}
-trp_ironborn_standard_bearer|Ironborn Porte-étendard{***}
-trp_ironborn_standard_bearer_pl|Ironborn Porte-étendard{***}
-trp_ironborn_messenger|Ironborn Messager{***}
-trp_ironborn_messenger_pl|Ironborn Messagers{***}
-trp_ironborn_deserter|Ironborn Déserteur{***}
-trp_ironborn_deserter_pl|Ironborn Déserteurs{***}
-trp_ironborn_prison_guard|Ironborn Geôlier{***}
-trp_ironborn_prison_guard_pl|Ironborn Geôliers{***}
-trp_ironborn_castle_guard|Ironborn Chevalier{***}
-trp_ironborn_castle_guard_pl|Ironborn Chevaliers{***}
-trp_ironborn_reaver|Ironborn Reaver{***}
-trp_ironborn_reaver_pl|Ironborn Reavers{***}
-trp_ironborn_reaver_vet|Vétéran Ironborn Reaver{***}
-trp_ironborn_reaver_vet_pl|Vétéran Ironborn Reavers{***}
+trp_ironborn_marauder|Fer-né Marauder{***}
+trp_ironborn_marauder_pl|Fer-nés Marauders{***}
+trp_ironborn_hornman|Fer-né Trompettiste{***}
+trp_ironborn_hornman_pl|Fer-nés Trompettistes{***}
+trp_ironborn_standard_bearer|Fer-né Porte-étendard{***}
+trp_ironborn_standard_bearer_pl|Fer-nés Porte-étendard{***}
+trp_ironborn_messenger|Fer-né Messager{***}
+trp_ironborn_messenger_pl|Fer-nés Messagers{***}
+trp_ironborn_deserter|Fer-né Déserteur{***}
+trp_ironborn_deserter_pl|Fer-nés Déserteurs{***}
+trp_ironborn_prison_guard|Fer-né Geôlier{***}
+trp_ironborn_prison_guard_pl|Fer-nés Geôliers{***}
+trp_ironborn_castle_guard|Fer-né Chevalier{***}
+trp_ironborn_castle_guard_pl|Fer-nés Chevaliers{***}
+trp_ironborn_reaver|Fer-né Reaver{***}
+trp_ironborn_reaver_pl|Fer-nés Reavers{***}
+trp_ironborn_reaver_vet|Vétéran Fer-né Reaver{***}
+trp_ironborn_reaver_vet_pl|Vétéran Fer-né Reavers{***}
 trp_ironborn_kraken_guard|Kraken Guard{***}
 trp_ironborn_kraken_guard_pl|Kraken Guards{***}
-trp_ironborn_local_lord|Ironborn Seigneur{***}
-trp_ironborn_local_lord_pl|Ironborn Seigneurs{***}
+trp_ironborn_local_lord|Fer-né Seigneur{***}
+trp_ironborn_local_lord_pl|Fer-nés Seigneurs{***}
 trp_dothraki_tribesman|Dothraki Tribesman{***}
 trp_dothraki_tribesman_pl|Dothraki Tribesmen{***}
-trp_dothraki_warrior|Dothraki Warrior{***}
-trp_dothraki_warrior_pl|Dothraki Warriors{***}
+trp_dothraki_warrior|Dothraki Guerrier{***}
+trp_dothraki_warrior_pl|Dothraki Guerriers{***}
 trp_dothraki_horseman|Dothraki Cavalier{***}
 trp_dothraki_horseman_pl|Dothraki Cavaliers{***}
 trp_dothraki_scout|Dothraki Éclaireur{***}
@@ -584,8 +584,8 @@ trp_dothraki_deserter|Dothraki Déserteur{***}
 trp_dothraki_deserter_pl|Dothraki Déserteurs{***}
 trp_dothraki_prison_guard|Dothraki Geôlier{***}
 trp_dothraki_prison_guard_pl|Dothraki Geôliers{***}
-trp_dothraki_castle_guard|Dothraki Camp Guard{***}
-trp_dothraki_castle_guard_pl|Dothraki Camp Guards{***}
+trp_dothraki_castle_guard|Dothraki Garde des camps{***}
+trp_dothraki_castle_guard_pl|Dothraki Gardes des camps{***}
 trp_merc_peasant|Essosi Paysan{***}
 trp_merc_peasant_pl|Essosi Paysans{***}
 trp_fc_merc_militia_recruit|Milice Recrue{***}
@@ -874,14 +874,14 @@ trp_essos_slave|Slave{***}
 trp_essos_slave_pl|Slaves{***}
 trp_essos_slave_levy|Slave enrolé{***}
 trp_essos_slave_levy_pl|Slave Levies{***}
-trp_essos_slave_warrior|Slave Warrior{***}
-trp_essos_slave_warrior_pl|Slave Warriors{***}
+trp_essos_slave_warrior|Slave Guerrier{***}
+trp_essos_slave_warrior_pl|Slave Guerriers{***}
 trp_qohor_peasant|Qohoric Paysan{***}
 trp_qohor_peasant_pl|Qohor Paysans{***}
 trp_qohor_recruit|Qohoric Recrue{***}
 trp_qohor_recruit_pl|Qohor Recrues{***}
 trp_qohor_hunter|Qohoric Hunter{***}
-trp_qohor_hunter_pl|Qohor Hunters{***}
+trp_qohor_hunter_pl|Qohor Chasseur{***}
 trp_qohor_militia|Qohoric Milice{***}
 trp_qohor_militia_pl|Qohor Milice{***}
 trp_qohor_forester|Qohoric forester{***}
@@ -894,8 +894,8 @@ trp_qohor_cavalry|Qohoric Cavalerie{***}
 trp_qohor_cavalry_pl|Qohor Cavalerie{***}
 trp_qohor_veteran_city_watch|Qohoric Vétéran City Watch{***}
 trp_qohor_veteran_city_watch_pl|Qohor Vétéran City Watchmen{***}
-trp_qohor_black_goat_warrior|Qohoric Black Goat Warrior{***}
-trp_qohor_black_goat_warrior_pl|Qohor Black Goat Warriors{***}
+trp_qohor_black_goat_warrior|Qohoric Black Goat Guerrier{***}
+trp_qohor_black_goat_warrior_pl|Qohor Black Goat Guerriers{***}
 trp_qohor_standard_bearer|Qohoric Porte-étendard{***}
 trp_qohor_standard_bearer_pl|Qohoric Porte-étendards{***}
 trp_qohor_messenger|Qohoric Messager{***}
@@ -998,10 +998,10 @@ trp_pentoshi_footman|Pentoshi Fantassin{***}
 trp_pentoshi_footman_pl|Pentoshi Fantassins{***}
 trp_pentoshi_archer|Pentoshi Archer{***}
 trp_pentoshi_archer_pl|Pentoshi Archers{***}
-trp_pentoshi_warrior|Pentoshi Warrior{***}
-trp_pentoshi_warrior_pl|Pentoshi Warriors{***}
-trp_pentoshi_mounted_warrior|Pentoshi Mounted Warrior{***}
-trp_pentoshi_mounted_warrior_pl|Pentoshi Mounted Warriors{***}
+trp_pentoshi_warrior|Pentoshi Guerrier{***}
+trp_pentoshi_warrior_pl|Pentoshi Guerriers{***}
+trp_pentoshi_mounted_warrior|Pentoshi Mounted Guerrier{***}
+trp_pentoshi_mounted_warrior_pl|Pentoshi Mounted Guerriers{***}
 trp_pentoshi_marksman|Pentoshi Marksman{***}
 trp_pentoshi_marksman_pl|Pentoshi Marksmen{***}
 trp_pentoshi_veteran|Pentoshi Vétéran{***}
@@ -1157,9 +1157,9 @@ trp_manhunter_pl|Brotherhood Soldats{***}
 trp_slave_driver|Brotherhood Vigilante{***}
 trp_slave_driver_pl|Brotherhood Vigilantes{***}
 trp_slave_hunter|Brotherhood Hunter{***}
-trp_slave_hunter_pl|Brotherhood Hunters{***}
+trp_slave_hunter_pl|Brotherhood Chasseur{***}
 trp_slave_crusher|Vétéran Brotherhood Hunter{***}
-trp_slave_crusher_pl|Vétéran Brotherhood Hunters{***}
+trp_slave_crusher_pl|Vétéran Brotherhood Chasseur{***}
 trp_slaver_chief|Chevalier of Hollow Hill{***}
 trp_slaver_chief_pl|Chevaliers of Hollow Hill{***}
 trp_pit_fighter|Marco{***}
@@ -3383,8 +3383,8 @@ trp_bounty9|Brigand{***}
 trp_bounty9_pl|Brigands{***}
 trp_bounty10|Ironman{***}
 trp_bounty10_pl|Ironmen{***}
-trp_bounty11|Wildling{***}
-trp_bounty11_pl|Wildlings{***}
+trp_bounty11|Sauvageon{***}
+trp_bounty11_pl|Sauvageons{***}
 trp_belligerent_drunk|Drunkard{***}
 trp_belligerent_drunk_pl|Drunkards{***}
 trp_tavern_drunk1|Petyr{***}
@@ -3953,8 +3953,8 @@ trp_dornish_recruit_multiplayer|Soldat{***}
 trp_dornish_recruit_multiplayer_pl|footman{***}
 trp_dornish_sand_warrior_multiplayer|Cavalier{***}
 trp_dornish_sand_warrior_multiplayer_pl|Cavaliers{***}
-trp_frankish_footman_multiplayer|Frank Warrior{***}
-trp_frankish_footman_multiplayer_pl|Frankish Warriors{***}
+trp_frankish_footman_multiplayer|Frank Guerrier{***}
+trp_frankish_footman_multiplayer_pl|Frankish Guerriers{***}
 trp_westerlands_scout_multiplayer|Skirmish{***}
 trp_westerlands_scout_multiplayer_pl|Archers{***}
 trp_vaegir_spearman_multiplayer|Lancier{***}
@@ -3969,8 +3969,8 @@ trp_westerlands_freerider_multiplayer2|Cavalier{***}
 trp_westerlands_freerider_multiplayer2_pl|Cavaliers{***}
 trp_north_cavalry_multiplayer|Skirmish{***}
 trp_north_cavalry_multiplayer_pl|Archers{***}
-trp_north_hunting_archers_multiplayer|Warrior{***}
-trp_north_hunting_archers_multiplayer_pl|Warriors{***}
+trp_north_hunting_archers_multiplayer|Guerrier{***}
+trp_north_hunting_archers_multiplayer_pl|Guerriers{***}
 trp_nord_scout_multiplayer|Cavalier{***}
 trp_nord_scout_multiplayer_pl|Cavaliers{***}
 trp_dena_veteran_multiplayer4|Pirate{***}
@@ -4003,8 +4003,8 @@ trp_swadian_man_at_arms_multiplayer3|Cavalier{***}
 trp_swadian_man_at_arms_multiplayer3_pl|Cavaliers{***}
 trp_north_cavalry_multiplayer2|Skirmish{***}
 trp_north_cavalry_multiplayer2_pl|Archers{***}
-trp_north_hunting_archers_multiplayer2|Warrior{***}
-trp_north_hunting_archers_multiplayer2_pl|Warriors{***}
+trp_north_hunting_archers_multiplayer2|Guerrier{***}
+trp_north_hunting_archers_multiplayer2_pl|Guerriers{***}
 trp_nord_scout_multiplayer2|Cavalier{***}
 trp_nord_scout_multiplayer2_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer4|Skirmish{***}
@@ -4027,8 +4027,8 @@ trp_swadian_man_at_arms_multiplayer6|Cavalier{***}
 trp_swadian_man_at_arms_multiplayer6_pl|Cavaliers{***}
 trp_north_cavalry_multiplayer3|Skirmish{***}
 trp_north_cavalry_multiplayer3_pl|Archers{***}
-trp_north_hunting_archers_multiplayer3|Warrior{***}
-trp_north_hunting_archers_multiplayer3_pl|Warriors{***}
+trp_north_hunting_archers_multiplayer3|Guerrier{***}
+trp_north_hunting_archers_multiplayer3_pl|Guerriers{***}
 trp_nord_scout_multiplayer3|Cavalier{***}
 trp_nord_scout_multiplayer3_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer7|Skirmish{***}
