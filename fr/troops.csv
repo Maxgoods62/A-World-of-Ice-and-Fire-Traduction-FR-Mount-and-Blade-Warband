@@ -44,26 +44,26 @@ trp_arena_training_fighter_9|Combattant Champion
 trp_arena_training_fighter_9_pl|Combattants Champions
 trp_arena_training_fighter_10|Combattant Champion
 trp_arena_training_fighter_10_pl|Combattants Champions
-trp_cattle|Cattle{***}
-trp_cattle_pl|Cattle{***}
-trp_farmer|Farmer{***}
-trp_farmer_pl|Farmers{***}
-trp_unsullied|Unsullied{***}
-trp_unsullied_pl|Unsullied{***}
-trp_veteran_unsullied|Vétéran Unsullied{***}
-trp_veteran_unsullied_pl|Vétéran Unsullied{***}
-trp_goldcloaks|Gold Cloak{***}
-trp_goldcloaks_pl|Gold Cloaks{***}
-trp_veteran_goldcloaks|Vétéran Gold Cloak{***}
-trp_veteran_goldcloaks_pl|Vétéran Gold Cloaks{***}
-trp_townsman|Townsman{***}
-trp_townsman_pl|Townsmen{***}
-trp_watchman|Guard{***}
-trp_watchman_pl|Guards{***}
-trp_shepherd|Shepherd{***}
-trp_shepherd_pl|Shepherds{***}
-trp_caravan_guard|Squire{***}
-trp_caravan_guard_pl|Squires{***}
+trp_cattle|Bétail
+trp_cattle_pl|Bétails
+trp_farmer|Fermier
+trp_farmer_pl|Fermiers
+trp_unsullied|Immaculés
+trp_unsullied_pl|Immaculés
+trp_veteran_unsullied|Vétéran Immaculés
+trp_veteran_unsullied_pl|Vétéran Immaculés
+trp_goldcloaks|Soldat des Manteaux d'Or
+trp_goldcloaks_pl|Soldats des Manteaux d'Or
+trp_veteran_goldcloaks|Vétéran des Manteaux d'Or
+trp_veteran_goldcloaks_pl|Vétérans des Manteaux d'Ors
+trp_townsman|Citadin
+trp_townsman_pl|Citadins
+trp_watchman|Garde
+trp_watchman_pl|Gardes
+trp_shepherd|Berger
+trp_shepherd_pl|Bergers
+trp_caravan_guard|Écuyer
+trp_caravan_guard_pl|Écuyers
 trp_hired_blade|Hedge Chevalier{***}
 trp_hired_blade_pl|Hedge Chevaliers{***}
 trp_mercenary_swordsman|Sworn Sword{***}
@@ -72,22 +72,22 @@ trp_frisian_warrior|Sellsword{***}
 trp_frisian_warrior_pl|Sellswords{***}
 trp_regular_sailors|Sailor{***}
 trp_regular_sailors_pl|Sailors{***}
-trp_sellsail|Sellsail{***}
-trp_sellsail_pl|Sellsails{***}
-trp_sellsail2|Vétéran Sellsail{***}
-trp_sellsail2_pl|Vétéran Sellsails{***}
-trp_mercenary_crossbowman|Archer{***}
-trp_mercenary_crossbowman_pl|Archers{***}
-trp_slingers|Essosi Slinger{***}
-trp_slingers_pl|Essosi Slingers{***}
-trp_mercenary_horseman|Freerider{***}
-trp_mercenary_horseman_pl|Freeriders{***}
-trp_mercenary_leader|Sellsword Capitaine
-trp_mercenary_leader_pl|Sellsword Capitaines
+trp_sellsail|Mercenaire Pirate
+trp_sellsail_pl|Mercenaires Pirates
+trp_sellsail2|Vétéran Mercenaire Pirate
+trp_sellsail2_pl|Vétérans Mercenaires Pirates
+trp_mercenary_crossbowman|Archer
+trp_mercenary_crossbowman_pl|Archers
+trp_slingers|Essosi Frondeur{***}
+trp_slingers_pl|Essosi Frondeurs{***}
+trp_mercenary_horseman|Franc-coureur
+trp_mercenary_horseman_pl|Franc-coureurs
+trp_mercenary_leader|Capitaine Mercenaire
+trp_mercenary_leader_pl|Capitaines Mercenaire
 trp_mercenary_skirmisher|Espion
 trp_mercenary_skirmisher_pl|Espions
-trp_mercenary_cavalry|Vétéran Freerider{***}
-trp_mercenary_cavalry_pl|Vétéran Freeriders{***}
+trp_mercenary_cavalry|Vétéran Franc-coureur
+trp_mercenary_cavalry_pl|Vétérans Franc-coureurs
 trp_mercenaries_end|mercenaries end{***}
 trp_mercenaries_end_pl|mercenaries end{***}
 trp_local_lord|Seigneur
@@ -96,8 +96,8 @@ trp_local_lord_mounted|Seigneur
 trp_local_lord_mounted_pl|Seigneurs
 trp_dornish_peasant|Paysan de Dorne
 trp_dornish_peasant_pl|Paysans de Dorne
-trp_dornish_recruit|Soldat enrolé de Dorne
-trp_dornish_recruit_pl|Soldats enrolés de Dorne
+trp_dornish_recruit|Recrue de Dorne
+trp_dornish_recruit_pl|Recrues de Dorne
 trp_dornish_archer|Archer de Dorne
 trp_dornish_archer_pl|Archers de Dorne
 trp_dornish_spearman|Lancier Léger de Dorne
@@ -122,20 +122,20 @@ trp_dorne_messenger|Messager de Dorne
 trp_dorne_messenger_pl|Messagers de Dorne
 trp_dornish_deserter|Déserteur de Dorne
 trp_dornish_deserter_pl|Déserteurs de Dorne
-trp_dornish_prison_guard|Garde de prison de Dorne
-trp_dornish_prison_guard_pl|Gardes de prison de Dorne
-trp_dornish_castle_guard|Garde du château de Dorne
-trp_dornish_castle_guard_pl|Gardes du château de Dorne
+trp_dornish_prison_guard|Geôlier de Dorne
+trp_dornish_prison_guard_pl|Geôliers de Dorne
+trp_dornish_castle_guard|Garde de Dorne
+trp_dornish_castle_guard_pl|Gardes de Dorne
 trp_dornish_local_lord|Noble de Dorne
 trp_dornish_local_lord_pl|Nobles de Dorne
-trp_old_gods_worshipper|Old Gods Adorateur{***}
-trp_old_gods_worshipper_pl|Old Gods Adorateurs{***}
-trp_septon|Septon{***}
-trp_septon_pl|Septons{***}
-trp_begging_brothers|Begging Brother{***}
-trp_begging_brothers_pl|Begging Brothers{***}
-trp_poor_fellows|Poor Fellow{***}
-trp_poor_fellows_pl|Poor Fellows{***}
+trp_old_gods_worshipper|Adorateur des Anciens dieux
+trp_old_gods_worshipper_pl|Adorateurs des Anciens dieux
+trp_septon|Septon
+trp_septon_pl|Septons
+trp_begging_brothers|Frère mendiant
+trp_begging_brothers_pl|Frères mendiants
+trp_poor_fellows|Pauvre Compagnon
+trp_poor_fellows_pl| Pauvres Compagnons
 trp_warriors_sons|Warriors Son{***}
 trp_warriors_sons_pl|Warriors Sons{***}
 trp_sparrow|Sparrow{***}
@@ -152,8 +152,8 @@ trp_free_city_hornman|Trompettiste
 trp_free_city_hornman_pl|Trompettistes
 trp_stormlands_peasant|Paysan Stormlands
 trp_stormlands_peasant_pl|Paysans Stormlands
-trp_stormlands_recruit|Soldat enrolé Stormlands
-trp_stormlands_recruit_pl|Soldat enrolé Stormlands
+trp_stormlands_recruit|Recrue Stormlands
+trp_stormlands_recruit_pl|Recrue Stormlands
 trp_stormlands_forester|Forestier Stormlands
 trp_stormlands_forester_pl|Forestier Stormlands
 trp_stormlands_militia|Milice Stormlands
@@ -162,8 +162,8 @@ trp_stormlands_bowman|Archer Stormlands
 trp_stormlands_bowman_pl|Archers Stormlands
 trp_stormlands_man_at_arms|Homme d'armes Stormlands
 trp_stormlands_man_at_arms_pl|Hommes d'armes Stormlands
-trp_stormlands_knight|Garde de la maison Stormlands
-trp_stormlands_knight_pl|Gardes de la maison Stormlands
+trp_stormlands_knight|Chevalier Stormlands
+trp_stormlands_knight_pl|Chevaliers Stormlands
 trp_stormlands_mounted_knight|Chevalier Stormlands
 trp_stormlands_mounted_knight_pl|Chevaliers Stormlands
 trp_stormlands_house_knight|House Chevalier Stormlands
@@ -176,10 +176,10 @@ trp_stormlands_messenger|Messager Stormlands
 trp_stormlands_messenger_pl|Messagers Stormlands
 trp_stormlands_deserter|Déserteur Stormlands
 trp_stormlands_deserter_pl|Déserteurs Stormlands
-trp_stormlands_prison_guard|Garde de prison Stormlands
-trp_stormlands_prison_guard_pl|Gardes de prison Stormlands
-trp_stormlands_castle_guard|Garde du château Stormlands
-trp_stormlands_castle_guard_pl|Gardes du château Stormlands
+trp_stormlands_prison_guard|Geôlier Stormlands
+trp_stormlands_prison_guard_pl|Geôliers Stormlands
+trp_stormlands_castle_guard|Garde Stormlands
+trp_stormlands_castle_guard_pl|Gardes Stormlands
 trp_stormlands_local_lord|Seigneur Stormlands
 trp_stormlands_local_lord_pl|Seigneurs Stormlands
 trp_dragonstone_peasant|Paysan Dragonstone
@@ -194,12 +194,12 @@ trp_dragonstone_bowman|Archer Dragonstone
 trp_dragonstone_bowman_pl|Archers Dragonstone
 trp_dragonstone_man_at_arms|Homme d'armes Dragonstone
 trp_dragonstone_man_at_arms_pl|Hommes d'armes Dragonstone
-trp_dragonstone_knight|Garde de la maison Dragonstone
-trp_dragonstone_knight_pl|Gardes de la maison Dragonstone
+trp_dragonstone_knight|Chevalier Dragonstone
+trp_dragonstone_knight_pl|Chevaliers Dragonstone
 trp_dragonstone_mounted_knight|Chevalier Dragonstone
 trp_dragonstone_mounted_knight_pl|Chevaliers Dragonstone
-trp_dragonstone_queensmen|Queen's Man{***}
-trp_dragonstone_queensmen_pl| Queen's Men{***}
+trp_dragonstone_queensmen|Reine's Man{***}
+trp_dragonstone_queensmen_pl| Reine's Men{***}
 trp_dragonstone_hornman|Trompettiste Dragonstone
 trp_dragonstone_hornman_pl|Trompettistes Dragonstone
 trp_dragonstone_standard_bearer|Porte-étendard Dragonstone
@@ -208,18 +208,18 @@ trp_dragonstone_messenger|Messager Dragonstone
 trp_dragonstone_messenger_pl|Messagers Dragonstone
 trp_dragonstone_deserter|Déserteur Dragonstone
 trp_dragonstone_deserter_pl|Déserteurs Dragonstone
-trp_dragonstone_prison_guard|Garde de prison Dragonstone
-trp_dragonstone_prison_guard_pl|Gardes de prison Dragonstone
-trp_dragonstone_castle_guard|Garde du château Dragonstone
-trp_dragonstone_castle_guard_pl|Gardes du château Dragonstone
+trp_dragonstone_prison_guard|Geôlier Dragonstone
+trp_dragonstone_prison_guard_pl|Geôliers Dragonstone
+trp_dragonstone_castle_guard|Garde Dragonstone
+trp_dragonstone_castle_guard_pl|Gardes Dragonstone
 trp_dragonstone_local_lord|Noble Dragonstone
 trp_dragonstone_local_lord_pl|Noble Dragonstone
 trp_westerlands_peasant|Paysan Westerlands
 trp_westerlands_peasant_pl|Paysans Westerlands
-trp_westerlands_recruit|Soldat enrolé Westerlands{***}
-trp_westerlands_recruit_pl|Soldat enrolé Westerlands{***}
-trp_westerlands_foot_soldier|Soldat à pied Westerlands
-trp_westerlands_foot_soldier_pl|Soldats à pied Westerlands
+trp_westerlands_recruit|Recrue Westerlands{***}
+trp_westerlands_recruit_pl|Recrue Westerlands{***}
+trp_westerlands_foot_soldier|Fantassin Westerlands
+trp_westerlands_foot_soldier_pl|Fantassins Westerlands
 trp_westerlands_crossbowman|Arbalétrier Westerlands
 trp_westerlands_crossbowman_pl|Arbalétriers Westerlands
 trp_westerlands_infantry|Piquier Westerlands
@@ -228,8 +228,8 @@ trp_westerlands_scout|Éclaireur Westerlands
 trp_westerlands_scout_pl|Éclaireurs Westerlands
 trp_westerlands_arbelester|Arbalétrier lourd Westerlands
 trp_westerlands_arbelester_pl|Arbalétriers lourds Westerlands
-trp_westerlands_freerider|Freerider Westerlands{***}
-trp_westerlands_freerider_pl|Freerider Westerlands{***}
+trp_westerlands_freerider|Franc-coureur Westerlands
+trp_westerlands_freerider_pl|Franc-coureurs Westerland
 trp_westerlands_lannisguard|Piquier d'élite Westerlands
 trp_westerlands_lannisguard_pl|Piquiers d'élite Westerlands
 trp_westerlands_red_cloak_knight|Red Cloak Chevalier{***}
@@ -242,30 +242,30 @@ trp_westerlands_messenger|Messager Westerlands
 trp_westerlands_messenger_pl|Messager Westerlands
 trp_westerlands_deserter|Déserteur Westerlands
 trp_westerlands_deserter_pl|Déserteurs Westerlands
-trp_westerlands_prison_guard|Garde de prison Westerlands
-trp_westerlands_prison_guard_pl|Gardes de prison Westerlands
-trp_westerlands_castle_guard|Garde du château Westerlands
-trp_westerlands_castle_guard_pl|Gardes du château Westerlands
+trp_westerlands_prison_guard|Geôlier Westerlands
+trp_westerlands_prison_guard_pl|Geôliers Westerlands
+trp_westerlands_castle_guard|Garde Westerlands
+trp_westerlands_castle_guard_pl|Gardes Westerlands
 trp_westerlands_local_lord|Seigneur Westerlands
 trp_westerlands_local_lord_pl|Seigneurs Westerlands
-trp_westerlands_lannister_recruit|Soldat enrolé Lannister
-trp_westerlands_lannister_recruit_pl|Soldat enrolé Lannister
-trp_westerlands_lannister_foot_soldier|Soldat à pied Lannister
-trp_westerlands_lannister_foot_soldier_pl|Soldats à pied Lannister
+trp_westerlands_lannister_recruit|Recrue Lannister
+trp_westerlands_lannister_recruit_pl|Recrue Lannister
+trp_westerlands_lannister_foot_soldier|Fantassin Lannister
+trp_westerlands_lannister_foot_soldier_pl|Fantassins Lannister
 trp_westerlands_lannister_crossbowman|Archer Lannister
 trp_westerlands_lannister_crossbowman_pl|Archers Lannister
 trp_westerlands_lannister_infantry|Infanterie Lannister
 trp_westerlands_lannister_infantry_pl|Infanterie Lannister
 trp_westerlands_lannister_scout|Éclaireur Lannister
 trp_westerlands_lannister_scout_pl|Éclaireurs Lannister
-trp_westerlands_lannister_arbelester|Lannister Longbowman{***}
-trp_westerlands_lannister_arbelester_pl|Lannister Longbowmen{***}
-trp_westerlands_lannister_freerider|Lannister Freerider{***}
-trp_westerlands_lannister_freerider_pl|Lannister Freeriders{***}
-trp_westerlands_lannister_lannisguard|Lannister Chevalier{***}
-trp_westerlands_lannister_lannisguard_pl|Lannister Chevaliers{***}
-trp_westerlands_lannister_red_cloak_knight|Lannisguard{***}
-trp_westerlands_lannister_red_cloak_knight_pl|Lannisguards{***}
+trp_westerlands_lannister_arbelester|Archer à arc long Lannister
+trp_westerlands_lannister_arbelester_pl|Archers à arcs longs Lannister
+trp_westerlands_lannister_freerider|Franc-coureur Lannister
+trp_westerlands_lannister_freerider_pl|Franc-coureurs Lannister
+trp_westerlands_lannister_lannisguard|Chevalier Lannister
+trp_westerlands_lannister_lannisguard_pl|Chevaliers Lannister
+trp_westerlands_lannister_red_cloak_knight|Lannisgarde
+trp_westerlands_lannister_red_cloak_knight_pl|Lannisgardes
 trp_westerland_lannister_hornman|Trompettiste Lannister
 trp_westerland_lannister_hornman_pl|Trompettistes Lannister
 trp_westerland_lannister_standard_bearer|Porte-étendard Lannister
@@ -274,70 +274,70 @@ trp_westerlands_lannister_messenger|Messager Lannister
 trp_westerlands_lannister_messenger_pl|Messagers Lannister
 trp_westerlands_lannister_deserter|Déserteur Lannister
 trp_westerlands_lannister_deserter_pl|Déserteurs Lannister
-trp_westerlands_lannister_prison_guard|Garde de prison Lannister
-trp_westerlands_lannister_prison_guard_pl|Gardes de prison Lannister
-trp_westerlands_lannister_castle_guard|Garde du château Lannister
-trp_westerlands_lannister_castle_guard_pl|Gardes du château Lannister
+trp_westerlands_lannister_prison_guard|Geôlier Lannister
+trp_westerlands_lannister_prison_guard_pl|Geôliers Lannister
+trp_westerlands_lannister_castle_guard|Garde Lannister
+trp_westerlands_lannister_castle_guard_pl|Gardes Lannister
 trp_westerlands_lannister_local_lord|Seigneur Lannister
 trp_westerlands_lannister_local_lord_pl|Seigneurs Lannister 
 trp_reach_peasant|Paysan Reach
 trp_reach_peasant_pl|Paysans Reach
-trp_reach_recruit|Soldat enrolé Reach
-trp_reach_recruit_pl|Soldat enrolé Reach
-trp_reach_rider|Reach Rider{***}
-trp_reach_rider_pl|Reach Riders{***}
-trp_reach_footman|Reach Footman{***}
-trp_reach_footman_pl|Reach Footman{***}
-trp_reach_man_at_arms|Reach Homme d'armes{***}
-trp_reach_man_at_arms_pl|Reach Hommes d'armes{***}
-trp_reach_archer|Reach Longbowman{***}
-trp_reach_archer_pl|Reach Longbowmen{***}
-trp_reach_mounted_man_at_arms|Reach Mounted Serjeant{***}
-trp_reach_mounted_man_at_arms_pl|Reach Mounted Serjeants{***}
-trp_reach_knight|Reach Garde de la maison{***}
-trp_reach_knight_pl|Reach Gardes de la maison{***}
-trp_reach_mounted_knight|Reach Chevalier{***}
-trp_reach_mounted_knight_pl|Reach Chevaliers{***}
-trp_reach_swornsword|Reach Sworn Sword{***}
-trp_reach_swornsword_pl|Reach Sworn Swords{***}
-trp_tyrell_house_guardsmen|Tyrell Garde de la maison{***}
-trp_tyrell_house_guardsmen_pl|Tyrell Gardes de la maisonmen{***}
-trp_reach_hornman|Reach Trompettiste{***}
-trp_reach_hornman_pl|Reach Trompettistes{***}
-trp_reach_standard_bearer|Reach Porte-étendard{***}
-trp_reach_standard_bearer_pl|Reach Porte-étendards{***}
-trp_reach_messenger|Reach Messager{***}
-trp_reach_messenger_pl|Reach Messagers{***}
-trp_reach_deserter|Reach Déserteur{***}
-trp_reach_deserter_pl|Reach Déserteurs{***}
-trp_reach_prison_guard|Reach Garde de prison{***}
-trp_reach_prison_guard_pl|Reach Gardes de prison{***}
-trp_reach_castle_guard|Reach Garde du château{***}
-trp_reach_castle_guard_pl|Reach Gardes du château{***}
-trp_reach_local_lord|Reach Seigneur{***}
-trp_reach_local_lord_pl|Reach Seigneurs{***}
-trp_north_peasant|North Paysan{***}
-trp_north_peasant_pl|North Paysans{***}
-trp_north_recruit|du Nord Soldat enrolé{***}
-trp_north_recruit_pl|du Nord Soldat enrolé{***}
-trp_north_footman|du Nord Footman{***}
-trp_north_footman_pl|du Nord Footmen{***}
-trp_north_archer|du Nord Archer{***}
-trp_north_archer_pl|du Nord Archers{***}
-trp_north_man_at_arms|du Nord Man at Arms{***}
-trp_north_man_at_arms_pl|du Nord Men at Arms{***}
-trp_north_hunting_archers|du Nord Hunting Archer{***}
-trp_north_hunting_archers_pl|du Nord Hunting Archers{***}
-trp_north_horseman|du Nord Horseman{***}
-trp_north_horseman_pl|du Nord Horsemen{***}
-trp_north_cavalry|du Nord Cavalry{***}
-trp_north_cavalry_pl|du Nord Cavalry{***}
-trp_north_guardsman|du Nord Guardsman{***}
-trp_north_guardsman_pl|du Nord Guardsmen{***}
-trp_north_pikeman|du Nord Spearman{***}
-trp_north_pikeman_pl|du Nord Spearmen{***}
-trp_north_house_guard|du Nord Garde de la maison{***}
-trp_north_house_guard_pl|du Nord Gardes de la maison{***}
+trp_reach_recruit|Recrue Reach
+trp_reach_recruit_pl|Recrue Reach
+trp_reach_rider|Coureur Reach
+trp_reach_rider_pl|Coureurs Reach
+trp_reach_footman|Fantassin Reach
+trp_reach_footman_pl|Fantassins Reach
+trp_reach_man_at_arms|Homme d'armes Reach
+trp_reach_man_at_arms_pl|Hommes d'armes Reach
+trp_reach_archer|Archer à arc long Reach
+trp_reach_archer_pl|Archers à arcs longs Reach
+trp_reach_mounted_man_at_arms|Sergent Monté Reach
+trp_reach_mounted_man_at_arms_pl|Sergents Montés Reach
+trp_reach_knight|Chevalier Reach
+trp_reach_knight_pl|Chevaliers Reach
+trp_reach_mounted_knight|Chevalier Reach
+trp_reach_mounted_knight_pl|Chevaliers Reach
+trp_reach_swornsword|Grand Chevalier Reach
+trp_reach_swornsword_pl|Grands Chevaliers Reach
+trp_tyrell_house_guardsmen|Chevalier Tyrell
+trp_tyrell_house_guardsmen_pl|Chevaliers Tyrell
+trp_reach_hornman|Trompettiste Reach
+trp_reach_hornman_pl|Trompettistes Reach
+trp_reach_standard_bearer|Porte-étendard Reach
+trp_reach_standard_bearer_pl|Porte-étendards Reach
+trp_reach_messenger|Messager Reach
+trp_reach_messenger_pl|Messagers Reach
+trp_reach_deserter|Déserteur Reach
+trp_reach_deserter_pl|Déserteurs Reach
+trp_reach_prison_guard|Geôlier Reach
+trp_reach_prison_guard_pl|Geôliers Reach
+trp_reach_castle_guard|Garde Reach
+trp_reach_castle_guard_pl|Gardes Reach
+trp_reach_local_lord|Seigneur Reach
+trp_reach_local_lord_pl|Seigneurs Reach
+trp_north_peasant|Paysan Nord
+trp_north_peasant_pl|Paysans Nord
+trp_north_recruit|Recrue Nord
+trp_north_recruit_pl|Recrue Nord
+trp_north_footman|Fantassin Nord
+trp_north_footman_pl|Fantassins Nord
+trp_north_archer|Archer Nord
+trp_north_archer_pl|Archers Nord
+trp_north_man_at_arms|Homme d'armes Nord
+trp_north_man_at_arms_pl|Hommes d'armes Nord
+trp_north_hunting_archers|Archer de chasse Nord
+trp_north_hunting_archers_pl|Archers de chasse Nord
+trp_north_horseman|Cavalier Nord
+trp_north_horseman_pl|Cavaliers Nord
+trp_north_cavalry|Cavalerie Nord
+trp_north_cavalry_pl|Cavalerie Nord
+trp_north_guardsman|Garde Nord
+trp_north_guardsman_pl|Gardes Nord
+trp_north_pikeman|Lancier Nord
+trp_north_pikeman_pl|Lanciers Nord
+trp_north_house_guard|Chevalier Nord
+trp_north_house_guard_pl|Chevaliers Nord
 trp_white_harbour_knights|White Harbour Chevalier{***}
 trp_white_harbour_knights_pl|White Harbour Chevaliers{***}
 trp_wild_hare|Wild Hare{***}
@@ -346,118 +346,118 @@ trp_wild_hare_vet|Vétéran Wild Hare{***}
 trp_wild_hare_vet_pl|Vétéran Wild Hares{***}
 trp_benfred_tallhart|Benfred Tallhart{***}
 trp_benfred_tallhart_pl|Benfred Tallhart{***}
-trp_north_hornman|du Nord Trompettiste{***}
-trp_north_hornman_pl|du Nord Trompettistes{***}
-trp_north_messenger|du Nord Messager{***}
-trp_north_messenger_pl|du Nord messengers{***}
-trp_north_deserter|du Nord Déserteur{***}
-trp_north_deserter_pl|du Nord Déserteurs{***}
-trp_north_prison_guard|North Garde de prison{***}
-trp_north_prison_guard_pl|North Gardes de prison{***}
-trp_north_castle_guard|du Nord Garde de la maison{***}
-trp_north_castle_guard_pl|du Nord Gardes de la maison{***}
-trp_north_standard_bearer|du Nord Porte-étendard{***}
-trp_north_standard_bearer_pl|du Nord Porte-étendards{***}
-trp_north_local_lord|du Nord Seigneur{***}
-trp_north_local_lord_pl|du Nord Seigneurs{***}
-trp_north_karstark_recruit|Karstark Soldat enrolé{***}
-trp_north_karstark_recruit_pl|Karstark Soldat enrolé{***}
-trp_north_karstark_footman|Karstark Footman{***}
-trp_north_karstark_footman_pl|Karstark Footmen{***}
-trp_north_karstark_archer|Karstark Archer{***}
-trp_north_karstark_archer_pl|Karstark Archers{***}
-trp_north_karstark_guardsman|Karstark Man at Arms{***}
-trp_north_karstark_guardsman_pl|Karstark Men at Arms{***}
+trp_north_hornman|Trompettiste Nord
+trp_north_hornman_pl|Trompettistes Nord
+trp_north_messenger|Messager Nord
+trp_north_messenger_pl|messengers Nord
+trp_north_deserter|Déserteur Nord
+trp_north_deserter_pl|Déserteurs Nord
+trp_north_prison_guard|Geôlier North
+trp_north_prison_guard_pl|Geôliers North
+trp_north_castle_guard|Chevalier Nord
+trp_north_castle_guard_pl|Chevaliers Nord
+trp_north_standard_bearer|Porte-étendard Nord
+trp_north_standard_bearer_pl|Porte-étendards Nord
+trp_north_local_lord|Seigneur Nord
+trp_north_local_lord_pl|Seigneurs Nord
+trp_north_karstark_recruit|Recrue Karstark
+trp_north_karstark_recruit_pl|Recrue Karstark
+trp_north_karstark_footman|Fantassin Karstark
+trp_north_karstark_footman_pl|Fantassins Karstark
+trp_north_karstark_archer|Archer Karstark
+trp_north_karstark_archer_pl|Archers Karstark
+trp_north_karstark_guardsman|Homme d'armes Karstark
+trp_north_karstark_guardsman_pl|Hommes d'armes Karstark
 trp_north_karstark_hunting_archers|Karstark Vétéran Archer{***}
 trp_north_karstark_hunting_archers_pl|Karstark Vétéran Archers{***}
-trp_north_karstark_horseman|Karstark Horseman{***}
-trp_north_karstark_horseman_pl|Karstark Horsemen{***}
-trp_north_karstark_cavalry|Karstark Cavalry{***}
-trp_north_karstark_cavalry_pl|Karstark Cavalry{***}
+trp_north_karstark_horseman|Karstark Cavalier{***}
+trp_north_karstark_horseman_pl|Karstark Cavaliers{***}
+trp_north_karstark_cavalry|Karstark Cavalerie{***}
+trp_north_karstark_cavalry_pl|Karstark Cavalerie{***}
 trp_north_karstark_guard|Karstark Guard{***}
 trp_north_karstark_guard_pl|Karstark Guards{***}
-trp_north_karstark_pikeman|Karstark Spearman{***}
-trp_north_karstark_pikeman_pl|Karstark Spearmen{***}
-trp_north_karstark_household_guard|Karstark Garde de la maison{***}
-trp_north_karstark_household_guard_pl|Karstark Garde de la maison{***}
+trp_north_karstark_pikeman|Karstark Lancier{***}
+trp_north_karstark_pikeman_pl|Karstark Lanciers{***}
+trp_north_karstark_household_guard|Karstark Chevalier{***}
+trp_north_karstark_household_guard_pl|Karstark Chevalier{***}
 trp_north_karstark_hornman|Karstark Trompettiste{***}
 trp_north_karstark_hornman_pl|Karstark Trompettistes{***}
 trp_north_karstark_messenger|Karstark Messager{***}
 trp_north_karstark_messenger_pl|Karstark messengers{***}
 trp_north_karstark_deserter|Karstark Déserteur{***}
 trp_north_karstark_deserter_pl|Karstark Déserteurs{***}
-trp_north_karstark_prison_guard|Karstark Garde de prison{***}
-trp_north_karstark_prison_guard_pl|Karstark Gardes de prison{***}
-trp_north_karstark_castle_guard|Karstark Garde de la maison{***}
-trp_north_karstark_castle_guard_pl|Karstark Gardes de la maison{***}
+trp_north_karstark_prison_guard|Karstark Geôlier{***}
+trp_north_karstark_prison_guard_pl|Karstark Geôliers{***}
+trp_north_karstark_castle_guard|Karstark Chevalier{***}
+trp_north_karstark_castle_guard_pl|Karstark Chevaliers{***}
 trp_north_karstark_standard_bearer|Karstark Porte-étendard{***}
 trp_north_karstark_standard_bearer_pl|Karstark Porte-étendards{***}
 trp_north_karstark_local_lord|Karstark Seigneur{***}
 trp_north_karstark_local_lord_pl|Karstark Seigneurs{***}
-trp_north_stark_recruit|Stark Soldat enrolé{***}
-trp_north_stark_recruit_pl|Stark Soldat enrolé{***}
-trp_north_stark_footman|Stark Footman{***}
-trp_north_stark_footman_pl|Stark Footmen{***}
-trp_north_stark_archer|Stark Hunting Archer{***}
-trp_north_stark_archer_pl|Stark Hunting Archers{***}
-trp_north_stark_guardsman|Stark Man at Arms{***}
-trp_north_stark_guardsman_pl|Stark Men at Arms{***}
+trp_north_stark_recruit|Stark Recrue{***}
+trp_north_stark_recruit_pl|Stark Recrue{***}
+trp_north_stark_footman|Stark Fantassin{***}
+trp_north_stark_footman_pl|Stark Fantassins{***}
+trp_north_stark_archer|Stark Archer de chasse{***}
+trp_north_stark_archer_pl|Stark Archers de chasse{***}
+trp_north_stark_guardsman|Stark Homme d'armes{***}
+trp_north_stark_guardsman_pl|Stark Hommes d'armes{***}
 trp_north_stark_hunting_archers|Stark Archer{***}
 trp_north_stark_hunting_archers_pl|Stark Archers{***}
-trp_north_stark_horseman|Stark Horseman{***}
-trp_north_stark_horseman_pl|Stark Horsemen{***}
-trp_north_stark_cavalry|Stark Cavalry{***}
-trp_north_stark_cavalry_pl|Stark Cavalry{***}
+trp_north_stark_horseman|Stark Cavalier{***}
+trp_north_stark_horseman_pl|Stark Cavaliers{***}
+trp_north_stark_cavalry|Stark Cavalerie{***}
+trp_north_stark_cavalry_pl|Stark Cavalerie{***}
 trp_north_stark_guard|Stark Guard{***}
 trp_north_stark_guard_pl|Stark Guards{***}
-trp_north_stark_pikeman|Stark Spearman{***}
-trp_north_stark_pikeman_pl|Stark Spearmen{***}
-trp_north_stark_household_guard|Stark Garde de la maison{***}
-trp_north_stark_household_guard_pl|Stark Garde de la maison{***}
+trp_north_stark_pikeman|Stark Lancier{***}
+trp_north_stark_pikeman_pl|Stark Lanciers{***}
+trp_north_stark_household_guard|Stark Chevalier{***}
+trp_north_stark_household_guard_pl|Stark Chevalier{***}
 trp_north_stark_hornman|Stark Trompettiste{***}
 trp_north_stark_hornman_pl|Stark Trompettistes{***}
 trp_north_stark_messenger|Stark Messager{***}
 trp_north_stark_messenger_pl|Stark messengers{***}
 trp_north_stark_deserter|Stark Déserteur{***}
 trp_north_stark_deserter_pl|Stark Déserteurs{***}
-trp_north_stark_prison_guard|Stark Garde de prison{***}
-trp_north_stark_prison_guard_pl|Stark Gardes de prison{***}
-trp_north_stark_castle_guard|Stark Garde de la maison{***}
-trp_north_stark_castle_guard_pl|Stark Gardes de la maison{***}
+trp_north_stark_prison_guard|Stark Geôlier{***}
+trp_north_stark_prison_guard_pl|Stark Geôliers{***}
+trp_north_stark_castle_guard|Stark Chevalier{***}
+trp_north_stark_castle_guard_pl|Stark Chevaliers{***}
 trp_north_stark_standard_bearer|Stark Porte-étendard{***}
 trp_north_stark_standard_bearer_pl|Stark Porte-étendards{***}
 trp_north_stark_local_lord|Stark Seigneur{***}
 trp_north_stark_local_lord_pl|Stark Seigneurs{***}
-trp_north_bolton_recruit|Bolton Soldat enrolé{***}
-trp_north_bolton_recruit_pl|Bolton Soldat enrolé{***}
-trp_north_bolton_footman|Bolton Footman{***}
-trp_north_bolton_footman_pl|Bolton Footmen{***}
+trp_north_bolton_recruit|Bolton Recrue{***}
+trp_north_bolton_recruit_pl|Bolton Recrue{***}
+trp_north_bolton_footman|Bolton Fantassin{***}
+trp_north_bolton_footman_pl|Bolton Fantassins{***}
 trp_north_bolton_archer|Bolton Archer{***}
 trp_north_bolton_archer_pl|Bolton Archers{***}
-trp_north_bolton_guardsman|Bolton Man at Arms{***}
-trp_north_bolton_guardsman_pl|Bolton Men at Arms{***}
+trp_north_bolton_guardsman|Bolton Homme d'armes{***}
+trp_north_bolton_guardsman_pl|Bolton Hommes d'armes{***}
 trp_north_bolton_hunting_archers|Bolton Vétéran Archer{***}
 trp_north_bolton_hunting_archers_pl|Bolton Vétéran Archers{***}
-trp_north_bolton_horseman|Bolton Horseman{***}
-trp_north_bolton_horseman_pl|Bolton Horsemen{***}
-trp_north_bolton_cavalry|Bolton Cavalry{***}
-trp_north_bolton_cavalry_pl|Bolton Cavalry{***}
+trp_north_bolton_horseman|Bolton Cavalier{***}
+trp_north_bolton_horseman_pl|Bolton Cavaliers{***}
+trp_north_bolton_cavalry|Bolton Cavalerie{***}
+trp_north_bolton_cavalry_pl|Bolton Cavalerie{***}
 trp_north_bolton_guard|Bolton Guard{***}
 trp_north_bolton_guard_pl|Bolton Guards{***}
-trp_north_bolton_pikeman|Bolton Spearman{***}
-trp_north_bolton_pikeman_pl|Bolton Spearmen{***}
-trp_north_bolton_household_guard|Bolton Garde de la maison{***}
-trp_north_bolton_household_guard_pl|Bolton Garde de la maison{***}
+trp_north_bolton_pikeman|Bolton Lancier{***}
+trp_north_bolton_pikeman_pl|Bolton Lanciers{***}
+trp_north_bolton_household_guard|Bolton Chevalier{***}
+trp_north_bolton_household_guard_pl|Bolton Chevalier{***}
 trp_north_bolton_hornman|Bolton Trompettiste{***}
 trp_north_bolton_hornman_pl|Bolton Trompettistes{***}
 trp_north_bolton_messenger|Bolton Messager{***}
 trp_north_bolton_messenger_pl|Bolton messengers{***}
 trp_north_bolton_deserter|Bolton Déserteur{***}
 trp_north_bolton_deserter_pl|Bolton Déserteurs{***}
-trp_north_bolton_prison_guard|Bolton Garde de prison{***}
-trp_north_bolton_prison_guard_pl|Bolton Gardes de prison{***}
-trp_north_bolton_castle_guard|Bolton Garde de la maison{***}
-trp_north_bolton_castle_guard_pl|Bolton Gardes de la maison{***}
+trp_north_bolton_prison_guard|Bolton Geôlier{***}
+trp_north_bolton_prison_guard_pl|Bolton Geôliers{***}
+trp_north_bolton_castle_guard|Bolton Chevalier{***}
+trp_north_bolton_castle_guard_pl|Bolton Chevaliers{***}
 trp_north_bolton_standard_bearer|Bolton Porte-étendard{***}
 trp_north_bolton_standard_bearer_pl|Bolton Porte-étendards{***}
 trp_north_bolton_local_lord|Bolton Seigneur{***}
@@ -478,8 +478,8 @@ trp_wildling_stalker|Wildling Stalker{***}
 trp_wildling_stalker_pl|Wildling Stalkers{***}
 trp_wildling_spearwives|Wildling Spearwife{***}
 trp_wildling_spearwives_pl|Wildling Spearwives{***}
-trp_wildling_horseman|Wildling Horseman{***}
-trp_wildling_horseman_pl|Wildling Horsemen{***}
+trp_wildling_horseman|Wildling Cavalier{***}
+trp_wildling_horseman_pl|Wildling Cavaliers{***}
 trp_wildling_raider|Wildling Raider{***}
 trp_wildling_raider_pl|Wildling Raiders{***}
 trp_wildling_hornman|Wildling Trompettiste{***}
@@ -490,8 +490,8 @@ trp_wildling_messenger|Wildling Messager{***}
 trp_wildling_messenger_pl|Wildling Messagers{***}
 trp_wildling_deserter|Wildling Raider{***}
 trp_wildling_deserter_pl|Wildling Raiders{***}
-trp_wildling_prison_guard|Wildling Garde de prison{***}
-trp_wildling_prison_guard_pl|Wildling Gardes de prison{***}
+trp_wildling_prison_guard|Wildling Geôlier{***}
+trp_wildling_prison_guard_pl|Wildling Geôliers{***}
 trp_wildling_castle_guard|Wildling Guard{***}
 trp_wildling_castle_guard_pl|Wildling Guards{***}
 trp_giant|Giant{***}
@@ -516,8 +516,8 @@ trp_thenn_messenger|Thenn Messager{***}
 trp_thenn_messenger_pl|Thenn Messagers{***}
 trp_thenn_deserter|Thenn Raider{***}
 trp_thenn_deserter_pl|Thenn Raiders{***}
-trp_thenn_prison_guard|Thenn Garde de prison{***}
-trp_thenn_prison_guard_pl|Thenn Gardes de prison{***}
+trp_thenn_prison_guard|Thenn Geôlier{***}
+trp_thenn_prison_guard_pl|Thenn Geôliers{***}
 trp_thenn_castle_guard|Thenn Guard{***}
 trp_thenn_castle_guard_pl|Thenn Guards{***}
 trp_ironborn_peasant|Ironman{***}
@@ -546,10 +546,10 @@ trp_ironborn_messenger|Ironborn Messager{***}
 trp_ironborn_messenger_pl|Ironborn Messagers{***}
 trp_ironborn_deserter|Ironborn Déserteur{***}
 trp_ironborn_deserter_pl|Ironborn Déserteurs{***}
-trp_ironborn_prison_guard|Ironborn Garde de prison{***}
-trp_ironborn_prison_guard_pl|Ironborn Gardes de prison{***}
-trp_ironborn_castle_guard|Ironborn Garde de la maison{***}
-trp_ironborn_castle_guard_pl|Ironborn Gardes de la maison{***}
+trp_ironborn_prison_guard|Ironborn Geôlier{***}
+trp_ironborn_prison_guard_pl|Ironborn Geôliers{***}
+trp_ironborn_castle_guard|Ironborn Chevalier{***}
+trp_ironborn_castle_guard_pl|Ironborn Chevaliers{***}
 trp_ironborn_reaver|Ironborn Reaver{***}
 trp_ironborn_reaver_pl|Ironborn Reavers{***}
 trp_ironborn_reaver_vet|Vétéran Ironborn Reaver{***}
@@ -562,8 +562,8 @@ trp_dothraki_tribesman|Dothraki Tribesman{***}
 trp_dothraki_tribesman_pl|Dothraki Tribesmen{***}
 trp_dothraki_warrior|Dothraki Warrior{***}
 trp_dothraki_warrior_pl|Dothraki Warriors{***}
-trp_dothraki_horseman|Dothraki Horseman{***}
-trp_dothraki_horseman_pl|Dothraki Horsemen{***}
+trp_dothraki_horseman|Dothraki Cavalier{***}
+trp_dothraki_horseman_pl|Dothraki Cavaliers{***}
 trp_dothraki_scout|Dothraki Éclaireur{***}
 trp_dothraki_scout_pl|Dothraki Éclaireurs{***}
 trp_dothraki_outrider|Dothraki Outrider{***}
@@ -582,8 +582,8 @@ trp_dothraki_messenger|Dothraki Messager{***}
 trp_dothraki_messenger_pl|Dothraki Messagers{***}
 trp_dothraki_deserter|Dothraki Déserteur{***}
 trp_dothraki_deserter_pl|Dothraki Déserteurs{***}
-trp_dothraki_prison_guard|Dothraki Garde de prison{***}
-trp_dothraki_prison_guard_pl|Dothraki Gardes de prison{***}
+trp_dothraki_prison_guard|Dothraki Geôlier{***}
+trp_dothraki_prison_guard_pl|Dothraki Geôliers{***}
 trp_dothraki_castle_guard|Dothraki Camp Guard{***}
 trp_dothraki_castle_guard_pl|Dothraki Camp Guards{***}
 trp_merc_peasant|Essosi Paysan{***}
@@ -598,14 +598,14 @@ trp_fc_merc_swordsman|Mercenary Sellsword{***}
 trp_fc_merc_swordsman_pl|Mercenary Sellswords{***}
 trp_fc_merc_billmen|Mercenary Billman{***}
 trp_fc_merc_billmen_pl|Mercenary Billmen{***}
-trp_fc_merc_light_cavalry|Mercenary Cavalry{***}
-trp_fc_merc_light_cavalry_pl|Mercenary Cavalry{***}
+trp_fc_merc_light_cavalry|Mercenary Cavalerie{***}
+trp_fc_merc_light_cavalry_pl|Mercenary Cavalerie{***}
 trp_fc_merc_vet_archer|Vétéran Mercenary Archer{***}
 trp_fc_merc_vet_archer_pl|Vétéran Mercenary Archers{***}
 trp_fc_merc_sellsword|Mercenary Swordsman{***}
 trp_fc_merc_sellsword_pl|Mercenary Swordsmen{***}
-trp_fc_merc_heavy_cavalry|Mercenary Heavy Cavalry{***}
-trp_fc_merc_heavy_cavalry_pl|Mercenary Heavy Cavalry{***}
+trp_fc_merc_heavy_cavalry|Mercenary Heavy Cavalerie{***}
+trp_fc_merc_heavy_cavalry_pl|Mercenary Heavy Cavalerie{***}
 trp_fc_merc_veteran_bowman|Vétéran Mercenary Archer{***}
 trp_fc_merc_veteran_bowman_pl|Vétéran Mercenary Archers{***}
 trp_fc_merc_standard_bearer|Porte-étendards{***}
@@ -614,24 +614,24 @@ trp_free_messenger|Messager{***}
 trp_free_messenger_pl|Messagers{***}
 trp_free_deserter|Mercenary Déserteur{***}
 trp_free_deserter_pl|Mercenary Déserteurs{***}
-trp_free_prison_guard|Garde de prison{***}
-trp_free_prison_guard_pl|Gardes de prison{***}
-trp_free_castle_guard|Garde du château{***}
-trp_free_castle_guard_pl|Gardes du château{***}
+trp_free_prison_guard|Geôlier{***}
+trp_free_prison_guard_pl|Geôliers{***}
+trp_free_castle_guard|Garde{***}
+trp_free_castle_guard_pl|Gardes{***}
 trp_vale_peasant|Vale Paysan{***}
 trp_vale_peasant_pl|Vale Paysans{***}
-trp_vale_recruit|Vale Soldat enrolé{***}
-trp_vale_recruit_pl|Vale Soldat enrolé{***}
+trp_vale_recruit|Vale Recrue{***}
+trp_vale_recruit_pl|Vale Recrue{***}
 trp_vale_archer|Vale Archer{***}
 trp_vale_archer_pl|Vale Archers{***}
-trp_vale_footman|Vale Footman{***}
-trp_vale_footman_pl|Vale Footmen{***}
+trp_vale_footman|Vale Fantassin{***}
+trp_vale_footman_pl|Vale Fantassins{***}
 trp_vale_man_at_arms|Vale Homme d'armes{***}
 trp_vale_man_at_arms_pl|Vale Hommes d'armes{***}
-trp_vale_rider|Vale Rider{***}
-trp_vale_rider_pl|Vale Riders{***}
-trp_vale_foot_knight|Vale Garde de la maison{***}
-trp_vale_foot_knight_pl|Vale Gardes de la maison{***}
+trp_vale_rider|Vale Coureur{***}
+trp_vale_rider_pl|Vale Coureurs{***}
+trp_vale_foot_knight|Vale Chevalier{***}
+trp_vale_foot_knight_pl|Vale Chevaliers{***}
 trp_vale_mounted_knight|Vale Chevalier{***}
 trp_vale_mounted_knight_pl|Vale Chevaliers{***}
 trp_vale_knight_of_the_gate|Vale Chevalier of the Gate{***}
@@ -644,32 +644,32 @@ trp_vale_messenger|Vale Messager{***}
 trp_vale_messenger_pl|Vale Messagers{***}
 trp_vale_deserter|Vale Déserteur{***}
 trp_vale_deserter_pl|Vale Déserteurs{***}
-trp_vale_prison_guard|Vale Garde de prison{***}
-trp_vale_prison_guard_pl|Vale Gardes de prison{***}
-trp_vale_castle_guard|Vale Garde du château{***}
-trp_vale_castle_guard_pl|Vale Gardes du château{***}
+trp_vale_prison_guard|Vale Geôlier{***}
+trp_vale_prison_guard_pl|Vale Geôliers{***}
+trp_vale_castle_guard|Vale Garde{***}
+trp_vale_castle_guard_pl|Vale Gardes{***}
 trp_vale_local_lord|Vale Seigneur{***}
 trp_vale_local_lord_pl|Vale Seigneurs{***}
-trp_sisterton_footman|Sisterton Footman{***}
-trp_sisterton_footman_pl|Sisterton Footmen{***}
+trp_sisterton_footman|Sisterton Fantassin{***}
+trp_sisterton_footman_pl|Sisterton Fantassins{***}
 trp_riverlands_peasant|Riverlands Paysan{***}
 trp_riverlands_peasant_pl|Riverlands Paysans{***}
-trp_riverlands_recruit|Riverlands Soldat enrolé{***}
-trp_riverlands_recruit_pl|Riverlands Soldat enrolé{***}
+trp_riverlands_recruit|Riverlands Recrue{***}
+trp_riverlands_recruit_pl|Riverlands Recrue{***}
 trp_riverlands_tracker|Riverlands Tracker{***}
 trp_riverlands_tracker_pl|Riverlands Trackers{***}
-trp_riverlands_footman|Riverlands Footman{***}
-trp_riverlands_footman_pl|Riverlands Footmen{***}
+trp_riverlands_footman|Riverlands Fantassin{***}
+trp_riverlands_footman_pl|Riverlands Fantassins{***}
 trp_riverlands_archer|Riverlands Archer{***}
 trp_riverlands_archer_pl|Riverlands Archers{***}
 trp_riverlands_man_at_arms|Riverlands Homme d'armes{***}
 trp_riverlands_man_at_arms_pl|Riverlands Hommes d'armes{***}
 trp_riverlands_rider|Riverlands Outrider{***}
 trp_riverlands_rider_pl|Riverlands Outriders{***}
-trp_riverlands_knight|Riverlands Garde de la maison{***}
-trp_riverlands_knight_pl|Riverlands Gardes de la maison{***}
-trp_riverlands_cavalry|Riverlands Cavalry{***}
-trp_riverlands_cavalry_pl|Riverlands Cavalry{***}
+trp_riverlands_knight|Riverlands Chevalier{***}
+trp_riverlands_knight_pl|Riverlands Chevaliers{***}
+trp_riverlands_cavalry|Riverlands Cavalerie{***}
+trp_riverlands_cavalry_pl|Riverlands Cavalerie{***}
 trp_riverlands_ranger|Riverlands Ranger{***}
 trp_riverlands_ranger_pl|Riverlands Rangers{***}
 trp_riverlands_mounted_knight|Riverlands Chevalier{***}
@@ -682,28 +682,28 @@ trp_riverlands_messenger|Riverlands Messager{***}
 trp_riverlands_messenger_pl|Riverlands Messagers{***}
 trp_riverlands_deserter|Riverlands Déserteur{***}
 trp_riverlands_deserter_pl|Riverlands Déserteurs{***}
-trp_riverlands_prison_guard|Riverlands Garde de prison{***}
-trp_riverlands_prison_guard_pl|Riverlands Gardes de prison{***}
-trp_riverlands_castle_guard|Riverlands Garde du château{***}
-trp_riverlands_castle_guard_pl|Riverlands Gardes du château{***}
+trp_riverlands_prison_guard|Riverlands Geôlier{***}
+trp_riverlands_prison_guard_pl|Riverlands Geôliers{***}
+trp_riverlands_castle_guard|Riverlands Garde{***}
+trp_riverlands_castle_guard_pl|Riverlands Gardes{***}
 trp_riverlands_local_lord|Riverlands Seigneur{***}
 trp_riverlands_local_lord_pl|Riverlands Seigneurs{***}
-trp_riverlands_frey_recruit|Frey Soldat enrolé{***}
-trp_riverlands_frey_recruit_pl|Frey Soldat enrolé{***}
+trp_riverlands_frey_recruit|Frey Recrue{***}
+trp_riverlands_frey_recruit_pl|Frey Recrue{***}
 trp_riverlands_frey_tracker|Frey Tracker{***}
 trp_riverlands_frey_tracker_pl|Frey Trackers{***}
-trp_riverlands_frey_footman|Frey Footman{***}
-trp_riverlands_frey_footman_pl|Frey Footmen{***}
+trp_riverlands_frey_footman|Frey Fantassin{***}
+trp_riverlands_frey_footman_pl|Frey Fantassins{***}
 trp_riverlands_frey_archer|Frey Archer{***}
 trp_riverlands_frey_archer_pl|Frey Archers{***}
 trp_riverlands_frey_man_at_arms|Frey Homme d'armes{***}
 trp_riverlands_frey_man_at_arms_pl|Frey Hommes d'armes{***}
 trp_riverlands_frey_rider|Frey Outrider{***}
 trp_riverlands_frey_rider_pl|Frey Outriders{***}
-trp_riverlands_frey_knight|Frey Garde de la maison{***}
-trp_riverlands_frey_knight_pl|Frey Gardes de la maison{***}
-trp_riverlands_frey_cavalry|Frey Cavalry{***}
-trp_riverlands_frey_cavalry_pl|Frey Cavalry{***}
+trp_riverlands_frey_knight|Frey Chevalier{***}
+trp_riverlands_frey_knight_pl|Frey Chevaliers{***}
+trp_riverlands_frey_cavalry|Frey Cavalerie{***}
+trp_riverlands_frey_cavalry_pl|Frey Cavalerie{***}
 trp_riverlands_frey_ranger|Frey Ranger{***}
 trp_riverlands_frey_ranger_pl|Frey Rangers{***}
 trp_riverlands_frey_mounted_knight|Frey Chevalier{***}
@@ -718,26 +718,26 @@ trp_riverlands_frey_messenger|Frey Messager{***}
 trp_riverlands_frey_messenger_pl|Frey Messagers{***}
 trp_riverlands_frey_deserter|Frey Déserteur{***}
 trp_riverlands_frey_deserter_pl|Frey Déserteurs{***}
-trp_riverlands_frey_prison_guard|Frey Garde de prison{***}
-trp_riverlands_frey_prison_guard_pl|Frey Gardes de prison{***}
-trp_riverlands_frey_castle_guard|Frey Garde du château{***}
-trp_riverlands_frey_castle_guard_pl|Frey Gardes du château{***}
+trp_riverlands_frey_prison_guard|Frey Geôlier{***}
+trp_riverlands_frey_prison_guard_pl|Frey Geôliers{***}
+trp_riverlands_frey_castle_guard|Frey Garde{***}
+trp_riverlands_frey_castle_guard_pl|Frey Gardes{***}
 trp_riverlands_frey_local_lord|Frey Seigneur{**}
 trp_riverlands_frey_local_lord_pl|Frey Seigneurs{***}
 trp_crownlands_peasant|Crownlands Paysan{***}
 trp_crownlands_peasant_pl|Crownlands Paysans{***}
-trp_crownlands_recruit|Crownlands Soldat enrolé{***}
-trp_crownlands_recruit_pl|Crownlands Soldat enrolé{***}
+trp_crownlands_recruit|Crownlands Recrue{***}
+trp_crownlands_recruit_pl|Crownlands Recrue{***}
 trp_crownlands_tracker|Crownlands Archer{***}
 trp_crownlands_tracker_pl|Crownlands Archers{***}
-trp_crownlands_footman|Crownlands Footman{***}
-trp_crownlands_footman_pl|Crownlands Footmen{***}
+trp_crownlands_footman|Crownlands Fantassin{***}
+trp_crownlands_footman_pl|Crownlands Fantassins{***}
 trp_crownlands_archer|Crownlands Archer{***}
 trp_crownlands_archer_pl|Crownlands Archers{***}
 trp_crownlands_man_at_arms|Crownlands Homme d'armes{***}
 trp_crownlands_man_at_arms_pl|Crownlands Hommes d'armes{***}
-trp_crownlands_rider|Crownlands Horseman{***}
-trp_crownlands_rider_pl|Crownlands Horsemen{***}
+trp_crownlands_rider|Crownlands Cavalier{***}
+trp_crownlands_rider_pl|Crownlands Cavaliers{***}
 trp_crownlands_knight|Crownlands Chevalier{***}
 trp_crownlands_knight_pl|Crownlands Chevaliers{***}
 trp_crownlands_cavalry|Crownlands Lancer{***}
@@ -752,16 +752,16 @@ trp_crownlands_messenger|Royal Messager{***}
 trp_crownlands_messenger_pl|Royal Messagers{***}
 trp_crownlands_deserter|Crownlands Déserteur{***}
 trp_crownlands_deserter_pl|Crownlands Déserteurs{***}
-trp_crownlands_prison_guard|Garde de prison{***}
-trp_crownlands_prison_guard_pl|Gardes de prison{***}
-trp_crownlands_castle_guard|Garde du château{***}
-trp_crownlands_castle_guard_pl|Gardes du château{***}
+trp_crownlands_prison_guard|Geôlier{***}
+trp_crownlands_prison_guard_pl|Geôliers{***}
+trp_crownlands_castle_guard|Garde{***}
+trp_crownlands_castle_guard_pl|Gardes{***}
 trp_targaryen_standard_bearer|Porte-étendard{***}
 trp_targaryen_standard_bearer_pl|Porte-étendards{***}
 trp_crownlands_local_lord|Crownlands Seigneur{***}
 trp_crownlands_local_lord_pl|Crownlands Seigneurs{***}
-trp_golden_company_footman|Golden Company Footman{***}
-trp_golden_company_footman_pl|Golden Company Footmen{***}
+trp_golden_company_footman|Golden Company Fantassin{***}
+trp_golden_company_footman_pl|Golden Company Fantassins{***}
 trp_golden_company_infantry|Golden Company Infanterie{***}
 trp_golden_company_infantry_pl|Golden Company Infanterie{***}
 trp_golden_company_heavy_infantry|Golden Company Heavy Infanterie{***}
@@ -774,16 +774,16 @@ trp_golden_company_heavy_pikeman|Golden Company Heavy Piquier{***}
 trp_golden_company_heavy_pikeman_pl|Golden Company Heavy Piquiers{***}
 trp_golden_company_archer|Golden Company Archer{***}
 trp_golden_company_archer_pl|Golden Company Trackers{***}
-trp_golden_company_longbowman|Golden Company Longbowman{***}
-trp_golden_company_longbowman_pl|Golden Company Longbowmen{***}
-trp_golden_company_elite_longbowman|Golden Company Elite Longbowman{***}
-trp_golden_company_elite_longbowman_pl|Golden Company Elite Longbowmen{***}
-trp_golden_company_rider|Golden Company Rider{***}
-trp_golden_company_rider_pl|Golden Company Riders{***}
-trp_golden_company_horseman|Golden Company Horseman{***}
-trp_golden_company_horseman_pl|Golden Company Horsemen{***}
-trp_golden_company_heavy_horseman|Golden Company Heavy Horseman{***}
-trp_golden_company_heavy_horseman_pl|Golden Company Heavy Horsemen{***}
+trp_golden_company_longbowman|Golden Company Archer à arc long{***}
+trp_golden_company_longbowman_pl|Golden Company Archers à arcs longs{***}
+trp_golden_company_elite_longbowman|Golden Company Elite Archer à arc long{***}
+trp_golden_company_elite_longbowman_pl|Golden Company Elite Archers à arcs longs{***}
+trp_golden_company_rider|Golden Company Coureur{***}
+trp_golden_company_rider_pl|Golden Company Coureurs{***}
+trp_golden_company_horseman|Golden Company Cavalier{***}
+trp_golden_company_horseman_pl|Golden Company Cavaliers{***}
+trp_golden_company_heavy_horseman|Golden Company Heavy Cavalier{***}
+trp_golden_company_heavy_horseman_pl|Golden Company Heavy Cavaliers{***}
 trp_nw_peasant|Rogue{***}
 trp_nw_peasant_pl|Rogues{***}
 trp_nw_recruit|Nights Watch Recrue{***}
@@ -796,12 +796,12 @@ trp_nw_ranger|Nights Watch Ranger{***}
 trp_nw_ranger_pl|Nights Watch Ranger's{***}
 trp_nw_footranger|Nights Watch Infanterie{***}
 trp_nw_footranger_pl|Nights Watch Infanterie{***}
-trp_nw_rider|Nights Watch Rider{***}
-trp_nw_rider_pl|Nights Watch Riders{***}
+trp_nw_rider|Nights Watch Coureur{***}
+trp_nw_rider_pl|Nights Watch Coureurs{***}
 trp_nw_vet_ranger|Nights Watch Vétéran Infanterie{***}
 trp_nw_vet_ranger_pl|Nights Watch Vétéran Infanterie{***}
-trp_nw_vet_rider|Nights Watch Vétéran Rider{***}
-trp_nw_vet_rider_pl|Nights Watch Vétéran Riders{***}
+trp_nw_vet_rider|Nights Watch Vétéran Coureur{***}
+trp_nw_vet_rider_pl|Nights Watch Vétéran Coureurs{***}
 trp_nw_vet_ranged_ranger|Nights Watch Vétéran Ranger{***}
 trp_nw_vet_ranged_ranger_pl|Nights Watch Vétéran Rangers{***}
 trp_nw_elite_ranger|Nights Watch Elite Ranger{***}
@@ -814,10 +814,10 @@ trp_nw_messenger|Nights Watch Messager{***}
 trp_nw_messenger_pl|Nights Watch Messagers{***}
 trp_nw_deserter|Nights Watch Déserteur{***}
 trp_nw_deserter_pl|Nights Watch Déserteurs{***}
-trp_nw_prison_guard|Nights Watch Garde de prison{***}
-trp_nw_prison_guard_pl|Nights Watch Gardes de prison{***}
-trp_nw_castle_guard|Nights Watch Garde du château{***}
-trp_nw_castle_guard_pl|Nights Watch Gardes du château{***}
+trp_nw_prison_guard|Nights Watch Geôlier{***}
+trp_nw_prison_guard_pl|Nights Watch Geôliers{***}
+trp_nw_castle_guard|Nights Watch Garde{***}
+trp_nw_castle_guard_pl|Nights Watch Gardes{***}
 trp_nightswatch_armsman|Wandering Crow{***}
 trp_nightswatch_armsman_pl|Wander Crows{***}
 trp_braavosi_peasant|Braavosi Paysan{***}
@@ -840,20 +840,20 @@ trp_braavosi_messenger|Braavosi Messager{***}
 trp_braavosi_messenger_pl|Braavosi Messagers{***}
 trp_braavosi_deserter|Braavosi Déserteur{***}
 trp_braavosi_deserter_pl|Braavosi Déserteurs{***}
-trp_braavosi_prison_guard|Braavosi Garde de prison{***}
-trp_braavosi_prison_guard_pl|Braavosi Gardes de prison{***}
-trp_braavosi_castle_guard|Braavosi Garde du château{***}
-trp_braavosi_castle_guard_pl|Braavosi Gardes du château{***}
+trp_braavosi_prison_guard|Braavosi Geôlier{***}
+trp_braavosi_prison_guard_pl|Braavosi Geôliers{***}
+trp_braavosi_castle_guard|Braavosi Garde{***}
+trp_braavosi_castle_guard_pl|Braavosi Gardes{***}
 trp_norvoshi_initiate|Norvoshi Paysan{***}
 trp_norvoshi_initiate_pl|Norvoshi Paysan{***}
 trp_norvoshi_monk|Norvoshi Initiate{***}
 trp_norvoshi_monk_pl|Norvoshi Initiate{***}
 trp_norvoshi_militia|Norvoshi Milice{***}
 trp_norvoshi_militia_pl|Norvoshi Milice{***}
-trp_norvoshi_guardsman|Norvoshi Guardsman{***}
-trp_norvoshi_guardsman_pl|Norvoshi Guardsmen{***}
-trp_norvoshi_horseman|Norvoshi Horseman{***}
-trp_norvoshi_horseman_pl|Norvoshi Horsemen{***}
+trp_norvoshi_guardsman|Norvoshi Garde{***}
+trp_norvoshi_guardsman_pl|Norvoshi Gardes{***}
+trp_norvoshi_horseman|Norvoshi Cavalier{***}
+trp_norvoshi_horseman_pl|Norvoshi Cavaliers{***}
 trp_surgeon|Norvoshi Monk{***}
 trp_surgeon_pl|Norvoshi Monks{***}
 trp_bearded_priest|Bearded Priest{***}
@@ -866,10 +866,10 @@ trp_norvos_messenger|Norvoshi Messager{***}
 trp_norvos_messenger_pl|Norvoshi Messagers{***}
 trp_norvos_deserter|Norvoshi Déserteur{***}
 trp_norvos_deserter_pl|Norvoshi Déserteurs{***}
-trp_norvos_prison_guard|Norvoshi Garde de prison{***}
-trp_norvos_prison_guard_pl|Norvoshi Gardes de prison{***}
-trp_norvos_castle_guard|Norvoshi Garde du château{***}
-trp_norvos_castle_guard_pl|Norvoshi Gardes du château{***}
+trp_norvos_prison_guard|Norvoshi Geôlier{***}
+trp_norvos_prison_guard_pl|Norvoshi Geôliers{***}
+trp_norvos_castle_guard|Norvoshi Garde{***}
+trp_norvos_castle_guard_pl|Norvoshi Gardes{***}
 trp_essos_slave|Slave{***}
 trp_essos_slave_pl|Slaves{***}
 trp_essos_slave_levy|Slave enrolé{***}
@@ -888,10 +888,10 @@ trp_qohor_forester|Qohoric forester{***}
 trp_qohor_forester_pl|Qohor Forestiers{***}
 trp_qohor_city_watch|Qohoric City Watch{***}
 trp_qohor_city_watch_pl|Qohor City Watchmen{***}
-trp_qohor_horseman|Qohoric Horseman{***}
-trp_qohor_horseman_pl|Qohor Horsemen{***}
-trp_qohor_cavalry|Qohoric Cavalry{***}
-trp_qohor_cavalry_pl|Qohor Cavalry{***}
+trp_qohor_horseman|Qohoric Cavalier{***}
+trp_qohor_horseman_pl|Qohor Cavaliers{***}
+trp_qohor_cavalry|Qohoric Cavalerie{***}
+trp_qohor_cavalry_pl|Qohor Cavalerie{***}
 trp_qohor_veteran_city_watch|Qohoric Vétéran City Watch{***}
 trp_qohor_veteran_city_watch_pl|Qohor Vétéran City Watchmen{***}
 trp_qohor_black_goat_warrior|Qohoric Black Goat Warrior{***}
@@ -902,10 +902,10 @@ trp_qohor_messenger|Qohoric Messager{***}
 trp_qohor_messenger_pl|Qohoric Messagers{***}
 trp_qohor_deserter|Qohoric Déserteur{***}
 trp_qohor_deserter_pl|Qohoric Déserteurs{***}
-trp_qohor_prison_guard|Qohoric Garde de prison{***}
-trp_qohor_prison_guard_pl|Qohoric Gardes de prison{***}
-trp_qohor_castle_guard|Qohoric Garde du château{***}
-trp_qohor_castle_guard_pl|Qohoric Gardes du château{***}
+trp_qohor_prison_guard|Qohoric Geôlier{***}
+trp_qohor_prison_guard_pl|Qohoric Geôliers{***}
+trp_qohor_castle_guard|Qohoric Garde{***}
+trp_qohor_castle_guard_pl|Qohoric Gardes{***}
 trp_volantine_peasant|Volantine Paysan{***}
 trp_volantine_peasant_pl|Volantine Paysan{***}
 trp_volantine_slave|Volantine Slave{***}
@@ -928,10 +928,10 @@ trp_volantine_fighter|Volantine Combattant{***}
 trp_volantine_fighter_pl|Volantine Combattants{***}
 trp_volantine_soldier|Volantine Soldat{***}
 trp_volantine_soldier_pl|Volantine Soldats{***}
-trp_volantine_horseman|Volantine Horseman{***}
-trp_volantine_horseman_pl|Volantine Horsemen{***}
-trp_volantine_cavalry|Volantine Cavalry{***}
-trp_volantine_cavalry_pl|Volantine Cavalry{***}
+trp_volantine_horseman|Volantine Cavalier{***}
+trp_volantine_horseman_pl|Volantine Cavaliers{***}
+trp_volantine_cavalry|Volantine Cavalerie{***}
+trp_volantine_cavalry_pl|Volantine Cavalerie{***}
 trp_volantine_hornman|Trompettiste{***}
 trp_volantine_hornman_pl|Trompettistes{***}
 trp_volantine_standard_bearer|Volantine Porte-étendard{***}
@@ -940,10 +940,10 @@ trp_volantine_messenger|Volantine Messager{***}
 trp_volantine_messenger_pl|Volantine Messagers{***}
 trp_volantine_deserter|Volantine Déserteur{***}
 trp_volantine_deserter_pl|Volantine Déserteurs{***}
-trp_volantine_prison_guard|Volantine Garde de prison{***}
-trp_volantine_prison_guard_pl|Volantine Gardes de prison{***}
-trp_volantine_castle_guard|Volantine Garde du château{***}
-trp_volantine_castle_guard_pl|Volantine Gardes du château{***}
+trp_volantine_prison_guard|Volantine Geôlier{***}
+trp_volantine_prison_guard_pl|Volantine Geôliers{***}
+trp_volantine_castle_guard|Volantine Garde{***}
+trp_volantine_castle_guard_pl|Volantine Gardes{***}
 trp_lys_peasant|Lyseni Paysan{***}
 trp_lys_peasant_pl|Lyseni Paysans{***}
 trp_lys_recruit|Lyseni Recrue{***}
@@ -954,14 +954,14 @@ trp_lys_archer|Lyseni Archer{***}
 trp_lys_archer_pl|Lyseni Archers{***}
 trp_lys_swordsman|Lyseni Swordsman{***}
 trp_lys_swordsman_pl|Lyseni Swordsmen{***}
-trp_lys_light_cavalry|Lyseni Light Cavalry{***}
-trp_lys_light_cavalry_pl|Lyseni Light Cavalry{***}
+trp_lys_light_cavalry|Lyseni Light Cavalerie{***}
+trp_lys_light_cavalry_pl|Lyseni Light Cavalerie{***}
 trp_lys_vet_archer|Lyseni Vétéran Archer{***}
 trp_lys_vet_archer_pl|Lyseni Vétéran Archer{***}
 trp_lys_sellsword|Lyseni Sellsword{***}
 trp_lys_sellsword_pl|Lyseni Sellswords{***}
-trp_lys_heavy_cavalry|Lyseni Cavalry{***}
-trp_lys_heavy_cavalry_pl|Lyseni Cavalry{***}
+trp_lys_heavy_cavalry|Lyseni Cavalerie{***}
+trp_lys_heavy_cavalry_pl|Lyseni Cavalerie{***}
 trp_lys_veteran_bowman|Lyseni Elite Archer{***}
 trp_lys_veteran_bowman_pl|Lyseni Elite Archers{***}
 trp_lys_hornman|Trompettiste{***}
@@ -972,10 +972,10 @@ trp_lys_messenger|Lysene Messager{***}
 trp_lys_messenger_pl|Lysene Messagers{***}
 trp_lys_deserter|Lysene Déserteur{***}
 trp_lys_deserter_pl|Lysene Déserteurs{***}
-trp_lys_prison_guard|Lysene Garde de prison{***}
-trp_lys_prison_guard_pl|Lysene Gardes de prison{***}
-trp_lys_castle_guard|Lysene Garde du château{***}
-trp_lys_castle_guard_pl|Lysene Gardes du château{***}
+trp_lys_prison_guard|Lysene Geôlier{***}
+trp_lys_prison_guard_pl|Lysene Geôliers{***}
+trp_lys_castle_guard|Lysene Garde{***}
+trp_lys_castle_guard_pl|Lysene Gardes{***}
 trp_myr_peasant|Myrish Paysan{***}
 trp_myr_peasant_pl|Myrish Paysans{***}
 trp_myr_standard_bearer|Myrish Porte-étendard{***}
@@ -984,18 +984,18 @@ trp_myr_messenger|Myrish Messager{***}
 trp_myr_messenger_pl|Myrish Messagers{***}
 trp_myr_deserter|Myrish Déserteur{***}
 trp_myr_deserter_pl|Myrish Déserteurs{***}
-trp_myr_prison_guard|Myrish Garde de prison{***}
-trp_myr_prison_guard_pl|Myrish Gardes de prison{***}
-trp_myr_castle_guard|Myrish Garde du château{***}
-trp_myr_castle_guard_pl|Myrish Gardes du château{***}
+trp_myr_prison_guard|Myrish Geôlier{***}
+trp_myr_prison_guard_pl|Myrish Geôliers{***}
+trp_myr_castle_guard|Myrish Garde{***}
+trp_myr_castle_guard_pl|Myrish Gardes{***}
 trp_pentoshi_peasant|Pentoshi Paysan{***}
 trp_pentoshi_peasant_pl|Pentoshi Paysans{***}
 trp_pentoshi_novice|Pentoshi Novice{***}
 trp_pentoshi_novice_pl|Pentoshi Novice{***}
 trp_pentoshi_civil_guard|Pentoshi Civil Guard{***}
 trp_pentoshi_civil_guard_pl|Pentoshi Civil Guards{***}
-trp_pentoshi_footman|Pentoshi Footman{***}
-trp_pentoshi_footman_pl|Pentoshi Footmen{***}
+trp_pentoshi_footman|Pentoshi Fantassin{***}
+trp_pentoshi_footman_pl|Pentoshi Fantassins{***}
 trp_pentoshi_archer|Pentoshi Archer{***}
 trp_pentoshi_archer_pl|Pentoshi Archers{***}
 trp_pentoshi_warrior|Pentoshi Warrior{***}
@@ -1018,10 +1018,10 @@ trp_pentos_messenger|Pentoshi Messager{***}
 trp_pentos_messenger_pl|Pentoshi Messagers{***}
 trp_pentos_deserter|Pentoshi Déserteur{***}
 trp_pentos_deserter_pl|Pentoshi Déserteurs{***}
-trp_pentos_prison_guard|Pentoshi Garde de prison{***}
-trp_pentos_prison_guard_pl|Pentoshi Gardes de prison{***}
-trp_pentos_castle_guard|Pentoshi Garde du château{***}
-trp_pentos_castle_guard_pl|Pentoshi Gardes du château{***}
+trp_pentos_prison_guard|Pentoshi Geôlier{***}
+trp_pentos_prison_guard_pl|Pentoshi Geôliers{***}
+trp_pentos_castle_guard|Pentoshi Garde{***}
+trp_pentos_castle_guard_pl|Pentoshi Gardes{***}
 trp_tyrosh_peasant|Tyroshi Paysan{***}
 trp_tyrosh_peasant_pl|Tyroshi Paysans{***}
 trp_tyroshi_slave|Tyroshi Slave{***}
@@ -1030,18 +1030,18 @@ trp_tyroshi_guard|Tyroshi Guard{***}
 trp_tyroshi_guard_pl|Tyroshi Guards{***}
 trp_tyroshi_archer|Tyroshi Archer{***}
 trp_tyroshi_archer_pl|Tyroshi Archers{***}
-trp_tyroshi_footman|Tyroshi Footman{***}
-trp_tyroshi_footman_pl|Tyroshi Footmen{***}
+trp_tyroshi_footman|Tyroshi Fantassin{***}
+trp_tyroshi_footman_pl|Tyroshi Fantassins{***}
 trp_tyrosh_standard_bearer|Tyroshi Porte-étendard{***}
 trp_tyrosh_standard_bearer_pl|Tyroshi Porte-étendards{***}
 trp_tyrosh_messenger|Tyroshi Messager{***}
 trp_tyrosh_messenger_pl|Tyroshi Messagers{***}
 trp_tyrosh_deserter|Tyroshi Déserteur{***}
 trp_tyrosh_deserter_pl|Tyroshi Déserteurs{***}
-trp_tyrosh_prison_guard|Tyroshi Garde de prison{***}
-trp_tyrosh_prison_guard_pl|Tyroshi Gardes de prison{***}
-trp_tyrosh_castle_guard|Tyroshi Garde du château{***}
-trp_tyrosh_castle_guard_pl|Tyroshi Gardes du château{***}
+trp_tyrosh_prison_guard|Tyroshi Geôlier{***}
+trp_tyrosh_prison_guard_pl|Tyroshi Geôliers{***}
+trp_tyrosh_castle_guard|Tyroshi Garde{***}
+trp_tyrosh_castle_guard_pl|Tyroshi Gardes{***}
 trp_lorath_peasant|Lorathi Paysan{***}
 trp_lorath_peasant_pl|Lorathi Paysans{***}
 trp_lorath_standard_bearer|Lorathi Porte-étendard{***}
@@ -1050,10 +1050,10 @@ trp_lorath_messenger|Lorathi Messager{***}
 trp_lorath_messenger_pl|Lorathi Messagers{***}
 trp_lorath_deserter|Lorathi Déserteur{***}
 trp_lorath_deserter_pl|Lorathi Déserteurs{***}
-trp_lorath_prison_guard|Lorathi Garde de prison{***}
-trp_lorath_prison_guard_pl|Lorathi Gardes de prison{***}
-trp_lorath_castle_guard|Lorathi Garde du château{***}
-trp_lorath_castle_guard_pl|Lorathi Gardes du château{***}
+trp_lorath_prison_guard|Lorathi Geôlier{***}
+trp_lorath_prison_guard_pl|Lorathi Geôliers{***}
+trp_lorath_castle_guard|Lorathi Garde{***}
+trp_lorath_castle_guard_pl|Lorathi Gardes{***}
 trp_red_initiate|Red Initiate{***}
 trp_red_initiate_pl|Red Initiates{***}
 trp_red_worshiper|Red Adorateur{***}
@@ -1104,10 +1104,10 @@ trp_hill_tribesman2|Moon Brother{***}
 trp_hill_tribesman2_pl|Moon Brothers{***}
 trp_ironborn_pirate|Ironman Pirate{***}
 trp_ironborn_pirate_pl|Ironmen Pirates{***}
-trp_northern_clansman|du Nord Clansman{***}
-trp_northern_clansman_pl|du Nord Clansmen{***}
-trp_northern_clansman_hardened|du Nord Clansman Champion{***}
-trp_northern_clansman_hardened_pl|du Nord Clansmen Champions{***}
+trp_northern_clansman|Nord Clansman{***}
+trp_northern_clansman_pl|Nord Clansmen{***}
+trp_northern_clansman_hardened|Nord Clansman Champion{***}
+trp_northern_clansman_hardened_pl|Nord Clansmen Champions{***}
 trp_sea_raider_leader3|Ship Capitaine
 trp_sea_raider_leader3_pl|Ship Capitaines
 trp_sea_raider_leader4|Ship Capitaine
@@ -1116,8 +1116,8 @@ trp_sea_raider_leader2|Ironman Capitaine
 trp_sea_raider_leader2_pl|Ironmen Capitaines
 trp_looter_leader2|Bandit Leader{***}
 trp_looter_leader2_pl|Bandit Leaders{***}
-trp_northern_clansman_leader|du Nord Clansman Chief{***}
-trp_northern_clansman_leader_pl|du Nord Clansman Chiefs{***}
+trp_northern_clansman_leader|Nord Clansman Chief{***}
+trp_northern_clansman_leader_pl|Nord Clansman Chiefs{***}
 trp_exiled_knight_leader|Robber Chevalier Capitaine
 trp_exiled_knight_leader_pl|Robber Chevalier Capitaines
 trp_dothraki_raider_khal|Dothraki raiding khal{***}
@@ -1126,10 +1126,10 @@ trp_dothraki_raider_bloodrider|Dothraki bloodrider{***}
 trp_dothraki_raider_bloodrider_pl|Dothraki bloodriders{***}
 trp_slaver_infantry|Slaver{***}
 trp_slaver_infantry_pl|Slavers{***}
-trp_slaver_infantry2|Slaver Spearman{***}
-trp_slaver_infantry2_pl|Slaver Spearmen{***}
-trp_slaver_camel_rider|Slaver Camel Rider{***}
-trp_slaver_camel_rider_pl|Slaver Camel Riders{***}
+trp_slaver_infantry2|Slaver Lancier{***}
+trp_slaver_infantry2_pl|Slaver Lanciers{***}
+trp_slaver_camel_rider|Slaver Camel Coureur{***}
+trp_slaver_camel_rider_pl|Slaver Camel Coureurs{***}
 trp_slaver_camel_rider2|Slaver Leader{***}
 trp_slaver_camel_rider2_pl|Slaver Leaders{***}
 trp_night_king|Night King{***}
@@ -1184,8 +1184,8 @@ trp_refugeedruid|Refugee{***}
 trp_refugeedruid_pl|Refugees{***}
 trp_peasant_womandruid|Paysan Woman{***}
 trp_peasant_womandruid_pl|Paysan Women{***}
-trp_farmerdruid|Farmer{***}
-trp_farmerdruid_pl|Farmers{***}
+trp_farmerdruid|Fermier{***}
+trp_farmerdruid_pl|Fermiers{***}
 trp_prisionerdruid|Prisoner{***}
 trp_prisionerdruid_pl|Prisoners{***}
 trp_quarry_trabajador|Worker{***}
@@ -1218,8 +1218,8 @@ trp_town_walker_9|Dothraki{***}
 trp_town_walker_9_pl|Dothraki{***}
 trp_town_walker_10|Dothraki{***}
 trp_town_walker_10_pl|Dothraki{***}
-trp_town_walker_11|Townsman{***}
-trp_town_walker_11_pl|Townsmen{***}
+trp_town_walker_11|Citadin{***}
+trp_town_walker_11_pl|Citadins{***}
 trp_town_walker_12|Townswoman{***}
 trp_town_walker_12_pl|Townswomen{***}
 trp_town_walker_13|Paysan{***}
@@ -1522,16 +1522,16 @@ trp_doran_martell|Doran Martell{***}
 trp_doran_martell_pl|Doran Martell{***}
 trp_ellaria_sand|Ellaria Sand{***}
 trp_ellaria_sand_pl|Ellaria Sand{***}
-trp_agent_of_varys|Townsman{***}
-trp_agent_of_varys_pl|Townsmen{***}
+trp_agent_of_varys|Citadin{***}
+trp_agent_of_varys_pl|Citadins{***}
 trp_varys_spy|Alfred{***}
 trp_varys_spy_pl|Alfred{***}
 trp_varys_spy_partner|Petyr{***}
 trp_varys_spy_partner_pl|Petyr{***}
-trp_illyrio_unsullied|Unsullied{***}
-trp_illyrio_unsullied_pl|Unsullied{***}
-trp_westerlands_foot_soldier_tied|Westerlands Soldat à pied{***}
-trp_westerlands_foot_soldier_tied_pl|Westerlands Soldats à pied{***}
+trp_illyrio_unsullied|Immaculés{***}
+trp_illyrio_unsullied_pl|Immaculés{***}
+trp_westerlands_foot_soldier_tied|Westerlands Fantassin{***}
+trp_westerlands_foot_soldier_tied_pl|Westerlands Fantassins{***}
 trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin{***}
 trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin{***}
 trp_npc1|Syrio Forel{***}
@@ -1590,828 +1590,828 @@ trp_son|Son{***}
 trp_son_pl|Son{***}
 trp_daughter|Daughter{***}
 trp_daughter_pl|Daughter{***}
-trp_fat_son|Sam{***}
-trp_fat_son_pl|Sam{***}
-trp_kingdom_1_lord|Lady Lysa Arryn{***}
-trp_kingdom_1_lord_pl|Lysa Aryyn{***}
-trp_kingdom_2_lord|King Stannis Baratheon{***}
-trp_kingdom_2_lord_pl|Stannis Baratheon{***}
-trp_kingdom_3_lord|High Magister Quarro{***}
-trp_kingdom_3_lord_pl|High Magister Quarro{***}
-trp_kingdom_4_lord|Seigneur Robb Stark{***}
-trp_kingdom_4_lord_pl|Robb Stark{***}
-trp_kingdom_5_lord|Seigneur Paramount Edmure Tully{***}
-trp_kingdom_5_lord_pl|Edmure Tully{***}
-trp_kingdom_6_lord|Seigneur Paramount Mace Tyrell{***}
-trp_kingdom_6_lord_pl|Mace Tyrell{***}
-trp_kingdom_7_lord|Sealord Ferrego Antaryon{***}
-trp_kingdom_7_lord_pl|Ferrego Antaryon{***}
-trp_kingdom_8_lord|King Balon Greyjoy{***}
-trp_kingdom_8_lord_pl|Balon Greyjoy{***}
-trp_kingdom_9_lord|Prince Doran Martell{***}
-trp_kingdom_9_lord_pl|Doran Martell{***}
-trp_kingdom_10_lord|Seigneur Commander Jeor Mormont{***}
-trp_kingdom_10_lord_pl|Jeor Mormont{***}
-trp_kingdom_11_lord|Mance Rayder{***}
-trp_kingdom_11_lord_pl|Mance Rayder{***}
-trp_kingdom_12_lord|Khal Pono{***}
-trp_kingdom_12_lord_pl|Khal Pono{***}
-trp_kingdom_13_lord|Prince Tregar Moharis{***}
-trp_kingdom_13_lord_pl|Prince Tregar Moharis{***}
-trp_kingdom_14_lord|King Aegon Targaryen{***}
-trp_kingdom_14_lord_pl|Aegon Targaryen{***}
-trp_kingdom_14_1_lord|Queen Daenerys Targaryen{***}
-trp_kingdom_14_1_lord_pl|Queen Daenerys Targaryen{***}
-trp_kingdom_15_lord|Magister Ferrego Drahar{***}
-trp_kingdom_15_lord_pl|Magister Ferrego Drahar{***}
-trp_kingdom_16_lord|Archon Alegro Tumitus{***}
-trp_kingdom_16_lord_pl|Archon Alegro Tumitus{***}
-trp_kingdom_17_lord|Prince Adaros Aloran{***}
-trp_kingdom_17_lord_pl|Prince Adaros Aloran{***}
-trp_kingdom_18_lord|Seigneur Paramount Tywin Lannister{***}
-trp_kingdom_18_lord_pl|Seigneur Paramount Tywin Lannister{***}
-trp_kingdom_19_lord|Magister Tregar Ormollen{***}
-trp_kingdom_19_lord_pl|Magister Tregar Ormollen{***}
-trp_kingdom_20_lord|King Orea Talordis{***}
-trp_kingdom_20_lord_pl|King Orea Talordis{***}
-trp_kingdom_21_lord|Triarch Malaquo Maegyr{***}
-trp_kingdom_21_lord_pl|Triarch Malaquo Maegyr{***}
-trp_kingdom_22_lord|King Renly Baratheon{***}
-trp_kingdom_22_lord_pl|Renly Baratheon{***}
-trp_knight_1_1|Seigneur Lyonel Corbray{***}
-trp_knight_1_1_pl|Lyonel Corbray{***}
-trp_knight_1_2|Seigneur Triston Sunderland{***}
-trp_knight_1_2_pl|Triston Sunderland{***}
-trp_knight_1_3|Seigneur Gerold Grafton{***}
-trp_knight_1_3_pl|Gerold Grafton{***}
-trp_knight_1_4|Chevalier of the Gate Donnel Waynwood{***}
-trp_knight_1_4_pl|Donnel Waynwood{***}
-trp_knight_1_5|Seigneur Benedar Belmore{***}
-trp_knight_1_5_pl|Benedar Belmore{***}
-trp_knight_1_6|Seigneur Eon Hunter{***}
-trp_knight_1_6_pl|Eon Hunter{***}
-trp_knight_1_7|Seigneur Yohn Royce{***}
-trp_knight_1_7_pl|Yohn Royce{***}
-trp_knight_1_8|Seigneur Royce Coldwater{***}
-trp_knight_1_8_pl|Royce Coldwater{***}
-trp_knight_1_9|Lady Anya Waynwood{***}
-trp_knight_1_9_pl|Lady Anya Waynwood{***}
-trp_knight_1_10|Seigneur Horton Redfort{***}
-trp_knight_1_10_pl|Seigneur Horton Redfort{***}
-trp_knight_1_11|Ser Edmund Waxley{***}
-trp_knight_1_11_pl|Ser Edmund Waxley{***}
-trp_knight_1_12|Seigneur Jon Lynderly{***}
-trp_knight_1_12_pl|Seigneur Jon Lynderly{***}
-trp_knight_2_1|Ser Davos Seaworth{***}
-trp_knight_2_1_pl|Davos Seaworth{***}
-trp_knight_2_2|Seigneur Durham Bar Emmon{***}
-trp_knight_2_2_pl|Duram Bar Emmon{***}
-trp_knight_2_3|Seigneur Axell Florent{***}
-trp_knight_2_3_pl|Seigneur Axell Florent{***}
-trp_knight_2_4|Ser Justin Massey{***}
-trp_knight_2_4_pl|Ser Justin Massey{***}
-trp_knight_2_5|Seigneur Monford Velaryon{***}
-trp_knight_2_5_pl|Seigneur Monford Velaryon{***}
-trp_knight_2_6|Ser Richard Horpe{***}
-trp_knight_2_6_pl|Ser Richard Horpe{***}
-trp_knight_2_7|Seigneur Harwood Fells{***}
-trp_knight_2_7_pl|Seigneur Harwood Fells{***}
-trp_knight_3_1|Magister Daario Valer{***}
-trp_knight_3_1_pl|Magister Daario Valer{***}
-trp_knight_3_2|Magister Moreo Hortyr{***}
-trp_knight_3_2_pl|Magister Moreo Hortyr{***}
-trp_knight_3_3|Magister Denyo Notarys{***}
-trp_knight_3_3_pl|Magister Denyo Notarys{***}
-trp_knight_4_1|Seigneur Jon Umber{***}
-trp_knight_4_1_pl|GreatJon Umber{***}
-trp_knight_4_2|Seigneur Galbart Glover{***}
-trp_knight_4_2_pl|Galbart Glover{***}
-trp_knight_4_3|Seigneur Rickard Karstark{***}
-trp_knight_4_3_pl|Rickard Karstark{***}
-trp_knight_4_4|Seigneur Roose Bolton{***}
-trp_knight_4_4_pl|Roose Bolton{***}
-trp_knight_4_5|Seigneur Helman Tallhart{***}
-trp_knight_4_5_pl|Helman Tallhart{***}
-trp_knight_4_6|Lady Maege Mormont{***}
-trp_knight_4_6_pl|Maege Mormont{***}
-trp_knight_4_7|Seigneur Wyman Manderly{***}
-trp_knight_4_7_pl|Wyman Manderly{***}
-trp_knight_4_8|Seigneur Medger Cerwyn{***}
-trp_knight_4_8_pl|Seigneur Medger Cerwyn{***}
-trp_knight_4_9|Seigneur Robin Flint{***}
-trp_knight_4_9_pl|Seigneur Robin Flint{***}
-trp_knight_4_10|Lady Lyessa Flint{***}
-trp_knight_4_10_pl|Lady Lyessa Flint{***}
-trp_knight_4_11|Seigneur Halys Hornwood{***}
-trp_knight_4_11_pl|Seigneur Halys Hornwood{***}
-trp_knight_4_12|Lady Barbrey Dustin{***}
-trp_knight_4_12_pl|Lady Barbrey Dustin{***}
-trp_knight_4_13|Seigneur Howland Reed{***}
-trp_knight_4_13_pl|Seigneur Howland Reed{***}
-trp_knight_4_14|Seigneur Ondrew Locke{***}
-trp_knight_4_14_pl|Seigneur Ondrew Locke{***}
-trp_knight_4_15|Ser Marlon Manderly{***}
-trp_knight_4_15_pl|Ser Marlon Manderly{***}
-trp_knight_5_1|Seigneur Brynden Tully{***}
-trp_knight_5_1_pl|Brynden Tully{***}
-trp_knight_5_2|Ser Walder Frey{***}
-trp_knight_5_2_pl|Walder Frey{***}
-trp_knight_5_3|Seigneur Jason Mallister{***}
-trp_knight_5_3_pl|Jason Mallister{***}
-trp_knight_5_4|Seigneur Jonos Bracken{***}
-trp_knight_5_4_pl|Jonos Bracken{***}
-trp_knight_5_5|Seigneur Tytos Blackwood{***}
-trp_knight_5_5_pl|Tytos Blackwood{***}
-trp_knight_5_6|Seigneur William Mooton{***}
-trp_knight_5_6_pl|William Mooton{***}
-trp_knight_5_7|Ser Halmon Paege{***}
-trp_knight_5_7_pl|Ser Halmon Paege{***}
-trp_knight_5_8|Ser Quincy Cox{***}
-trp_knight_5_8_pl|Ser Quincy Cox{***}
-trp_knight_5_9|Seigneur Clement Piper{***}
-trp_knight_5_9_pl|Seigneur Clement Piper{***}
-trp_knight_5_10|Seigneur Theomar Smallwood{***}
-trp_knight_5_10_pl|Seigneur Theomar Smallwood{***}
-trp_knight_5_11|Seigneur Karyl Vance{***}
-trp_knight_5_11_pl|Seigneur Karyl Vance{***}
-trp_knight_6_1|Seigneur Paxter Redwyne{***}
-trp_knight_6_1_pl|Paxter Redwyne{***}
-trp_knight_6_2|Seigneur Elwood Meadows{***}
-trp_knight_6_2_pl|Seigneur Elwood Meadows{***}
-trp_knight_6_3|Seigneur Leyton Hightower{***}
-trp_knight_6_3_pl|Old Man of Hightower{***}
-trp_knight_6_4|Seigneur Dontos Footly{***}
-trp_knight_6_4_pl|Seigneur Dontos Footly{***}
-trp_knight_6_6|Seigneur Leo Ashford{***}
-trp_knight_6_6_pl|Seigneur Leo Ashford{***}
-trp_knight_6_7|Seigneur Randyll Tarly{***}
-trp_knight_6_7_pl|Randyll Tarly{***}
-trp_knight_6_8|Seigneur Mathis Rowan{***}
-trp_knight_6_8_pl|Seigneur Mathis Rowan{***}
-trp_knight_6_9|Seigneur Lorent Caswell{***}
-trp_knight_6_9_pl|Seigneur Lorent Caswell{***}
-trp_knight_6_10|Ser Garlan Tyrell{***}
-trp_knight_6_10_pl|Garlan Tyrell{***}
-trp_knight_6_11|Seigneur Guthor Grimm{***}
-trp_knight_6_11_pl|Guthor Grimm{***}
-trp_knight_6_12|Seigneur Warryn Beesbury{***}
-trp_knight_6_12_pl|Seigneur Warryn Beesbury{***}
-trp_knight_6_13|Ser Leo Blackbar{***}
-trp_knight_6_13_pl|Ser Leo Blackbar{***}
-trp_knight_6_14|Lady Arwyn Oakheart{***}
-trp_knight_6_14_pl|Lady Arwyn Oakheart{***}
-trp_knight_6_15|Ser Rycherd Crane{***}
-trp_knight_6_15_pl|Ser Rycherd Crane{***}
-trp_knight_6_16|Seigneur Branston Cuy{***}
-trp_knight_6_16_pl|Seigneur Branston Cuy{***}
-trp_knight_6_17|Seigneur Tommen Costayne{***}
-trp_knight_6_17_pl|Seigneur Tommen Costayne{***}
-trp_knight_6_18|Seigneur Orton Merryweather{***}
-trp_knight_6_18_pl|Seigneur Orton Merryweather{***}
-trp_knight_6_20|Lady Alysanne Bulwer{***}
-trp_knight_6_20_pl|Lady Alysanne Bulwer{***}
-trp_knight_7_1|First Sword Qarro Volentin{***}
-trp_knight_7_1_pl|First Sword Qarro Volentin{***}
-trp_knight_7_2|Seigneur Master Tormo Fregar{***}
-trp_knight_7_2_pl|Seigneur Master Tormo Fregar{***}
-trp_knight_8_1|Seigneur Rodrik Harlaw{***}
-trp_knight_8_1_pl|Rodrik the Reader{***}
-trp_knight_8_2|Seigneur Gorold Goodbrother{***}
-trp_knight_8_2_pl|The Goodbrother{***}
-trp_knight_8_3|Seigneur Waldon Wynch{***}
+trp_fat_son|Sam
+trp_fat_son_pl|Sam
+trp_kingdom_1_lord|Dame Lysa Arryn
+trp_kingdom_1_lord_pl|Lysa Aryyn
+trp_kingdom_2_lord|Roi Stannis Baratheon
+trp_kingdom_2_lord_pl|Stannis Baratheon
+trp_kingdom_3_lord|Haut Magistrat Quarro
+trp_kingdom_3_lord_pl|Haut Magistrat Quarro
+trp_kingdom_4_lord|Seigneur Robb Stark
+trp_kingdom_4_lord_pl|Robb Stark
+trp_kingdom_5_lord|Seigneur Paramount Edmure Tully
+trp_kingdom_5_lord_pl|Edmure Tully
+trp_kingdom_6_lord|Seigneur Paramount Mace Tyrell
+trp_kingdom_6_lord_pl|Mace Tyrell
+trp_kingdom_7_lord|Sealord Ferrego Antaryon
+trp_kingdom_7_lord_pl|Ferrego Antaryon
+trp_kingdom_8_lord|Roi Balon Greyjoy
+trp_kingdom_8_lord_pl|Balon Greyjoy
+trp_kingdom_9_lord|Prince Doran Martell
+trp_kingdom_9_lord_pl|Doran Martell
+trp_kingdom_10_lord|Seigneur Commandant Jeor Mormont
+trp_kingdom_10_lord_pl|Jeor Mormont
+trp_kingdom_11_lord|Mance Rayder
+trp_kingdom_11_lord_pl|Mance Rayder
+trp_kingdom_12_lord|Khal Pono
+trp_kingdom_12_lord_pl|Khal Pono
+trp_kingdom_13_lord|Prince Tregar Moharis
+trp_kingdom_13_lord_pl|Prince Tregar Moharis
+trp_kingdom_14_lord|Roi Aegon Targaryen
+trp_kingdom_14_lord_pl|Aegon Targaryen
+trp_kingdom_14_1_lord|Reine Daenerys Targaryen
+trp_kingdom_14_1_lord_pl|Reine Daenerys Targaryen
+trp_kingdom_15_lord|Magistrat Ferrego Drahar
+trp_kingdom_15_lord_pl|Magistrat Ferrego Drahar
+trp_kingdom_16_lord|Archon Alegro Tumitus
+trp_kingdom_16_lord_pl|Archon Alegro Tumitus
+trp_kingdom_17_lord|Prince Adaros Aloran
+trp_kingdom_17_lord_pl|Prince Adaros Aloran
+trp_kingdom_18_lord|Seigneur Paramount Tywin Lannister
+trp_kingdom_18_lord_pl|Seigneur Paramount Tywin Lannister
+trp_kingdom_19_lord|Magistrat Tregar Ormollen
+trp_kingdom_19_lord_pl|Magistrat Tregar Ormollen
+trp_kingdom_20_lord|Roi Orea Talordis
+trp_kingdom_20_lord_pl|Roi Orea Talordis
+trp_kingdom_21_lord|Triarque Malaquo Maegyr
+trp_kingdom_21_lord_pl|Triarque Malaquo Maegyr
+trp_kingdom_22_lord|Roi Renly Baratheon
+trp_kingdom_22_lord_pl|Renly Baratheon
+trp_knight_1_1|Seigneur Lyonel Corbray
+trp_knight_1_1_pl|Lyonel Corbray
+trp_knight_1_2|Seigneur Triston Sunderland
+trp_knight_1_2_pl|Triston Sunderland
+trp_knight_1_3|Seigneur Gerold Grafton
+trp_knight_1_3_pl|Gerold Grafton
+trp_knight_1_4|Chevalier of the Gate Donnel Waynwood
+trp_knight_1_4_pl|Donnel Waynwood
+trp_knight_1_5|Seigneur Benedar Belmore
+trp_knight_1_5_pl|Benedar Belmore
+trp_knight_1_6|Seigneur Eon Hunter
+trp_knight_1_6_pl|Eon Hunter
+trp_knight_1_7|Seigneur Yohn Royce
+trp_knight_1_7_pl|Yohn Royce
+trp_knight_1_8|Seigneur Royce Coldwater
+trp_knight_1_8_pl|Royce Coldwater
+trp_knight_1_9|Dame Anya Waynwood
+trp_knight_1_9_pl|Dame Anya Waynwood
+trp_knight_1_10|Seigneur Horton Redfort
+trp_knight_1_10_pl|Seigneur Horton Redfort
+trp_knight_1_11|Ser Edmund Waxley
+trp_knight_1_11_pl|Ser Edmund Waxley
+trp_knight_1_12|Seigneur Jon Lynderly
+trp_knight_1_12_pl|Seigneur Jon Lynderly
+trp_knight_2_1|Ser Davos Seaworth
+trp_knight_2_1_pl|Davos Seaworth
+trp_knight_2_2|Seigneur Durham Bar Emmon
+trp_knight_2_2_pl|Duram Bar Emmon
+trp_knight_2_3|Seigneur Axell Florent
+trp_knight_2_3_pl|Seigneur Axell Florent
+trp_knight_2_4|Ser Justin Massey
+trp_knight_2_4_pl|Ser Justin Massey
+trp_knight_2_5|Seigneur Monford Velaryon
+trp_knight_2_5_pl|Seigneur Monford Velaryon
+trp_knight_2_6|Ser Richard Horpe
+trp_knight_2_6_pl|Ser Richard Horpe
+trp_knight_2_7|Seigneur Harwood Fells
+trp_knight_2_7_pl|Seigneur Harwood Fells
+trp_knight_3_1|Magistrat Daario Valer
+trp_knight_3_1_pl|Magistrat Daario Valer
+trp_knight_3_2|Magistrat Moreo Hortyr
+trp_knight_3_2_pl|Magistrat Moreo Hortyr
+trp_knight_3_3|Magistrat Denyo Notarys
+trp_knight_3_3_pl|Magistrat Denyo Notarys
+trp_knight_4_1|Seigneur Jon Umber
+trp_knight_4_1_pl|GreatJon Umber
+trp_knight_4_2|Seigneur Galbart Glover
+trp_knight_4_2_pl|Galbart Glover
+trp_knight_4_3|Seigneur Rickard Karstark
+trp_knight_4_3_pl|Rickard Karstark
+trp_knight_4_4|Seigneur Roose Bolton
+trp_knight_4_4_pl|Roose Bolton
+trp_knight_4_5|Seigneur Helman Tallhart
+trp_knight_4_5_pl|Helman Tallhart
+trp_knight_4_6|Dame Maege Mormont
+trp_knight_4_6_pl|Maege Mormont
+trp_knight_4_7|Seigneur Wyman Manderly
+trp_knight_4_7_pl|Wyman Manderly
+trp_knight_4_8|Seigneur Medger Cerwyn
+trp_knight_4_8_pl|Seigneur Medger Cerwyn
+trp_knight_4_9|Seigneur Robin Flint
+trp_knight_4_9_pl|Seigneur Robin Flint
+trp_knight_4_10|Dame Lyessa Flint
+trp_knight_4_10_pl|Dame Lyessa Flint
+trp_knight_4_11|Seigneur Halys Hornwood
+trp_knight_4_11_pl|Seigneur Halys Hornwood
+trp_knight_4_12|Dame Barbrey Dustin
+trp_knight_4_12_pl|Dame Barbrey Dustin
+trp_knight_4_13|Seigneur Howland Reed
+trp_knight_4_13_pl|Seigneur Howland Reed
+trp_knight_4_14|Seigneur Ondrew Locke
+trp_knight_4_14_pl|Seigneur Ondrew Locke
+trp_knight_4_15|Ser Marlon Manderly
+trp_knight_4_15_pl|Ser Marlon Manderly
+trp_knight_5_1|Seigneur Brynden Tully
+trp_knight_5_1_pl|Brynden Tully
+trp_knight_5_2|Ser Walder Frey
+trp_knight_5_2_pl|Walder Frey
+trp_knight_5_3|Seigneur Jason Mallister
+trp_knight_5_3_pl|Jason Mallister
+trp_knight_5_4|Seigneur Jonos Bracken
+trp_knight_5_4_pl|Jonos Bracken
+trp_knight_5_5|Seigneur Tytos Blackwood
+trp_knight_5_5_pl|Tytos Blackwood
+trp_knight_5_6|Seigneur William Mooton
+trp_knight_5_6_pl|William Mooton
+trp_knight_5_7|Ser Halmon Paege
+trp_knight_5_7_pl|Ser Halmon Paege
+trp_knight_5_8|Ser Quincy Cox
+trp_knight_5_8_pl|Ser Quincy Cox
+trp_knight_5_9|Seigneur Clement Piper
+trp_knight_5_9_pl|Seigneur Clement Piper
+trp_knight_5_10|Seigneur Theomar Smallwood
+trp_knight_5_10_pl|Seigneur Theomar Smallwood
+trp_knight_5_11|Seigneur Karyl Vance
+trp_knight_5_11_pl|Seigneur Karyl Vance
+trp_knight_6_1|Seigneur Paxter Redwyne
+trp_knight_6_1_pl|Paxter Redwyne
+trp_knight_6_2|Seigneur Elwood Meadows
+trp_knight_6_2_pl|Seigneur Elwood Meadows
+trp_knight_6_3|Seigneur Leyton Hightower
+trp_knight_6_3_pl|Old Man of Hightower
+trp_knight_6_4|Seigneur Dontos Footly
+trp_knight_6_4_pl|Seigneur Dontos Footly
+trp_knight_6_6|Seigneur Leo Ashford
+trp_knight_6_6_pl|Seigneur Leo Ashford
+trp_knight_6_7|Seigneur Randyll Tarly
+trp_knight_6_7_pl|Randyll Tarly
+trp_knight_6_8|Seigneur Mathis Rowan
+trp_knight_6_8_pl|Seigneur Mathis Rowan
+trp_knight_6_9|Seigneur Lorent Caswell
+trp_knight_6_9_pl|Seigneur Lorent Caswell
+trp_knight_6_10|Ser Garlan Tyrell
+trp_knight_6_10_pl|Garlan Tyrell
+trp_knight_6_11|Seigneur Guthor Grimm
+trp_knight_6_11_pl|Guthor Grimm
+trp_knight_6_12|Seigneur Warryn Beesbury
+trp_knight_6_12_pl|Seigneur Warryn Beesbury
+trp_knight_6_13|Ser Leo Blackbar
+trp_knight_6_13_pl|Ser Leo Blackbar
+trp_knight_6_14|Dame Arwyn Oakheart
+trp_knight_6_14_pl|Dame Arwyn Oakheart
+trp_knight_6_15|Ser Rycherd Crane
+trp_knight_6_15_pl|Ser Rycherd Crane
+trp_knight_6_16|Seigneur Branston Cuy
+trp_knight_6_16_pl|Seigneur Branston Cuy
+trp_knight_6_17|Seigneur Tommen Costayne
+trp_knight_6_17_pl|Seigneur Tommen Costayne
+trp_knight_6_18|Seigneur Orton Merryweather
+trp_knight_6_18_pl|Seigneur Orton Merryweather
+trp_knight_6_20|Dame Alysanne Bulwer
+trp_knight_6_20_pl|Dame Alysanne Bulwer
+trp_knight_7_1|Première épée Qarro Volentin
+trp_knight_7_1_pl|Première épée Qarro Volentin
+trp_knight_7_2|Seigneur Master Tormo Fregar
+trp_knight_7_2_pl|Seigneur Master Tormo Fregar
+trp_knight_8_1|Seigneur Rodrik Harlaw
+trp_knight_8_1_pl|Rodrik the Reader
+trp_knight_8_2|Seigneur Gorold Bonfrère
+trp_knight_8_2_pl|The Bonfrère{***}
+trp_knight_8_3|Seigneur Waldon Wynch
 trp_knight_8_3_pl|The Wynch{***}
-trp_knight_8_4|Seigneur Meldred Merlyn{***}
+trp_knight_8_4|Seigneur Meldred Merlyn
 trp_knight_8_4_pl|The Merlyn{***}
-trp_knight_8_5|Captain Asha Greyjoy{***}
-trp_knight_8_5_pl|Captain Asha Greyjoy{***}
-trp_knight_8_6|Seigneur Sawane Botley{***}
-trp_knight_8_6_pl|Seigneur Sawane Botley{***}
-trp_knight_8_7|Seigneur Dunstan Drumm{***}
-trp_knight_8_7_pl|Seigneur Dunstan Drumm{***}
-trp_knight_9_1|Seigneur Edric Dayne{***}
-trp_knight_9_1_pl|Seigneur Edric Dayne{***}
-trp_knight_9_2|Seigneur Anders Yronwood{***}
+trp_knight_8_5|Captain Asha Greyjoy
+trp_knight_8_5_pl|Captain Asha Greyjoy
+trp_knight_8_6|Seigneur Sawane Botley
+trp_knight_8_6_pl|Seigneur Sawane Botley
+trp_knight_8_7|Seigneur Dunstan Drumm
+trp_knight_8_7_pl|Seigneur Dunstan Drumm
+trp_knight_9_1|Seigneur Edric Dayne
+trp_knight_9_1_pl|Seigneur Edric Dayne
+trp_knight_9_2|Seigneur Anders Yronwood
 trp_knight_9_2_pl|the Bloodroyal{***}
-trp_knight_9_3|Seigneur Tremond Gargalen{***}
-trp_knight_9_3_pl|Tremond Gargalen{***}
-trp_knight_9_4|Seigneur Trebor Jordayne{***}
-trp_knight_9_4_pl|Trebor Jordayne{***}
-trp_knight_9_5|Seigneur Harmen Uller{***}
-trp_knight_9_5_pl|Harmen Uller{***}
-trp_knight_9_6|Seigneur Franklyn Fowler{***}
+trp_knight_9_3|Seigneur Tremond Gargalen
+trp_knight_9_3_pl|Tremond Gargalen
+trp_knight_9_4|Seigneur Trebor Jordayne
+trp_knight_9_4_pl|Trebor Jordayne
+trp_knight_9_5|Seigneur Harmen Uller
+trp_knight_9_5_pl|Harmen Uller
+trp_knight_9_6|Seigneur Franklyn Fowler
 trp_knight_9_6_pl|The Old Hawk{***}
-trp_knight_9_7|Prince Oberyn Martell{***}
-trp_knight_9_7_pl|Prince Oberyn Martell{***}
-trp_knight_9_8|Seigneur Daeron Vaith{***}
-trp_knight_9_8_pl|Seigneur Daeron Vaith{***}
-trp_knight_9_9|Lady Larra Blackmont{***}
-trp_knight_9_9_pl|Lady Larra Blackmont{***}
-trp_knight_9_10|Ser Dezeil Dalt{***}
-trp_knight_9_10_pl|Ser Dezeil Dalt{***}
-trp_knight_9_11|Ser Gerold Dayne{***}
-trp_knight_9_11_pl|Ser Gerold Darkstar Dayne{***}
-trp_knight_9_12|Seigneur Deryn Drinkwater{***}
-trp_knight_9_12_pl|Seigneur Deryn Drinkwater{***}
-trp_knight_9_13|Seigneur Dagos Manwoody{***}
-trp_knight_9_13_pl|Seigneur Dagos Manwoody{***}
-trp_knight_9_14|Seigneur Quentyn Qorgyle{***}
-trp_knight_9_14_pl|Seigneur Quentyn Qorgyle{***}
-trp_knight_9_15|Lady Nymella Toland{***}
-trp_knight_9_15_pl|Lady Nymella Toland{***}
-trp_knight_9_16|Seigneur Edmynd Wyl{***}
-trp_knight_9_16_pl|Seigneur Edmynd Wyl{***}
-trp_knight_10_1|Qhorin Halfhand{***}
-trp_knight_10_1_pl|Qhorin Halfhand{***}
-trp_knight_10_2|Cotter Pyke{***}
-trp_knight_10_2_pl|Cotter Pyke{***}
-trp_knight_10_3|Ser Denys Mallister{***}
-trp_knight_10_3_pl|Ser Denys Mallister{***}
-trp_knight_10_4|Mallador Locke{***}
-trp_knight_10_4_pl|Mallador Locke{***}
-trp_knight_10_5|Jarmen Buckwell{***}
-trp_knight_10_5_pl|Jarmen Buckwell{***}
-trp_knight_11_1|Tormund{***}
-trp_knight_11_1_pl|Tormund Giantsbane{***}
-trp_knight_11_2|Seigneur of Bones{***}
-trp_knight_11_2_pl|Rattleshirt{***}
-trp_knight_11_4|Styr Magnar{***}
-trp_knight_11_4_pl|Styr Magnar{***}
-trp_knight_11_5|Harma Dogshead{***}
-trp_knight_11_5_pl|Harma Dogshead{***}
+trp_knight_9_7|Prince Oberyn Martell
+trp_knight_9_7_pl|Prince Oberyn Martell
+trp_knight_9_8|Seigneur Daeron Vaith
+trp_knight_9_8_pl|Seigneur Daeron Vaith
+trp_knight_9_9|Dame Larra Blackmont
+trp_knight_9_9_pl|Dame Larra Blackmont
+trp_knight_9_10|Ser Dezeil Dalt
+trp_knight_9_10_pl|Ser Dezeil Dalt
+trp_knight_9_11|Ser Gerold Dayne
+trp_knight_9_11_pl|Ser Gerold Darkstar Dayne
+trp_knight_9_12|Seigneur Deryn Drinkwater
+trp_knight_9_12_pl|Seigneur Deryn Drinkwater
+trp_knight_9_13|Seigneur Dagos Manwoody
+trp_knight_9_13_pl|Seigneur Dagos Manwoody
+trp_knight_9_14|Seigneur Quentyn Qorgyle
+trp_knight_9_14_pl|Seigneur Quentyn Qorgyle
+trp_knight_9_15|Dame Nymella Toland
+trp_knight_9_15_pl|Dame Nymella Toland
+trp_knight_9_16|Seigneur Edmynd Wyl
+trp_knight_9_16_pl|Seigneur Edmynd Wyl
+trp_knight_10_1|Qhorin Halfhand
+trp_knight_10_1_pl|Qhorin Halfhand
+trp_knight_10_2|Cotter Pyke
+trp_knight_10_2_pl|Cotter Pyke
+trp_knight_10_3|Ser Denys Mallister
+trp_knight_10_3_pl|Ser Denys Mallister
+trp_knight_10_4|Mallador Locke
+trp_knight_10_4_pl|Mallador Locke
+trp_knight_10_5|Jarmen Buckwell
+trp_knight_10_5_pl|Jarmen Buckwell
+trp_knight_11_1|Tormund
+trp_knight_11_1_pl|Tormund Giantsbane
+trp_knight_11_2|Seigneur of Bones
+trp_knight_11_2_pl|Rattleshirt
+trp_knight_11_4|Styr Magnar
+trp_knight_11_4_pl|Styr Magnar
+trp_knight_11_5|Harma Dogshead
+trp_knight_11_5_pl|Harma Dogshead
 trp_knight_11_6|The Weeper{***}
 trp_knight_11_6_pl|The Weeper{***}
-trp_knight_12_1|Ko Jhaquo{***}
-trp_knight_12_1_pl|Ko Jhaquo{***}
-trp_knight_12_2|Ko Heggo{***}
-trp_knight_12_2_pl|Ko Heggo{***}
-trp_knight_12_3|Ko Dhago{***}
-trp_knight_12_3_pl|Ko Dhago{***}
-trp_knight_12_4|Ko Mhago{***}
-trp_knight_12_4_pl|Ko Mhago{***}
-trp_knight_13_1|Magister Illyrio Mopatis{***}
-trp_knight_13_1_pl|Magister Illyrio Mopatis{***}
-trp_knight_13_2|Magister Groleo Taterous{***}
-trp_knight_13_2_pl|Magister Groleo Taterous{***}
-trp_knight_13_3|Magister Goldin Hortek{***}
-trp_knight_13_3_pl|Magister Goldin Hortek{***}
-trp_knight_14_1|Seigneur Jon Connington{***}
-trp_knight_14_1_pl|Jon Connington{***}
-trp_knight_14_2|Captain-General Harry Strickland{***}
-trp_knight_14_2_pl|Harry Strickland{***}
-trp_knight_14_3|Jon Lothston{***}
-trp_knight_14_3_pl|Jon Lothston{***}
-trp_knight_14_4|Balaq Sotoros{***}
-trp_knight_14_4_pl|Balaq Sotoros{***}
-trp_knight_14_5|Ser Franklyn Flowers{***}
-trp_knight_14_5_pl|Franklyn Flowers{***}
-trp_knight_14_6|Ser Laswell Peake{***}
-trp_knight_14_6_pl|Laswell Peake{***}
-trp_knight_14_7|Ser Tristan Rivers{***}
-trp_knight_14_7_pl|Tristan Rivers{***}
-trp_knight_14_8|Ser Marq Mandrake{***}
-trp_knight_14_8_pl|Marq Mandrake{***}
-trp_knight_14_9|Ser Denys Strong{***}
-trp_knight_14_9_pl|Denys Strong{***}
-trp_knight_14_10|Ser Rolly Duckfield{***}
-trp_knight_14_10_pl|Rolly Duckfield{***}
-trp_knight_14_1_1|Greyworm{***}
-trp_knight_14_1_1_pl|Greyworm{***}
-trp_knight_14_1_2|Khal Qotho{***}
-trp_knight_14_1_2_pl|Khal Qotho{***}
-trp_knight_14_1_3|Khal Ildo{***}
-trp_knight_14_1_3_pl|Khal Ildo{***}
-trp_knight_14_1_4|Khal Zinno{***}
-trp_knight_14_1_4_pl|Khal Zinno{***}
-trp_knight_14_1_5|Khal Addrivo{***}
-trp_knight_14_1_5_pl|Khal Addrivo{***}
-trp_knight_14_1_6|Theon Greyjoy{***}
-trp_knight_14_1_6_pl|Theon Greyjoy{***}
-trp_knight_14_1_7|Ser Jorah Mormont{***}
-trp_knight_14_1_7_pl|Ser Jorah Mormont{***}
-trp_knight_15_1|Magister Morosh Saldorys{***}
-trp_knight_15_1_pl|Magister Morosh Saldorys{***}
-trp_knight_15_2|Magister Ario Albersan{***}
-trp_knight_15_2_pl|Magister Ario Albersan{***}
-trp_knight_15_3|Magister Stallos Reghor{***}
-trp_knight_15_3_pl|Magister Stallos Reghor{***}
-trp_knight_16_1|Magister Fregar Uhoris{***}
-trp_knight_16_1_pl|Magister Fregar Uhoris{***}
-trp_knight_16_2|Magister Ollo Hestoris{***}
-trp_knight_16_2_pl|Magister Ollo Hestoris{***}
-trp_knight_16_3|Magister Illyrio Stassyr{***}
-trp_knight_16_3_pl|Magister Illyrio Stassyr{***}
-trp_knight_17_1|Prince Narbo Oloryon{***}
-trp_knight_17_1_pl|Prince Narbo Oloryon{***}
-trp_knight_17_2|Prince Stallaquo Phassar{***}
-trp_knight_17_2_pl|Prince Stallaquo Phassar{***}
-trp_knight_17_3|Magister Vogar Balerio{***}
-trp_knight_17_3_pl|Magister Vogar Balerio{***}
-trp_knight_18_1|King Joffrey Baratheon{***}
-trp_knight_18_1_pl|Joffrey Baratheon{***}
-trp_knight_18_2|Seigneur Roland Crakehall{***}
-trp_knight_18_2_pl|Roland Crakehall{***}
-trp_knight_18_3|Ser Gregor Clegane{***}
-trp_knight_18_3_pl|Gregor Clegane (The Mountain){***}
-trp_knight_18_4|Seigneur Renfred Rykker{***}
-trp_knight_18_4_pl|Renfred Rykker{***}
-trp_knight_18_5|Seigneur Leo Lefford{***}
-trp_knight_18_5_pl|Leo Lefford{***}
-trp_knight_18_6|Seigneur Damon Marbrand{***}
-trp_knight_18_6_pl|Damon Marbrand{***}
-trp_knight_18_7|Ser Kevan Lannister{***}
-trp_knight_18_7_pl|Kevan Lannister{***}
-trp_knight_18_8|Seigneur Justyn Serrett{***}
-trp_knight_18_8_pl|Seigneur Justyn Serrett{***}
-trp_knight_18_9|Seigneur Lewys Lydden{***}
-trp_knight_18_9_pl|Lewys Lydden{***}
-trp_knight_18_10|Seigneur Harys Swyft{***}
-trp_knight_18_10_pl|Harys Swyft{***}
-trp_knight_18_11|Seigneur Quenten Banefort{***}
-trp_knight_18_11_pl|Quenten Banefort{***}
-trp_knight_18_12|Ser Daven Lannister{***}
-trp_knight_18_12_pl|Ser Daven Lannister{***}
-trp_knight_18_13|Seigneur Terrence Kenning{***}
-trp_knight_18_13_pl|Seigneur Terrence Kenning{***}
-trp_knight_18_14|Seigneur Gawen Westerling{***}
-trp_knight_18_14_pl|Seigneur Gawen Westerling{***}
-trp_knight_18_15|Seigneur Tytos Brax{***}
-trp_knight_18_15_pl|Seigneur Tytos Brax{***}
-trp_knight_18_16|Seigneur Sebaston Farman{***}
-trp_knight_18_16_pl|Seigneur Sebaston Farman{***}
-trp_knight_18_17|Seigneur Garrison Prester{***}
-trp_knight_18_17_pl|Seigneur Garrison Prester{***}
-trp_knight_18_18|Seigneur Melwyn Sarsfield{***}
-trp_knight_18_18_pl|Seigneur Melwyn Sarsfield{***}
-trp_knight_18_19|Seigneur Morgan Buckwell{***}
-trp_knight_18_19_pl|Seigneur Morgan Buckwell{***}
-trp_knight_19_1|Seigneur Master Lysaro Vaelaro{***}
-trp_knight_19_1_pl|Seigneur Master Lysaro Vaelaro{***}
-trp_knight_19_2|Seigneur Master Amar Noslyn{***}
-trp_knight_19_2_pl|Seigneur Master Amar Noslyn{***}
-trp_knight_19_3|Seigneur Master Daarar Ormyl{***}
-trp_knight_19_3_pl|Seigneur Master Daarar Ormyl{***}
-trp_knight_20_1|Prince Nero Adory{***}
-trp_knight_20_1_pl|Prince Nero Adory{***}
-trp_knight_20_2|Magister Adeley Maario {***}
-trp_knight_20_2_pl|Magister Adeley Maario{***}
-trp_knight_20_3|Magister Vargo Voatar{***}
-trp_knight_20_3_pl|Magister Vargo Voatar{***}
-trp_knight_21_1|Triarch Nyessos Vhassar{***}
-trp_knight_21_1_pl|Triarch Nyessos Vhassar{***}
-trp_knight_21_2|Triarch Doniphos Paenymion{***}
-trp_knight_21_2_pl|Triarch Doniphos Paenymion{***}
-trp_knight_21_3|Junior Triarch Alios Qhaedar{***}
-trp_knight_21_3_pl|Junior Triarch  Alios Qhaedar{***}
-trp_knight_21_4|Junior Triarch  Parquello Vaelaros{***}
-trp_knight_21_4_pl|Junior Triarch  Parquello Vaelaros{***}
-trp_knight_21_5|Junior Triarch  Belicho Staegone{***}
-trp_knight_21_5_pl|Junior Triarch  Belicho Staegone{***}
-trp_knight_22_1|Ser Ronnet Connington{***}
-trp_knight_22_1_pl|Ronnet Connington{***}
-trp_knight_22_2|Seigneur Sebastian Errol{***}
-trp_knight_22_2_pl|Sebastian Errol{***}
-trp_knight_22_3|Seigneur Lester Morrigen{***}
-trp_knight_22_3_pl|Lester Morrigen{***}
-trp_knight_22_4|Ser Bryan Fossoway{***}
-trp_knight_22_4_pl|Ser Bryan Fossoway{***}
-trp_knight_22_5|Seigneur Bryce Caron{***}
-trp_knight_22_5_pl|Seigneur Bryce Caron{***}
-trp_knight_22_6|Seigneur Gulian Swann{***}
-trp_knight_22_6_pl|Seigneur Gulian Swann{***}
-trp_knight_22_7|Seigneur Selwyn Tarth{***}
-trp_knight_22_7_pl|Seigneur Selwyn Tarth{***}
-trp_knight_22_8|Seigneur Eldon Estermont{***}
-trp_knight_22_8_pl|Seigneur Eldon Estermont{***}
-trp_knight_22_9|Seigneur Casper Wylde{***}
-trp_knight_22_9_pl|Seigneur Casper Wylde{***}
-trp_knight_22_10|Seigneur Ralph Buckler{***}
-trp_knight_22_10_pl|Seigneur Ralph Buckler{***}
-trp_knight_22_11|Seigneur Martyn Mullendore{***}
-trp_knight_22_11_pl|Seigneur Martyn Mullendore{***}
-trp_knight_22_12|Lady Mary Mertyns{***}
-trp_knight_22_12_pl|Lady Mary Mertyns{***}
-trp_knight_22_13|Seigneur Manfred Dondarrion{***}
-trp_knight_22_13_pl|Seigneur Manfred Dondarrion{***}
-trp_knight_22_14|Ser Balon Swann{***}
-trp_knight_22_14_pl|Balon Swann{***}
-trp_kingdom_1_pretender|Seigneur Valarr Blackfyre{***}
-trp_kingdom_1_pretender_pl|Seigneur Valarr Blackfyre{***}
-trp_knight_1_1_wife|Error - Chevalier 1 1 wife should not appear in game{***}
-trp_knight_1_1_wife_pl|Chevalier 1 1 wife{***}
-trp_kingdom_1_lady_1|Lady Miraym Coldwater{***}
-trp_kingdom_1_lady_1_pl|Lady Miraym Coldwater{***}
-trp_kingdom_1_lady_2|Lady Corbray{***}
-trp_kingdom_1_lady_2_pl|Lady Corbray{***}
-trp_kingdom_1_lady_3|Lady Zhoe Grafton{***}
-trp_kingdom_1_lady_3_pl|Lady Zhoe Grafton{***}
-trp_kingdom_1_lady_4|Lady Rylene Grafton{***}
-trp_kingdom_1_lady_4_pl|Lady Rylene Grafton{***}
-trp_kingdom_1_lady_5|Lady Arsinde Belmore{***}
-trp_kingdom_1_lady_5_pl|Lady Arsinde Belmore{***}
-trp_kingdom_1_lady_6|Lady Celina Belmore{***}
-trp_kingdom_1_lady_6_pl|Lady Celina Belmore{***}
-trp_kingdom_1_lady_7|Lady Bethany Redfort{***}
-trp_kingdom_1_lady_7_pl|Lady Bethany Redfort{***}
-trp_kingdom_1_lady_8|Lady Adala Waxley{***}
-trp_kingdom_1_lady_8_pl|Lady Adala Waxley{***}
-trp_kingdom_1_lady_9|Lady Falena Coldwater{***}
-trp_kingdom_1_lady_9_pl|Lady Falena Coldwater{***}
-trp_kingdom_1_lady_10|Lady Ermesande Coldwater{***}
-trp_kingdom_1_lady_10_pl|Lady Ermesande Coldwater{***}
-trp_kingdom_1_lady_11|Lady Yorena Coldwater{***}
-trp_kingdom_1_lady_11_pl|Lady Yorena Coldwater{***}
-trp_kingdom_1_lady_12|Lady Aglantine Lynderly{***}
-trp_kingdom_1_lady_12_pl|Lady Aglantine Lynderly{***}
-trp_kingdom_1_lady_13|Lady Leona Lynderly{***}
-trp_kingdom_1_lady_13_pl|Lady Leona Lynderly{***}
-trp_kingdom_1_lady_14|Lady Merra Lynderly{***}
-trp_kingdom_1_lady_14_pl|Lady Merra Lynderly{| ***}
-trp_kingdom_1_lady_15|Lady Alys Sunderland{***}
-trp_kingdom_1_lady_15_pl|Lady Alys Sunderland{***}
-trp_kingdom_1_lady_16|Lady Annara Grafton{***}
-trp_kingdom_1_lady_16_pl|Lady Annara Grafton{***}
-trp_kingdom_1_lady_17|Lady Ysilla Royce{***}
-trp_kingdom_1_lady_17_pl|Lady Ysilla Royce{***}
-trp_kingdom_2_lady_1|Shireen Baratheon{***}
-trp_kingdom_2_lady_1_pl|Shireen Baratheon{***}
-trp_kingdom_2_lady_2|Lady Selyse Florent{***}
-trp_kingdom_2_lady_2_pl|Selyse Florent{***}
-trp_kingdom_2_lady_3|Marya{***}
-trp_kingdom_2_lady_3_pl|Marya{***}
-trp_kingdom_2_lady_4|Lady Maria Velaryon{***}
-trp_kingdom_2_lady_4_pl|Lady Maria Velaryon{***}
-trp_kingdom_3_lady_1|Visenya Valer{***}
-trp_kingdom_3_lady_1_pl|Visenya Valer{***}
-trp_kingdom_3_lady_2|Belandra Valer{***}
-trp_kingdom_3_lady_2_pl|Belandra Valer{***}
-trp_kingdom_3_lady_3|Mellario Hortyr{***}
-trp_kingdom_3_lady_3_pl|Mellario Hortyr{***}
-trp_kingdom_3_lady_4|Mera Hortyr{***}
-trp_kingdom_3_lady_4_pl|Mera Hortyr{***}
-trp_kingdom_3_lady_5|Nyssa Notarys{***}
-trp_kingdom_3_lady_5_pl|Nyssa Notarys{***}
-trp_kingdom_3_lady_6|Torma Notarys{***}
-trp_kingdom_3_lady_6_pl|Torma Notarys{***}
-trp_kingdom_4_lady_1|Lady Catelyn Stark{***}
-trp_kingdom_4_lady_1_pl|Lady Catelyn Stark{***}
-trp_kingdom_4_lady_2|Lady Sansa Stark{***}
-trp_kingdom_4_lady_2_pl|Lady Sansa Stark{***}
-trp_kingdom_4_lady_3|Lady Arya Stark{***}
-trp_kingdom_4_lady_3_pl|Lady Arya Stark{***}
-trp_kingdom_4_lady_6|Lady Gisella Karstark{***}
-trp_kingdom_4_lady_6_pl|Lady Gisella Karstark{***}
-trp_kingdom_4_lady_8|Walda Bolton{***}
-trp_kingdom_4_lady_8_pl|Walda Bolton{***}
-trp_kingdom_4_lady_15|Lady Maude Manderly{***}
-trp_kingdom_4_lady_15_pl|Lady Maude Manderly{***}
-trp_kingdom_4_lady_16|Lady Donella Manderly{***}
-trp_kingdom_4_lady_16_pl|Lady Donella Manderly{***}
-trp_kingdom_4_lady_17|Lady Lyra Mormont{***}
-trp_kingdom_4_lady_17_pl|Lady Lyra Mormont{***}
-trp_kingdom_4_lady_18|Lady Lyanna Mormont{***}
-trp_kingdom_4_lady_18_pl|Lady Lyanna Mormont{***}
-trp_kingdom_4_lady_19|Meera Reed{***}
-trp_kingdom_4_lady_19_pl|Meera Reed{***}
-trp_kingdom_4_lady_20|Lady Jyana Reed{***}
-trp_kingdom_4_lady_20_pl|Lady Jyana Reed{***}
-trp_kingdom_4_lady_21|Lady Eddara Tallhart{***}
-trp_kingdom_4_lady_21_pl|Lady Eddara Tallhart{***}
-trp_kingdom_4_lady_22|Lady Jonella Cerwyn{***}
-trp_kingdom_4_lady_22_pl|Lady Jonella Cerwyn{***}
-trp_kingdom_4_lady_23|Lady Bethany Locke{***}
-trp_kingdom_4_lady_23_pl|Lady Bethany Locke{***}
-trp_kingdom_4_lady_24|Lady Elise Locke{***}
-trp_kingdom_4_lady_24_pl|Lady Elise Locke{***}
-trp_kingdom_4_lady_25|Lady Alysane Umber{***}
-trp_kingdom_4_lady_25_pl|Lady Alysane Umber{***}
-trp_kingdom_4_lady_26|Lady Wylla Umber{***}
-trp_kingdom_4_lady_26_pl|Lady Wylla Umber{***}
-trp_kingdom_5_lady_1|Joyeuse Erenford{***}
-trp_kingdom_5_lady_1_pl|Joyeuse Erenford{***}
-trp_kingdom_5_lady_2|Perriane Frey{***}
-trp_kingdom_5_lady_2_pl|Perriane Frey{***}
-trp_kingdom_5_lady_3|Shirie Frey{***}
-trp_kingdom_5_lady_3_pl|Shirie Frey{***}
-trp_kingdom_5_lady_4|Walda Frey{***}
-trp_kingdom_5_lady_4_pl|Walda Frey{***}
-trp_kingdom_5_lady_5|Derwa Frey{***}
-trp_kingdom_5_lady_5_pl|Derwa Frey{***}
-trp_kingdom_5_lady_6|Waldra Frey{***}
-trp_kingdom_5_lady_6_pl|Waldra Frey{***}
-trp_kingdom_5_lady_7|Roslin Frey{***}
-trp_kingdom_5_lady_7_pl|Roslin Frey{***}
-trp_kingdom_5_lady_8|Bethany Blackwood{***}
-trp_kingdom_5_lady_8_pl|Bethany Blackwood{***}
-trp_kingdom_5_lady_9|Barbara Bracken{***}
-trp_kingdom_5_lady_9_pl|Barbara Bracken{***}
-trp_kingdom_5_lady_10|Jayne Bracken{***}
-trp_kingdom_5_lady_10_pl|Jayne Bracken{***}
-trp_kingdom_5_lady_11|Catelyn Bracken{***}
-trp_kingdom_5_lady_11_pl|Catelyn Bracken{***}
-trp_kingdom_5_lady_12|Bess Bracken{***}
-trp_kingdom_5_lady_12_pl|Bess Bracken{***}
-trp_kingdom_5_lady_13|Alysanne Bracken{***}
-trp_kingdom_5_lady_13_pl|Alysanne Bracken{***}
-trp_kingdom_5_lady_14|Alerie Paege{***}
-trp_kingdom_5_lady_14_pl|Alerie Paege{***}
-trp_kingdom_5_lady_15|Ravella Swann{***}
-trp_kingdom_5_lady_15_pl|Ravella Swann{***}
-trp_kingdom_5_lady_16|Carellen Smallwood{***}
-trp_kingdom_5_lady_16_pl|Carellen Smallwood{***}
-trp_kingdom_5_lady_17|Liane Vance{***}
-trp_kingdom_5_lady_17_pl|Liane Vance{***}
-trp_kingdom_5_lady_18|Rhialta Vance{***}
-trp_kingdom_5_lady_18_pl|Rhialta Vance{***}
-trp_kingdom_5_lady_19|Emphyria Vance{***}
-trp_kingdom_5_lady_19_pl|Emphyria Vance{***}
-trp_kingdom_6_lady_1|Alerie Tyrell{***}
-trp_kingdom_6_lady_1_pl|Alerie Tyrell{***}
-trp_kingdom_6_lady_3|Mina Redwyne{***}
-trp_kingdom_6_lady_3_pl|Mina Redwyne{***}
-trp_kingdom_6_lady_4|Janna Tyrell{***}
-trp_kingdom_6_lady_4_pl|Janna Tyrell{***}
-trp_kingdom_6_lady_6|Olenna Tyrell{***}
-trp_kingdom_6_lady_6_pl|Olenna Tyrell{***}
-trp_kingdom_6_lady_7|Melessa Florent{***}
-trp_kingdom_6_lady_7_pl|Melessa Florent{***}
-trp_kingdom_6_lady_8|Talla Tarly{***}
-trp_kingdom_6_lady_8_pl|Talla Tarly{***}
-trp_kingdom_6_lady_9|Desmera Redwyne{***}
-trp_kingdom_6_lady_9_pl|Desmera Redwyne{***}
-trp_kingdom_6_lady_10|Lady Rhea Florent{***}
-trp_kingdom_6_lady_10_pl|Lady Rhea Florent{***}
-trp_kingdom_6_lady_11|Lady Bethany Redwyne{***}
-trp_kingdom_6_lady_11_pl|Lady Bethany Redwyne{***}
-trp_kingdom_6_lady_12|Asha Rowan{***}
-trp_kingdom_6_lady_12_pl|Asha Rowan{***}
-trp_kingdom_6_lady_13|Mylenda Caswell{***}
-trp_kingdom_6_lady_13_pl|Mylenda Caswell{***}
-trp_kingdom_6_lady_14|Araline Caswell{***}
-trp_kingdom_6_lady_14_pl|Araline Caswell{***}
-trp_kingdom_6_lady_15|Lady Leonette Fossoway{***}
-trp_kingdom_6_lady_15_pl|Lady Leonette Fossoway{***}
-trp_kingdom_6_lady_16|Lady Olene Tyrell{***}
-trp_kingdom_6_lady_16_pl|Lady Olene Tyrell{***}
-trp_kingdom_6_lady_17|Taena of Myr{***}
-trp_kingdom_6_lady_17_pl|Taena of Myr{***}
-trp_kingdom_7_lady_1|Meralyn Antaryon{***}
-trp_kingdom_7_lady_1_pl|Meralyn Antaryon{***}
-trp_kingdom_7_lady_2|Betharios Antaryon{***}
-trp_kingdom_7_lady_2_pl|Betharios Antaryon{***}
-trp_kingdom_7_lady_3|Yna Volentin{***}
-trp_kingdom_7_lady_3_pl|Yna Volentin{***}
-trp_kingdom_7_lady_4|Svrone Volentin{***}
-trp_kingdom_7_lady_4_pl|Svrone Volentin{***}
-trp_kingdom_7_lady_5|Bellegere Fregar{***}
-trp_kingdom_7_lady_5_pl|Bellegere Fregar{***}
-trp_kingdom_7_lady_6|Brea Fregar{***}
-trp_kingdom_7_lady_6_pl|Brea Fregar{***}
-trp_kingdom_8_lady_1|Alyannys Greyjoy{***}
-trp_kingdom_8_lady_1_pl|Alyannys Greyjoy{***}
-trp_kingdom_8_lady_2|Nessa Goodbrother{***}
-trp_kingdom_8_lady_2_pl|Nessa Goodbrother{***}
-trp_kingdom_8_lady_3|Gysella Goodbrother{***}
-trp_kingdom_8_lady_3_pl|Gysella Goodbrother{***}
-trp_kingdom_8_lady_4|Gwin Goodbrother{***}
-trp_kingdom_8_lady_4_pl|Gwin Goodbrother{***}
-trp_kingdom_8_lady_5|Victaria Goodbrother{***}
-trp_kingdom_8_lady_5_pl|Victaria Goodbrother{***}
-trp_kingdom_8_lady_6|Olivia Goodbrother{***}
-trp_kingdom_8_lady_6_pl|Olivia Goodbrother{***}
-trp_kingdom_8_lady_7|Triselda Goodbrother{***}
-trp_kingdom_8_lady_7_pl|Triselda Goodbrother{***}
-trp_kingdom_8_lady_8|Gormona Goodbrother{***}
-trp_kingdom_8_lady_8_pl|Gormona Goodbrother{***}
-trp_kingdom_8_lady_9|Wilma Goodbrother{***}
-trp_kingdom_8_lady_9_pl|Wilma Goodbrother{***}
-trp_kingdom_8_lady_10|Jovanka Goodbrother{***}
-trp_kingdom_8_lady_10_pl|Jovanka Goodbrother{***}
-trp_kingdom_8_lady_11|Erika Goodbrother{***}
-trp_kingdom_8_lady_11_pl|Erika Goodbrother{***}
-trp_kingdom_8_lady_12|Ingrid Goodbrother{***}
-trp_kingdom_8_lady_12_pl|Ingrid Goodbrother{***}
-trp_kingdom_8_lady_13|Neda Goodbrother{***}
-trp_kingdom_8_lady_13_pl|Neda Goodbrother{***}
-trp_kingdom_8_lady_14|Ursila Goodbrother{***}
-trp_kingdom_8_lady_14_pl|Ursila Goodbrother{***}
-trp_kingdom_8_lady_15|Grisella Wynch{***}
-trp_kingdom_8_lady_15_pl|Grisella Wynch{***}
-trp_kingdom_8_lady_16|Gretchel Wynch{***}
-trp_kingdom_8_lady_16_pl|Gretchel Wynch{***}
-trp_kingdom_8_lady_17|Mlada Merlyn{***}
-trp_kingdom_8_lady_17_pl|Mlada Merlyn{***}
-trp_kingdom_8_lady_18|Rynilla Merlyn{***}
-trp_kingdom_8_lady_18_pl|Rynilla Merlyn{***}
-trp_kingdom_8_lady_19|Quella Botley{***}
-trp_kingdom_8_lady_19_pl|Quella Botley{***}
-trp_kingdom_9_lady_1|Jeyne Fowler{***}
-trp_kingdom_9_lady_1_pl|Jeyne{***}
-trp_kingdom_9_lady_2|Jennelyn Fowler{***}
-trp_kingdom_9_lady_2_pl|Jennelyn{***}
-trp_kingdom_9_lady_3|Ellaria Sand{***}
-trp_kingdom_9_lady_3_pl|Ellaria Sand{***}
-trp_kingdom_9_lady_4|Myria Jordayne{***}
-trp_kingdom_9_lady_4_pl|Myria{***}
-trp_kingdom_9_lady_5|Gwyneth Yronwood{***}
-trp_kingdom_9_lady_5_pl|Gwyneth Yronwood{***}
-trp_kingdom_9_lady_6|Ynys Yronwood{***}
-trp_kingdom_9_lady_6_pl|Ynys Yronwood{***}
-trp_kingdom_9_lady_7|Elia Sand{***}
-trp_kingdom_9_lady_7_pl|Elia Sand{***}
-trp_kingdom_9_lady_8|Obella Sand{***}
-trp_kingdom_9_lady_8_pl|Obella Sand{***}
-trp_kingdom_9_lady_9|Dorea Sand{***}
-trp_kingdom_9_lady_9_pl|Dorea Sand{***}
-trp_kingdom_9_lady_10|Loreza Sand{***}
-trp_kingdom_9_lady_10_pl|Loreza Sand{***}
-trp_kingdom_9_lady_11|Valena Toland{***}
-trp_kingdom_9_lady_11_pl|Valena Toland{***}
-trp_kingdom_9_lady_12|Teora Toland{***}
-trp_kingdom_9_lady_12_pl|Teora Toland{***}
-trp_kingdom_11_lady_1|Wanda{***}
-trp_kingdom_11_lady_1_pl|Wanda{***}
-trp_kingdom_11_lady_2|Heledd{***}
-trp_kingdom_11_lady_2_pl|Heledd{***}
-trp_kingdom_11_lady_3|Munda{***}
-trp_kingdom_11_lady_3_pl|Munda{***}
-trp_kingdom_12_lady_1|Mirakkh{***}
-trp_kingdom_12_lady_1_pl|Mirakkh{***}
-trp_kingdom_12_lady_2|Kova{***}
-trp_kingdom_12_lady_2_pl|Kova{***}
-trp_kingdom_12_lady_3|Athi{***}
-trp_kingdom_12_lady_3_pl|Athi{***}
-trp_kingdom_12_lady_4|Loskisho{***}
-trp_kingdom_12_lady_4_pl|Loskisho{***}
-trp_kingdom_13_lady_1|Alia Moharis{***}
-trp_kingdom_13_lady_1_pl|Alia Moharis{***}
-trp_kingdom_13_lady_2|Sera Moharis{***}
-trp_kingdom_13_lady_2_pl|Sera Moharis{***}
-trp_kingdom_13_lady_3|Serala Moharis{***}
-trp_kingdom_13_lady_3_pl|Serala Moharis{***}
-trp_kingdom_13_lady_4|Bello Taterous{***}
-trp_kingdom_13_lady_4_pl|Bello Taterous{***}
-trp_kingdom_13_lady_5|Orbela Taterous{***}
-trp_kingdom_13_lady_5_pl|Orbela Taterous{***}
-trp_kingdom_13_lady_6|Torna Hortek{***}
-trp_kingdom_13_lady_6_pl|Torna Hortek{***}
-trp_kingdom_13_lady_7|Nora Hortek{***}
-trp_kingdom_13_lady_7_pl|Nora Hortek{***}
-trp_kingdom_15_lady_1|Serala Drahar{***}
-trp_kingdom_15_lady_1_pl|Serala Drahar{***}
-trp_kingdom_15_lady_2|Taena Drahar{***}
-trp_kingdom_15_lady_2_pl|Taena Drahar{***}
-trp_kingdom_15_lady_3|Ternesia Saldorys{***}
-trp_kingdom_15_lady_3_pl|Ternesia Saldorys{***}
-trp_kingdom_15_lady_4|Neseya Saldorys{***}
-trp_kingdom_15_lady_4_pl|Neseya Saldorys{***}
-trp_kingdom_15_lady_5|Leah Albersan{***}
-trp_kingdom_15_lady_5_pl|Leah Albersan{***}
-trp_kingdom_15_lady_6|Serala Albersan{***}
-trp_kingdom_15_lady_6_pl|Serala Albersan{***}
-trp_kingdom_15_lady_7|Lanna Reghor{***}
-trp_kingdom_15_lady_7_pl|Lanna Reghor{***}
-trp_kingdom_15_lady_8|Moredea Reghor{***}
-trp_kingdom_15_lady_8_pl|Moredea Reghor{***}
-trp_kingdom_16_lady_1|Sybelle Tumitus{***}
-trp_kingdom_16_lady_1_pl|Sybelle Tumitus{***}
-trp_kingdom_16_lady_2|Neseya Tumitus{***}
-trp_kingdom_16_lady_2_pl|Neseya Tumitus{***}
-trp_kingdom_16_lady_3|Trianna Uhoris{***}
-trp_kingdom_16_lady_3_pl|Trianna Uhoris{***}
-trp_kingdom_16_lady_4|Mera Uhoris{***}
-trp_kingdom_16_lady_4_pl|Mera Uhoris{***}
-trp_kingdom_16_lady_5|Saelysa Hestoris{***}
-trp_kingdom_16_lady_5_pl|Saelysa Hestoris{***}
-trp_kingdom_16_lady_6|Melora Hestoris{***}
-trp_kingdom_16_lady_6_pl|Melora Hestoris{***}
-trp_kingdom_16_lady_7|Nesera Stassyr{***}
-trp_kingdom_16_lady_7_pl|Nesera Stassyr{***}
-trp_kingdom_16_lady_8|Doreah Stassyr{***}
-trp_kingdom_16_lady_8_pl|Doreah Stassyr{***}
-trp_kingdom_17_lady_1|Mera Aloran{***}
-trp_kingdom_17_lady_1_pl|Mera Aloran{***}
-trp_kingdom_17_lady_2|Niliria Aloran{***}
-trp_kingdom_17_lady_2_pl|Niliria Aloran{***}
-trp_kingdom_17_lady_3|Talea Oloryon{***}
-trp_kingdom_17_lady_3_pl|Talea Oloryon{***}
-trp_kingdom_17_lady_4|Oloryon{***}
-trp_kingdom_17_lady_4_pl|Oloryon{***}
-trp_kingdom_17_lady_5|Saelysa Phassar{***}
-trp_kingdom_17_lady_5_pl|Saelysa Phassar{***}
-trp_kingdom_17_lady_6|Ilora Phassar{***}
-trp_kingdom_17_lady_6_pl|Ilora Phassar{***}
-trp_kingdom_17_lady_7|Melora Balerio{***}
-trp_kingdom_17_lady_7_pl|Melora Balerio{***}
-trp_kingdom_17_lady_8|Shae Balerio{***}
-trp_kingdom_17_lady_8_pl|Shae Balerio{***}
-trp_kingdom_18_lady_1|Cersei Lannister{***}
-trp_kingdom_18_lady_1_pl|Cersei Lannister{***}
-trp_kingdom_18_lady_2|Myrcella Baratheon{***}
-trp_kingdom_18_lady_2_pl|Myrcella Baratheon{***}
-trp_kingdom_18_lady_3|Dorna Swyft{***}
-trp_kingdom_18_lady_3_pl|Dorna Swyft{***}
-trp_kingdom_18_lady_4|Abbey Rykker{***}
-trp_kingdom_18_lady_4_pl|Abbey Rykker{***}
-trp_kingdom_18_lady_6|Abigail Rykker{***}
-trp_kingdom_18_lady_6_pl|Abigail Rykker{***}
-trp_kingdom_18_lady_8|Petrola Lefford{***}
-trp_kingdom_18_lady_8_pl|Petrola Lefford{***}
-trp_kingdom_18_lady_9|Alysanne Lefford{***}
-trp_kingdom_18_lady_9_pl|Alysanne Lefford{***}
-trp_kingdom_18_lady_10|Elenya Marbrand{***}
-trp_kingdom_18_lady_10_pl|Elenya Marbrand{***}
-trp_kingdom_18_lady_11|Janei Lannister{***}
-trp_kingdom_18_lady_11_pl|Janei Lannister{***}
-trp_kingdom_18_lady_13|Elyssa Lydden{***}
-trp_kingdom_18_lady_13_pl|Elyssa Lydden{***}
-trp_kingdom_18_lady_14|Marketa Lydden{***}
-trp_kingdom_18_lady_14_pl|Marketa Lydden{***}
-trp_kingdom_18_lady_15|Heloise Swyft{***}
-trp_kingdom_18_lady_15_pl|Heloise Swyft{***}
-trp_kingdom_18_lady_16|Fenica Banefort{***}
-trp_kingdom_18_lady_16_pl|Fenica Banefort{***}
-trp_kingdom_18_lady_17|Sybell Spicer{***}
-trp_kingdom_18_lady_17_pl|Sybell Spicer{***}
-trp_kingdom_18_lady_18|Eleyna Westerling{***}
-trp_kingdom_18_lady_18_pl|Eleyna Westerling{***}
-trp_kingdom_18_lady_19|Jeyne Westerling{***}
-trp_kingdom_18_lady_19_pl|Jeyne Westerling{***}
-trp_kingdom_18_lady_20|Liane Prester{***}
-trp_kingdom_18_lady_20_pl|Liane Prester{***}
-trp_kingdom_18_lady_26|Jeyne Farman{***}
-trp_kingdom_18_lady_26_pl|Jeyne Farman{***}
-trp_kingdom_19_lady_1|Lynesse Hightower{***}
-trp_kingdom_19_lady_1_pl|Lynesse Hightower{***}
-trp_kingdom_19_lady_2|Serenei Ormollen{***}
-trp_kingdom_19_lady_2_pl|Serenei Ormollen{***}
-trp_kingdom_19_lady_3|Nesera Vaelaro{***}
-trp_kingdom_19_lady_3_pl|Nesera Vaelaro{***}
-trp_kingdom_19_lady_4|Melaena Vaelaro{***}
-trp_kingdom_19_lady_4_pl|Melaena Vaelaro{***}
-trp_kingdom_19_lady_5|Dileah Noslyn{***}
-trp_kingdom_19_lady_5_pl|Dileah Noslyn{***}
-trp_kingdom_19_lady_6|Dora Noslyn{***}
-trp_kingdom_19_lady_6_pl|Dora Noslyn{***}
-trp_kingdom_19_lady_7|Vella Ormyl{***}
-trp_kingdom_19_lady_7_pl|Vella Ormyl{***}
-trp_kingdom_19_lady_8|Doreah Ormyl{***}
-trp_kingdom_19_lady_8_pl|Doreah Ormyl{***}
-trp_kingdom_20_lady_1|Qarria Talordis{***}
-trp_kingdom_20_lady_1_pl|Qarria Talordis{***}
-trp_kingdom_20_lady_2|Lanna Talordis{***}
-trp_kingdom_20_lady_2_pl|Lanna Talordis{***}
-trp_kingdom_20_lady_3|Serenei Adory{***}
-trp_kingdom_20_lady_3_pl|Serenei Adory{***}
-trp_kingdom_20_lady_4|Ferra Adory{***}
-trp_kingdom_20_lady_4_pl|Ferra Adory{***}
-trp_kingdom_20_lady_5|Isla Maario{***}
-trp_kingdom_20_lady_5_pl|Isla Maario{***}
-trp_kingdom_20_lady_6|Ingen Maario{***}
-trp_kingdom_20_lady_6_pl|Ingen Maario{***}
-trp_kingdom_20_lady_7|Isla Voatar{***}
-trp_kingdom_20_lady_7_pl|Isla Voatar{***}
-trp_kingdom_20_lady_8|Lanna Voatar{***}
-trp_kingdom_20_lady_8_pl|Lanna Voatar{***}
-trp_kingdom_21_lady_1|Alearys Nyessos{***}
-trp_kingdom_21_lady_1_pl|Alearys Nyessos{***}
-trp_kingdom_21_lady_2|Alia Nyessos{***}
-trp_kingdom_21_lady_2_pl|Alia Nyessos{***}
-trp_kingdom_21_lady_3|Sybelle Qhaedar{***}
-trp_kingdom_21_lady_3_pl|Sybelle Qhaedar{***}
-trp_kingdom_21_lady_4|Talisa Qhaedar{***}
-trp_kingdom_21_lady_4_pl|Talisa Qhaedar{***}
-trp_kingdom_21_lady_5|Trianna Vaelaros{***}
-trp_kingdom_21_lady_5_pl|Trianna Vaelaros{***}
-trp_kingdom_21_lady_6|Lothea Vaelaros{***}
-trp_kingdom_21_lady_6_pl|Lothea Vaelaros{***}
-trp_kingdom_21_lady_7|Alia Staegone{***}
-trp_kingdom_21_lady_7_pl|Alia Staegone{***}
-trp_kingdom_21_lady_8|Talisa Staegone{***}
-trp_kingdom_21_lady_8_pl|Talisa Staegone{***}
-trp_kingdom_21_lady_9|Honorra Doniphos{***}
-trp_kingdom_21_lady_9_pl|Honorra Doniphos{***}
-trp_kingdom_21_lady_10|Torma Doniphos{***}
-trp_kingdom_21_lady_10_pl|Torma Doniphos{***}
-trp_kingdom_22_lady_1|Queen Margaery Tyrell{***}
-trp_kingdom_22_lady_1_pl|Margaery Tyrell{***}
-trp_kingdom_22_lady_2|Lady Alynne Connington{***}
-trp_kingdom_22_lady_2_pl|Alynne Connington{***}
-trp_kingdom_22_lady_3|Lady Shyra{***}
-trp_kingdom_22_lady_3_pl|Shyra{***}
-trp_kingdom_22_lady_4|Lady Donyse Caron{***}
-trp_kingdom_22_lady_4_pl|Donyse Caron{***}
-trp_kingdom_22_lady_5|Lady Daniela Estermont{***}
-trp_kingdom_22_lady_5_pl|Daniela Estermont{***}
-trp_kingdom_22_lady_6|Lady Araline Wylde{***}
-trp_kingdom_22_lady_6_pl|Araline Wylde{***}
-trp_kingdom_22_lady_7|Lady Beryl Wylde{***}
-trp_kingdom_22_lady_7_pl|Beryl Wylde{***}
-trp_kingdom_22_lady_8|Lady Alerie Buckler{***}
-trp_kingdom_22_lady_8_pl|Alerie Buckler{***}
-trp_kingdom_22_lady_9|Lady Alery Buckler{***}
-trp_kingdom_22_lady_9_pl|Alery Buckler{***}
-trp_kingdom_22_lady_10|Lady Malora Mullendore{***}
-trp_kingdom_22_lady_10_pl|Malora Mullendore{***}
+trp_knight_12_1|Ko Jhaquo
+trp_knight_12_1_pl|Ko Jhaquo
+trp_knight_12_2|Ko Heggo
+trp_knight_12_2_pl|Ko Heggo
+trp_knight_12_3|Ko Dhago
+trp_knight_12_3_pl|Ko Dhago
+trp_knight_12_4|Ko Mhago
+trp_knight_12_4_pl|Ko Mhago
+trp_knight_13_1|Magistrat Illyrio Mopatis
+trp_knight_13_1_pl|Magistrat Illyrio Mopatis
+trp_knight_13_2|Magistrat Groleo Taterous
+trp_knight_13_2_pl|Magistrat Groleo Taterous
+trp_knight_13_3|Magistrat Goldin Hortek
+trp_knight_13_3_pl|Magistrat Goldin Hortek
+trp_knight_14_1|Seigneur Jon Connington
+trp_knight_14_1_pl|Jon Connington
+trp_knight_14_2|Capitain-Général Harry Strickland
+trp_knight_14_2_pl|Harry Strickland
+trp_knight_14_3|Jon Lothston
+trp_knight_14_3_pl|Jon Lothston
+trp_knight_14_4|Balaq Sotoros
+trp_knight_14_4_pl|Balaq Sotoros
+trp_knight_14_5|Ser Franklyn Flowers
+trp_knight_14_5_pl|Franklyn Flowers
+trp_knight_14_6|Ser Laswell Peake
+trp_knight_14_6_pl|Laswell Peake
+trp_knight_14_7|Ser Tristan Rivers
+trp_knight_14_7_pl|Tristan Rivers
+trp_knight_14_8|Ser Marq Mandrake
+trp_knight_14_8_pl|Marq Mandrake
+trp_knight_14_9|Ser Denys Strong
+trp_knight_14_9_pl|Denys Strong
+trp_knight_14_10|Ser Rolly Duckfield
+trp_knight_14_10_pl|Rolly Duckfield
+trp_knight_14_1_1|Greyworm
+trp_knight_14_1_1_pl|Greyworm
+trp_knight_14_1_2|Khal Qotho
+trp_knight_14_1_2_pl|Khal Qotho
+trp_knight_14_1_3|Khal Ildo
+trp_knight_14_1_3_pl|Khal Ildo
+trp_knight_14_1_4|Khal Zinno
+trp_knight_14_1_4_pl|Khal Zinno
+trp_knight_14_1_5|Khal Addrivo
+trp_knight_14_1_5_pl|Khal Addrivo
+trp_knight_14_1_6|Theon Greyjoy
+trp_knight_14_1_6_pl|Theon Greyjoy
+trp_knight_14_1_7|Ser Jorah Mormont
+trp_knight_14_1_7_pl|Ser Jorah Mormont
+trp_knight_15_1|Magistrat Morosh Saldorys
+trp_knight_15_1_pl|Magistrat Morosh Saldorys
+trp_knight_15_2|Magistrat Ario Albersan
+trp_knight_15_2_pl|Magistrat Ario Albersan
+trp_knight_15_3|Magistrat Stallos Reghor
+trp_knight_15_3_pl|Magistrat Stallos Reghor
+trp_knight_16_1|Magistrat Fregar Uhoris
+trp_knight_16_1_pl|Magistrat Fregar Uhoris
+trp_knight_16_2|Magistrat Ollo Hestoris
+trp_knight_16_2_pl|Magistrat Ollo Hestoris
+trp_knight_16_3|Magistrat Illyrio Stassyr
+trp_knight_16_3_pl|Magistrat Illyrio Stassyr
+trp_knight_17_1|Prince Narbo Oloryon
+trp_knight_17_1_pl|Prince Narbo Oloryon
+trp_knight_17_2|Prince Stallaquo Phassar
+trp_knight_17_2_pl|Prince Stallaquo Phassar
+trp_knight_17_3|Magistrat Vogar Balerio
+trp_knight_17_3_pl|Magistrat Vogar Balerio
+trp_knight_18_1|Roi Joffrey Baratheon
+trp_knight_18_1_pl|Joffrey Baratheon
+trp_knight_18_2|Seigneur Roland Crakehall
+trp_knight_18_2_pl|Roland Crakehall
+trp_knight_18_3|Ser Gregor Clegane
+trp_knight_18_3_pl|Gregor Clegane (la Montagne)
+trp_knight_18_4|Seigneur Renfred Rykker
+trp_knight_18_4_pl|Renfred Rykker
+trp_knight_18_5|Seigneur Leo Lefford
+trp_knight_18_5_pl|Leo Lefford
+trp_knight_18_6|Seigneur Damon Marbrand
+trp_knight_18_6_pl|Damon Marbrand
+trp_knight_18_7|Ser Kevan Lannister
+trp_knight_18_7_pl|Kevan Lannister
+trp_knight_18_8|Seigneur Justyn Serrett
+trp_knight_18_8_pl|Seigneur Justyn Serrett
+trp_knight_18_9|Seigneur Lewys Lydden
+trp_knight_18_9_pl|Lewys Lydden
+trp_knight_18_10|Seigneur Harys Swyft
+trp_knight_18_10_pl|Harys Swyft
+trp_knight_18_11|Seigneur Quenten Banefort
+trp_knight_18_11_pl|Quenten Banefort
+trp_knight_18_12|Ser Daven Lannister
+trp_knight_18_12_pl|Ser Daven Lannister
+trp_knight_18_13|Seigneur Terrence Kenning
+trp_knight_18_13_pl|Seigneur Terrence Kenning
+trp_knight_18_14|Seigneur Gawen Westerling
+trp_knight_18_14_pl|Seigneur Gawen Westerling
+trp_knight_18_15|Seigneur Tytos Brax
+trp_knight_18_15_pl|Seigneur Tytos Brax
+trp_knight_18_16|Seigneur Sebaston Farman
+trp_knight_18_16_pl|Seigneur Sebaston Farman
+trp_knight_18_17|Seigneur Garrison Prester
+trp_knight_18_17_pl|Seigneur Garrison Prester
+trp_knight_18_18|Seigneur Melwyn Sarsfield
+trp_knight_18_18_pl|Seigneur Melwyn Sarsfield
+trp_knight_18_19|Seigneur Morgan Buckwell
+trp_knight_18_19_pl|Seigneur Morgan Buckwell
+trp_knight_19_1|Seigneur Master Lysaro Vaelaro
+trp_knight_19_1_pl|Seigneur Master Lysaro Vaelaro
+trp_knight_19_2|Seigneur Master Amar Noslyn
+trp_knight_19_2_pl|Seigneur Master Amar Noslyn
+trp_knight_19_3|Seigneur Master Daarar Ormyl
+trp_knight_19_3_pl|Seigneur Master Daarar Ormyl
+trp_knight_20_1|Prince Nero Adory
+trp_knight_20_1_pl|Prince Nero Adory
+trp_knight_20_2|Magistrat Adeley Maario 
+trp_knight_20_2_pl|Magistrat Adeley Maario
+trp_knight_20_3|Magistrat Vargo Voatar
+trp_knight_20_3_pl|Magistrat Vargo Voatar
+trp_knight_21_1|Triarque Nyessos Vhassar
+trp_knight_21_1_pl|Triarque Nyessos Vhassar
+trp_knight_21_2|Triarque Doniphos Paenymion
+trp_knight_21_2_pl|Triarque Doniphos Paenymion
+trp_knight_21_3|Triarque Junior Alios Qhaedar
+trp_knight_21_3_pl|Triarque Junior  Alios Qhaedar
+trp_knight_21_4|Triarque Junior Parquello Vaelaros
+trp_knight_21_4_pl|Triarque Junior Parquello Vaelaros
+trp_knight_21_5|Triarque Junior Belicho Staegone
+trp_knight_21_5_pl|Triarque Junior Belicho Staegone
+trp_knight_22_1|Ser Ronnet Connington
+trp_knight_22_1_pl|Ronnet Connington
+trp_knight_22_2|Seigneur Sebastian Errol
+trp_knight_22_2_pl|Sebastian Errol
+trp_knight_22_3|Seigneur Lester Morrigen
+trp_knight_22_3_pl|Lester Morrigen
+trp_knight_22_4|Ser Bryan Fossoway
+trp_knight_22_4_pl|Ser Bryan Fossoway
+trp_knight_22_5|Seigneur Bryce Caron
+trp_knight_22_5_pl|Seigneur Bryce Caron
+trp_knight_22_6|Seigneur Gulian Swann
+trp_knight_22_6_pl|Seigneur Gulian Swann
+trp_knight_22_7|Seigneur Selwyn Tarth
+trp_knight_22_7_pl|Seigneur Selwyn Tarth
+trp_knight_22_8|Seigneur Eldon Estermont
+trp_knight_22_8_pl|Seigneur Eldon Estermont
+trp_knight_22_9|Seigneur Casper Wylde
+trp_knight_22_9_pl|Seigneur Casper Wylde
+trp_knight_22_10|Seigneur Ralph Buckler
+trp_knight_22_10_pl|Seigneur Ralph Buckler
+trp_knight_22_11|Seigneur Martyn Mullendore
+trp_knight_22_11_pl|Seigneur Martyn Mullendore
+trp_knight_22_12|Dame Mary Mertyns
+trp_knight_22_12_pl|Dame Mary Mertyns
+trp_knight_22_13|Seigneur Manfred Dondarrion
+trp_knight_22_13_pl|Seigneur Manfred Dondarrion
+trp_knight_22_14|Ser Balon Swann
+trp_knight_22_14_pl|Balon Swann
+trp_kingdom_1_pretender|Seigneur Valarr Blackfyre
+trp_kingdom_1_pretender_pl|Seigneur Valarr Blackfyre
+trp_knight_1_1_wife|Error - Chevalier 1 1 wife should not appear in game
+trp_knight_1_1_wife_pl|Chevalier 1 1 wife
+trp_kingdom_1_lady_1|Dame Miraym Coldwater
+trp_kingdom_1_lady_1_pl|Dame Miraym Coldwater
+trp_kingdom_1_lady_2|Dame Corbray
+trp_kingdom_1_lady_2_pl|Dame Corbray
+trp_kingdom_1_lady_3|Dame Zhoe Grafton
+trp_kingdom_1_lady_3_pl|Dame Zhoe Grafton
+trp_kingdom_1_lady_4|Dame Rylene Grafton
+trp_kingdom_1_lady_4_pl|Dame Rylene Grafton
+trp_kingdom_1_lady_5|Dame Arsinde Belmore
+trp_kingdom_1_lady_5_pl|Dame Arsinde Belmore
+trp_kingdom_1_lady_6|Dame Celina Belmore
+trp_kingdom_1_lady_6_pl|Dame Celina Belmore
+trp_kingdom_1_lady_7|Dame Bethany Redfort
+trp_kingdom_1_lady_7_pl|Dame Bethany Redfort
+trp_kingdom_1_lady_8|Dame Adala Waxley
+trp_kingdom_1_lady_8_pl|Dame Adala Waxley
+trp_kingdom_1_lady_9|Dame Falena Coldwater
+trp_kingdom_1_lady_9_pl|Dame Falena Coldwater
+trp_kingdom_1_lady_10|Dame Ermesande Coldwater
+trp_kingdom_1_lady_10_pl|Dame Ermesande Coldwater
+trp_kingdom_1_lady_11|Dame Yorena Coldwater
+trp_kingdom_1_lady_11_pl|Dame Yorena Coldwater
+trp_kingdom_1_lady_12|Dame Aglantine Lynderly
+trp_kingdom_1_lady_12_pl|Dame Aglantine Lynderly
+trp_kingdom_1_lady_13|Dame Leona Lynderly
+trp_kingdom_1_lady_13_pl|Dame Leona Lynderly
+trp_kingdom_1_lady_14|Dame Merra Lynderly
+trp_kingdom_1_lady_14_pl|Dame Merra Lynderly
+trp_kingdom_1_lady_15|Dame Alys Sunderland
+trp_kingdom_1_lady_15_pl|Dame Alys Sunderland
+trp_kingdom_1_lady_16|Dame Annara Grafton
+trp_kingdom_1_lady_16_pl|Dame Annara Grafton
+trp_kingdom_1_lady_17|Dame Ysilla Royce
+trp_kingdom_1_lady_17_pl|Dame Ysilla Royce
+trp_kingdom_2_lady_1|Shireen Baratheon
+trp_kingdom_2_lady_1_pl|Shireen Baratheon
+trp_kingdom_2_lady_2|Dame Selyse Florent
+trp_kingdom_2_lady_2_pl|Selyse Florent
+trp_kingdom_2_lady_3|Marya
+trp_kingdom_2_lady_3_pl|Marya
+trp_kingdom_2_lady_4|Dame Maria Velaryon
+trp_kingdom_2_lady_4_pl|Dame Maria Velaryon
+trp_kingdom_3_lady_1|Visenya Valer
+trp_kingdom_3_lady_1_pl|Visenya Valer
+trp_kingdom_3_lady_2|Belandra Valer
+trp_kingdom_3_lady_2_pl|Belandra Valer
+trp_kingdom_3_lady_3|Mellario Hortyr
+trp_kingdom_3_lady_3_pl|Mellario Hortyr
+trp_kingdom_3_lady_4|Mera Hortyr
+trp_kingdom_3_lady_4_pl|Mera Hortyr
+trp_kingdom_3_lady_5|Nyssa Notarys
+trp_kingdom_3_lady_5_pl|Nyssa Notarys
+trp_kingdom_3_lady_6|Torma Notarys
+trp_kingdom_3_lady_6_pl|Torma Notarys
+trp_kingdom_4_lady_1|Dame Catelyn Stark
+trp_kingdom_4_lady_1_pl|Dame Catelyn Stark
+trp_kingdom_4_lady_2|Dame Sansa Stark
+trp_kingdom_4_lady_2_pl|Dame Sansa Stark
+trp_kingdom_4_lady_3|Dame Arya Stark
+trp_kingdom_4_lady_3_pl|Dame Arya Stark
+trp_kingdom_4_lady_6|Dame Gisella Karstark
+trp_kingdom_4_lady_6_pl|Dame Gisella Karstark
+trp_kingdom_4_lady_8|Walda Bolton
+trp_kingdom_4_lady_8_pl|Walda Bolton
+trp_kingdom_4_lady_15|Dame Maude Manderly
+trp_kingdom_4_lady_15_pl|Dame Maude Manderly
+trp_kingdom_4_lady_16|Dame Donella Manderly
+trp_kingdom_4_lady_16_pl|Dame Donella Manderly
+trp_kingdom_4_lady_17|Dame Lyra Mormont
+trp_kingdom_4_lady_17_pl|Dame Lyra Mormont
+trp_kingdom_4_lady_18|Dame Lyanna Mormont
+trp_kingdom_4_lady_18_pl|Dame Lyanna Mormont
+trp_kingdom_4_lady_19|Meera Reed
+trp_kingdom_4_lady_19_pl|Meera Reed
+trp_kingdom_4_lady_20|Dame Jyana Reed
+trp_kingdom_4_lady_20_pl|Dame Jyana Reed
+trp_kingdom_4_lady_21|Dame Eddara Tallhart
+trp_kingdom_4_lady_21_pl|Dame Eddara Tallhart
+trp_kingdom_4_lady_22|Dame Jonella Cerwyn
+trp_kingdom_4_lady_22_pl|Dame Jonella Cerwyn
+trp_kingdom_4_lady_23|Dame Bethany Locke
+trp_kingdom_4_lady_23_pl|Dame Bethany Locke
+trp_kingdom_4_lady_24|Dame Elise Locke
+trp_kingdom_4_lady_24_pl|Dame Elise Locke
+trp_kingdom_4_lady_25|Dame Alysane Umber
+trp_kingdom_4_lady_25_pl|Dame Alysane Umber
+trp_kingdom_4_lady_26|Dame Wylla Umber
+trp_kingdom_4_lady_26_pl|Dame Wylla Umber
+trp_kingdom_5_lady_1|Joyeuse Erenford
+trp_kingdom_5_lady_1_pl|Joyeuse Erenford
+trp_kingdom_5_lady_2|Perriane Frey
+trp_kingdom_5_lady_2_pl|Perriane Frey
+trp_kingdom_5_lady_3|Shirie Frey
+trp_kingdom_5_lady_3_pl|Shirie Frey
+trp_kingdom_5_lady_4|Walda Frey
+trp_kingdom_5_lady_4_pl|Walda Frey
+trp_kingdom_5_lady_5|Derwa Frey
+trp_kingdom_5_lady_5_pl|Derwa Frey
+trp_kingdom_5_lady_6|Waldra Frey
+trp_kingdom_5_lady_6_pl|Waldra Frey
+trp_kingdom_5_lady_7|Roslin Frey
+trp_kingdom_5_lady_7_pl|Roslin Frey
+trp_kingdom_5_lady_8|Bethany Blackwood
+trp_kingdom_5_lady_8_pl|Bethany Blackwood
+trp_kingdom_5_lady_9|Barbara Bracken
+trp_kingdom_5_lady_9_pl|Barbara Bracken
+trp_kingdom_5_lady_10|Jayne Bracken
+trp_kingdom_5_lady_10_pl|Jayne Bracken
+trp_kingdom_5_lady_11|Catelyn Bracken
+trp_kingdom_5_lady_11_pl|Catelyn Bracken
+trp_kingdom_5_lady_12|Bess Bracken
+trp_kingdom_5_lady_12_pl|Bess Bracken
+trp_kingdom_5_lady_13|Alysanne Bracken
+trp_kingdom_5_lady_13_pl|Alysanne Bracken
+trp_kingdom_5_lady_14|Alerie Paege
+trp_kingdom_5_lady_14_pl|Alerie Paege
+trp_kingdom_5_lady_15|Ravella Swann
+trp_kingdom_5_lady_15_pl|Ravella Swann
+trp_kingdom_5_lady_16|Carellen Smallwood
+trp_kingdom_5_lady_16_pl|Carellen Smallwood
+trp_kingdom_5_lady_17|Liane Vance
+trp_kingdom_5_lady_17_pl|Liane Vance
+trp_kingdom_5_lady_18|Rhialta Vance
+trp_kingdom_5_lady_18_pl|Rhialta Vance
+trp_kingdom_5_lady_19|Emphyria Vance
+trp_kingdom_5_lady_19_pl|Emphyria Vance
+trp_kingdom_6_lady_1|Alerie Tyrell
+trp_kingdom_6_lady_1_pl|Alerie Tyrell
+trp_kingdom_6_lady_3|Mina Redwyne
+trp_kingdom_6_lady_3_pl|Mina Redwyne
+trp_kingdom_6_lady_4|Janna Tyrell
+trp_kingdom_6_lady_4_pl|Janna Tyrell
+trp_kingdom_6_lady_6|Olenna Tyrell
+trp_kingdom_6_lady_6_pl|Olenna Tyrell
+trp_kingdom_6_lady_7|Melessa Florent
+trp_kingdom_6_lady_7_pl|Melessa Florent
+trp_kingdom_6_lady_8|Talla Tarly
+trp_kingdom_6_lady_8_pl|Talla Tarly
+trp_kingdom_6_lady_9|Desmera Redwyne
+trp_kingdom_6_lady_9_pl|Desmera Redwyne
+trp_kingdom_6_lady_10|Dame Rhea Florent
+trp_kingdom_6_lady_10_pl|Dame Rhea Florent
+trp_kingdom_6_lady_11|Dame Bethany Redwyne
+trp_kingdom_6_lady_11_pl|Dame Bethany Redwyne
+trp_kingdom_6_lady_12|Asha Rowan
+trp_kingdom_6_lady_12_pl|Asha Rowan
+trp_kingdom_6_lady_13|Mylenda Caswell
+trp_kingdom_6_lady_13_pl|Mylenda Caswell
+trp_kingdom_6_lady_14|Araline Caswell
+trp_kingdom_6_lady_14_pl|Araline Caswell
+trp_kingdom_6_lady_15|Dame Leonette Fossoway
+trp_kingdom_6_lady_15_pl|Dame Leonette Fossoway
+trp_kingdom_6_lady_16|Dame Olene Tyrell
+trp_kingdom_6_lady_16_pl|Dame Olene Tyrell
+trp_kingdom_6_lady_17|Taena of Myr
+trp_kingdom_6_lady_17_pl|Taena of Myr
+trp_kingdom_7_lady_1|Meralyn Antaryon
+trp_kingdom_7_lady_1_pl|Meralyn Antaryon
+trp_kingdom_7_lady_2|Betharios Antaryon
+trp_kingdom_7_lady_2_pl|Betharios Antaryon
+trp_kingdom_7_lady_3|Yna Volentin
+trp_kingdom_7_lady_3_pl|Yna Volentin
+trp_kingdom_7_lady_4|Svrone Volentin
+trp_kingdom_7_lady_4_pl|Svrone Volentin
+trp_kingdom_7_lady_5|Bellegere Fregar
+trp_kingdom_7_lady_5_pl|Bellegere Fregar
+trp_kingdom_7_lady_6|Brea Fregar
+trp_kingdom_7_lady_6_pl|Brea Fregar
+trp_kingdom_8_lady_1|Alyannys Greyjoy
+trp_kingdom_8_lady_1_pl|Alyannys Greyjoy
+trp_kingdom_8_lady_2|Nessa Bonfrère
+trp_kingdom_8_lady_2_pl|Nessa Bonfrère
+trp_kingdom_8_lady_3|Gysella Bonfrère
+trp_kingdom_8_lady_3_pl|Gysella Bonfrère
+trp_kingdom_8_lady_4|Gwin Bonfrère
+trp_kingdom_8_lady_4_pl|Gwin Bonfrère
+trp_kingdom_8_lady_5|Victaria Bonfrère
+trp_kingdom_8_lady_5_pl|Victaria Bonfrère
+trp_kingdom_8_lady_6|Olivia Bonfrère
+trp_kingdom_8_lady_6_pl|Olivia Bonfrère
+trp_kingdom_8_lady_7|Triselda Bonfrère
+trp_kingdom_8_lady_7_pl|Triselda Bonfrère
+trp_kingdom_8_lady_8|Gormona Bonfrère
+trp_kingdom_8_lady_8_pl|Gormona Bonfrère
+trp_kingdom_8_lady_9|Wilma Bonfrère
+trp_kingdom_8_lady_9_pl|Wilma Bonfrère
+trp_kingdom_8_lady_10|Jovanka Bonfrère
+trp_kingdom_8_lady_10_pl|Jovanka Bonfrère
+trp_kingdom_8_lady_11|Erika Bonfrère
+trp_kingdom_8_lady_11_pl|Erika Bonfrère
+trp_kingdom_8_lady_12|Ingrid Bonfrère
+trp_kingdom_8_lady_12_pl|Ingrid Bonfrère
+trp_kingdom_8_lady_13|Neda Bonfrère
+trp_kingdom_8_lady_13_pl|Neda Bonfrère
+trp_kingdom_8_lady_14|Ursila Bonfrère
+trp_kingdom_8_lady_14_pl|Ursila Bonfrère
+trp_kingdom_8_lady_15|Grisella Wynch
+trp_kingdom_8_lady_15_pl|Grisella Wynch
+trp_kingdom_8_lady_16|Gretchel Wynch
+trp_kingdom_8_lady_16_pl|Gretchel Wynch
+trp_kingdom_8_lady_17|Mlada Merlyn
+trp_kingdom_8_lady_17_pl|Mlada Merlyn
+trp_kingdom_8_lady_18|Rynilla Merlyn
+trp_kingdom_8_lady_18_pl|Rynilla Merlyn
+trp_kingdom_8_lady_19|Quella Botley
+trp_kingdom_8_lady_19_pl|Quella Botley
+trp_kingdom_9_lady_1|Jeyne Fowler
+trp_kingdom_9_lady_1_pl|Jeyne
+trp_kingdom_9_lady_2|Jennelyn Fowler
+trp_kingdom_9_lady_2_pl|Jennelyn
+trp_kingdom_9_lady_3|Ellaria Sand
+trp_kingdom_9_lady_3_pl|Ellaria Sand
+trp_kingdom_9_lady_4|Myria Jordayne
+trp_kingdom_9_lady_4_pl|Myria
+trp_kingdom_9_lady_5|Gwyneth Yronwood
+trp_kingdom_9_lady_5_pl|Gwyneth Yronwood
+trp_kingdom_9_lady_6|Ynys Yronwood
+trp_kingdom_9_lady_6_pl|Ynys Yronwood
+trp_kingdom_9_lady_7|Elia Sand
+trp_kingdom_9_lady_7_pl|Elia Sand
+trp_kingdom_9_lady_8|Obella Sand
+trp_kingdom_9_lady_8_pl|Obella Sand
+trp_kingdom_9_lady_9|Dorea Sand
+trp_kingdom_9_lady_9_pl|Dorea Sand
+trp_kingdom_9_lady_10|Loreza Sand
+trp_kingdom_9_lady_10_pl|Loreza Sand
+trp_kingdom_9_lady_11|Valena Toland
+trp_kingdom_9_lady_11_pl|Valena Toland
+trp_kingdom_9_lady_12|Teora Toland
+trp_kingdom_9_lady_12_pl|Teora Toland
+trp_kingdom_11_lady_1|Wanda
+trp_kingdom_11_lady_1_pl|Wanda
+trp_kingdom_11_lady_2|Heledd
+trp_kingdom_11_lady_2_pl|Heledd
+trp_kingdom_11_lady_3|Munda
+trp_kingdom_11_lady_3_pl|Munda
+trp_kingdom_12_lady_1|Mirakkh
+trp_kingdom_12_lady_1_pl|Mirakkh
+trp_kingdom_12_lady_2|Kova
+trp_kingdom_12_lady_2_pl|Kova
+trp_kingdom_12_lady_3|Athi
+trp_kingdom_12_lady_3_pl|Athi
+trp_kingdom_12_lady_4|Loskisho
+trp_kingdom_12_lady_4_pl|Loskisho
+trp_kingdom_13_lady_1|Alia Moharis
+trp_kingdom_13_lady_1_pl|Alia Moharis
+trp_kingdom_13_lady_2|Sera Moharis
+trp_kingdom_13_lady_2_pl|Sera Moharis
+trp_kingdom_13_lady_3|Serala Moharis
+trp_kingdom_13_lady_3_pl|Serala Moharis
+trp_kingdom_13_lady_4|Bello Taterous
+trp_kingdom_13_lady_4_pl|Bello Taterous
+trp_kingdom_13_lady_5|Orbela Taterous
+trp_kingdom_13_lady_5_pl|Orbela Taterous
+trp_kingdom_13_lady_6|Torna Hortek
+trp_kingdom_13_lady_6_pl|Torna Hortek
+trp_kingdom_13_lady_7|Nora Hortek
+trp_kingdom_13_lady_7_pl|Nora Hortek
+trp_kingdom_15_lady_1|Serala Drahar
+trp_kingdom_15_lady_1_pl|Serala Drahar
+trp_kingdom_15_lady_2|Taena Drahar
+trp_kingdom_15_lady_2_pl|Taena Drahar
+trp_kingdom_15_lady_3|Ternesia Saldorys
+trp_kingdom_15_lady_3_pl|Ternesia Saldorys
+trp_kingdom_15_lady_4|Neseya Saldorys
+trp_kingdom_15_lady_4_pl|Neseya Saldorys
+trp_kingdom_15_lady_5|Leah Albersan
+trp_kingdom_15_lady_5_pl|Leah Albersan
+trp_kingdom_15_lady_6|Serala Albersan
+trp_kingdom_15_lady_6_pl|Serala Albersan
+trp_kingdom_15_lady_7|Lanna Reghor
+trp_kingdom_15_lady_7_pl|Lanna Reghor
+trp_kingdom_15_lady_8|Moredea Reghor
+trp_kingdom_15_lady_8_pl|Moredea Reghor
+trp_kingdom_16_lady_1|Sybelle Tumitus
+trp_kingdom_16_lady_1_pl|Sybelle Tumitus
+trp_kingdom_16_lady_2|Neseya Tumitus
+trp_kingdom_16_lady_2_pl|Neseya Tumitus
+trp_kingdom_16_lady_3|Trianna Uhoris
+trp_kingdom_16_lady_3_pl|Trianna Uhoris
+trp_kingdom_16_lady_4|Mera Uhoris
+trp_kingdom_16_lady_4_pl|Mera Uhoris
+trp_kingdom_16_lady_5|Saelysa Hestoris
+trp_kingdom_16_lady_5_pl|Saelysa Hestoris
+trp_kingdom_16_lady_6|Melora Hestoris
+trp_kingdom_16_lady_6_pl|Melora Hestoris
+trp_kingdom_16_lady_7|Nesera Stassyr
+trp_kingdom_16_lady_7_pl|Nesera Stassyr
+trp_kingdom_16_lady_8|Doreah Stassyr
+trp_kingdom_16_lady_8_pl|Doreah Stassyr
+trp_kingdom_17_lady_1|Mera Aloran
+trp_kingdom_17_lady_1_pl|Mera Aloran
+trp_kingdom_17_lady_2|Niliria Aloran
+trp_kingdom_17_lady_2_pl|Niliria Aloran
+trp_kingdom_17_lady_3|Talea Oloryon
+trp_kingdom_17_lady_3_pl|Talea Oloryon
+trp_kingdom_17_lady_4|Oloryon
+trp_kingdom_17_lady_4_pl|Oloryon
+trp_kingdom_17_lady_5|Saelysa Phassar
+trp_kingdom_17_lady_5_pl|Saelysa Phassar
+trp_kingdom_17_lady_6|Ilora Phassar
+trp_kingdom_17_lady_6_pl|Ilora Phassar
+trp_kingdom_17_lady_7|Melora Balerio
+trp_kingdom_17_lady_7_pl|Melora Balerio
+trp_kingdom_17_lady_8|Shae Balerio
+trp_kingdom_17_lady_8_pl|Shae Balerio
+trp_kingdom_18_lady_1|Cersei Lannister
+trp_kingdom_18_lady_1_pl|Cersei Lannister
+trp_kingdom_18_lady_2|Myrcella Baratheon
+trp_kingdom_18_lady_2_pl|Myrcella Baratheon
+trp_kingdom_18_lady_3|Dorna Swyft
+trp_kingdom_18_lady_3_pl|Dorna Swyft
+trp_kingdom_18_lady_4|Abbey Rykker
+trp_kingdom_18_lady_4_pl|Abbey Rykker
+trp_kingdom_18_lady_6|Abigail Rykker
+trp_kingdom_18_lady_6_pl|Abigail Rykker
+trp_kingdom_18_lady_8|Petrola Lefford
+trp_kingdom_18_lady_8_pl|Petrola Lefford
+trp_kingdom_18_lady_9|Alysanne Lefford
+trp_kingdom_18_lady_9_pl|Alysanne Lefford
+trp_kingdom_18_lady_10|Elenya Marbrand
+trp_kingdom_18_lady_10_pl|Elenya Marbrand
+trp_kingdom_18_lady_11|Janei Lannister
+trp_kingdom_18_lady_11_pl|Janei Lannister
+trp_kingdom_18_lady_13|Elyssa Lydden
+trp_kingdom_18_lady_13_pl|Elyssa Lydden
+trp_kingdom_18_lady_14|Marketa Lydden
+trp_kingdom_18_lady_14_pl|Marketa Lydden
+trp_kingdom_18_lady_15|Heloise Swyft
+trp_kingdom_18_lady_15_pl|Heloise Swyft
+trp_kingdom_18_lady_16|Fenica Banefort
+trp_kingdom_18_lady_16_pl|Fenica Banefort
+trp_kingdom_18_lady_17|Sybell Spicer
+trp_kingdom_18_lady_17_pl|Sybell Spicer
+trp_kingdom_18_lady_18|Eleyna Westerling
+trp_kingdom_18_lady_18_pl|Eleyna Westerling
+trp_kingdom_18_lady_19|Jeyne Westerling
+trp_kingdom_18_lady_19_pl|Jeyne Westerling
+trp_kingdom_18_lady_20|Liane Prester
+trp_kingdom_18_lady_20_pl|Liane Prester
+trp_kingdom_18_lady_26|Jeyne Farman
+trp_kingdom_18_lady_26_pl|Jeyne Farman
+trp_kingdom_19_lady_1|Lynesse Hightower
+trp_kingdom_19_lady_1_pl|Lynesse Hightower
+trp_kingdom_19_lady_2|Serenei Ormollen
+trp_kingdom_19_lady_2_pl|Serenei Ormollen
+trp_kingdom_19_lady_3|Nesera Vaelaro
+trp_kingdom_19_lady_3_pl|Nesera Vaelaro
+trp_kingdom_19_lady_4|Melaena Vaelaro
+trp_kingdom_19_lady_4_pl|Melaena Vaelaro
+trp_kingdom_19_lady_5|Dileah Noslyn
+trp_kingdom_19_lady_5_pl|Dileah Noslyn
+trp_kingdom_19_lady_6|Dora Noslyn
+trp_kingdom_19_lady_6_pl|Dora Noslyn
+trp_kingdom_19_lady_7|Vella Ormyl
+trp_kingdom_19_lady_7_pl|Vella Ormyl
+trp_kingdom_19_lady_8|Doreah Ormyl
+trp_kingdom_19_lady_8_pl|Doreah Ormyl
+trp_kingdom_20_lady_1|Qarria Talordis
+trp_kingdom_20_lady_1_pl|Qarria Talordis
+trp_kingdom_20_lady_2|Lanna Talordis
+trp_kingdom_20_lady_2_pl|Lanna Talordis
+trp_kingdom_20_lady_3|Serenei Adory
+trp_kingdom_20_lady_3_pl|Serenei Adory
+trp_kingdom_20_lady_4|Ferra Adory
+trp_kingdom_20_lady_4_pl|Ferra Adory
+trp_kingdom_20_lady_5|Isla Maario
+trp_kingdom_20_lady_5_pl|Isla Maario
+trp_kingdom_20_lady_6|Ingen Maario
+trp_kingdom_20_lady_6_pl|Ingen Maario
+trp_kingdom_20_lady_7|Isla Voatar
+trp_kingdom_20_lady_7_pl|Isla Voatar
+trp_kingdom_20_lady_8|Lanna Voatar
+trp_kingdom_20_lady_8_pl|Lanna Voatar
+trp_kingdom_21_lady_1|Alearys Nyessos
+trp_kingdom_21_lady_1_pl|Alearys Nyessos
+trp_kingdom_21_lady_2|Alia Nyessos
+trp_kingdom_21_lady_2_pl|Alia Nyessos
+trp_kingdom_21_lady_3|Sybelle Qhaedar
+trp_kingdom_21_lady_3_pl|Sybelle Qhaedar
+trp_kingdom_21_lady_4|Talisa Qhaedar
+trp_kingdom_21_lady_4_pl|Talisa Qhaedar
+trp_kingdom_21_lady_5|Trianna Vaelaros
+trp_kingdom_21_lady_5_pl|Trianna Vaelaros
+trp_kingdom_21_lady_6|Lothea Vaelaros
+trp_kingdom_21_lady_6_pl|Lothea Vaelaros
+trp_kingdom_21_lady_7|Alia Staegone
+trp_kingdom_21_lady_7_pl|Alia Staegone
+trp_kingdom_21_lady_8|Talisa Staegone
+trp_kingdom_21_lady_8_pl|Talisa Staegone
+trp_kingdom_21_lady_9|Honorra Doniphos
+trp_kingdom_21_lady_9_pl|Honorra Doniphos
+trp_kingdom_21_lady_10|Torma Doniphos
+trp_kingdom_21_lady_10_pl|Torma Doniphos
+trp_kingdom_22_lady_1|Reine Margaery Tyrell
+trp_kingdom_22_lady_1_pl|Margaery Tyrell
+trp_kingdom_22_lady_2|Dame Alynne Connington
+trp_kingdom_22_lady_2_pl|Alynne Connington
+trp_kingdom_22_lady_3|Dame Shyra
+trp_kingdom_22_lady_3_pl|Shyra
+trp_kingdom_22_lady_4|Dame Donyse Caron
+trp_kingdom_22_lady_4_pl|Donyse Caron
+trp_kingdom_22_lady_5|Dame Daniela Estermont
+trp_kingdom_22_lady_5_pl|Daniela Estermont
+trp_kingdom_22_lady_6|Dame Araline Wylde
+trp_kingdom_22_lady_6_pl|Araline Wylde
+trp_kingdom_22_lady_7|Dame Beryl Wylde
+trp_kingdom_22_lady_7_pl|Beryl Wylde
+trp_kingdom_22_lady_8|Dame Alerie Buckler
+trp_kingdom_22_lady_8_pl|Alerie Buckler
+trp_kingdom_22_lady_9|Dame Alery Buckler
+trp_kingdom_22_lady_9_pl|Alery Buckler
+trp_kingdom_22_lady_10|Dame Malora Mullendore
+trp_kingdom_22_lady_10_pl|Malora Mullendore
 trp_town_1_arena_master|Maître du tournoi
 trp_town_2_arena_master|Maître du tournoi
 trp_town_3_arena_master|Maître du tournoi
@@ -2616,7 +2616,7 @@ trp_town_30_merchant|Marchand
 trp_town_31_merchant|Marchand
 trp_town_32_merchant|Marchand
 trp_town_33_merchant|Marchand
-trp_town_34_merchant|Vassof{***}
+trp_town_34_merchant|Vassof
 trp_town_35_merchant|Marchand
 trp_town_36_merchant|Marchand
 trp_town_37_merchant|Marchand
@@ -2625,10 +2625,10 @@ trp_town_39_merchant|Marchand
 trp_town_40_merchant|Marchand
 trp_town_41_merchant|Marchand
 trp_town_42_merchant|Marchand
-trp_salt_mine_merchant|Wilfred{***}
-trp_salt_mine_merchant_pl|Wilfred{***}
-trp_iron_mine_merchant|Petyr{***}
-trp_iron_mine_merchant_pl|Petyr{***}
+trp_salt_mine_merchant|Wilfred
+trp_salt_mine_merchant_pl|Wilfred
+trp_iron_mine_merchant|Petyr
+trp_iron_mine_merchant_pl|Petyr
 trp_town_1_horse_merchant|Marchand de chevaux
 trp_town_2_horse_merchant|Marchand de chevaux
 trp_town_3_horse_merchant|Marchand de chevaux
@@ -2636,7 +2636,7 @@ trp_town_4_horse_merchant|Marchand de chevaux
 trp_town_5_horse_merchant|Marchand de chevaux
 trp_town_6_horse_merchant|Marchand de chevaux
 trp_town_7_horse_merchant|Marchand de chevaux
-trp_town_8_horse_merchant|Harwin{***}
+trp_town_8_horse_merchant|Harwin
 trp_town_9_horse_merchant|Marchand de chevaux
 trp_town_10_horse_merchant|Marchand de chevaux
 trp_town_11_horse_merchant|Marchand de chevaux
@@ -2662,7 +2662,7 @@ trp_town_30_horse_merchant|Marchand de chevaux
 trp_town_31_horse_merchant|Marchand de chevaux
 trp_town_32_horse_merchant|Marchand de chevaux
 trp_town_33_horse_merchant|Marchand de chevaux
-trp_town_34_horse_merchant|Qoskishi{***}
+trp_town_34_horse_merchant|Qoskishi
 trp_town_35_horse_merchant|Marchand de chevaux
 trp_town_36_horse_merchant|Marchand de chevaux
 trp_town_37_horse_merchant|Marchand de chevaux
@@ -2704,7 +2704,7 @@ trp_town_30_mayor|Maître de guilde
 trp_town_31_mayor|Maître de guilde
 trp_town_32_mayor|Maître de guilde
 trp_town_33_mayor|Maître de guilde
-trp_town_34_mayor|Chakh{***}
+trp_town_34_mayor|Chakh
 trp_town_35_mayor|Maître de guilde
 trp_town_36_mayor|Maître de guilde
 trp_town_37_mayor|Maître de guilde
@@ -2767,7 +2767,7 @@ trp_village_50_elder|Ancien du Village
 trp_village_51_elder|Ancien du Village
 trp_village_52_elder|Ancien du Village
 trp_village_53_elder|Wigmund the Elder{***}
-trp_village_54_elder|du Nord Clansman Chief{***}
+trp_village_54_elder|Nord Clansman Chief{***}
 trp_village_55_elder|Moon Brother Chief{***}
 trp_village_56_elder|Ancien du Village
 trp_village_57_elder|Ancien du Village
@@ -2798,7 +2798,7 @@ trp_village_81_elder|Ancien du Village
 trp_village_82_elder|Aesc the Elder{***}
 trp_village_83_elder|Ancien du Village
 trp_village_84_elder|Ancien du Village
-trp_village_85_elder|Atharrat{***}
+trp_village_85_elder|Atharrat
 trp_village_86_elder|Ancien du Village
 trp_village_87_elder|Ancien du Village
 trp_village_88_elder|Ancien du Village
@@ -2827,7 +2827,7 @@ trp_village_104_elder|Ancien du Village
 trp_village_105_elder|Ancien du Village
 trp_village_106_elder|Ancien du Village
 trp_village_107_elder|Ancien du Village
-trp_village_108_elder|Hrakat{***}
+trp_village_108_elder|Hrakat
 trp_village_109_elder|Ancien du Village
 trp_village_110_elder|Ancien du Village
 trp_village_111_elder|Ancien du Village
@@ -2897,100 +2897,100 @@ trp_village_174_elder|Ancien du Village
 trp_village_175_elder|Ancien du Village
 trp_village_176_elder|Ancien du Village
 trp_village_177_elder|Ancien du Village
-trp_brigand_hideout_merchant|Bandit Marchand
-trp_brigand_hideout_merchant_pl|Bandit merchants{***}
-trp_monje_mercader|Monk Marchand
-trp_monje_mercader_pl|Monks merchants{***}
-trp_especial_merchant|Travelling Marchand
-trp_especial_merchant_pl|Travelling Marchand
-trp_merchants_end|merchants end{***}
-trp_merchants_end_pl|merchants end{***}
-trp_town_1_healer|Guérisseur{***}
-trp_town_2_healer|Guérisseur{***}
-trp_town_3_healer|Guérisseur{***}
-trp_town_4_healer|Guérisseur{***}
-trp_town_5_healer|Guérisseur{***}
-trp_town_6_healer|Guérisseur{***}
-trp_town_7_healer|Guérisseur{***}
-trp_town_8_healer|Guérisseur{***}
-trp_town_9_healer|Guérisseur{***}
-trp_town_10_healer|Guérisseur{***}
-trp_town_11_healer|Guérisseur{***}
-trp_town_12_healer|Guérisseur{***}
-trp_town_13_healer|Guérisseur{***}
-trp_town_14_healer|Guérisseur{***}
-trp_town_15_healer|Guérisseur{***}
-trp_town_16_healer|Guérisseur{***}
-trp_town_17_healer|Guérisseur{***}
-trp_town_18_healer|Guérisseur{***}
-trp_town_19_healer|Guérisseur{***}
-trp_town_20_healer|Guérisseur{***}
-trp_town_21_healer|Guérisseur{***}
-trp_town_22_healer|Guérisseur{***}
-trp_town_23_healer|Guérisseur{***}
-trp_town_24_healer|Guérisseur{***}
-trp_town_25_healer|Guérisseur{***}
-trp_town_26_healer|Guérisseur{***}
-trp_town_27_healer|Guérisseur{***}
-trp_town_28_healer|Guérisseur{***}
-trp_town_29_healer|Guérisseur{***}
-trp_town_30_healer|Guérisseur{***}
-trp_town_31_healer|Guérisseur{***}
-trp_town_32_healer|Guérisseur{***}
-trp_town_33_healer|Guérisseur{***}
-trp_town_34_healer|Guérisseur{***}
-trp_town_35_healer|Guérisseur{***}
-trp_town_36_healer|Guérisseur{***}
-trp_town_37_healer|Guérisseur{***}
-trp_town_38_healer|Guérisseur{***}
-trp_town_39_healer|Guérisseur{***}
-trp_town_40_healer|Guérisseur{***}
-trp_town_41_healer|Guérisseur{***}
-trp_town_42_healer|Guérisseur{***}
+trp_brigand_hideout_merchant|Bandit Marchand{***}
+trp_brigand_hideout_merchant_pl|Bandit Marchands{***}
+trp_monje_mercader|Monk Marchand{***}
+trp_monje_mercader_pl|Monks Marchands{***}
+trp_especial_merchant|Travelling Marchand{***}
+trp_especial_merchant_pl|Travelling Marchand{***}
+trp_Marchands_end|Marchands end{***}
+trp_Marchands_end_pl|Marchands end{***}
+trp_town_1_healer|Guérisseur
+trp_town_2_healer|Guérisseur
+trp_town_3_healer|Guérisseur
+trp_town_4_healer|Guérisseur
+trp_town_5_healer|Guérisseur
+trp_town_6_healer|Guérisseur
+trp_town_7_healer|Guérisseur
+trp_town_8_healer|Guérisseur
+trp_town_9_healer|Guérisseur
+trp_town_10_healer|Guérisseur
+trp_town_11_healer|Guérisseur
+trp_town_12_healer|Guérisseur
+trp_town_13_healer|Guérisseur
+trp_town_14_healer|Guérisseur
+trp_town_15_healer|Guérisseur
+trp_town_16_healer|Guérisseur
+trp_town_17_healer|Guérisseur
+trp_town_18_healer|Guérisseur
+trp_town_19_healer|Guérisseur
+trp_town_20_healer|Guérisseur
+trp_town_21_healer|Guérisseur
+trp_town_22_healer|Guérisseur
+trp_town_23_healer|Guérisseur
+trp_town_24_healer|Guérisseur
+trp_town_25_healer|Guérisseur
+trp_town_26_healer|Guérisseur
+trp_town_27_healer|Guérisseur
+trp_town_28_healer|Guérisseur
+trp_town_29_healer|Guérisseur
+trp_town_30_healer|Guérisseur
+trp_town_31_healer|Guérisseur
+trp_town_32_healer|Guérisseur
+trp_town_33_healer|Guérisseur
+trp_town_34_healer|Guérisseur
+trp_town_35_healer|Guérisseur
+trp_town_36_healer|Guérisseur
+trp_town_37_healer|Guérisseur
+trp_town_38_healer|Guérisseur
+trp_town_39_healer|Guérisseur
+trp_town_40_healer|Guérisseur
+trp_town_41_healer|Guérisseur
+trp_town_42_healer|Guérisseur
 trp_healer_end|Guérisseur end{***}
-trp_town_1_shipwright|Charpentier{***}
-trp_town_2_shipwright|Charpentier{***}
-trp_town_3_shipwright|Charpentier{***}
+trp_town_1_shipwright|Constructeur de navires
+trp_town_2_shipwright|Constructeur de navires
+trp_town_3_shipwright|Constructeur de navires
 trp_port_chief|Port Master{***}
 trp_port_chief_pl|Port Masters{***}
-trp_town_5_shipwright|Charpentier{***}
+trp_town_5_shipwright|Constructeur de navires
 trp_town_6_shipwright|Master of Ships{***}
-trp_town_7_shipwright|Charpentier{***}
-trp_town_8_shipwright|Charpentier{***}
-trp_town_9_shipwright|Charpentier{***}
-trp_town_10_shipwright|Charpentier{***}
-trp_town_11_shipwright|Charpentier{***}
-trp_town_12_shipwright|Charpentier{***}
-trp_town_13_shipwright|Charpentier{***}
-trp_town_14_shipwright|Charpentier{***}
-trp_town_15_shipwright|Charpentier{***}
-trp_town_16_shipwright|Charpentier{***}
-trp_town_17_shipwright|Charpentier{***}
-trp_town_18_shipwright|Charpentier{***}
-trp_town_19_shipwright|Charpentier{***}
-trp_town_20_shipwright|Charpentier{***}
-trp_town_21_shipwright|Charpentier{***}
-trp_town_22_shipwright|Charpentier{***}
-trp_town_23_shipwright|Charpentier{***}
-trp_town_24_shipwright|Charpentier{***}
-trp_town_25_shipwright|Charpentier{***}
-trp_town_26_shipwright|Charpentier{***}
-trp_town_27_shipwright|Charpentier{***}
-trp_town_28_shipwright|Charpentier{***}
-trp_town_29_shipwright|Charpentier{***}
-trp_town_30_shipwright|Charpentier{***}
-trp_town_31_shipwright|Charpentier{***}
-trp_town_32_shipwright|Charpentier{***}
-trp_town_33_shipwright|Charpentier{***}
-trp_town_34_shipwright|Charpentier{***}
-trp_town_35_shipwright|Charpentier{***}
-trp_town_36_shipwright|Charpentier{***}
-trp_town_37_shipwright|Charpentier{***}
-trp_town_38_shipwright|Charpentier{***}
-trp_town_39_shipwright|Charpentier{***}
-trp_town_40_shipwright|Charpentier{***}
-trp_town_41_shipwright|Charpentier{***}
-trp_town_42_shipwright|Charpentier{***}
+trp_town_7_shipwright|Constructeur de navires
+trp_town_8_shipwright|Constructeur de navires
+trp_town_9_shipwright|Constructeur de navires
+trp_town_10_shipwright|Constructeur de navires
+trp_town_11_shipwright|Constructeur de navires
+trp_town_12_shipwright|Constructeur de navires
+trp_town_13_shipwright|Constructeur de navires
+trp_town_14_shipwright|Constructeur de navires
+trp_town_15_shipwright|Constructeur de navires
+trp_town_16_shipwright|Constructeur de navires
+trp_town_17_shipwright|Constructeur de navires
+trp_town_18_shipwright|Constructeur de navires
+trp_town_19_shipwright|Constructeur de navires
+trp_town_20_shipwright|Constructeur de navires
+trp_town_21_shipwright|Constructeur de navires
+trp_town_22_shipwright|Constructeur de navires
+trp_town_23_shipwright|Constructeur de navires
+trp_town_24_shipwright|Constructeur de navires
+trp_town_25_shipwright|Constructeur de navires
+trp_town_26_shipwright|Constructeur de navires
+trp_town_27_shipwright|Constructeur de navires
+trp_town_28_shipwright|Constructeur de navires
+trp_town_29_shipwright|Constructeur de navires
+trp_town_30_shipwright|Constructeur de navires
+trp_town_31_shipwright|Constructeur de navires
+trp_town_32_shipwright|Constructeur de navires
+trp_town_33_shipwright|Constructeur de navires
+trp_town_34_shipwright|Constructeur de navires
+trp_town_35_shipwright|Constructeur de navires
+trp_town_36_shipwright|Constructeur de navires
+trp_town_37_shipwright|Constructeur de navires
+trp_town_38_shipwright|Constructeur de navires
+trp_town_39_shipwright|Constructeur de navires
+trp_town_40_shipwright|Constructeur de navires
+trp_town_41_shipwright|Constructeur de navires
+trp_town_42_shipwright|Constructeur de navires
 trp_shipwright_end|Boar{***}
 trp_shipwright_end_pl|Boars{***}
 trp_npc17|Dagmer{***}
@@ -3025,8 +3025,8 @@ trp_npc52|Denzo D'han{***}
 trp_npc52_pl|Denzo D'han{***}
 trp_urho|Urho the Unwashed{***}
 trp_urho_pl|Urho the Unwashed{***}
-trp_lady_korra|Lady Korra{***}
-trp_lady_korra_pl|Lady Korra{***}
+trp_lady_korra|Dame Korra{***}
+trp_lady_korra_pl|Dame Korra{***}
 trp_shrouded_lord|Shrouded Seigneur{***}
 trp_shrouded_lord_pl|Shrouded Seigneur{***}
 trp_mero|Mero{***}
@@ -3051,54 +3051,54 @@ trp_missandei|Missandei{***}
 trp_missandei_pl|Missandei{***}
 trp_robin_arryn|Robert of the Vale{***}
 trp_robin_arryn_pl|Robert of the Vale{***}
-trp_npc31|Grand Maester Pycell{***}
-trp_npc31_pl|Grand Maester Pycell{***}
-trp_npc32|Maester Lewin{***}
-trp_npc32_pl|Maester Lewin{***}
-trp_npc36|Maester Aemon Targaryen{***}
-trp_npc36_pl|Maester Aemon Targaryen{***}
+trp_npc31|Grand Mestres Pycell{***}
+trp_npc31_pl|Grand Mestres Pycell{***}
+trp_npc32|Mestres Lewin{***}
+trp_npc32_pl|Mestres Lewin{***}
+trp_npc36|Mestres Aemon Targaryen{***}
+trp_npc36_pl|Mestres Aemon Targaryen{***}
 trp_npc38|Petyr Baelish{***}
 trp_npc38_pl|Petyr Baelish{***}
-trp_npc37|Maester Cressen{***}
-trp_npc37_pl|Maester Cressen{***}
-trp_npc40|Maester Coleman{***}
-trp_npc40_pl|Maester Coleman{***}
-trp_npc41|Maester Harmune{***}
-trp_npc41_pl|Maester Harmune{***}
-trp_npc42|Maester Mullin{***}
-trp_npc42_pl|Maester Mullin{***}
-trp_npc43|Maester Wendamyr{***}
-trp_npc43_pl|Maester Wendamyr{***}
-trp_npc44|Maester Gormon{***}
-trp_npc44_pl|Maester Gormon{***}
-trp_npc45|Maester Theomore{***}
-trp_npc45_pl|Maester Theomore{***}
-trp_npc46|Maester Gulian{***}
-trp_npc46_pl|Maester Gulian{***}
-trp_maester_tybald|Maester Tybald{***}
-trp_maester_tybald_pl|Maester Tybald{***}
-trp_fort_maester|Maester Moryn{***}
-trp_fort_maester_pl|Maester Moryn{***}
-trp_npc47|Maester Myles{***}
-trp_npc47_pl|Maester Myles{***}
-trp_maester1|Maester Volarik{***}
-trp_maester1_pl|Maester Volarik{***}
-trp_maester2|Maester Helliweg{***}
-trp_maester2_pl|Maester Helliweg{***}
-trp_maester4|Maester Beron{***}
-trp_maester4_pl|Maester Beron{***}
-trp_maester5|Maester Addam{***}
-trp_maester5_pl|Maester Addam{***}
-trp_maester6|Maester Galladon{***}
-trp_maester6_pl|Maester Galladon{***}
-trp_maester7|Maester Felton{***}
-trp_maester7_pl|Maester Felton{***}
-trp_maester8|Maester{***}
-trp_maester8_pl|Maester{***}
-trp_maester9|Maester{***}
-trp_maester9_pl|Maester{***}
-trp_maester10|Maester{***}
-trp_maester10_pl|Maester{***}
+trp_npc37|Mestres Cressen{***}
+trp_npc37_pl|Mestres Cressen{***}
+trp_npc40|Mestres Coleman{***}
+trp_npc40_pl|Mestres Coleman{***}
+trp_npc41|Mestres Harmune{***}
+trp_npc41_pl|Mestres Harmune{***}
+trp_npc42|Mestres Mullin{***}
+trp_npc42_pl|Mestres Mullin{***}
+trp_npc43|Mestres Wendamyr{***}
+trp_npc43_pl|Mestres Wendamyr{***}
+trp_npc44|Mestres Gormon{***}
+trp_npc44_pl|Mestres Gormon{***}
+trp_npc45|Mestres Theomore{***}
+trp_npc45_pl|Mestres Theomore{***}
+trp_npc46|Mestres Gulian{***}
+trp_npc46_pl|Mestres Gulian{***}
+trp_maester_tybald|Mestres Tybald{***}
+trp_maester_tybald_pl|Mestres Tybald{***}
+trp_fort_maester|Mestres Moryn{***}
+trp_fort_maester_pl|Mestres Moryn{***}
+trp_npc47|Mestres Myles{***}
+trp_npc47_pl|Mestres Myles{***}
+trp_maester1|Mestres Volarik{***}
+trp_maester1_pl|Mestres Volarik{***}
+trp_maester2|Mestres Helliweg{***}
+trp_maester2_pl|Mestres Helliweg{***}
+trp_maester4|Mestres Beron{***}
+trp_maester4_pl|Mestres Beron{***}
+trp_maester5|Mestres Addam{***}
+trp_maester5_pl|Mestres Addam{***}
+trp_maester6|Mestres Galladon{***}
+trp_maester6_pl|Mestres Galladon{***}
+trp_maester7|Mestres Felton{***}
+trp_maester7_pl|Mestres Felton{***}
+trp_maester8|Mestres{***}
+trp_maester8_pl|Mestres{***}
+trp_maester9|Mestres{***}
+trp_maester9_pl|Mestres{***}
+trp_maester10|Mestres{***}
+trp_maester10_pl|Mestres{***}
 trp_npc48|Old Nan{***}
 trp_npc48_pl|Old Nan{***}
 trp_beric|Beric Dondarion{***}
@@ -3223,24 +3223,24 @@ trp_alfyn|Alfyn Crowkiller{***}
 trp_alfyn_pl|Alfyn Crowkiller{***}
 trp_jarl|Jarl{***}
 trp_jarl_pl|Jarl{***}
-trp_jon_snow|Jon Snow{***}
-trp_jon_snow_pl|Jon Snow{***}
+trp_jon_snow|Jon Snow
+trp_jon_snow_pl|Jon Snow
 trp_white_harbour_trainer|Ser Bartimus{***}
 trp_white_harbour_trainer_pl|Ser Bartimus{***}
 trp_highgarden_trainer|Ser Vortimer Crane{***}
 trp_highgarden_trainer_pl|Ser Vortimer Crane{***}
-trp_dragonstone_trainer|Master at Arms{***}
-trp_dragonstone_trainer_pl|Master at Arms{***}
-trp_thenn_trainer|Master at Arms{***}
-trp_thenn_trainer_pl|Master at Arms{***}
+trp_dragonstone_trainer|Maître d'armes
+trp_dragonstone_trainer_pl|Maître d'armes
+trp_thenn_trainer|Maître d'armes
+trp_thenn_trainer_pl|Maître d'armes
 trp_braavos_trainer|Kindly Man{***}
 trp_braavos_trainer_pl|Kindly Man{***}
 trp_sunspear_trainer|Areo Hotah{***}
 trp_sunspear_trainer_pl|Areo Hotah{***}
 trp_oldtown_trainer|Ser Garth Hightower{***}
 trp_oldtown_trainer_pl|Ser Garth Hightower{***}
-trp_pyke_trainer|Master at Arms{***}
-trp_pyke_trainer_pl|Master at Arms{***}
+trp_pyke_trainer|Maître d'armes
+trp_pyke_trainer_pl|Maître d'armes
 trp_kings_landing_trainer|Janos Slynt{***}
 trp_kings_landing_trainer_pl|Janos Slynt{***}
 trp_lannister_trainer|Ser Benedict Broom{***}
@@ -3257,70 +3257,70 @@ trp_hallyne|Hallyne the Pyromancer{***}
 trp_hallyne_pl|Hallyne the Pyromancer{***}
 trp_maester_citadel|Novice Mollander{***}
 trp_maester_citadel_pl|Novice Mollander{***}
-trp_kingdom_1_merchant|Vale Blacksmith{***}
-trp_kingdom_1_merchant_pl|Vale Blacksmith{***}
-trp_kingdom_2_merchant|Blacksmith{***}
-trp_kingdom_2_merchant_pl|Blacksmith{***}
-trp_kingdom_3_merchant|Blacksmith{***}
-trp_kingdom_3_merchant_pl|Blacksmith{***}
-trp_kingdom_4_merchant|North Blacksmith{***}
-trp_kingdom_4_merchant_pl|North Blacksmith{***}
-trp_kingdom_5_merchant|Blacksmith{***}
-trp_kingdom_5_merchant_pl|Blacksmith{***}
-trp_kingdom_6_merchant|Blacksmith{***}
-trp_kingdom_6_merchant_pl|Blacksmith{***}
-trp_kingdom_7_merchant|Blacksmith{***}
-trp_kingdom_7_merchant_pl|Blacksmith{***}
-trp_kingdom_8_merchant|Blacksmith{***}
-trp_kingdom_8_merchant_pl|Blacksmith{***}
-trp_kingdom_9_merchant|Blacksmith{***}
-trp_kingdom_9_merchant_pl|Blacksmith{***}
-trp_kingdom_10_merchant|Blacksmith{***}
-trp_kingdom_10_merchant_pl|Blacksmith{***}
-trp_kingdom_11_merchant|Blacksmith{***}
-trp_kingdom_11_merchant_pl|Blacksmith{***}
-trp_kingdom_12_merchant|Blacksmith{***}
-trp_kingdom_12_merchant_pl|Blacksmith{***}
-trp_kingdom_13_merchant|Blacksmith{***}
-trp_kingdom_13_merchant_pl|Blacksmith{***}
-trp_kingdom_14_merchant|Blacksmith{***}
-trp_kingdom_14_merchant_pl|Blacksmith{***}
-trp_kingdom_14_1_merchant|Blacksmith{***}
-trp_kingdom_14_1_merchant_pl|Blacksmith{***}
-trp_kingdom_15_merchant|Blacksmith{***}
-trp_kingdom_15_merchant_pl|Blacksmith{***}
-trp_kingdom_16_merchant|Blacksmith{***}
-trp_kingdom_16_merchant_pl|Blacksmith{***}
-trp_kingdom_17_merchant|Blacksmith{***}
-trp_kingdom_17_merchant_pl|Blacksmith{***}
-trp_kingdom_18_merchant|Westerlander Blacksmith{***}
-trp_kingdom_18_merchant_pl|Westerlander Blacksmith{***}
-trp_kingdom_19_merchant|Blacksmith{***}
-trp_kingdom_19_merchant_pl|Blacksmith{***}
-trp_kingdom_20_merchant|Blacksmith{***}
-trp_kingdom_20_merchant_pl|Blacksmith{***}
-trp_kingdom_21_merchant|Blacksmith{***}
-trp_kingdom_21_merchant_pl|Blacksmith{***}
-trp_kingdom_22_merchant|Blacksmith{***}
-trp_kingdom_22_merchant_pl|Blacksmith{***}
-trp_town_6_special_merchant|Blacksmith{***}
-trp_town_6_special_merchant_pl|Blacksmith{***}
-trp_bolton_merchant|Bolton Blacksmith{***}
-trp_bolton_merchant_pl|Bolton Blacksmith{***}
-trp_stark_merchant|Stark Blacksmith{***}
-trp_stark_merchant_pl|Stark Blacksmith{***}
-trp_karstark_merchant|Karstark Blacksmith{***}
-trp_karstark_merchant_pl|Karstark Blacksmith{***}
-trp_lannister_merchant|Lannister Blacksmith{***}
-trp_lannister_merchant_pl|Lannister Blacksmith{***}
-trp_frey_merchant|Frey Blacksmith{***}
-trp_frey_merchant_pl|Frey Blacksmith{***}
-trp_umber_merchant|Umber Blacksmith{***}
-trp_umber_merchant_pl|Umber Blacksmith{***}
+trp_kingdom_1_merchant|Vale Forgeron{***}
+trp_kingdom_1_merchant_pl|Vale Forgeron{***}
+trp_kingdom_2_merchant|Forgeron{***}
+trp_kingdom_2_merchant_pl|Forgeron{***}
+trp_kingdom_3_merchant|Forgeron{***}
+trp_kingdom_3_merchant_pl|Forgeron{***}
+trp_kingdom_4_merchant|North Forgeron{***}
+trp_kingdom_4_merchant_pl|North Forgeron{***}
+trp_kingdom_5_merchant|Forgeron{***}
+trp_kingdom_5_merchant_pl|Forgeron{***}
+trp_kingdom_6_merchant|Forgeron{***}
+trp_kingdom_6_merchant_pl|Forgeron{***}
+trp_kingdom_7_merchant|Forgeron{***}
+trp_kingdom_7_merchant_pl|Forgeron{***}
+trp_kingdom_8_merchant|Forgeron{***}
+trp_kingdom_8_merchant_pl|Forgeron{***}
+trp_kingdom_9_merchant|Forgeron{***}
+trp_kingdom_9_merchant_pl|Forgeron{***}
+trp_kingdom_10_merchant|Forgeron{***}
+trp_kingdom_10_merchant_pl|Forgeron{***}
+trp_kingdom_11_merchant|Forgeron{***}
+trp_kingdom_11_merchant_pl|Forgeron{***}
+trp_kingdom_12_merchant|Forgeron{***}
+trp_kingdom_12_merchant_pl|Forgeron{***}
+trp_kingdom_13_merchant|Forgeron{***}
+trp_kingdom_13_merchant_pl|Forgeron{***}
+trp_kingdom_14_merchant|Forgeron{***}
+trp_kingdom_14_merchant_pl|Forgeron{***}
+trp_kingdom_14_1_merchant|Forgeron{***}
+trp_kingdom_14_1_merchant_pl|Forgeron{***}
+trp_kingdom_15_merchant|Forgeron{***}
+trp_kingdom_15_merchant_pl|Forgeron{***}
+trp_kingdom_16_merchant|Forgeron{***}
+trp_kingdom_16_merchant_pl|Forgeron{***}
+trp_kingdom_17_merchant|Forgeron{***}
+trp_kingdom_17_merchant_pl|Forgeron{***}
+trp_kingdom_18_merchant|Westerlander Forgeron{***}
+trp_kingdom_18_merchant_pl|Westerlander Forgeron{***}
+trp_kingdom_19_merchant|Forgeron{***}
+trp_kingdom_19_merchant_pl|Forgeron{***}
+trp_kingdom_20_merchant|Forgeron{***}
+trp_kingdom_20_merchant_pl|Forgeron{***}
+trp_kingdom_21_merchant|Forgeron{***}
+trp_kingdom_21_merchant_pl|Forgeron{***}
+trp_kingdom_22_merchant|Forgeron{***}
+trp_kingdom_22_merchant_pl|Forgeron{***}
+trp_town_6_special_merchant|Forgeron{***}
+trp_town_6_special_merchant_pl|Forgeron{***}
+trp_bolton_merchant|Bolton Forgeron{***}
+trp_bolton_merchant_pl|Bolton Forgeron{***}
+trp_stark_merchant|Stark Forgeron{***}
+trp_stark_merchant_pl|Stark Forgeron{***}
+trp_karstark_merchant|Karstark Forgeron{***}
+trp_karstark_merchant_pl|Karstark Forgeron{***}
+trp_lannister_merchant|Lannister Forgeron{***}
+trp_lannister_merchant_pl|Lannister Forgeron{***}
+trp_frey_merchant|Frey Forgeron{***}
+trp_frey_merchant_pl|Frey Forgeron{***}
+trp_umber_merchant|Umber Forgeron{***}
+trp_umber_merchant_pl|Umber Forgeron{***}
 trp_osmundkettleback|Ser Osmund Kettleblack{***}
 trp_osmundkettleback_pl|Ser Osmund Kettleblack{***}
-trp_jaimelannister|Seigneur Commander Jaime Lannister{***}
-trp_jaimelannister_pl|Seigneur Commander Jaime Lannister{***}
+trp_jaimelannister|Seigneur Commandant Jaime Lannister{***}
+trp_jaimelannister_pl|Seigneur Commandant Jaime Lannister{***}
 trp_meryntrant|Ser Meryn Trant{***}
 trp_meryntrant_pl|Ser Meryn Trant{***}
 trp_arysoakheart|Ser Arys Oakheart{***}
@@ -3345,7 +3345,7 @@ trp_hoster_tully|Seigneur Hoster Tully{***}
 trp_hoster_tully_pl|Seigneur Hoster Tully{***}
 trp_tyrell|Seigneur Runceford Redwyne{***}
 trp_tyrell_pl|Seigneur Runceford Redwyne{***}
-trp_local_merchant|Local Marchand
+trp_local_merchant|Marchand local
 trp_local_merchant_pl|Local Merchants{***}
 trp_tax_rebel|Paysan Rebel{***}
 trp_tax_rebel_pl|Paysan Rebels{***}
@@ -3403,8 +3403,8 @@ trp_tavern_npc2|Masha Heddle{***}
 trp_tavern_npc2_pl|Masha Heddle{***}
 trp_local_traveller|Local Traveller{***}
 trp_local_traveller_pl|Local Traveller{***}
-trp_tavern_npc3|Farmer{***}
-trp_tavern_npc3_pl|Farmer{***}
+trp_tavern_npc3|Fermier{***}
+trp_tavern_npc3_pl|Fermier{***}
 trp_tavern_npc4|Bounty Hunter{***}
 trp_tavern_npc4_pl|Bounty Hunter{***}
 trp_tavern_npc5|Rodrik the Gambler{***}
@@ -3413,8 +3413,8 @@ trp_ruined_castle_quest_npc|Ser Janis Lyren{***}
 trp_ruined_castle_quest_npc_pl|Ser Janis Lyren{***}
 trp_tavern_npc6|Brendan{***}
 trp_tavern_npc6_pl|Brendan{***}
-trp_stark_soldier_merchant|North Guardsman{***}
-trp_stark_soldier_merchant_pl|North Guardsmen{***}
+trp_stark_soldier_merchant|North Garde{***}
+trp_stark_soldier_merchant_pl|North Gardes{***}
 trp_wolf|Dire Wolf{***}
 trp_wolf_pl|Dire Wolves{***}
 trp_wolf2|Wolf{***}
@@ -3423,26 +3423,26 @@ trp_dog|Dog{***}
 trp_dog_pl|Dogs{***}
 trp_farm_npc1|Francis{***}
 trp_farm_npc1_pl|Francis{***}
-trp_farm_npc2|Farmer{***}
-trp_farm_npc2_pl|Farmer{***}
-trp_farm_npc3|Farmer{***}
-trp_farm_npc3_pl|Farmer{***}
-trp_farm_npc4|Farmer{***}
-trp_farm_npc4_pl|Farmer{***}
-trp_farm_npc5|Farmer{***}
-trp_farm_npc5_pl|Farmer{***}
+trp_farm_npc2|Fermier{***}
+trp_farm_npc2_pl|Fermier{***}
+trp_farm_npc3|Fermier{***}
+trp_farm_npc3_pl|Fermier{***}
+trp_farm_npc4|Fermier{***}
+trp_farm_npc4_pl|Fermier{***}
+trp_farm_npc5|Fermier{***}
+trp_farm_npc5_pl|Fermier{***}
 trp_innkeeper_1|Sharna{***}
 trp_innkeeper_1_pl|Sharna{***}
-trp_innkeeper_2|Innkeeper{***}
-trp_innkeeper_2_pl|Innkeeper{***}
-trp_inn_npc1|Farmer{***}
-trp_inn_npc1_pl|Farmer{***}
-trp_inn_npc2|Farmer{***}
-trp_inn_npc2_pl|Farmer{***}
-trp_inn_npc3|Farmer{***}
-trp_inn_npc3_pl|Farmer{***}
-trp_inn_npc4|Farmer{***}
-trp_inn_npc4_pl|Farmer{***}
+trp_innkeeper_2|Aubergiste{***}
+trp_innkeeper_2_pl|Aubergiste{***}
+trp_inn_npc1|Fermier{***}
+trp_inn_npc1_pl|Fermier{***}
+trp_inn_npc2|Fermier{***}
+trp_inn_npc2_pl|Fermier{***}
+trp_inn_npc3|Fermier{***}
+trp_inn_npc3_pl|Fermier{***}
+trp_inn_npc4|Fermier{***}
+trp_inn_npc4_pl|Fermier{***}
 trp_inn_npc_end|not used{***}
 trp_inn_npc_end_pl|not used{***}
 trp_karl_tanner|Karl Tanner{***}
@@ -3453,18 +3453,18 @@ trp_hired_assassin|Assassin{***}
 trp_hired_assassin_pl|Assassins{***}
 trp_fight_promoter|Rough-Looking Character{***}
 trp_fight_promoter_pl|Rough-Looking Character{***}
-trp_spy|Townsman{***}
-trp_spy_pl|Townsmen{***}
-trp_spy_partner|Unremarkable Townsman{***}
-trp_spy_partner_pl|Unremarkable Townsmen{***}
-trp_rioter|Rioting Paysan{***}
-trp_rioter_pl|Rioting Paysans
+trp_spy|Citadin
+trp_spy_pl|Citadins{***}
+trp_spy_partner|Unremarkable Citadin{***}
+trp_spy_partner_pl|Unremarkable Citadins{***}
+trp_rioter|Paysan émeutier
+trp_rioter_pl|Paysans émeutiers
 trp_camp_armory|Camp Armoury{***}
 trp_camp_armory_pl|Camp Armoury{***}
-trp_nurse_for_lady|Nurse{***}
-trp_nurse_for_lady_pl|Nurse{***}
-trp_temporary_minister|Minister{***}
-trp_temporary_minister_pl|Minister{***}
+trp_nurse_for_lady|Infirmière{***}
+trp_nurse_for_lady_pl|Infirmière{***}
+trp_temporary_minister|Ministre{***}
+trp_temporary_minister_pl|Ministre{***}
 trp_swadian_crossbowman_multiplayer_aino|Bonheddwr (Lig. I.){***}
 trp_swadian_crossbowman_multiplayer_aino_pl|Bonheddwyr{***}
 trp_swadian_infantry_multiplayer_aino|Pedyt (Med. I.){***}
@@ -3535,51 +3535,51 @@ trp_dornish_recruit_multiplayerno|Sceotand Jute (Missile){***}
 trp_dornish_recruit_multiplayerno_pl|Sceotandas Jutes{***}
 trp_dornish_sand_warrior_multiplayerno|Gesith Jute (Lig. C.){***}
 trp_dornish_sand_warrior_multiplayerno_pl|Gesithas Jutes{***}
-trp_nurse|Nurse{***}
+trp_nurse|Infirmière{***}
 trp_global_value|quick battle 6 player{***}
 trp_global_value_pl|quick battle 6 player{***}
-trp_fire_arrows|Local Marchand
-trp_fire_arrows_pl|Local Marchand
-trp_x_coordinate|Local Marchand
-trp_x_coordinate_pl|Local Marchand
-trp_y_coordinate|Local Marchand
-trp_y_coordinate_pl|Local Marchand
-trp_z_coordinate|Local Marchand
-trp_z_coordinate_pl|Local Marchand
-trp_x_velocity|Local Marchand
-trp_x_velocity_pl|Local Marchand
-trp_y_velocity|Local Marchand
-trp_y_velocity_pl|Local Marchand
-trp_z_velocity|Local Marchand
-trp_z_velocity_pl|Local Marchand
-trp_fire_arrows_tick_count|Local Marchand
-trp_fire_arrows_tick_count_pl|Local Marchand
-trp_object_instance_no|Local Marchand
-trp_object_instance_no_pl|Local Marchand
-trp_object_durability|Local Marchand
-trp_object_durability_pl|Local Marchand
-trp_frame_tick_count|Local Marchand
-trp_frame_tick_count_pl|Local Marchand
-trp_x_frame_position|Local Marchand
-trp_x_frame_position_pl|Local Marchand
-trp_y_frame_position|Local Marchand
-trp_y_frame_position_pl|Local Marchand
-trp_z_frame_position|Local Marchand
-trp_z_frame_position_pl|Local Marchand
-trp_burning_object|Local Marchand
-trp_burning_object_pl|Local Marchand
-trp_scene_prop_id|Local Marchand
-trp_scene_prop_id_pl|Local Marchand
-trp_ship_colisions|Local Marchand
-trp_ship_colisions_pl|Local Marchand
-trp_ship_num_crew|Local Marchand
-trp_ship_num_crew_pl|Local Marchand
-trp_ship_speed|Local Marchand
-trp_ship_speed_pl|Local Marchand
-trp_ship_behavior|Local Marchand
-trp_ship_behavior_pl|Local Marchand
-trp_ship_rudder|Local Marchand
-trp_ship_rudder_pl|Local Marchand
+trp_fire_arrows|Marchand local
+trp_fire_arrows_pl|Marchand local
+trp_x_coordinate|Marchand local
+trp_x_coordinate_pl|Marchand local
+trp_y_coordinate|Marchand local
+trp_y_coordinate_pl|Marchand local
+trp_z_coordinate|Marchand local
+trp_z_coordinate_pl|Marchand local
+trp_x_velocity|Marchand local
+trp_x_velocity_pl|Marchand local
+trp_y_velocity|Marchand local
+trp_y_velocity_pl|Marchand local
+trp_z_velocity|Marchand local
+trp_z_velocity_pl|Marchand local
+trp_fire_arrows_tick_count|Marchand local
+trp_fire_arrows_tick_count_pl|Marchand local
+trp_object_instance_no|Marchand local
+trp_object_instance_no_pl|Marchand local
+trp_object_durability|Marchand local
+trp_object_durability_pl|Marchand local
+trp_frame_tick_count|Marchand local
+trp_frame_tick_count_pl|Marchand local
+trp_x_frame_position|Marchand local
+trp_x_frame_position_pl|Marchand local
+trp_y_frame_position|Marchand local
+trp_y_frame_position_pl|Marchand local
+trp_z_frame_position|Marchand local
+trp_z_frame_position_pl|Marchand local
+trp_burning_object|Marchand local
+trp_burning_object_pl|Marchand local
+trp_scene_prop_id|Marchand local
+trp_scene_prop_id_pl|Marchand local
+trp_ship_colisions|Marchand local
+trp_ship_colisions_pl|Marchand local
+trp_ship_num_crew|Marchand local
+trp_ship_num_crew_pl|Marchand local
+trp_ship_speed|Marchand local
+trp_ship_speed_pl|Marchand local
+trp_ship_behavior|Marchand local
+trp_ship_behavior_pl|Marchand local
+trp_ship_rudder|Marchand local
+trp_ship_rudder_pl|Marchand local
 trp_quick_battle_troop_1|Nero{***}
 trp_quick_battle_troop_1_pl|Nero{***}
 trp_quick_battle_troop_2|Chevalier of The Laughing Tree{***}
@@ -3618,18 +3618,18 @@ trp_tutorial_archer_1|Archer{***}
 trp_tutorial_archer_1_pl|Archers{***}
 trp_tutorial_master_archer|Archery Trainer{***}
 trp_tutorial_master_archer_pl|Archery Trainer{***}
-trp_tutorial_rider_1|Rider{***}
+trp_tutorial_rider_1|Coureur{***}
 trp_tutorial_rider_2|Horsewealas{***}
 trp_tutorial_master_horseman|Riding Trainer{***}
 trp_tutorial_master_horseman_pl|Riding Trainer{***}
 trp_swadian_merchant|Seigneur Edgar{***}
 trp_vaegir_merchant|Marchand
 trp_khergit_merchant|Marchand
-trp_nord_merchant|Stark Garde de la maison{***}
+trp_nord_merchant|Stark Chevalier{***}
 trp_rhodok_merchant|Marchand
 trp_sarranid_merchant|Marchand
-trp_startup_merchants_end|startup merchants end{***}
-trp_startup_merchants_end_pl|startup merchants end{***}
+trp_startup_Marchands_end|startup Marchands end{***}
+trp_startup_Marchands_end_pl|startup Marchands end{***}
 trp_sea_raider_leader|Old Hero{***}
 trp_sea_raider_leader_pl|Old Heroes{***}
 trp_looter_leader|Bandit Leader{***}
@@ -3637,10 +3637,10 @@ trp_looter_leader_pl|Bandit Leaders{***}
 trp_bandit_leaders_end|bandit leaders end{***}
 trp_bandit_leaders_end_pl|bandit leaders end{***}
 trp_relative_of_merchant|Merchant's Brother{***}
-trp_relative_of_merchants_end|relative of merchants end{***}
-trp_relative_of_merchants_end_pl|relative of merchants end{***}
-trp_lair_master_at_arms|Master at Arms{***}
-trp_lair_master_at_arms_pl|Master at Arms{***}
+trp_relative_of_Marchands_end|relative of Marchands end{***}
+trp_relative_of_Marchands_end_pl|relative of Marchands end{***}
+trp_lair_master_at_arms|Maître d'armes
+trp_lair_master_at_arms_pl|Maître d'armes
 trp_fort_drowned_man|Drowned Priest{***}
 trp_fort_drowned_man_pl|Drowned Priests{***}
 trp_fort_old_gods|Old Gods Adorateur{***}
@@ -3949,172 +3949,172 @@ trp_ironborn_marauder_multiplayer_ai7|Tirailleur{***}
 trp_ironborn_marauder_multiplayer_ai7_pl|Tirailleur{***}
 trp_dornish_spearman_vet_multiplayer|Skirmish{***}
 trp_dornish_spearman_vet_multiplayer_pl|Archers{***}
-trp_dornish_recruit_multiplayer|Footman{***}
+trp_dornish_recruit_multiplayer|Soldat{***}
 trp_dornish_recruit_multiplayer_pl|footman{***}
-trp_dornish_sand_warrior_multiplayer|Horseman{***}
-trp_dornish_sand_warrior_multiplayer_pl|Horsemen{***}
+trp_dornish_sand_warrior_multiplayer|Cavalier{***}
+trp_dornish_sand_warrior_multiplayer_pl|Cavaliers{***}
 trp_frankish_footman_multiplayer|Frank Warrior{***}
 trp_frankish_footman_multiplayer_pl|Frankish Warriors{***}
 trp_westerlands_scout_multiplayer|Skirmish{***}
 trp_westerlands_scout_multiplayer_pl|Archers{***}
-trp_vaegir_spearman_multiplayer|Spearman{***}
-trp_vaegir_spearman_multiplayer_pl|Spearman{***}
-trp_westerlands_freerider_multiplayer|Horseman{***}
-trp_westerlands_freerider_multiplayer_pl|Horsemen{***}
+trp_vaegir_spearman_multiplayer|Lancier{***}
+trp_vaegir_spearman_multiplayer_pl|Lancier{***}
+trp_westerlands_freerider_multiplayer|Cavalier{***}
+trp_westerlands_freerider_multiplayer_pl|Cavaliers{***}
 trp_westerlands_scout_multiplayer2|Skirmish{***}
 trp_westerlands_scout_multiplayer2_pl|Archers{***}
-trp_vaegir_spearman_multiplayer2|Spearman{***}
-trp_vaegir_spearman_multiplayer2_pl|Spearman{***}
-trp_westerlands_freerider_multiplayer2|Horseman{***}
-trp_westerlands_freerider_multiplayer2_pl|Horsemen{***}
+trp_vaegir_spearman_multiplayer2|Lancier{***}
+trp_vaegir_spearman_multiplayer2_pl|Lancier{***}
+trp_westerlands_freerider_multiplayer2|Cavalier{***}
+trp_westerlands_freerider_multiplayer2_pl|Cavaliers{***}
 trp_north_cavalry_multiplayer|Skirmish{***}
 trp_north_cavalry_multiplayer_pl|Archers{***}
 trp_north_hunting_archers_multiplayer|Warrior{***}
 trp_north_hunting_archers_multiplayer_pl|Warriors{***}
-trp_nord_scout_multiplayer|Horseman{***}
-trp_nord_scout_multiplayer_pl|Horsemen{***}
+trp_nord_scout_multiplayer|Cavalier{***}
+trp_nord_scout_multiplayer_pl|Cavaliers{***}
 trp_dena_veteran_multiplayer4|Pirate{***}
 trp_dena_veteran_multiplayer4_pl|Pirates{***}
 trp_westerlands_scout_multiplayer3|Skirmish{***}
 trp_westerlands_scout_multiplayer3_pl|Archers{***}
-trp_vaegir_spearman_multiplayer3|Spearman{***}
-trp_vaegir_spearman_multiplayer3_pl|Spearman{***}
-trp_westerlands_freerider_multiplayer3|Horseman{***}
-trp_westerlands_freerider_multiplayer3_pl|Horsemen{***}
+trp_vaegir_spearman_multiplayer3|Lancier{***}
+trp_vaegir_spearman_multiplayer3_pl|Lancier{***}
+trp_westerlands_freerider_multiplayer3|Cavalier{***}
+trp_westerlands_freerider_multiplayer3_pl|Cavaliers{***}
 trp_frisian_spearman_multiplayer3|Mercenary{***}
 trp_frisian_spearman_multiplayer3_pl|Mercenaries{***}
 trp_swadian_crossbowman_multiplayer|Skirmish{***}
 trp_swadian_crossbowman_multiplayer_pl|Archers{***}
 trp_swadian_infantry_multiplayer|Infanterie{***}
 trp_swadian_infantry_multiplayer_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer|Horseman{***}
-trp_swadian_man_at_arms_multiplayer_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer2|Skirmish{***}
 trp_swadian_crossbowman_multiplayer2_pl|Archers{***}
 trp_swadian_infantry_multiplayer2|Infanterie{***}
 trp_swadian_infantry_multiplayer2_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer2|Horseman{***}
-trp_swadian_man_at_arms_multiplayer2_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer2|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer2_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer3|Skirmish{***}
 trp_swadian_crossbowman_multiplayer3_pl|Archers{***}
 trp_swadian_infantry_multiplayer3|Infanterie{***}
 trp_swadian_infantry_multiplayer3_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer3|Horseman{***}
-trp_swadian_man_at_arms_multiplayer3_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer3|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer3_pl|Cavaliers{***}
 trp_north_cavalry_multiplayer2|Skirmish{***}
 trp_north_cavalry_multiplayer2_pl|Archers{***}
 trp_north_hunting_archers_multiplayer2|Warrior{***}
 trp_north_hunting_archers_multiplayer2_pl|Warriors{***}
-trp_nord_scout_multiplayer2|Horseman{***}
-trp_nord_scout_multiplayer2_pl|Horsemen{***}
+trp_nord_scout_multiplayer2|Cavalier{***}
+trp_nord_scout_multiplayer2_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer4|Skirmish{***}
 trp_swadian_crossbowman_multiplayer4_pl|Archers{***}
 trp_swadian_infantry_multiplayer4|Infanterie{***}
 trp_swadian_infantry_multiplayer4_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer4|Horseman{***}
-trp_swadian_man_at_arms_multiplayer4_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer4|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer4_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer5|Skirmish{***}
 trp_swadian_crossbowman_multiplayer5_pl|Archers{***}
 trp_swadian_infantry_multiplayer5|Infanterie{***}
 trp_swadian_infantry_multiplayer5_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer5|Horseman{***}
-trp_swadian_man_at_arms_multiplayer5_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer5|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer5_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer6|Skirmish{***}
 trp_swadian_crossbowman_multiplayer6_pl|Archers{***}
 trp_swadian_infantry_multiplayer6|Infanterie{***}
 trp_swadian_infantry_multiplayer6_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer6|Horseman{***}
-trp_swadian_man_at_arms_multiplayer6_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer6|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer6_pl|Cavaliers{***}
 trp_north_cavalry_multiplayer3|Skirmish{***}
 trp_north_cavalry_multiplayer3_pl|Archers{***}
 trp_north_hunting_archers_multiplayer3|Warrior{***}
 trp_north_hunting_archers_multiplayer3_pl|Warriors{***}
-trp_nord_scout_multiplayer3|Horseman{***}
-trp_nord_scout_multiplayer3_pl|Horsemen{***}
+trp_nord_scout_multiplayer3|Cavalier{***}
+trp_nord_scout_multiplayer3_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer7|Skirmish{***}
 trp_swadian_crossbowman_multiplayer7_pl|Archers{***}
 trp_swadian_infantry_multiplayer7|Infanterie{***}
 trp_swadian_infantry_multiplayer7_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer7|Horseman{***}
-trp_swadian_man_at_arms_multiplayer7_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer7|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer7_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer8|Skirmish{***}
 trp_swadian_crossbowman_multiplayer8_pl|Archers{***}
 trp_swadian_infantry_multiplayer8|Infanterie{***}
 trp_swadian_infantry_multiplayer8_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer8|Horseman{***}
-trp_swadian_man_at_arms_multiplayer8_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer8|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer8_pl|Cavaliers{***}
 trp_ironborn_scout_multiplayer|Skirmish{***}
 trp_ironborn_scout_multiplayer_pl|Archers{***}
-trp_ironborn_warrior_multiplayer|Spearman{***}
-trp_ironborn_warrior_multiplayer_pl|Spearmen{***}
-trp_rhodok_horseman_multiplayer|Horseman{***}
-trp_rhodok_horseman_multiplayer_pl|Horsemen{***}
-trp_scoti_sergeant_multiplayer|Footman{***}
-trp_scoti_sergeant_multiplayer_pl|Footmen{***}
+trp_ironborn_warrior_multiplayer|Lancier{***}
+trp_ironborn_warrior_multiplayer_pl|Lanciers{***}
+trp_rhodok_horseman_multiplayer|Cavalier{***}
+trp_rhodok_horseman_multiplayer_pl|Cavaliers{***}
+trp_scoti_sergeant_multiplayer|Soldat{***}
+trp_scoti_sergeant_multiplayer_pl|Fantassins{***}
 trp_swadian_crossbowman_multiplayer9|Skirmish{***}
 trp_swadian_crossbowman_multiplayer9_pl|Archers{***}
 trp_swadian_infantry_multiplayer9|Infanterie{***}
 trp_swadian_infantry_multiplayer9_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer9|Horseman{***}
-trp_swadian_man_at_arms_multiplayer9_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer9|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer9_pl|Cavaliers{***}
 trp_ironborn_scout_multiplayer2|Skirmish{***}
 trp_ironborn_scout_multiplayer2_pl|Archers{***}
-trp_ironborn_warrior_multiplayer2|Spearman{***}
-trp_ironborn_warrior_multiplayer2_pl|Spearmen{***}
-trp_rhodok_horseman_multiplayer2|Horseman{***}
-trp_rhodok_horseman_multiplayer2_pl|Horsemen{***}
+trp_ironborn_warrior_multiplayer2|Lancier{***}
+trp_ironborn_warrior_multiplayer2_pl|Lanciers{***}
+trp_rhodok_horseman_multiplayer2|Cavalier{***}
+trp_rhodok_horseman_multiplayer2_pl|Cavaliers{***}
 trp_reach_footman_multiplayer|Tirailleur{***}
 trp_reach_footman_multiplayer_pl|Tirailleurs{***}
-trp_reach_archer_multiplayer|Spearman{***}
-trp_reach_archer_multiplayer_pl|Spearmen{***}
-trp_khergit_horse_multiplayer|Horseman{***}
-trp_khergit_horse_multiplayer_pl|Horsemen{***}
+trp_reach_archer_multiplayer|Lancier{***}
+trp_reach_archer_multiplayer_pl|Lanciers{***}
+trp_khergit_horse_multiplayer|Cavalier{***}
+trp_khergit_horse_multiplayer_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer10|Skirmish{***}
 trp_swadian_crossbowman_multiplayer10_pl|Archers{***}
 trp_swadian_infantry_multiplayer10|Infanterie{***}
 trp_swadian_infantry_multiplayer10_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer10|Horseman{***}
-trp_swadian_man_at_arms_multiplayer10_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer10|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer10_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer12|Skirmish{***}
 trp_swadian_crossbowman_multiplayer12_pl|Archers{***}
 trp_swadian_infantry_multiplayer12|Infanterie{***}
 trp_swadian_infantry_multiplayer12_pl|Infanterie{***}
-trp_swadian_man_at_arms_multiplayer12|Horseman{***}
-trp_swadian_man_at_arms_multiplayer12_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer12|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer12_pl|Cavaliers{***}
 trp_swadian_crossbowman_multiplayer13|Skirmish{***}
 trp_swadian_crossbowman_multiplayer13_pl|Archers{***}
-trp_swadian_man_at_arms_multiplayer13|Horseman{***}
-trp_swadian_man_at_arms_multiplayer13_pl|Horsemen{***}
+trp_swadian_man_at_arms_multiplayer13|Cavalier{***}
+trp_swadian_man_at_arms_multiplayer13_pl|Cavaliers{***}
 trp_ironborn_scout_multiplayer3|Skirmish{***}
 trp_ironborn_scout_multiplayer3_pl|Archers{***}
-trp_ironborn_warrior_multiplayer3|Spearman{***}
-trp_ironborn_warrior_multiplayer3_pl|Spearmen{***}
-trp_rhodok_horseman_multiplayer3|Horseman{***}
-trp_rhodok_horseman_multiplayer3_pl|Horsemen{***}
+trp_ironborn_warrior_multiplayer3|Lancier{***}
+trp_ironborn_warrior_multiplayer3_pl|Lanciers{***}
+trp_rhodok_horseman_multiplayer3|Cavalier{***}
+trp_rhodok_horseman_multiplayer3_pl|Cavaliers{***}
 trp_ironborn_scout_multiplayer4|Skirmish{***}
 trp_ironborn_scout_multiplayer4_pl|Archers{***}
-trp_ironborn_warrior_multiplayer4|Spearman{***}
-trp_ironborn_warrior_multiplayer4_pl|Spearmen{***}
-trp_rhodok_horseman_multiplayer4|Horseman{***}
-trp_rhodok_horseman_multiplayer4_pl|Horsemen{***}
+trp_ironborn_warrior_multiplayer4|Lancier{***}
+trp_ironborn_warrior_multiplayer4_pl|Lanciers{***}
+trp_rhodok_horseman_multiplayer4|Cavalier{***}
+trp_rhodok_horseman_multiplayer4_pl|Cavaliers{***}
 trp_ironborn_scout_multiplayer5|Skirmish{***}
 trp_ironborn_scout_multiplayer5_pl|Archers{***}
-trp_ironborn_warrior_multiplayer5|Spearman{***}
-trp_ironborn_warrior_multiplayer5_pl|Spearmen{***}
-trp_rhodok_horseman_multiplayer5|Horseman{***}
-trp_rhodok_horseman_multiplayer5_pl|Horsemen{***}
+trp_ironborn_warrior_multiplayer5|Lancier{***}
+trp_ironborn_warrior_multiplayer5_pl|Lanciers{***}
+trp_rhodok_horseman_multiplayer5|Cavalier{***}
+trp_rhodok_horseman_multiplayer5_pl|Cavaliers{***}
 trp_ironborn_scout_multiplayer6|Skirmish{***}
 trp_ironborn_scout_multiplayer6_pl|Archers{***}
-trp_ironborn_warrior_multiplayer6|Spearman{***}
-trp_ironborn_warrior_multiplayer6_pl|Spearmen{***}
-trp_rhodok_horseman_multiplayer6|Horseman{***}
-trp_rhodok_horseman_multiplayer6_pl|Horsemen{***}
+trp_ironborn_warrior_multiplayer6|Lancier{***}
+trp_ironborn_warrior_multiplayer6_pl|Lanciers{***}
+trp_rhodok_horseman_multiplayer6|Cavalier{***}
+trp_rhodok_horseman_multiplayer6_pl|Cavaliers{***}
 trp_ironborn_scout_multiplayer7|Skirmish{***}
 trp_ironborn_scout_multiplayer7_pl|Archers{***}
-trp_ironborn_warrior_multiplayer7|Spearman{***}
-trp_ironborn_warrior_multiplayer7_pl|Spearmen{***}
-trp_rhodok_horseman_multiplayer7|Horseman{***}
-trp_rhodok_horseman_multiplayer7_pl|Horsemen{***}
+trp_ironborn_warrior_multiplayer7|Lancier{***}
+trp_ironborn_warrior_multiplayer7_pl|Lanciers{***}
+trp_rhodok_horseman_multiplayer7|Cavalier{***}
+trp_rhodok_horseman_multiplayer7_pl|Cavaliers{***}
 trp_capitan1|Seigneur
 trp_capitan1_pl|Seigneurs
 trp_mercenario1|Capitaine
