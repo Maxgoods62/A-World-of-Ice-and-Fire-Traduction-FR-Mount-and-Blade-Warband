@@ -1019,9 +1019,9 @@ qstr_At_the_time_the_ques|At the time the quest was given:^{s1}{***};;;;
 qstr_{s5}_has_a_strength_|Le {s5} dispose de {reg1} hommes.
 qstr_The_last_time_you_sa|La dernière fois que vous l'avez {reg1?vue:vu}, {s1}
 qstr_The_last_time_you_he|La dernière fois que vous avez entendu parler {reg1?d'elle:de lui}, {s1}
-qstr_{s6}_{s7}|{s6} {s7},{***};;;;
-qstr_The_following_lords_|The following lords are held prisoner here: {s6}{***};;;;
-qstr_There_are_no_lords_h|There are no lords held prisoner here.{***};;;;
+qstr_{s6}_{s7}|{s6} {s7},
+qstr_The_following_lords_|Les seigneurs suivants sont détenus ici: {s6}
+qstr_There_are_no_lords_h|Il n'y a pas de seigneur prisonnier ici.
 qstr_Current_garrison_con|La garnison actuelle est constituée de {reg5} hommes.^Il y a de la nourriture pour {reg6} jours.
 qstr_Very_Poor|Très pauvre
 qstr_Poor|Pauvre
@@ -1035,32 +1035,32 @@ qstr_A_mill_increases_vil|Un moulin permet aux villageois de travailler plus eff
 qstr_Watch_Tower|Tour de guet
 qstr_A_watch_tower_lets_t|Une tour de guet permet aux villageois d'être avertis plus tôt en cas d'attaque. Le temps requis aux ennemis pour piller le village est augmenté de 25%.
 qstr_School|École
-qstr_A_school_increases_t|A school increases the loyalty of the villagers to you by +1 every week.{***};;;;
+qstr_A_school_increases_t|Une école augmente la loyauté des villageois envers vous de +1 chaque semaine.
 qstr_Messenger_Post|Poste de messager
 qstr_A_messenger_post_let|Un poste de messager permet aux habitants de vous envoyer un message quand des ennemis sont à proximité, même si vous êtes très loin d'ici.
 qstr_Prison_Tower|Prison fortifiée
 qstr_A_prison_tower_reduc|Une tour de prison permet de mieux surveiller les prisonniers et réduit les chances d'évasions.
-qstr_You_invite_a_drowned|You invite a drowned man to influence the people here to worship the Drowned God.{***};;;;
-qstr_Weirwood_tree|Weirwood tree{***};;;;
-qstr_Plant_a_weirwood_tre|Plant a weirwood tree to remember your ancestors and worship the Old Gods.{***};;;;
-qstr_Temple_of_R_hllor|Temple of R'hllor{***};;;;
-qstr_Build_a_temple_to_sp|Build a temple to spread the strength of R'hllor.{***};;;;
-qstr_Septry|Septry{***};;;;
-qstr_Build_a_septry_to_in|Build a septry to increase the worship of the Seven Faced God.{***};;;;
-qstr_Large_septry_of_the_|Large septry of the Seven Faced God{***};;;;
-qstr_Build_a_large_sept_t|Build a large sept to increase the worship of the Seven further.{***};;;;
-qstr_The_Drowned_God_shri|The Drowned God shrine{***};;;;
-qstr_Build_a_shrine_for_a|Build a shrine for a greater a influence towards the people here to worship the Drowned God.{***};;;;
-qstr_Weirwood_Forest|Weirwood Forest{***};;;;
-qstr_Plant_a_weirwood_for|Plant a weirwood forest for a greater increase in worship to the Old Gods.{***};;;;
-qstr_Shrine_to_The_Lord_o|Shrine to The Lord of Light.{***};;;;
-qstr_Build_a_shrine_to_pr|Build a shrine to practice spreading the power of R'hllor.{***};;;;
-qstr_Blacksmith|Blacksmith{***};;;;
-qstr_Build_this_to_facili|Build this to facilitate the manufacture of tools and weapons.{***};;;;
-qstr_Merchant_Guild_House|Merchant Guild House{***};;;;
-qstr_Build_this_to_please|Build this to please the merchant community and engage in trade enterprises.{***};;;;
-qstr_Library|Library{***};;;;
-qstr_Erect_a_library_to_i|Erect a library to increase and spread knowledge in your name.{***};;;;
+qstr_You_invite_a_drowned|Vous invitez un homme noyé à influencer les gens d'ici pour qu'ils adorent le Dieu Noyé.
+qstr_Weirwood_tree|Barral
+qstr_Plant_a_weirwood_tre|Plantez un Barral pour vous souvenir de vos ancêtres et adorer les anciens dieux.
+qstr_Temple_of_R_hllor|Temple de R'hllor
+qstr_Build_a_temple_to_sp|Construisez un temple pour répandre la force de R'hllor.
+qstr_Septry|Septuaire
+qstr_Build_a_septry_to_in|Construisez un Septuaire pour augmenter l'adoration du Dieu aux Sept Visages.
+qstr_Large_septry_of_the_|Grande sépulture du Dieu aux sept visages
+qstr_Build_a_large_sept_t|Construisez un Grand Septuaire pour augmenter le culte des Sept encore plus.
+qstr_The_Drowned_God_shri|Le sanctuaire du Dieu noyé
+qstr_Build_a_shrine_for_a|Construire un sanctuaire pour influencer les gens d'ici à adorer le Dieu noyé.
+qstr_Weirwood_Forest|Forêt de Barrals
+qstr_Plant_a_weirwood_for|Planter une forêt de Barrals pour augmenter le culte des Anciens Dieux.
+qstr_Shrine_to_The_Lord_o|Sanctuaire du Seigneur de la Lumière.
+qstr_Build_a_shrine_to_pr|Construisez un sanctuaire pour vous diffuser les pratiques et le pouvoir de R'hllor.
+qstr_Blacksmith|Forge
+qstr_Build_this_to_facili|Construisez ceci pour faciliter la fabrication d'outils et d'armes.
+qstr_Merchant_Guild_House|Maison de la guilde marchande
+qstr_Build_this_to_please|Construire ceci pour plaire à la communauté des marchands et s'engager dans des entreprises commerciales.
+qstr_Library|Bibliothèque
+qstr_Erect_a_library_to_i|Érigez une bibliothèque pour accroître et diffuser les connaissances en votre nom.
 qstr_Prosperity_of_{s2}_h|La prospérité de {s2} est passée de {s3} à {s4}.
 qstr_ERROR:_Companion_str|ERROR: Companion strings actual/needed: {reg1}/{reg2}{***};;;;
 qstr_{s4}_looks_upset.|{s4} semble mécontent.
@@ -1071,83 +1071,83 @@ qstr_You_brought_{reg3}_h|Vous avez mené {reg3} têtes de bétail à {s1}.
 qstr_I_heard_that_there_w|J'ai entendu dire qu'un tournoi se prépare à {s62}.
 qstr_I_heard_that_one_can|J'ai entendu dire qu'à {s63}, il est possible d'acheter pour un très bon prix ceci : {s62}.
 qstr_I_heard_that_they_pa|J'ai entendu dire qu'à {s63}, on paie fort cher ceci : {s62}.
-qstr_Well_apparently_2500|Well, apparently 25,000 Dothraki attacked the city of Braavos. Though they couldn't penetrate the lines of only 3000 Unsullied. Hah, stupid Dothraki!{***};;;;
-qstr_I_ve_heard_the_boar_|I've heard the boar that killed the late King Robert Baratheon still runs free in that Kingswood area. May the seven bless he who brings back that boar dead.{***};;;;
-qstr_Westeros_has_become_|Westeros has become infested with thieves, murderers and mercenaries trying to profit from the war. Its not safe around here no more.{***};;;;
-qstr_There_s_been_reports|There's been reports of people being attacked by hill clans in the Vale. The name Ulf keeps being mentioned.{***};;;;
-qstr_People_say_giants_ro|People say giants roam beyond the wall. Others say its nonsense and just a way to scare folk. You make up your own mind but you sure wont see me hanging around there any time soon!{***};;;;
-qstr_Have_you_heard_about|Have you heard about that cave far beyond the wall? No? Umm.. yeah me neither!{***};;;;
-qstr_I_would_like_to_know|I would like to know about the Andles, wouldn't you?{***};;;;
-qstr_All_most_people_can_|All most people can do is fuck whores and get drunk while Westeros lies on the brink of destruction!{***};;;;
-qstr_The_Others!....._The|The Others!..... The Night King!... Pahaha! What nonsense.{***};;;;
-qstr_The_Wildlings_have_b|The Wildlings have been united beyond the wall they say. Call him the king beyond the wall ya know.{***};;;;
-qstr_Apparently_The_Port_|Apparently The Port of Ibben holds a secret.{***};;;;
-qstr_I_wish_the_world_was|I wish the world was less dangerous, few men grow old these days.{***};;;;
-qstr_I_ve_been_told_the_U|I've been told the Unsullied maintains strict discipline and training, for that reason they are the most powerful warriors in Westeros and Essos!{***};;;;
-qstr_Apparently_the_Unsul|Apparently the Unsullied can be bought from someone somewhere in Essos.{***};;;;
+qstr_Well_apparently_2500|Apparemment, 25 000 Dothraki ont attaqué la ville de Braavos. Bien qu'ils n'aient pas pu pénétrer les lignes de seulement 3000 Immaculés. Hah, stupide Dothraki!
+qstr_I_ve_heard_the_boar_|J'ai entendu dire que le sanglier qui a tué le roi Robert Baratheon est toujours en liberté dans la région de Bois-Au-Roi. Que les sept bénissent celui qui ramène ce sanglier mort.
+qstr_Westeros_has_become_|Westeros est devenu infesté de voleurs, de meurtriers et de mercenaires essayant de tirer profit de la guerre. On n'est plus en sécurité ici, plus maintenant.
+qstr_There_s_been_reports|Il y a eu des rapports de personnes attaquées par des clans de colline dans le Vale. Le nom d'Ulf continue d'être mentionné.
+qstr_People_say_giants_ro|Les gens disent que les géants errent au-delà du mur. D'autres disent que c'est absurde et que c'est juste une façon d'effrayer les gens. Vous vous faites votre propre opinion, mais vous ne me verrez pas traîner là bas !
+qstr_Have_you_heard_about|Avez-vous entendu parler de cette grotte bien au-delà du mur ? Non ? Umm... ouais moi non plus !
+qstr_I_would_like_to_know|Je voudrais savoir plus sur le Andals, pas vous?
+qstr_All_most_people_can_|Tout ce que la plupart des gens peuvent faire, c'est baiser des putes et se saouler pendant que Westeros est au bord de la destruction !
+qstr_The_Others!....._The|The Autres!..... Le Roi de la Nuit!... Pahaha! C'est n'importe quoi.
+qstr_The_Wildlings_have_b|Les Sauvageons ont été réunis au-delà du mur qu'ils disent. Appelle-le le roi au-delà du mur, tu sais.
+qstr_Apparently_The_Port_|Apparemment, le Port d'Ibben détient un secret.
+qstr_I_wish_the_world_was|Je souhaite que le monde soit moins dangereux, peu d'hommes vieillissent ces jours-ci.
+qstr_I_ve_been_told_the_U|On m'a dit que les Immaculés maintiennent une discipline et une formation strictes, c'est pour cette raison qu'ils sont les guerriers les plus puissants de Westeros et Essos !{***};;;;
+qstr_Apparently_the_Unsul|Apparemment, les Immaculés peuvent être achetés à quelqu'un quelque part à Essos.
 qstr_two_days_ago|il y a deux jours
-qstr_You_asked_me_to_come|You asked me to come and meet you here at {s33}. So, here I am, waiting for you to show up.{***};;;;
-qstr_Marshal_has_chosen_{|Marshal has chosen {s13} to levy troops.{***};;;;
-qstr_Marshal_Levying_Troo|Marshal Levying Troops{***};;;;
-qstr_The_marshal_is_levyi|The marshal is levying {reg0} troops from your center {s10}.{***};;;;
+qstr_You_asked_me_to_come|Vous m'avez demandé de venir vous rencontrer ici à {s33}. Alors, je suis là, à attendre que vous vous montriez.
+qstr_Marshal_has_chosen_{|Le maréchal a choisi {s13} pour lever des troupes.
+qstr_Marshal_Levying_Troo|Enrôlement des troupes par le Maréchal
+qstr_The_marshal_is_levyi|Le maréchal enrôle {reg0} troupes de votre centre {s10}.
 qstr_{s12}_of_{s1}|{s12} of {s1}{***};;;;
 qstr_{s12}_of_{s2}|{s12} of {s2}{***};;;;
 qstr_You_gain_right_to_ru|Vous gagnez en droit de régner.
 qstr_You_lose_right_to_ru|Vous perdez en droit de régner.
-qstr_You_have_been_enlist|You have been enlisted!{***};;;;
+qstr_You_have_been_enlist|Vous avez été enrôlé !
 qstr_Current_rank:_{s5}|Rang actuel: {s5}
 qstr_You_have_left_your_c|Vous avez quitté votre commandant!
-qstr_You_have_been_grante|You have been granted leave!{***};;;;
+qstr_You_have_been_grante|On vous a accordé une autorisation d'absence !
 qstr_You_have_rejoined_yo|Vous avez rejoint votre commandant!
 qstr_{s3}_{s2}|{s3}, {s2}
-qstr_You_are_issued_with_|You are issued with equipment of a {s1}: {s2}.{***};;;;
-qstr_The_equipment_of_a_{|The equipment of a {s1}: {s2}is assigned to you.
-qstr_Your_reputation_has_|Your reputation has increased by {reg12}.{***};;;;
-qstr_Your_reputation_has_d|Your reputation has decreased by {reg12}.{***};;;;
-qstr_People_think_neither|People think neither better or worse of you.{***};;;;
-qstr_You_lost_{reg12}_ren|You lost {reg12} renown.{***};;;;
-qstr_No_one_listens_to_yo|No one listens to you.{***};;;;
-qstr_You_gained_{reg12}_ri|You gained {reg12} right to rule.{***};;;;
-qstr_You_lost_{reg12}_rig|You lost {reg12} right to rule.{***};;;;
-qstr_Your_claims_to_rule_|Your claims to rule fall on deaf ears.{***};;;;
-qstr_You_gained_{reg12}_b|You gained {reg12} bardic reputation.{***};;;;
-qstr_You_lost_{reg12}_bar|You lost {reg12} bardic reputation.{***};;;;
-qstr_You_received_{reg12}|You received {reg12} cerfs d'argent.{***};;;;
-qstr_This_performance_cos|This performance cost you {reg12} cerfs d'argent.{***};;;;
+qstr_You_are_issued_with_|Vous recevez l'équipement d'un {s1} : {s2}.
+qstr_The_equipment_of_a_{|L'équipement d'un {s1} : {s2} vous est assigné.
+qstr_Your_reputation_has_|Votre réputation a augmenté de {reg12}.
+qstr_Your_reputation_has_d|Votre réputation a diminué de {reg12}.
+qstr_People_think_neither|Les gens pensent ni le meilleur ni le pire de vous.
+qstr_You_lost_{reg12}_ren|Vous avez perdu {reg12} de renommée.
+qstr_No_one_listens_to_yo|Personne ne vous écoute.
+qstr_You_gained_{reg12}_ri|Vous avez gagné {reg12} en droit de régner.
+qstr_You_lost_{reg12}_rig|Vous avez perdu {reg12} en droit de régner.
+qstr_Your_claims_to_rule_|Vos prétentions à régner tombent dans l'oreille d'un sourd.
+qstr_You_gained_{reg12}_b|Vous avez gagné {reg12} en réputation de barde.
+qstr_You_lost_{reg12}_bar|Vous avez perdu {reg12} en réputation de barde.
+qstr_You_received_{reg12}|Vous avez reçu {reg12} cerfs d'argent.
+qstr_This_performance_cos|Cette performance vous a coûté {reg12} cerfs d'argent.
 qstr_lack_of_room|lack of room{***};;;;
-qstr_A_{s1}_dies|A {s1} dies{***};;;;
-qstr_A_{s1}_is_wounded|A {s1} is wounded{***};;;;
-qstr_You_have_not_learnt_|You have not learnt the reasons for your failure.{***};;;;
-qstr_You_have_understood_|You have understood why you failed, and so gain {reg6} extra experience.{***};;;;
-qstr_You_have_a_slight_di|You have a slight dishonour Bonus{***};;;;
-qstr_You_have_a_mild_dish|You have a mild dishonour Bonus{***};;;;
-qstr_You_have_a_slight_te|You have a slight terrain malus on these plains.{***};;;;
-qstr_You_have_a_slight_ter|You have a slight terrain bonus on this mountain.{***};;;;
-qstr_You_have_a_strong_te|You have a strong terrain malus on this steppe.{***};;;;
-qstr_You_have_a_slight_terr|You have a slight terrain malus on this snowy plain.{***};;;;
-qstr_You_have_a_slight_terra|You have a slight terrain malus in this desert.{***};;;;
-qstr_You_have_a_slight_terrai|You have a slight terrain malus on this bridge.{***};;;;
-qstr_You_have_a_very_stro|You have a very strong terrain bonus in this mountainous forest.{***};;;;
-qstr_You_have_a_strong_ter|You have a strong terrain bonus in this steppe forest.{***};;;;
-qstr_You_have_a_strong_terr|You have a strong terrain bonus in this forest.{***};;;;
-qstr_You_have_a_strong_terra|You have a strong terrain bonus in this snowy forest.{***};;;;
-qstr_You_have_a_strong_terrai|You have a strong terrain bonus in this desert forest.{***};;;;
-qstr_Your_large_party_mak|Your large party makes it hard to sneak.{***};;;;
-qstr_You_have_a_slight_terrain|You have a slight terrain malus on this desert.{***};;;;
-qstr_You_have_a_very_stron|You have a very strong terrain bonus on this mountainous forest.{***};;;;
+qstr_A_{s1}_dies|Un {s1} est mort
+qstr_A_{s1}_is_wounded|Un {s1} est blessé
+qstr_You_have_not_learnt_|Vous n'avez pas appris les raisons de votre échec.
+qstr_You_have_understood_|Vous avez compris pourquoi vous avez échoué et gagnez ainsi {reg6} d'expérience supplémentaire.
+qstr_You_have_a_slight_di|Vous avez un léger bonus de déshonneur.
+qstr_You_have_a_mild_dish|Vous avez un faible bonus de déshonneur.
+qstr_You_have_a_slight_te|Vous avez un léger malus de terrain sur ces plaines
+qstr_You_have_a_slight_ter|Vous avez un léger bonus de terrain sur cette montagne.
+qstr_You_have_a_strong_te|Vous avez un fort malus de terrain sur cette steppe.
+qstr_You_have_a_slight_terr|Vous avez un léger malus de terrain sur cette plaine enneigée.
+qstr_You_have_a_slight_terra|Vous avez un léger malus de terrain dans ce désert.
+qstr_You_have_a_slight_terrai|Vous avez un léger malus de terrain sur ce pont.
+qstr_You_have_a_very_stro|Vous avez un très fort bonus de terrain dans cette forêt montagneuse.
+qstr_You_have_a_strong_ter|Vous avez un très fort bonus de terrain dans cette forêt de steppe.
+qstr_You_have_a_strong_terr|Vous avez un très fort bonus de terrain dans cette forêt.
+qstr_You_have_a_strong_terra|Vous avez un très fort bonus de terrain dans  cette forêt enneigée.
+qstr_You_have_a_strong_terrai|YVous avez un très fort bonus de terrain dans cette forêt désertique.
+qstr_Your_large_party_mak|Votre grand groupe fait qu'il est difficile de se faufiler.
+qstr_You_have_a_slight_terrain|YVous avez un léger malus de terrain sur ce désert.
+qstr_You_have_a_very_stron|Vous avez un bonus de terrain très fort sur cette forêt montagneuse.
 qstr_prepare_to_volley|préparer salve
 qstr_end_volley|fin salve
 qstr_Everyone|Tout le monde
-qstr_Archers!!_use_fire!!|Archers!! use fire!!{***};;;;
-qstr_Archers!!_extinguish|Archers!! extinguish flames!!{***};;;;
-qstr_Belfry_was_destroyed|Belfry was destroyed.{***};;;;
+qstr_Archers!!_use_fire!!|Archers!! Utilisez le feu!!
+qstr_Archers!!_extinguish|Archers!! Éteignez les flammes!!
+qstr_Belfry_was_destroyed|Le beffroi a été détruit.
 qstr_Your_party_consumed_|Votre groupe a consommé {reg1} unités de nourriture{reg4?, {reg4} en recherche : }(Jours restants : {reg2}).
 qstr_{s2}_managed_to_fora|{s2} mène la recherche de {reg4} unités de nourriture pour compléter l'approvisionnement.
 qstr_{reg4}_killed_{reg5}|{reg4} décès, {reg5} blessés
 qstr_{s0}^{s1}:_{reg3}__{|{s0}^{s1} : {reg3} ({s2})
-qstr_{s0}^{s1}_ally_:_{re|{s0}^{s1}(ally): {reg3} ({s2}){***};;;;
-qstr_{s0}^{s1}_enemy_:_{r|{s0}^{s1}(enemy): {reg3} ({s2}){***};;;;
-qstr_{reg0}_of_your_priso|{reg0} of your prisoners escaped!{***};;;;
+qstr_{s0}^{s1}_ally_:_{re|{s0}^{s1}(allié): {reg3} ({s2})
+qstr_{s0}^{s1}_enemy_:_{r|{s0}^{s1}(ennemie): {reg3} ({s2})
+qstr_{reg0}_of_your_priso|{reg0} de vos prisonniers se sont échappés !
 qstr_ready_bows_and_missi|arcs et missiles prêts
 qstr_ready_side_arms|armes de flanc prêtes
 qstr_ready_two_handers_an|ready two-handers and polearms{***};;;;
@@ -1160,14 +1160,14 @@ qstr_brace_for_charge|soutien charge
 qstr_remove_brace_and_fig|arrêter soutien et se battre
 qstr_{s2}:_{reg3}_{reg4}_|{s2} : {reg3}, {reg4} jours
 qstr_{s4}:_{reg4}|{s4} : {reg4}
-qstr_{s1}__gathering_supp|{s1} (gathering support){***};;;;
+qstr_{s1}__gathering_supp|{s1} (rassemble des soutiens)
 qstr_{s1}__intelligence_|{s1} (en quête de renseignements)
 qstr_{s1}__attempting_to_|{s1} (essaye de vous rejoindre)
-qstr_{s1}__embassy_|{s1} (embassy){***};;;;
-qstr_{s1}__minister_|{s1} (minister){***};;;;
+qstr_{s1}__embassy_|{s1} (ambassade)
+qstr_{s1}__minister_|{s1} (ministre)
 qstr_{s1}__under_arms_|{s1} (sous les drapeaux)
 qstr_{s1}__separated_afte|{s1} (séparation après la bataille)
-qstr_Westeros_and_Essos.|Westeros and Essos.{***};;;;
+qstr_Westeros_and_Essos.|Westeros et Essos.
 qstr_spear_man|spear man{***};;;;
 qstr_ruler|{le souverain/la souveraine}
 qstr_free_man|{un homme libre/une femme libre}
@@ -1186,7 +1186,7 @@ qstr_admirer|admirative
 qstr_promised|prometteuse
 qstr_breakup|en rupture
 qstr_unknown|inconnue
-qstr_Heroic_{s50}|Heroic {s50}{***};;;;
+qstr_Heroic_{s50}|Héroïque {s50}
 qstr_Allegoric_{s50}|Allégorique {s50}
 qstr_Comic_{s50}|Comique {s50}
 qstr_Mystic_{s50}|Mystique {s50}
@@ -1213,10 +1213,10 @@ qstr_Missi_Dominici_{s65}|Missi Dominici {s65}
 qstr_{s65}|{s65}
 qstr_{s10}{reg0?__who{s60|{s10}{reg0? (qui{s60}):}
 qstr_{s11}__{s61}_|{s11} ({s61})
-qstr_{reg0}_silver_stags_|{reg0} cerfs d'argent added to treasury.{***};;;;
-qstr_{reg0}_silver_stags_r|{reg0} cerfs d'argent removed from treasury.{***};;;;
+qstr_{reg0}_silver_stags_|{reg0} cerfs d'argent ajoutés à la trésorerie.
+qstr_{reg0}_silver_stags_r|{reg0} cerfs d'argent retirés de la trésorerie.
 qstr_{s1}_and_{s2}_have_e|{s1} et {s2} ont conclu une alliance.
-qstr_{s15}_complies_with_|{s15} complies with the new alliance by attacking {s16}.{***};;;;
+qstr_{s15}_complies_with_|{s15} se conforme à la nouvelle alliance en attaquant {s16}.
 qstr_{s1}_and_{s2}_have_c|{s1} et {s2} ont conclu une alliance.
 qstr_{s1}_and_{s2}_have_co|{s1} et {s2} ont conclu un pacte défensif.
 qstr_{s1}_and_{s2}_have_con|{s1} et {s2} ont conclu un accord commercial.
@@ -1232,55 +1232,55 @@ qstr_^I_write_this_from_a|Je vous écris ceci d'une colline voisine, car le vill
 qstr_^The_village_has_bee|^Le village a été incendié ^et les habitants dispersés. Il n'y a aucune raison pour moi de rester ici, mon seigneur.
 qstr_^and_food_for_{reg7}|^et de nourriture pour {reg7} jours.
 qstr_^|^
-qstr_{s7}_{s6}|{s7} {s6},{***};;;;
-qstr_The_following_lords_a|The following lords are held prisoner here:^{s7}{***};;;;
-qstr_I_am_aware_of_no_lor|I am aware of no lords being held prisoner here.{***};;;;
-qstr_The_drink_in_{s21}_s|The drink in {s21}'s draughty castle is good enough,^though the company leaves much to be desired.^The guard is ever watchful and I fear they suspect me.{***};;;;
+qstr_{s7}_{s6}|{s7} {s6},
+qstr_The_following_lords_a|Les seigneurs suivants sont détenus ici :^{s7}
+qstr_I_am_aware_of_no_lor|Je suis au courant qu'aucun seigneur n'est détenu ici.
+qstr_The_drink_in_{s21}_s|La boisson dans le château de {s21} est assez bonne, bien que la compagnie laisse beaucoup à désirer.^Le garde est toujours vigilant et je crains qu'ils me soupçonnent.
 qstr_^Tonight_I_shall_tak|^Ce soir, je m'occuperai de cette affaire dont nous avons discuté plus tôt.
 qstr_^I_am_awaiting_furth|^J'attends d'autres ordres, mon seigneur.
-qstr__day.| day.{***};;;;
-qstr__days.| days.{***};;;;
-qstr_My_lord_I_have_been_|My lord, I have been in {s4} for {reg5}{s10}^{s12}^I have discovered that {s4} has {reg6} defenders{s3}{s5}{s8}{s13}{***};;;;
-qstr_My_lord_I_have_been_i|My lord, I have been in {s4} for less than a day.^Have patience as I am still gathering information.{***};;;;
-qstr_I_ve_no_idea_why_{s2|I've no idea why {s21} would own such a miserable dump,^but I shall glean what information I can from these wretched peasants.{***};;;;
-qstr_{s21}_should_be_asha|{s21} should be ashamed of this dung heap.^ The inhabitants have naught but the rags on their backs.^I shall strive to survive on the piss these locals call ale.{***};;;;
-qstr_Not_a_bad_place_to_s|Not a bad place to stop for a tankard of ale.^{s21} must be a boring man, as I can find nothing^exciting about this place.{***};;;;
-qstr_{s21}_must_be_quite_|{s21} must be quite wealthy. I believe this is the first^place you've sent me where I did not share my bed with^rats, hags, and lice.{***};;;;
-qstr_Wish_you_were_here_m|Wish you were here, my lord. The wenches are plump and wear^the finest silks. Wine flows from the fountains and^{s21} has paved the streets in gold.{***};;;;
+qstr__day.| jour.
+qstr__days.| jours.
+qstr_My_lord_I_have_been_|Mon seigneur, j'ai été dans {s4} pour {reg5}{s10}^{s12}^J'ai découvert que {s4} a {reg6} défenseurs{s3}{s5}{s5}{s8}{s13}.
+qstr_My_lord_I_have_been_i|Monseigneur, je suis à {s4} depuis moins d'un jour.^Ayez patience car je suis encore en train de recueillir des informations.
+qstr_I_ve_no_idea_why_{s2|Je n'ai aucune idée pourquoi {s21} possède un tel dépotoir misérable, mais je vais glaner les informations que je peux de ces misérables paysans.
+qstr_{s21}_should_be_asha|{s21} devrait avoir honte de ce tas d'excréments.^ Les habitants n'ont rien d'autres que des chiffons sur leur dos.^ Je m'efforcerai de boire la pisse que ces locaux appellent bière.
+qstr_Not_a_bad_place_to_s|Pas un mauvais endroit pour s'arrêter pour une chope de bière.^{s21} doit être un homme ennuyeux, car je ne peux rien trouver^excitant à propos de cet endroit.
+qstr_{s21}_must_be_quite_|{s21}doit être très riche. Je crois que c'est le premier^ endroit où je n'ai pas partagé mon lit avec des^ rats, des sorcières et des poux.
+qstr_Wish_you_were_here_m|J'aimerais que vous soyez là, mon seigneur. Les servantes sont charnues et portent^les plus belles soies. Le vin coule des fontaines et^ {s21} a pavé les rues en or.
 qstr_{s2}{s1}_|{s2}{s1},
 qstr__The_following_food_|Nourriture détruite ou dérobée : {s2}.
-qstr__A_mount_has_ran_off| A mount has ran off!!{***};;;;
+qstr__A_mount_has_ran_off| Une monture s'est enfuie!!
 qstr__Some_tools_have_bee|Quelques objets ont été cassés ou perdus.
 qstr__{reg3}|{reg3}
-qstr_Debug:__fac_relation|Debug:  fac relation is friendly, player is faction leader{***};;;;
-qstr_Debug:__fac_relation_|Debug:  fac relation is friendly, player is marshal{***};;;;
-qstr_Debug:__fac_relation_i|Debug:  fac relation is friendly, player is lord or mercenary{***};;;;
-qstr_Debug:__fac_relation_is|Debug:  fac relation is hostile faction{***};;;;
-qstr_Debug:__fac_relation_is_|Debug:  fac relation is neutral faction{***};;;;
-qstr_Debug:__fac_relation_is_f|Debug:  fac relation is friendly faction{***};;;;
-qstr_My_good_friend_{s1}|My good friend {s1},{***};;;;
-qstr_Greetings_{s1}|Greetings {s1},{***};;;;
+qstr_Debug:__fac_relation|Debug:  la relation de faction est amicale, le joueur est chef de faction.
+qstr_Debug:__fac_relation_|Debug: la relation de faction est amicale, le joueur est maréchal
+qstr_Debug:__fac_relation_i|Debug:  la relation de faction est amicale, le joueur est seigneur ou mercenaire
+qstr_Debug:__fac_relation_is|Debug:  la relation de faction est hostile
+qstr_Debug:__fac_relation_is_|Debug:  la relation de faction est neutre
+qstr_Debug:__fac_relation_is_f|Debug:  la relation de faction est amicale
+qstr_My_good_friend_{s1}|Mon cher ami {s1},
+qstr_Greetings_{s1}|Salutations {s1},
 qstr__{s1}_|{s1} ,
-qstr___Though_our_kingdom|  Though our kingdoms are at war, I have an offer you may find mutually beneficial.{***};;;;
-qstr___Though_I_am_no_fri|  Though I am no friend of your kingdom, I have an offer you may find beneficial.{***};;;;
-qstr___In_the_spirit_of_b|  In the spirit of better relations between our kingdoms, I send this letter.{***};;;;
-qstr___Though_I_am_not_we|  Though I am not well known in {s2}, I find myself in need of this communique with thou.{***};;;;
-qstr___May_our_kingdoms_c|  May our kingdoms continue to prosper under our current alliance.{***};;;;
-qstr___Long_have_I_been_a|  Long have I been a friend of {s2} and would have you consider this message.{***};;;;
-qstr_Excuse_me_Lady|Excuse me Lady,{***};;;;
-qstr___I_have_long_ponder|  I have long pondered this paradox, perhaps you can enlighten me.{***};;;;
-qstr_{s5}__You_should_be_|{s5}  You should be women and yet your beards forbid me to interpret that you are so.{***};;;;
-qstr_{s1}_Whoremaster|{s1} Whoremaster,{***};;;;
-qstr___I_have_recently_ma|  I have recently made the acquaintance of one of your kin.{***};;;;
-qstr_{s5}__Your_mother_is|{s5}  Your mother is an easy glove, my lord, she goes off and on at pleasure.{***};;;;
-qstr_Ser_Gizzardless|Ser Gizzardless,{***};;;;
+qstr___Though_our_kingdom|  TBien que nos royaumes soient en guerre, j'ai une offre que vous pourriez trouver mutuellement bénéfique.
+qstr___Though_I_am_no_fri|  Bien que je ne sois pas un ami de votre royaume, j'ai une offre qui pourrait vous être bénéfique.
+qstr___In_the_spirit_of_b|  Dans l'esprit de meilleures relations entre nos royaumes, j'envoie cette lettre.
+qstr___Though_I_am_not_we|  Bien que je ne sois pas bien connu dans {s2}, j'ai besoin de communiquer avec vous.
+qstr___May_our_kingdoms_c|  Que nos royaumes continuent de prospérer dans le cadre de notre alliance actuelle.
+qstr___Long_have_I_been_a|  Depuis longtemps, je suis un ami de {s2} et j'aimerais que vous considériez ce message.
+qstr_Excuse_me_Lady|Excusez-moi Madame,
+qstr___I_have_long_ponder|  J'ai longtemps réfléchi à ce paradoxe, peut-être pouvez-vous m'éclairer.
+qstr_{s5}__You_should_be_|{s5}  Vous devriez être des femmes et pourtant vos barbes m'interdisent d'interpréter ce que vous êtes.
+qstr_{s1}_Whoremaster|{s1} Maître des prostituées,
+qstr___I_have_recently_ma|  J'ai récemment fait la connaissance de l'un de vos proches.
+qstr_{s5}__Your_mother_is|{s5}  Votre mère est un gant facile, mon seigneur, elle va et vient à son gré.
+qstr_Ser_Gizzardless|Ser Gizzardless,
 qstr_{s5}__Boils_and_plag|{s5}  Boils and plagues plaster you over, that you may be abhorred farther than seen and one infect another against the wind a mile. You souls of geese that bear the shapes of men.{***};;;;
-qstr__Lover_of_barnyard_a| Lover of barnyard animals,{***};;;;
+qstr__Lover_of_barnyard_a| Amoureux des animaux de basse-cour,
 qstr_{s5}__What_a_slave_a|{s5}  What a slave art thou to hack thy sword as thou hast done, and then say it was in a fight.{***};;;;
-qstr_Woman|Woman,{***};;;;
-qstr__I_recall_how_femini| I recall how feminine you were in youth.{***};;;;
+qstr_Woman|Femme,
+qstr__I_recall_how_femini| Je me souviens à quel point tu étais féminine dans ta jeunesse.
 qstr_{s5}__What_a_maidenl|{s5}  What a maidenly man at arms you have become.{***};;;;
-qstr_Run_coward|Run coward,{***};;;;
+qstr_Run_coward|Cours, trouillard,
 qstr__.|.
 qstr_{s5}__Your_hearts_I_|{s5}  Your hearts I'll stamp out with my horse's heel and make a quagmire of your mingled brains.{***};;;;
 qstr__Simpleton| Simpleton,{***};;;;
@@ -1351,23 +1351,23 @@ qstr_State:_On_foot|État : Au sol
 qstr__{reg1}%|{reg1}%
 qstr_{s1}^{reg2}|{s1}^{reg2}
 qstr_{s1}^^{reg1}|{s1}^^{reg1}
-qstr_While_working_in_the|While working in the mine, you found a new salt deposit. You are rewarded for your discovery.{***};;;;
-qstr_While_working_in_the_|While working in the mine, you found an iron deposit and are rewarded for the discovery.{***};;;;
-qstr_While_working_in_the_m|While working in the mine, you found a silver deposit and are rewarded for the discovery.{***};;;;
-qstr_While_working_in_the_mi|While working in the mine, you found a gold deposit and are rewarded for the discovery.{***};;;;
-qstr_While_working_in_the_min|While working in the mine, you found a deposit of rare minerals and are rewarded for the discovery.{***};;;;
-qstr_While_working_in_the_mine|While working in the mine, you were injured during a minor cave-in.{***};;;;
-qstr_While_working_in_the_mine_|While working in the mine, you were hurt during a cave-in.{***};;;;
-qstr_While_working_in_the_mine_y|While working in the mine, you were nearly killed during a cave-in.{***};;;;
-qstr_While_working_in_the_mine_yo|While working in the mine, your party was wounded during a cave-in.{***};;;;
-qstr_While_working_in_the_mine_a|While working in the mine, a cave-in badly injured your party.{***};;;;
-qstr_Casualties:_{s8}|Casualties: {s8}{***};;;;
-qstr_While_working_in_the_mine_you|While working in the mine, you were almost killed during a cave-in.{***};;;;
+qstr_While_working_in_the|Alors que vous travailliez dans la mine, vous avez trouvé un nouveau gisement de sel. Vous êtes récompensé pour votre découverte.
+qstr_While_working_in_the_|Alors que vous travailliez dans la mine, vous avez trouvé un gisement de fer et êtes récompensé pour votre découverte.
+qstr_While_working_in_the_m|Alors que vous travailliez dans la mine, vous avez trouvé un gisement d'argent et êtes récompensé pour votre découverte.
+qstr_While_working_in_the_mi|Alors que vous travailliez dans la mine, vous avez trouvé un gisement d'or et êtes récompensé pour votre découverte.
+qstr_While_working_in_the_min|Alors que vous travailliez dans la mine, vous avez trouvé un gisement de minéraux rares et êtes récompensé pour votre découverte.
+qstr_While_working_in_the_mine|Pendant que vous travailliez dans la mine, vous avez été blessé lors d'un effondrement mineur.
+qstr_While_working_in_the_mine_|Pendant que vous travailliez dans la mine, vous avez été blessé lors d'un effondrement.
+qstr_While_working_in_the_mine_y|Pendant que vous travailliez dans la mine, vous avez été presque tué lors d'un effondrement.
+qstr_While_working_in_the_mine_yo|Pendant que vous travailliez dans la mine, votre groupe a été blessé lors d'un effondrement.
+qstr_While_working_in_the_mine_a|Pendant que vous travailliez dans la mine, un effondrement a gravement blessé votre groupe.
+qstr_Casualties:_{s8}|Pertes: {s8}
+qstr_While_working_in_the_mine_you|Pendant que vous travailliez dans la mine, vous avez été almost killed during a cave-in.{***};;;;
 qstr_While_working_in_the_q|While working in the quarry, you acquire stone and are paid for your labour.{***};;;;
-qstr_While_working_in_the_qu|While working in the quarry, you found an iron deposit and are rewarded for the discovery.{***};;;;
-qstr_While_working_in_the_qua|While working in the quarry, you found a silver deposit and are rewarded for the discovery.{***};;;;
-qstr_While_working_in_the_quar|While working in the quarry, you found a gold deposit and are rewarded for the discovery.{***};;;;
-qstr_While_working_in_the_quarr|While working in the quarry, you found a deposit of rare minerals and are rewarded for the discovery.{***};;;;
+qstr_While_working_in_the_qu|While working in the quarry, you found an iron deposit and are êtes récompensé pour votre découverte.{***};;;;
+qstr_While_working_in_the_qua|While working in the quarry, you found a silver deposit and are êtes récompensé pour votre découverte.{***};;;;
+qstr_While_working_in_the_quar|While working in the quarry, you found a gold deposit and are êtes récompensé pour votre découverte.{***};;;;
+qstr_While_working_in_the_quarr|While working in the quarry, you found a deposit of rare minerals and are êtes récompensé pour votre découverte.{***};;;;
 qstr_While_working_in_the_quarry|While working in the quarry, you were injured during a minor cave-in.{***};;;;
 qstr_While_working_in_the_quarry_|While working in the quarry, you were hurt during a cave-in.{***};;;;
 qstr_While_working_in_the_quarry_y|While working in the quarry, you were nearly killed during a cave-in.{***};;;;
